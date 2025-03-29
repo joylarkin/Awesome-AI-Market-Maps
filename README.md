@@ -1,5 +1,16 @@
 # Awesome-AI-Market-Maps
-The Awesome List of AI Market Maps
+An Awesome List of Artificial Intelligence related market maps.
+
+As these things go, this awesome list has been created out of an ongoing personal frustration — I have been searching for a frequently updated and well-resourced list of market maps about AI startups and the related AI ecosystem and just couldn't find a comprehensive resource which met my needs. Thus, I decided to set something up for the greater community.
+
+Note: Pull requests accepted! Named AI market maps and related AI industry positioning (such as top XX lists) are just fine.
+
+::::::::::::::::::::::::::::::::
+
+
+## AI Market Maps - Q2 2025
+
+### April 2025
 
 
 
