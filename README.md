@@ -12,7 +12,7 @@ Named AI market maps, landscapes, and related AI industry positioning (such as t
 ✅ Pull requests accepted! OR  
 📩 Submit via email at jklarkin+AIMM AT gmail dot com
 
-🙌 Spread the word. 
+🙌 Spread the word.  
 ⭐ GitHub stars are appreciated.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -50,6 +50,7 @@ Named AI market maps, landscapes, and related AI industry positioning (such as t
 - [Dawn Capital - AI Agents - January 2025](https://dawncapital.com/horizons/#agentic-ai)
 - [Dawn Capital - Voice AI Market - January 2025](https://dawncapital.com/horizons/#voice-ai-market)
 
+___ 
 
 ## AI Market Maps - Q4 2024
 
