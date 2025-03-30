@@ -51,17 +51,22 @@ Named AI market maps, landscapes, and related AI industry positioning (such as t
 - [Dawn Capital - Voice AI Market - January 2025](https://dawncapital.com/horizons/#voice-ai-market)
 
 
-## AI Market Maps - 2024
+## AI Market Maps - Q4 2024
 
-### AI Market Maps - Q4 2024
+### December 2024
 - [Insight Partners - The State of the AI Agents Ecosystem - December 2024](https://www.insightpartners.com/ideas/state-of-the-ai-agent-ecosystem-use-cases-and-learnings-for-technology-builders-and-buyers/)
+
+
+### November 2024
 - [Foundation Capital - Banking’s New Tech Stack: A market map of generative AI in financial services - November 2024](https://foundationcapital.com/bankings-new-tech-stack-a-market-map-of-generative-ai-in-financial-services/)
 - [Generative Value - The Inference Landscape - November 2024](https://www.generativevalue.com/p/the-inference-landscape)
 
-### AI Market Maps - Q3 2024
+
+## AI Market Maps - Q3 2024
 - [Lightspeed - AI Enterprise Market Map: Cutting Throught The Hype - August 2024](https://lsvp.com/stories/ai-enterprise-market-map-cutting-through-the-hype/)
 
-### AI Market Maps - Q2 2024
+
+## AI Market Maps - Q2 2024
 - [Sapphire Ventures - Building the Future: A Deep Dive Into the Generative AI App Infrastructure Stack - May 2024](https://sapphireventures.com/blog/building-the-future-a-deep-dive-into-the-generative-ai-app-infrastructure-stack/)
 
 
