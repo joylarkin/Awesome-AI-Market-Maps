@@ -4,6 +4,7 @@ An Awesome List of Artificial Intelligence related market maps.
 As these things go, this awesome list was inspired out of an ongoing personal frustration — I have been searching for a frequently updated and well-resourced list of market maps about AI startups and the related AI ecosystem and just couldn't find a comprehensive resource which met my needs. Thus, I decided to set something up for the greater community. My data collection workflow includes <a href="https://chatgpt.com/">ChatGPT</a>, <a href="https://websets.exa.ai/">Exa Websets</a>, and <a href="https://getliner.com/">Liner</a>. 
 
 Want to add a market map to this list? Named AI market maps and related AI industry positioning (such as top XX lists) are just fine.
+
 ✅ Pull requests accepted! OR  
 📩 Submit via email at jklarkin+AIMM AT gmail dot com
 
