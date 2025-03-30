@@ -1,11 +1,14 @@
 # Awesome-AI-Market-Maps
 An Awesome List of Artificial Intelligence related market maps.
 
-As these things go, this awesome list has been created out of an ongoing personal frustration — I have been searching for a frequently updated and well-resourced list of market maps about AI startups and the related AI ecosystem and just couldn't find a comprehensive resource which met my needs. Thus, I decided to set something up for the greater community.
+As these things go, this awesome list was inspired out of an ongoing personal frustration — I have been searching for a frequently updated and well-resourced list of market maps about AI startups and the related AI ecosystem and just couldn't find a comprehensive resource which met my needs. Thus, I decided to set something up for the greater community. My data collection workflow includes ChatGPT, <a href="https://websets.exa.ai/">Exa Websets</a>, and <a href="https://getliner.com/">Liner</a>. 
 
-Note: Pull requests accepted! Named AI market maps and related AI industry positioning (such as top XX lists) are just fine.
+Want to add a market map to this list? Named AI market maps and related AI industry positioning (such as top XX lists) are just fine.
+✅ Pull requests accepted! OR  
+📩 Submit via email at jklarkin+AIMM <at> gmail.com
 
-::::::::::::::::::::::::::::::::
+Spread the word. ⭐ GitHub stars are appreciated.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
 ## AI Market Maps - Q2 2025
@@ -22,6 +25,7 @@ Note: Pull requests accepted! Named AI market maps and related AI industry posit
 - [CBInsights - AI Agent Market Map - March 2025](https://www.cbinsights.com/research/ai-agent-market-map/)
 - [Antler - Market Map - AI Agents: Fintech - March 2025](https://www.antler.co/blog/ai-market-map-fintech)
 - [a16z - The Top 100 GenAI Consumer Apps 2025 - March 2025](https://a16z.com/100-gen-ai-apps-4/)
+- [AI Agents Directory - AI Agents Market Landscape - March 2025](https://aiagentsdirectory.com/landscape)
 
 
 ### February 2025
