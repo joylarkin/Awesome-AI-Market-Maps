@@ -25,6 +25,7 @@ OR
 
 ### March 2025
 - [Headline VC - The Duality of Infrastructure Software Investing in an AI World - "Infra of AI" and "AI in Infra" Market Maps - March 2025](https://headline.com/blog-latest/article-latest/the-duality-of-infrastructure-software-investing-i)
+- [Bessemer - Roadmap: Data 3.0 in the Lakehouse Era - March 2025](https://www.bvp.com/atlas/roadmap-data-3-0-in-the-lakehouse-era)
 - [a16z - MCP Market Map - March 2025](https://a16z.com/a-deep-dive-into-mcp-and-the-future-of-ai-tooling/)
 - [a16z - Shopping in 'God Mode' with AI - March 2025](https://a16z.com/ai-shopping-online/)
 - [Auchenberg - AI Tools and Integrations Market Map - March 2025](https://github.com/auchenberg/ai-tools-integrations-market-map)
@@ -36,6 +37,11 @@ OR
 - [Synaptic - Chipping Away: AI x Hardware - March 2025](https://synaptic.com/resources/chipping-away-ai-hardware/)
 - [Protege - Healthcare AI Market Map - March 2025](https://www.withprotege.ai/ai-market-map)
 - [Optimist Ventures - Q1’25 Insurtech Market Map - March 2025](https://medium.com/@jp_at_optimist/q125-insurtech-market-map-%EF%B8%8F-aa3ee89bd275)
+- [Antler - Market Map - AI Agents: Marketing - March 2025](https://www.antler.co/blog/ai-market-map-marketing)
+- [Acrew Capital - A-Commerce Evolution: Agentic Commerce as The New Frontier - March 2025](https://perspectives.acrewcapital.com/a-commerce-evolution-agentic-commerce-as-the-new-frontier-27a4c855a778)
+- [Activant Capital - AI's Undervalued Asset - Data’s pivotal role in the next era of Gen AI deployment - March 2025](https://activantcapital.com/research/ai-s-undervalued-asset)
+- [Yujian Tang - LLM Stack Market Map - March 2025](https://www.linkedin.com/posts/yujiantang_seattlestartupsummit-activity-7310753598353592321-qYZY)
+- [High Street Equity Partners - Health Tech Seed Landscape: Startups to Watch - March 2025](https://www.linkedin.com/posts/high-street-equity-partners_health-tech-seed-landscape-startups-to-watch-activity-7310328926164123651-caPk)
 
 
 ### February 2025
@@ -85,6 +91,7 @@ ___
 
 ### October 2024
 - [Foundation Capital - A System of Agents brings Service-as-Software to life - October 2024](https://foundationcapital.com/system-of-agents/)
+- [Ardent Venture Partners - One Year Later: A Refreshed View of the AI-Native Vertical Software Landscape - October 2024](https://medium.com/@ardent-vc/one-year-later-a-refreshed-view-of-the-ai-native-vertical-software-landscape-1c400dd1243e)
 
 
 ## AI Market Maps - Q3 2024
