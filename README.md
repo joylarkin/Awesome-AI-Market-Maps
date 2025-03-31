@@ -14,7 +14,7 @@ OR
 📩 Submit via email at jklarkin+AIMM AT gmail dot com
 
 🙌 Spread the word.  
-⭐ GitHub stars are appreciated.
+🌟 GitHub stars are appreciated.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
