@@ -11,6 +11,8 @@ Named AI market maps, landscapes, blog posts with market maps, and related AI in
 
 ✅ Pull requests accepted!  
 OR  
+💬 Tweet at me <a href="https://twitter.com/joy">@joy</a>  
+OR  
 📩 Submit via email at jklarkin+AIMM AT gmail dot com
 
 🙌 Spread the word.  
