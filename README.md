@@ -33,6 +33,9 @@ OR
 - [Thomvest Ventures - Market Map: 130+ companies transforming the AI Software Development market - March 2025](https://blog.thomvest.com/market-map-130-companies-transforming-the-ai-software-development-market-1e8ef2179439)
 - [a16z - The Top 100 GenAI Consumer Apps 2025 - March 2025](https://a16z.com/100-gen-ai-apps-4/)
 - [AI Agents Directory - AI Agents Market Landscape - March 2025](https://aiagentsdirectory.com/landscape)
+- [Synaptic - Chipping Away: AI x Hardware - March 2025](https://synaptic.com/resources/chipping-away-ai-hardware/)
+- [Protege - Healthcare AI Market Map - March 2025](https://www.withprotege.ai/ai-market-map)
+- [Optimist Ventures - Q1’25 Insurtech Market Map - March 2025](https://medium.com/@jp_at_optimist/q125-insurtech-market-map-%EF%B8%8F-aa3ee89bd275)
 
 
 ### February 2025
@@ -41,6 +44,8 @@ OR
 - [Kenn So, Generational - Memory in AI Agents - February 2025](https://www.generational.pub/p/memory-in-ai-agents)
 - [AI Accelerator Instutite - Agentic Code Gen Market Leaders - February 2025](https://www.aiacceleratorinstitute.com/agentic-code-generation-the-future-of-software-development/)
 - [Elaia - Agentic AI: the Next (R)evolution? - February 2025](https://medium.com/elaia/agentic-ai-the-next-r-evolution-384bd77f5c57)
+- [Wing.vc - The rise of the agentic workforce - February 2025](https://www.wing.vc/content/the-rise-of-the-agentic-workforce)
+- [Dallas VC - Observability: Current Landscape and Emerging Trends - February 2025](https://www.dallasvc.com/post/observability-current-landscape-and-emerging-trends)
 
 
 ### January 2025
@@ -53,6 +58,9 @@ OR
 - [Sapphire Ventures - AI-Native Applications Market Map - January 2025](https://medium.com/@cgao/ai-native-applications-a-framework-for-evaluating-the-future-of-enterprise-software-0ddfa3989db9)
 - [Dawn Capital - AI Agents - January 2025](https://dawncapital.com/horizons/#agentic-ai)
 - [Dawn Capital - Voice AI Market - January 2025](https://dawncapital.com/horizons/#voice-ai-market)
+- [Lux Capital - Unlocking Potential: Artificial Intelligence for Women’s Health - January 2025](https://www.luxcapital.com/news/unlocking-potential-artificial-intelligence-for-womens-health)
+- [NVIDIA - NVIDIA Healthcare & Life Sciences Market Map - January 2025](https://x.com/HealthcareAIGuy/status/1884615818509680871)
+- [CB Insights - Industrial AI Agents & Copilots Market Map - January 2025](https://x.com/CBinsights/status/1879536580496343474)
 
 
 ___ 
@@ -69,6 +77,7 @@ ___
 - [Generative Value - The Inference Landscape - November 2024](https://www.generativevalue.com/p/the-inference-landscape)
 - [Menlo Ventures - 2024: The State of Generative AI in the Enterprise - November 2024](https://menlovc.com/2024-the-state-of-generative-ai-in-the-enterprise/)
 - [Felicis - How AI is reshaping IT, QA, and Incident Response - November 2024](https://www.felicis.com/insight/ai-it-qa-incident-response)
+- [Letta - The AI Agents Stack - November 2024](https://www.letta.com/blog/ai-agents-stack)
 - [Sapphire Ventures - AI-Native Applications: A Framework for Evaluating the Future of Enterprise Software - November 2024](https://sapphireventures.com/blog/ai-native-applications/)
 - [a16z - RIP to RPA: The Rise of Intelligent Automation - November 2024](https://a16z.com/rip-to-rpa-the-rise-of-intelligent-automation/)
 - [Insight Partners - Reimagination of everything: How intelligence-first design and the Next Stack will unlock human+AI collaborative reasoning - November 2024](https://www.insightpartners.com/ideas/intelligence-first-design-unlocks-humanai-collaborative-reasoning/)
@@ -95,6 +104,7 @@ ___
 - [Coatue - Robotics won’t have a ChatGPT Moment - July 2024](https://www.coatue.com/blog/perspective/robotics-wont-have-a-chatgpt-moment)
 - [a16z - New a16z investment thesis: AI scribes - July 2024](https://x.com/omooretweets/status/1812878684182942144)
 - [New Economies - The 2024 landscape across enterprise and vertical platforms. Generative AI + AI Agents Market Maps - July 2024](https://www.neweconomies.co/p/generative-ai)
+- [AWS Marketplace - Generative AI partner offerings in AWS Marketplace: Core & Infrastructure Software - July 2024](https://aws.amazon.com/blogs/awsmarketplace/generative-ai-partner-offerings-in-aws-marketplace-core-infrastructure-software/)
 
 
 ## AI Market Maps - Q2 2024
@@ -105,6 +115,8 @@ ___
 - [Battery Ventures - The New Code of Law: How AI Will Revolutionize the Legal Sector - June 2024](https://www.battery.com/blog/the-new-code-of-law/)
 - [Madrona - The Rise of AI Agent Infrastructure - June 2024](https://www.madrona.com/the-rise-of-ai-agent-infrastructure/)
 - [a16z - Say Hello to My New AI Marketer: How Gen AI-Based Software Is Advancing Marketing and Sales - June 2024](https://a16z.com/ai-marketer-how-gen-ai-based-software-is-advancing-marketing-and-sales/)
+- [Deutsche Telekom Israel - Global GenAI Cyber Security Market Map - June 2024](https://www.dtisrael.com/genaisecurity)
+- [Bessemer - Roadmap: AI Infrastructure - June 2024](https://www.bvp.com/atlas/roadmap-ai-infrastructure)
 
 
 ### May 2024
