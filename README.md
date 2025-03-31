@@ -132,7 +132,7 @@ ___
 
 
 ## January 2024
-- [Kwesi Acquay, Scaling Verticals - Is 2024 Vertical AI’s breakout year? - January 2025](https://scalingverticals.substack.com/p/is-2024-vertical-ais-breakout-year)
+- [Kwesi Acquay, Scaling Verticals - Is 2024 Vertical AI’s breakout year? - January 2024](https://scalingverticals.substack.com/p/is-2024-vertical-ais-breakout-year)
 
 
 
