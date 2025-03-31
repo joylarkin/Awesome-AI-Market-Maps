@@ -6,10 +6,11 @@ As these things go, this awesome list was inspired out of an ongoing personal fr
 METHODOLOGY  
 The list is currently organized by quarter, to illustrate hot topics as they are discussed and how fast the industry is evolving. My current data collection workflow includes <a href="https://chatgpt.com/">ChatGPT</a>, <a href="https://websets.exa.ai/">Exa Websets</a>, and <a href="https://getliner.com/">Liner</a>. 
 
-ADD A MARKET MAP  
+ADD OR UPDATE A MARKET MAP  
 Named AI market maps, landscapes, blog posts with market maps, and related AI industry positioning (such as top XX lists) are fine.
 
-✅ Pull requests accepted! OR  
+✅ Pull requests accepted!  
+OR  
 📩 Submit via email at jklarkin+AIMM AT gmail dot com
 
 🙌 Spread the word.  
@@ -35,6 +36,7 @@ Named AI market maps, landscapes, blog posts with market maps, and related AI in
 ### February 2025
 - [Madrona - The AI Agent Infrastructure Stack - February 2025](https://www.madrona.com/ai-agent-infrastructure-three-layers-tools-data-orchestration/)
 - [a16z - AI-Powered Web App Builders Market Map - February 2025](https://a16z.com/ai-web-app-builders/)
+- [Kenn So, Generational - Memory in AI Agents - February 2025](https://www.generational.pub/p/memory-in-ai-agents)
 - [AI Accelerator Instutite - Agentic Code Gen Market Leaders - February 2025](https://www.aiacceleratorinstitute.com/agentic-code-generation-the-future-of-software-development/)
 - [Elaia - Agentic AI: the Next (R)evolution? - February 2025](https://medium.com/elaia/agentic-ai-the-next-r-evolution-384bd77f5c57)
 
@@ -56,6 +58,7 @@ ___
 ## AI Market Maps - Q4 2024
 
 ### December 2024
+- [Kenn So, Generational - AI Trends 2024 - December 2024](https://www.generational.pub/p/ai-trends-2024)
 - [Insight Partners - The State of the AI Agents Ecosystem - December 2024](https://www.insightpartners.com/ideas/state-of-the-ai-agent-ecosystem-use-cases-and-learnings-for-technology-builders-and-buyers/)
 
 
@@ -78,6 +81,7 @@ ___
 ### September 2024
 - [Lightspeed - The Future of Voice: Our Thoughts On How It Will Transform Conversational AI - September 2024](https://lsvp.com/stories/the-future-of-voice-our-thoughts-on-how-it-will-transform-conversational-ai/)
 - [MMC - Robotics: Featuring the transformers - September 2024](https://mmc.vc/research/robotics-featuring-the-transformers/)
+- [E2B.dev - Awesome AI Agents - September 2024](https://github.com/e2b-dev/awesome-ai-agents)
 
 
 ### August 2024
@@ -96,10 +100,42 @@ ___
 ### June 2024
 - [a16z - Death, Taxes, and AI: How Generative AI Will Change Accounting - June 2024](https://a16z.com/generative-ai-in-accounting/)
 - [Felicis - The rise of AI data infrastructure - June 2024](https://www.felicis.com/insight/ai-data-infrastructure)
+- [Battery Ventures - The New Code of Law: How AI Will Revolutionize the Legal Sector - June 2024](https://www.battery.com/blog/the-new-code-of-law/)
+- [Madrona - The Rise of AI Agent Infrastructure - June 2024](https://www.madrona.com/the-rise-of-ai-agent-infrastructure/)
+- [a16z - Say Hello to My New AI Marketer: How Gen AI-Based Software Is Advancing Marketing and Sales - June 2024](https://a16z.com/ai-marketer-how-gen-ai-based-software-is-advancing-marketing-and-sales/)
 
 
 ### May 2024
 - [Sapphire Ventures - Building the Future: A Deep Dive Into the Generative AI App Infrastructure Stack - May 2024](https://sapphireventures.com/blog/building-the-future-a-deep-dive-into-the-generative-ai-app-infrastructure-stack/)
+- [a16z - Hi, AI: Our Thesis On AI Voice Agents - May 2024](https://x.com/omooretweets/status/1795834644732285402)
+- [Greylock - Code Smarter, Not Harder - May 2024](https://greylock.com/greymatter/code-smarter-not-harder/)
+- [Activant Capital - Unstructured Data Pipelines - May 2024](https://activantcapital.com/research/unstructured-data-pipelines)
+- [Insight Partners - AI Agents are disrupting automation: Current approaches, market solutions and recommendations - May 2024](https://www.insightpartners.com/ideas/ai-agents-disrupting-automation/)
+
+
+## April 2024
+- [Sequoia - AI 50 2024 - April 2024](https://www.sequoiacap.com/article/ai-50-2024/)
+- [Sapphire - “La French Tech” – A Tour de Force of Innovation and Growth - April 2024](https://sapphireventures.com/blog/la-french-tech-a-tour-de-force-of-innovation-and-growth/)
+- [CBInsights - AI 100: The most promising artificial intelligence startups of 2024 - April 2024](https://www.cbinsights.com/research/report/artificial-intelligence-top-startups-2024/)
+
+
+## March 2024
+- [Matt Turck, Firstmark - Full Steam Ahead: The 2024 MAD (Machine Learning, AI & Data) Landscape - March 2024](https://mattturck.com/mad2024/)
+- [Foundation Capital - Beyond RPA: How LLMs are ushering in a new era of intelligent process automation - March 2024](https://foundationcapital.com/beyond-rpa-how-llms-are-ushering-in-a-new-era-of-intelligent-process-automation/)
+- [Alex Huckstepp - “Software for Hardware” is Heating Up! The landscape of software solutions for developing and manufacturing hardware is rapidly expanding. - March 2024](https://medium.com/@alexhuckstepp/software-for-hardware-is-heating-up-8c39979c0eac)
+- [Activant Capital - Silicon Synapses for AI - AI hardware in data centers and on the edge - March 2024](https://activantcapital.com/research/ai-hardware)
+- [Creandum - Mastering AI Governance and Security - March 2024](https://creandum.com/stories/mastering-ai-governance-and-security/)
+
+
+## February 2024 
+- [Menlo Ventures - Security for AI: The New Wave of Startups Racing to Secure the AI Stack - February 2024](https://menlovc.com/perspective/security-for-ai-genai-risks-and-the-emerging-startup-landscape/)
+
+
+## January 2024
+- [Kwesi Acquay, Scaling Verticals - Is 2024 Vertical AI’s breakout year? - January 2025](https://scalingverticals.substack.com/p/is-2024-vertical-ais-breakout-year)
+
+
+
 
 
 
