@@ -1,10 +1,10 @@
 # Awesome-AI-Market-Maps
 An Awesome List of Artificial Intelligence related market maps.
 
-As these things go, this awesome list was inspired out of an ongoing personal frustration — I have been searching for a frequently updated and well-resourced list of AI-related market maps. Since I couldn't find a comprehensive resource which met my needs, I decided to set something up for the greater community. 
+As these things go, this awesome list was inspired out of an ongoing personal frustration — I have been searching for a frequently updated and well-resourced list of recent AI-related market maps. Since I couldn't find a comprehensive resource which met my needs, I decided to set something up for the greater community. 
 
 METHODOLOGY  
-The list is currently organized by quarter, to illustrate hot topics as they are discussed and how fast the industry is evolving. My current data collection workflow includes <a href="https://chatgpt.com/">ChatGPT</a>, <a href="https://websets.exa.ai/">Exa Websets</a>, and <a href="https://getliner.com/">Liner</a>. 
+The list is currently organized by quarter, to illustrate hot topics as they are discussed and how fast the industry is evolving, mostly focusing on market maps from 2025 and 2024. My current data collection workflow includes <a href="https://chatgpt.com/">ChatGPT</a>, <a href="https://websets.exa.ai/">Exa Websets</a>, <a href="https://getliner.com/">Liner</a> and some other methods. 
 
 ADD OR UPDATE A MARKET MAP  
 Named AI market maps, landscapes, blog posts with market maps, and related AI industry positioning (such as top XX lists) are fine.
@@ -42,7 +42,12 @@ OR
 - [Activant Capital - AI's Undervalued Asset - Data’s pivotal role in the next era of Gen AI deployment - March 2025](https://activantcapital.com/research/ai-s-undervalued-asset)
 - [Yujian Tang - LLM Stack Market Map - March 2025](https://www.linkedin.com/posts/yujiantang_seattlestartupsummit-activity-7310753598353592321-qYZY)
 - [High Street Equity Partners - Health Tech Seed Landscape: Startups to Watch - March 2025](https://www.linkedin.com/posts/high-street-equity-partners_health-tech-seed-landscape-startups-to-watch-activity-7310328926164123651-caPk)
-
+- [Brighteye Ventures - AI for Enhancing Productivity - learning in the flow of work - March 2025](https://www.brighteyevc.com/post/ai-for-training-the-evolution-of-corporate-training-1)
+- [Brighteye Ventures - AI for Training - the evolution of corporate training - March 2025](https://www.brighteyevc.com/post/ai-for-training-the-evolution-of-corporate-training)
+- [Brighteye Ventures - AI for Hiring - how AI is transforming talent acquisition - March 2025](https://www.brighteyevc.com/post/ai-for-hiring-transforming-talent-acquisition-with-ai)
+  
+#### Title
+xxx
 
 ### February 2025
 - [Madrona - The AI Agent Infrastructure Stack - February 2025](https://www.madrona.com/ai-agent-infrastructure-three-layers-tools-data-orchestration/)
