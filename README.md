@@ -27,7 +27,7 @@ OR
 ### March 2025
 
 #### AI Agents
-- [CBInsights - AI Agent Market Map - March 2025](https://www.cbinsights.com/research/ai-agent-market-map/)
+- [CB Insights - AI Agent Market Map - March 2025](https://www.cbinsights.com/research/ai-agent-market-map/)
 - [Antler - Market Map - AI Agents: Marketing - March 2025](https://www.antler.co/blog/ai-market-map-marketing)
 - [Antler - Market Map - AI Agents: Fintech - March 2025](https://www.antler.co/blog/ai-market-map-fintech)
 - [AI Agents Directory - AI Agents Market Landscape - March 2025](https://aiagentsdirectory.com/landscape)
@@ -83,6 +83,7 @@ OR
   
 #### AI Everything Else
 - [a16z - AI-Powered Web App Builders Market Map - February 2025](https://a16z.com/ai-web-app-builders/)
+- [Inc42 - Indian GenAI Startup Tracker: 60+ Startups Putting India On The Global AI Map - February 2025](https://inc42.com/startups/indian-genai-startup-tracker/)
 
 
 ### January 2025
@@ -121,6 +122,10 @@ OR
 #### AI Agents
 - [Insight Partners - The State of the AI Agents Ecosystem - December 2024](https://www.insightpartners.com/ideas/state-of-the-ai-agent-ecosystem-use-cases-and-learnings-for-technology-builders-and-buyers/)
 
+#### Healthcare AI
+- [Obvious Ventures - How Generative AI Is Transforming Healthcare - December 2024](https://obvious.com/ideas/how-generative-ai-is-transforming-healthcare/)
+
+
 #### AI Trends
 - [Kenn So, Generational - AI Trends 2024 - December 2024](https://www.generational.pub/p/ai-trends-2024)
 
@@ -142,12 +147,16 @@ OR
 #### AI Hardware and Inference
 - [Generative Value - The Inference Landscape - November 2024](https://www.generativevalue.com/p/the-inference-landscape)
 
+#### Healthcare AI 
+- [Flare Capital - Representative Health System AI Market Map - November 2024](https://x.com/HealthcareAIGuy/status/1854904237337325768)
+
 #### AI Everything Else  
 - [Felicis - How AI is reshaping IT, QA, and Incident Response - November 2024](https://www.felicis.com/insight/ai-it-qa-incident-response)
 - [Sapphire Ventures - AI-Native Applications: A Framework for Evaluating the Future of Enterprise Software - November 2024](https://sapphireventures.com/blog/ai-native-applications/)
 - [Insight Partners - Reimagination of everything: How intelligence-first design and the Next Stack will unlock human+AI collaborative reasoning - November 2024](https://www.insightpartners.com/ideas/intelligence-first-design-unlocks-humanai-collaborative-reasoning/)
 - [Hardware FYI - Deep Tech Market Map: The Future of Aerospace and Defense - November 2024](https://hardwarefyi.substack.com/p/deep-tech-market-map-the-future-of)
 - [OpenOcean - The market map for AI-enabled services: where to watch in 2025 - November 2024](https://www.openocean.vc/articles/the-market-map-for-ai-enabled-services-where-to-watch-in-2025)
+- [PitchBook - Market Map: Application security defends software’s next generation - November 2024](https://pitchbook.com/news/articles/market-map-application-security-startups-q2-2024)
 
 
 ### October 2024
@@ -155,9 +164,13 @@ OR
 #### AI Agents
 - [Foundation Capital - A System of Agents brings Service-as-Software to life - October 2024](https://foundationcapital.com/system-of-agents/)
 
+#### AI Infrastructure
+- [PitchBook - Market Map: VCs bet on data infrastructure to keep fueling AI - October 2024](https://pitchbook.com/news/articles/market-map-venture-capital-investors-data-infrastructure-ai)
+
 #### AI Everything Else  
 - [Ardent Venture Partners - One Year Later: A Refreshed View of the AI-Native Vertical Software Landscape - October 2024](https://medium.com/@ardent-vc/one-year-later-a-refreshed-view-of-the-ai-native-vertical-software-landscape-1c400dd1243e)
 - [Alex Carter - Leading RAG Technology Companies to Watch in 2024 - October 2024](https://medium.com/@iamalexcarter/leading-rag-technology-companies-to-watch-in-2024-ed6c1c6bc475)
+
 
 ---
 ## AI Market Maps - Q3 2024
@@ -165,6 +178,7 @@ OR
 ### September 2024
 
 #### AI Agents
+- [Menlo Ventures - Beyond Bots: How AI Agents Are Driving the Next Wave of Enterprise Automation](https://menlovc.com/perspective/beyond-bots-how-ai-agents-are-driving-the-next-wave-of-enterprise-automation/)
 - [E2B.dev - Awesome AI Agents - September 2024](https://github.com/e2b-dev/awesome-ai-agents)
 
 #### Robotics
@@ -202,6 +216,9 @@ OR
 - [Madrona - The Rise of AI Agent Infrastructure - June 2024](https://www.madrona.com/the-rise-of-ai-agent-infrastructure/)
 - [Felicis - The rise of AI data infrastructure - June 2024](https://www.felicis.com/insight/ai-data-infrastructure)
 
+#### AI DevTools
+- [Blumberg Capital - Mapping the AI Toolchain – 2024 Perspective - June 2024](https://blumbergcapital.com/news-insights/mapping-the-ai-toolchain-2024-perspective/)
+
 #### AI Infrastructure
 - [Bessemer - Roadmap: AI Infrastructure - June 2024](https://www.bvp.com/atlas/roadmap-ai-infrastructure)
 
@@ -210,6 +227,7 @@ OR
 - [Battery Ventures - The New Code of Law: How AI Will Revolutionize the Legal Sector - June 2024](https://www.battery.com/blog/the-new-code-of-law/)
 - [a16z - Say Hello to My New AI Marketer: How Gen AI-Based Software Is Advancing Marketing and Sales - June 2024](https://a16z.com/ai-marketer-how-gen-ai-based-software-is-advancing-marketing-and-sales/)
 - [Deutsche Telekom Israel - Global GenAI Cyber Security Market Map - June 2024](https://www.dtisrael.com/genaisecurity)
+- [PitchBook - Market Map: Mega-deals dominate AI’s horizontal platform startups - June 2024](https://pitchbook.com/news/articles/market-map-ai-ml-horizontal-platforms-2024)
 
 
 ### May 2024
@@ -217,6 +235,7 @@ OR
 #### AI Agents
 - [a16z - Hi, AI: Our Thesis On AI Voice Agents - May 2024](https://x.com/omooretweets/status/1795834644732285402)
 - [Insight Partners - AI Agents are disrupting automation: Current approaches, market solutions and recommendations - May 2024](https://www.insightpartners.com/ideas/ai-agents-disrupting-automation/)
+- [Prosus Ventures - The emerging AI AgentOps landscape: a builders' perspective - May 2024](https://www.prosus.com/news-insights/group-updates/2024/ai-agentops-landscape)
 
 #### AI Data
 - [Activant Capital - Unstructured Data Pipelines - May 2024](https://activantcapital.com/research/unstructured-data-pipelines)
@@ -227,11 +246,15 @@ OR
 #### AI Infrastructure
 - [Sapphire Ventures - Building the Future: A Deep Dive Into the Generative AI App Infrastructure Stack - May 2024](https://sapphireventures.com/blog/building-the-future-a-deep-dive-into-the-generative-ai-app-infrastructure-stack/)
 
+#### AI Everything Else
+- [Sequoia - AI 50 2024 - May 2024](https://www.sequoiacap.com/article/ai-50-2024/)
+
 
 ### April 2024
 - [Sapphire - “La French Tech” – A Tour de Force of Innovation and Growth - April 2024](https://sapphireventures.com/blog/la-french-tech-a-tour-de-force-of-innovation-and-growth/)
 - [Sequoia - AI 50 2024 - April 2024](https://www.sequoiacap.com/article/ai-50-2024/)
-- [CBInsights - AI 100: The most promising artificial intelligence startups of 2024 - April 2024](https://www.cbinsights.com/research/report/artificial-intelligence-top-startups-2024/)
+- [CB Insights - AI 100: The most promising artificial intelligence startups of 2024 - April 2024](https://www.cbinsights.com/research/report/artificial-intelligence-top-startups-2024/)
+- [CXO Today - The Top Conversational AI Solutions Vendors in 2024 - April 2024](https://www.cxtoday.com/conversational-ai/the-top-conversational-ai-solutions-vendors-in-2024/)
 
 ---
 ## AI Market Maps - Q1 2024
@@ -251,6 +274,7 @@ OR
 
 ### February 2024 
 - [Menlo Ventures - Security for AI: The New Wave of Startups Racing to Secure the AI Stack - February 2024](https://menlovc.com/perspective/security-for-ai-genai-risks-and-the-emerging-startup-landscape/)
+- [Maverick Ventures - Market Map of LLM Evaluation Startups - February 2024](https://medium.com/p/what-the-history-of-software-development-tells-us-about-the-hurdles-to-enterprise-adoption-of-llms-c96bc968456d)
 
 
 ### January 2024
