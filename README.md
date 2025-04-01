@@ -67,6 +67,7 @@ OR
 - [Brighteye Ventures - AI for Training - the evolution of corporate training - March 2025](https://www.brighteyevc.com/post/ai-for-training-the-evolution-of-corporate-training)
 - [Brighteye Ventures - AI for Hiring - how AI is transforming talent acquisition - March 2025](https://www.brighteyevc.com/post/ai-for-hiring-transforming-talent-acquisition-with-ai)
 - [Forum Ventures - Vertical AI Market Map - March 2025](https://airtable.com/appJKSyHsK9L7emVe/shrsmkAjfpzC7Ofaa/tblRYihkumYwZ9BXu)
+- [Florian Seemann, P9 - A First Landscape of AI-first Service Businesses - March 2025](https://medium.com/point-nine-news/a-first-landscape-of-ai-first-service-businesses-d0a5e4977678)
   
 
 ### February 2025
@@ -112,6 +113,7 @@ OR
 - [TechOperators - Cybersecurity + AI Startup Market Map - January 2025](https://www.linkedin.com/posts/techoperators-llc_cybersecurity-ai-startup-market-map-jan-activity-7287878267297017861-FIJr)
 - [Sapphire Ventures - AI-Native Applications Market Map - January 2025](https://medium.com/@cgao/ai-native-applications-a-framework-for-evaluating-the-future-of-enterprise-software-0ddfa3989db9)
 - [Dawn Capital - Voice AI Market - January 2025](https://dawncapital.com/horizons/#voice-ai-market)
+- [Mininath Jirage - Evolving Market Map — Marketing Stack with GenAI - January 2025](https://medium.com/@mininathjirage/evolving-market-map-marketing-stack-with-genai-5eb83b7d4678)
 
 
 ---
@@ -157,6 +159,7 @@ OR
 - [Hardware FYI - Deep Tech Market Map: The Future of Aerospace and Defense - November 2024](https://hardwarefyi.substack.com/p/deep-tech-market-map-the-future-of)
 - [OpenOcean - The market map for AI-enabled services: where to watch in 2025 - November 2024](https://www.openocean.vc/articles/the-market-map-for-ai-enabled-services-where-to-watch-in-2025)
 - [PitchBook - Market Map: Application security defends software’s next generation - November 2024](https://pitchbook.com/news/articles/market-map-application-security-startups-q2-2024)
+- [EdTech Insiders - The Edtech Insiders Generative AI Map - November 2024](https://edtechinsiders.substack.com/p/the-edtech-insiders-generative-ai)
 
 
 ### October 2024
@@ -228,6 +231,7 @@ OR
 - [a16z - Say Hello to My New AI Marketer: How Gen AI-Based Software Is Advancing Marketing and Sales - June 2024](https://a16z.com/ai-marketer-how-gen-ai-based-software-is-advancing-marketing-and-sales/)
 - [Deutsche Telekom Israel - Global GenAI Cyber Security Market Map - June 2024](https://www.dtisrael.com/genaisecurity)
 - [PitchBook - Market Map: Mega-deals dominate AI’s horizontal platform startups - June 2024](https://pitchbook.com/news/articles/market-map-ai-ml-horizontal-platforms-2024)
+- [The Westly Group - AI for the Power Sector - June 2024](https://medium.com/@TheWestlyGroup/ai-for-the-power-sector-0aa7365fce82)
 
 
 ### May 2024
@@ -248,6 +252,8 @@ OR
 
 #### AI Everything Else
 - [Sequoia - AI 50 2024 - May 2024](https://www.sequoiacap.com/article/ai-50-2024/)
+- [Paolo Fornasini, Venture - Top Of The Stack: Mapping Today’s AI x PE-tech Landscape - May 2024](https://medium.com/venturehq/top-of-the-stack-mapping-todays-ai-x-pe-tech-landscape-52d87d7aaa9a)
+- [Cobus Greyling - The Conversational AI Technology Landscape: Version 5.0 - May 2024](https://medium.com/@cobusgreyling/the-conversational-ai-technology-landscape-version-5-0-840290d97c7f)
 
 
 ### April 2024
@@ -262,6 +268,9 @@ OR
 
 #### AI Automation 
 - [Foundation Capital - Beyond RPA: How LLMs are ushering in a new era of intelligent process automation - March 2024](https://foundationcapital.com/beyond-rpa-how-llms-are-ushering-in-a-new-era-of-intelligent-process-automation/)
+
+#### AI Infrastructure
+- [Criteria Venture Tech - LLM Infrastructure Stack Market Map - March 2024](https://aleixperez.substack.com/p/llm-infrastructure-stack-market-landscape)
 
 #### AI Hardware
 - [Activant Capital - Silicon Synapses for AI - AI hardware in data centers and on the edge - March 2024](https://activantcapital.com/research/ai-hardware)
