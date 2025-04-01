@@ -62,7 +62,7 @@ OR
 - [Brighteye Ventures - AI for Training - the evolution of corporate training - March 2025](https://www.brighteyevc.com/post/ai-for-training-the-evolution-of-corporate-training)
 - [Brighteye Ventures - AI for Hiring - how AI is transforming talent acquisition - March 2025](https://www.brighteyevc.com/post/ai-for-hiring-transforming-talent-acquisition-with-ai)
   
-
+---
 ### February 2025
 
 #### AI Agents
@@ -78,7 +78,7 @@ OR
 #### AI Everything Else
 - [a16z - AI-Powered Web App Builders Market Map - February 2025](https://a16z.com/ai-web-app-builders/)
 
-
+---
 ### January 2025
 
 #### AI Agents
@@ -119,7 +119,7 @@ ___
 #### AI Trends
 - [Kenn So, Generational - AI Trends 2024 - December 2024](https://www.generational.pub/p/ai-trends-2024)
 
-
+---
 ### November 2024
 
 #### AI Agents
@@ -142,7 +142,7 @@ ___
 - [Sapphire Ventures - AI-Native Applications: A Framework for Evaluating the Future of Enterprise Software - November 2024](https://sapphireventures.com/blog/ai-native-applications/)
 - [Insight Partners - Reimagination of everything: How intelligence-first design and the Next Stack will unlock human+AI collaborative reasoning - November 2024](https://www.insightpartners.com/ideas/intelligence-first-design-unlocks-humanai-collaborative-reasoning/)
 
-
+---
 ### October 2024
 
 #### AI Agents
@@ -165,11 +165,11 @@ ___
 #### Voice AI
 - [Lightspeed - The Future of Voice: Our Thoughts On How It Will Transform Conversational AI - September 2024](https://lsvp.com/stories/the-future-of-voice-our-thoughts-on-how-it-will-transform-conversational-ai/)
 
-
+---
 ### August 2024
 - [Lightspeed - AI Enterprise Market Map: Cutting Throught The Hype - August 2024](https://lsvp.com/stories/ai-enterprise-market-map-cutting-through-the-hype/)
 
-
+---
 ### July 2024 
 
 #### GenAI
@@ -201,7 +201,7 @@ ___
 - [a16z - Say Hello to My New AI Marketer: How Gen AI-Based Software Is Advancing Marketing and Sales - June 2024](https://a16z.com/ai-marketer-how-gen-ai-based-software-is-advancing-marketing-and-sales/)
 - [Deutsche Telekom Israel - Global GenAI Cyber Security Market Map - June 2024](https://www.dtisrael.com/genaisecurity)
 
-
+---
 ### May 2024
 
 #### AI Agents
@@ -217,14 +217,15 @@ ___
 #### AI Infrastructure
 - [Sapphire Ventures - Building the Future: A Deep Dive Into the Generative AI App Infrastructure Stack - May 2024](https://sapphireventures.com/blog/building-the-future-a-deep-dive-into-the-generative-ai-app-infrastructure-stack/)
 
-
+---
 ## April 2024
 - [Sapphire - “La French Tech” – A Tour de Force of Innovation and Growth - April 2024](https://sapphireventures.com/blog/la-french-tech-a-tour-de-force-of-innovation-and-growth/)
 - [Sequoia - AI 50 2024 - April 2024](https://www.sequoiacap.com/article/ai-50-2024/)
 - [CBInsights - AI 100: The most promising artificial intelligence startups of 2024 - April 2024](https://www.cbinsights.com/research/report/artificial-intelligence-top-startups-2024/)
 
 
-## March 2024
+## AI Market Maps - Q1 2024
+### March 2024
 
 #### AI Automation 
 - [Foundation Capital - Beyond RPA: How LLMs are ushering in a new era of intelligent process automation - March 2024](https://foundationcapital.com/beyond-rpa-how-llms-are-ushering-in-a-new-era-of-intelligent-process-automation/)
@@ -237,12 +238,12 @@ ___
 - [Matt Turck, Firstmark - Full Steam Ahead: The 2024 MAD (Machine Learning, AI & Data) Landscape - March 2024](https://mattturck.com/mad2024/)
 - [Creandum - Mastering AI Governance and Security - March 2024](https://creandum.com/stories/mastering-ai-governance-and-security/)
 
-
-## February 2024 
+---
+### February 2024 
 - [Menlo Ventures - Security for AI: The New Wave of Startups Racing to Secure the AI Stack - February 2024](https://menlovc.com/perspective/security-for-ai-genai-risks-and-the-emerging-startup-landscape/)
 
-
-## January 2024
+---
+### January 2024
 - [Kwesi Acquay, Scaling Verticals - Is 2024 Vertical AI’s breakout year? - January 2024](https://scalingverticals.substack.com/p/is-2024-vertical-ais-breakout-year)
 
 
