@@ -218,7 +218,7 @@ ___
 - [Sapphire Ventures - Building the Future: A Deep Dive Into the Generative AI App Infrastructure Stack - May 2024](https://sapphireventures.com/blog/building-the-future-a-deep-dive-into-the-generative-ai-app-infrastructure-stack/)
 
 ---
-## April 2024
+### April 2024
 - [Sapphire - “La French Tech” – A Tour de Force of Innovation and Growth - April 2024](https://sapphireventures.com/blog/la-french-tech-a-tour-de-force-of-innovation-and-growth/)
 - [Sequoia - AI 50 2024 - April 2024](https://www.sequoiacap.com/article/ai-50-2024/)
 - [CBInsights - AI 100: The most promising artificial intelligence startups of 2024 - April 2024](https://www.cbinsights.com/research/report/artificial-intelligence-top-startups-2024/)
