@@ -24,55 +24,76 @@ OR
 ## AI Market Maps - Q1 2025
 
 ### March 2025
-- [Headline VC - The Duality of Infrastructure Software Investing in an AI World - "Infra of AI" and "AI in Infra" Market Maps - March 2025](https://headline.com/blog-latest/article-latest/the-duality-of-infrastructure-software-investing-i)
-- [Bessemer - Roadmap: Data 3.0 in the Lakehouse Era - March 2025](https://www.bvp.com/atlas/roadmap-data-3-0-in-the-lakehouse-era)
-- [a16z - MCP Market Map - March 2025](https://a16z.com/a-deep-dive-into-mcp-and-the-future-of-ai-tooling/)
-- [a16z - Shopping in 'God Mode' with AI - March 2025](https://a16z.com/ai-shopping-online/)
-- [Auchenberg - AI Tools and Integrations Market Map - March 2025](https://github.com/auchenberg/ai-tools-integrations-market-map)
+
+#### AI Agents
 - [CBInsights - AI Agent Market Map - March 2025](https://www.cbinsights.com/research/ai-agent-market-map/)
-- [Antler - Market Map - AI Agents: Fintech - March 2025](https://www.antler.co/blog/ai-market-map-fintech)
-- [Thomvest Ventures - Market Map: 130+ companies transforming the AI Software Development market - March 2025](https://blog.thomvest.com/market-map-130-companies-transforming-the-ai-software-development-market-1e8ef2179439)
-- [a16z - The Top 100 GenAI Consumer Apps 2025 - March 2025](https://a16z.com/100-gen-ai-apps-4/)
-- [AI Agents Directory - AI Agents Market Landscape - March 2025](https://aiagentsdirectory.com/landscape)
-- [Synaptic - Chipping Away: AI x Hardware - March 2025](https://synaptic.com/resources/chipping-away-ai-hardware/)
-- [Protege - Healthcare AI Market Map - March 2025](https://www.withprotege.ai/ai-market-map)
-- [Optimist Ventures - Q1’25 Insurtech Market Map - March 2025](https://medium.com/@jp_at_optimist/q125-insurtech-market-map-%EF%B8%8F-aa3ee89bd275)
 - [Antler - Market Map - AI Agents: Marketing - March 2025](https://www.antler.co/blog/ai-market-map-marketing)
+- [Antler - Market Map - AI Agents: Fintech - March 2025](https://www.antler.co/blog/ai-market-map-fintech)
+- [AI Agents Directory - AI Agents Market Landscape - March 2025](https://aiagentsdirectory.com/landscape)
 - [Acrew Capital - A-Commerce Evolution: Agentic Commerce as The New Frontier - March 2025](https://perspectives.acrewcapital.com/a-commerce-evolution-agentic-commerce-as-the-new-frontier-27a4c855a778)
+
+#### AI Data
+- [Bessemer - Roadmap: Data 3.0 in the Lakehouse Era - March 2025](https://www.bvp.com/atlas/roadmap-data-3-0-in-the-lakehouse-era)
 - [Activant Capital - AI's Undervalued Asset - Data’s pivotal role in the next era of Gen AI deployment - March 2025](https://activantcapital.com/research/ai-s-undervalued-asset)
+
+#### AI DevTools and Integrations
+- [a16z - MCP Market Map - March 2025](https://a16z.com/a-deep-dive-into-mcp-and-the-future-of-ai-tooling/)
 - [Yujian Tang - LLM Stack Market Map - March 2025](https://www.linkedin.com/posts/yujiantang_seattlestartupsummit-activity-7310753598353592321-qYZY)
+- [Auchenberg - AI Tools and Integrations Market Map - March 2025](https://github.com/auchenberg/ai-tools-integrations-market-map)
+- [Thomvest Ventures - Market Map: 130+ companies transforming the AI Software Development market - March 2025](https://blog.thomvest.com/market-map-130-companies-transforming-the-ai-software-development-market-1e8ef2179439)
+
+#### AI Infrastructure
+- [Headline VC - The Duality of Infrastructure Software Investing in an AI World - "Infra of AI" and "AI in Infra" Market Maps - March 2025](https://headline.com/blog-latest/article-latest/the-duality-of-infrastructure-software-investing-i)
+
+#### AI Hardware
+- [Synaptic - Chipping Away: AI x Hardware - March 2025](https://synaptic.com/resources/chipping-away-ai-hardware/)
+
+#### AI Healthtech
+- [Protege - Healthcare AI Market Map - March 2025](https://www.withprotege.ai/ai-market-map)
 - [High Street Equity Partners - Health Tech Seed Landscape: Startups to Watch - March 2025](https://www.linkedin.com/posts/high-street-equity-partners_health-tech-seed-landscape-startups-to-watch-activity-7310328926164123651-caPk)
+
+#### AI Everything Else
+- [a16z - Shopping in 'God Mode' with AI - March 2025](https://a16z.com/ai-shopping-online/)
+- [a16z - The Top 100 GenAI Consumer Apps 2025 - March 2025](https://a16z.com/100-gen-ai-apps-4/)
+- [Optimist Ventures - Q1’25 Insurtech Market Map - March 2025](https://medium.com/@jp_at_optimist/q125-insurtech-market-map-%EF%B8%8F-aa3ee89bd275)
 - [Brighteye Ventures - AI for Enhancing Productivity - learning in the flow of work - March 2025](https://www.brighteyevc.com/post/ai-for-training-the-evolution-of-corporate-training-1)
 - [Brighteye Ventures - AI for Training - the evolution of corporate training - March 2025](https://www.brighteyevc.com/post/ai-for-training-the-evolution-of-corporate-training)
 - [Brighteye Ventures - AI for Hiring - how AI is transforming talent acquisition - March 2025](https://www.brighteyevc.com/post/ai-for-hiring-transforming-talent-acquisition-with-ai)
   
-#### Title
-xxx
 
 ### February 2025
+
+#### AI Agents
 - [Madrona - The AI Agent Infrastructure Stack - February 2025](https://www.madrona.com/ai-agent-infrastructure-three-layers-tools-data-orchestration/)
-- [a16z - AI-Powered Web App Builders Market Map - February 2025](https://a16z.com/ai-web-app-builders/)
+- [Wing.vc - The rise of the agentic workforce - February 2025](https://www.wing.vc/content/the-rise-of-the-agentic-workforce)
 - [Kenn So, Generational - Memory in AI Agents - February 2025](https://www.generational.pub/p/memory-in-ai-agents)
 - [AI Accelerator Instutite - Agentic Code Gen Market Leaders - February 2025](https://www.aiacceleratorinstitute.com/agentic-code-generation-the-future-of-software-development/)
 - [Elaia - Agentic AI: the Next (R)evolution? - February 2025](https://medium.com/elaia/agentic-ai-the-next-r-evolution-384bd77f5c57)
-- [Wing.vc - The rise of the agentic workforce - February 2025](https://www.wing.vc/content/the-rise-of-the-agentic-workforce)
+
+#### AI Everything Else
 - [Dallas VC - Observability: Current Landscape and Emerging Trends - February 2025](https://www.dallasvc.com/post/observability-current-landscape-and-emerging-trends)
+- [a16z - AI-Powered Web App Builders Market Map - February 2025](https://a16z.com/ai-web-app-builders/)
 
 
 ### January 2025
+
+#### AI Agents
 - [a16z - AI Voice Agent Update - January 2025](https://a16z.com/ai-voice-agents-2025-update/)
+- [Menlo Ventures - Beyond Bots: How AI Agents Are Driving the Next Wave of Enterprise Automation - Updated January 2025](https://menlovc.com/perspective/beyond-bots-how-ai-agents-are-driving-the-next-wave-of-enterprise-automation/)
+- [Dawn Capital - AI Agents - January 2025](https://dawncapital.com/horizons/#agentic-ai)
+- [CB Insights - Industrial AI Agents & Copilots Market Map - January 2025](https://x.com/CBinsights/status/1879536580496343474)
+
+#### AI Healthtech
+- [Lux Capital - Unlocking Potential: Artificial Intelligence for Women’s Health - January 2025](https://www.luxcapital.com/news/unlocking-potential-artificial-intelligence-for-womens-health)
+- [NVIDIA - NVIDIA Healthcare & Life Sciences Market Map - January 2025](https://x.com/HealthcareAIGuy/status/1884615818509680871)
+
+#### AI Everything Else
 - [Magnusta Capital - FinTech AI Market Map - January 2025](https://medium.com/%40Mangusta/mangusta-capital-2025-fintech-ai-market-map-c936a84e1a84)
 - [Aakash Gupta - Sales Tech Market Map 2025: The $30B Industry Breakdown](https://www.news.aakashg.com/p/sales-tech-market-map-2025)
 - [TechOperators - Cybersecurity + AI Startup Market Map - January 2025](https://www.linkedin.com/posts/techoperators-llc_cybersecurity-ai-startup-market-map-jan-activity-7287878267297017861-FIJr)
 - [AI Accelerator Institute - LLMOps Market Map - January 2025](https://www.aiacceleratorinstitute.com/llmops-optimizing-towards-enterprise-value-in-the-llm-agentic-era/)
-- [Menlo Ventures - Beyond Bots: How AI Agents Are Driving the Next Wave of Enterprise Automation - Updated January 2025](https://menlovc.com/perspective/beyond-bots-how-ai-agents-are-driving-the-next-wave-of-enterprise-automation/)
 - [Sapphire Ventures - AI-Native Applications Market Map - January 2025](https://medium.com/@cgao/ai-native-applications-a-framework-for-evaluating-the-future-of-enterprise-software-0ddfa3989db9)
-- [Dawn Capital - AI Agents - January 2025](https://dawncapital.com/horizons/#agentic-ai)
 - [Dawn Capital - Voice AI Market - January 2025](https://dawncapital.com/horizons/#voice-ai-market)
-- [Lux Capital - Unlocking Potential: Artificial Intelligence for Women’s Health - January 2025](https://www.luxcapital.com/news/unlocking-potential-artificial-intelligence-for-womens-health)
-- [NVIDIA - NVIDIA Healthcare & Life Sciences Market Map - January 2025](https://x.com/HealthcareAIGuy/status/1884615818509680871)
-- [CB Insights - Industrial AI Agents & Copilots Market Map - January 2025](https://x.com/CBinsights/status/1879536580496343474)
-
 
 ___ 
 
