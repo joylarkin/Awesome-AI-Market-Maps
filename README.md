@@ -48,6 +48,7 @@ OR
 
 #### AI Infrastructure
 - [Headline VC - The Duality of Infrastructure Software Investing in an AI World - "Infra of AI" and "AI in Infra" Market Maps - March 2025](https://headline.com/blog-latest/article-latest/the-duality-of-infrastructure-software-investing-i)
+- [Forum Ventures - AI Infrastructure Market Map - March 2025](https://airtable.com/appJKSyHsK9L7emVe/shrIaPop9BFkCdXx5/tblep1S6vE6nyvsJ3)
 
 #### AI Hardware
 - [Synaptic - Chipping Away: AI x Hardware - March 2025](https://synaptic.com/resources/chipping-away-ai-hardware/)
@@ -56,12 +57,16 @@ OR
 - [Protege - Healthcare AI Market Map - March 2025](https://www.withprotege.ai/ai-market-map)
 - [High Street Equity Partners - Health Tech Seed Landscape: Startups to Watch - March 2025](https://www.linkedin.com/posts/high-street-equity-partners_health-tech-seed-landscape-startups-to-watch-activity-7310328926164123651-caPk)
 
+### Robotics
+- [Hardware FYI - Deep Tech Market Map - Robotics and Autonomous Systems - March 2025](https://www.linkedin.com/feed/update/urn:li:activity:7308530241210093569/)
+
 #### AI Everything Else
 - [a16z - Shopping in 'God Mode' with AI - March 2025](https://a16z.com/ai-shopping-online/)
 - [Optimist Ventures - Q1’25 Insurtech Market Map - March 2025](https://medium.com/@jp_at_optimist/q125-insurtech-market-map-%EF%B8%8F-aa3ee89bd275)
 - [Brighteye Ventures - AI for Enhancing Productivity - learning in the flow of work - March 2025](https://www.brighteyevc.com/post/ai-for-training-the-evolution-of-corporate-training-1)
 - [Brighteye Ventures - AI for Training - the evolution of corporate training - March 2025](https://www.brighteyevc.com/post/ai-for-training-the-evolution-of-corporate-training)
 - [Brighteye Ventures - AI for Hiring - how AI is transforming talent acquisition - March 2025](https://www.brighteyevc.com/post/ai-for-hiring-transforming-talent-acquisition-with-ai)
+- [Forum Ventures - Vertical AI Market Map - March 2025](https://airtable.com/appJKSyHsK9L7emVe/shrsmkAjfpzC7Ofaa/tblRYihkumYwZ9BXu)
   
 
 ### February 2025
@@ -141,6 +146,8 @@ OR
 - [Felicis - How AI is reshaping IT, QA, and Incident Response - November 2024](https://www.felicis.com/insight/ai-it-qa-incident-response)
 - [Sapphire Ventures - AI-Native Applications: A Framework for Evaluating the Future of Enterprise Software - November 2024](https://sapphireventures.com/blog/ai-native-applications/)
 - [Insight Partners - Reimagination of everything: How intelligence-first design and the Next Stack will unlock human+AI collaborative reasoning - November 2024](https://www.insightpartners.com/ideas/intelligence-first-design-unlocks-humanai-collaborative-reasoning/)
+- [Hardware FYI - Deep Tech Market Map: The Future of Aerospace and Defense - November 2024](https://hardwarefyi.substack.com/p/deep-tech-market-map-the-future-of)
+- [OpenOcean - The market map for AI-enabled services: where to watch in 2025 - November 2024](https://www.openocean.vc/articles/the-market-map-for-ai-enabled-services-where-to-watch-in-2025)
 
 
 ### October 2024
@@ -150,6 +157,7 @@ OR
 
 #### AI Everything Else  
 - [Ardent Venture Partners - One Year Later: A Refreshed View of the AI-Native Vertical Software Landscape - October 2024](https://medium.com/@ardent-vc/one-year-later-a-refreshed-view-of-the-ai-native-vertical-software-landscape-1c400dd1243e)
+- [Alex Carter - Leading RAG Technology Companies to Watch in 2024 - October 2024](https://medium.com/@iamalexcarter/leading-rag-technology-companies-to-watch-in-2024-ed6c1c6bc475)
 
 ---
 ## AI Market Maps - Q3 2024
@@ -168,6 +176,7 @@ OR
 
 ### August 2024
 - [Lightspeed - AI Enterprise Market Map: Cutting Throught The Hype - August 2024](https://lsvp.com/stories/ai-enterprise-market-map-cutting-through-the-hype/)
+- [New Economies - AI Unicorns Landscape - August 2024](https://www.neweconomies.co/i/147601422/meet-the-ai-unicorns)
 
 
 ### July 2024 
@@ -182,6 +191,7 @@ OR
 #### AI Everything Else
 - [a16z - “Death of a Salesforce”: Why AI Will Transform the Next Generation of Sales Tech - July 2024](https://a16z.com/ai-transforms-sales/)
 - [a16z - New a16z investment thesis: AI scribes - July 2024](https://x.com/omooretweets/status/1812878684182942144)
+- [Hardware FYI - Manufacturing Deep-Tech Market Map - July 2024](https://hardwarefyi.substack.com/p/the-analog-89-apple-vision-pro-suppliers)
 
 ---
 ## AI Market Maps - Q2 2024
