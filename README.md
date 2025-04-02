@@ -16,7 +16,10 @@ OR
 📩 Submit via email at jklarkin+AIMM AT gmail dot com
 
 🙌 Spread the word.  
-🌟 GitHub stars are appreciated.
+🌟 GitHub stars are appreciated.  
+
+
+🤗 Hugging Face: https://huggingface.co/datasets/joylarkin/2025AIMarketMaps  
 
 ---
 ---
