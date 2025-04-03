@@ -19,12 +19,20 @@ OR
 🌟 GitHub stars are appreciated.  
 
 
-🤗 Hugging Face: https://huggingface.co/datasets/joylarkin/2025AIMarketMaps  
+🤗 Hugging Face Dataset: https://huggingface.co/datasets/joylarkin/2025AIMarketMaps  
 
 ---
 ---
 
+## AI Market Maps - Q1 2025
 
+### April 2025
+
+#### AI Everything Else
+- [a16z - AI Learned to Talk. Now it’s Learning to Build Reality - April 2025](https://a16z.com/ai-is-learning-to-build-reality/)
+
+
+---
 ## AI Market Maps - Q1 2025
 
 ### March 2025
