@@ -4,7 +4,7 @@ An Awesome List of Artificial Intelligence-related Market Maps from 2025 and 202
 As these things go, this awesome list was inspired out of an ongoing personal frustration — I have been searching for a frequently updated and well-resourced list of recent AI-related market maps. Since I couldn't find a comprehensive resource which met my needs, I decided to set something up for the greater community. 
 
 METHODOLOGY  
-The list is currently organized by quarter, to illustrate hot topics as they are discussed and how fast the industry is evolving, mostly focusing on market maps from 2025 and 2024. My current data collection workflow includes <a href="https://chatgpt.com/">ChatGPT</a>, <a href="https://websets.exa.ai/">Exa Websets</a>, <a href="https://getliner.com/">Liner</a> and some other methods. 
+The list is currently organized by quarter, to illustrate hot topics as they are discussed and how fast the industry is evolving, mostly focusing on market maps from 2025 and 2024. My current data collection workflow includes <a href="https://chatgpt.com/">ChatGPT</a>, <a href="https://websets.exa.ai/">Exa Websets</a>, <a href="https://getliner.com/">Liner</a>, human-in-the-loop curation, and some other methods. 
 
 ADD OR UPDATE A MARKET MAP  
 Named AI market maps, landscapes, blog posts with market maps, and related AI industry positioning (such as top XX lists) are fine.
@@ -28,7 +28,12 @@ OR
 
 ### April 2025
 
+#### Healthtech AI
+- [7wire Ventures - From Diagnosis to Treatment: Unlocking Potential with Generative AI - April 2025](https://www.7wireventures.com/perspectives/from-diagnosis-to-treatment-unlocking-potential-with-generative-ai/)
+
 #### AI Everything Else
+- [World Fund - Green Computing in the AI Era - April 2025](https://www.worldfund.vc/knowledge/green-computing-in-the-ai-era)
+- [Reach Capital - AI Is Unlocking the Future of Frontline Work — And Where We’re Investing - April 2025](https://www.reachcapital.com/2025/04/03/ai-is-unlocking-the-future-of-frontline-work-and-where-were-investing/)
 - [a16z - AI Learned to Talk. Now it’s Learning to Build Reality - April 2025](https://a16z.com/ai-is-learning-to-build-reality/)
 
 
@@ -138,9 +143,11 @@ OR
 #### Healthcare AI
 - [Obvious Ventures - How Generative AI Is Transforming Healthcare - December 2024](https://obvious.com/ideas/how-generative-ai-is-transforming-healthcare/)
 
-
 #### AI Trends
 - [Kenn So, Generational - AI Trends 2024 - December 2024](https://www.generational.pub/p/ai-trends-2024)
+
+#### AI Everything Else
+- [Greenfield - Vertical AI Is Here: How to Capture the Opportunity and Win Big - December 2024](https://www.greenfield-growth.com/blog-posts/vertical-ai-is-here-how-to-capture-the-opportunity-and-win-big)
 
 
 ### November 2024
@@ -236,9 +243,12 @@ OR
 #### AI Infrastructure
 - [Bessemer - Roadmap: AI Infrastructure - June 2024](https://www.bvp.com/atlas/roadmap-ai-infrastructure)
 
+#### Legaltech AI
+- [Battery Ventures - The New Code of Law: How AI Will Revolutionize the Legal Sector - June 2024](https://www.battery.com/blog/the-new-code-of-law/)
+- [The Legal Tech Fund - https://www.legaltech.com/post/early-stage-legaltech-generative-ai-market-map-june-2024 - June 2024](https://www.legaltech.com/post/early-stage-legaltech-generative-ai-market-map-june-2024)
+
 #### AI Everything Else
 - [a16z - Death, Taxes, and AI: How Generative AI Will Change Accounting - June 2024](https://a16z.com/generative-ai-in-accounting/)
-- [Battery Ventures - The New Code of Law: How AI Will Revolutionize the Legal Sector - June 2024](https://www.battery.com/blog/the-new-code-of-law/)
 - [a16z - Say Hello to My New AI Marketer: How Gen AI-Based Software Is Advancing Marketing and Sales - June 2024](https://a16z.com/ai-marketer-how-gen-ai-based-software-is-advancing-marketing-and-sales/)
 - [Deutsche Telekom Israel - Global GenAI Cyber Security Market Map - June 2024](https://www.dtisrael.com/genaisecurity)
 - [PitchBook - Market Map: Mega-deals dominate AI’s horizontal platform startups - June 2024](https://pitchbook.com/news/articles/market-map-ai-ml-horizontal-platforms-2024)
