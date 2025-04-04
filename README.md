@@ -84,6 +84,7 @@ OR
 - [Brighteye Ventures - AI for Hiring - how AI is transforming talent acquisition - March 2025](https://www.brighteyevc.com/post/ai-for-hiring-transforming-talent-acquisition-with-ai)
 - [Forum Ventures - Vertical AI Market Map - March 2025](https://airtable.com/appJKSyHsK9L7emVe/shrsmkAjfpzC7Ofaa/tblRYihkumYwZ9BXu)
 - [Florian Seemann, P9 - A First Landscape of AI-first Service Businesses - March 2025](https://medium.com/point-nine-news/a-first-landscape-of-ai-first-service-businesses-d0a5e4977678)
+- [Software Analyst Cyber Research - Securing AI/LLMs in 2025: A Practical Guide To Securing & Deploying AI - March 2025](https://softwareanalyst.substack.com/p/securing-aillms-in-2025-a-practical)
   
 
 ### February 2025
