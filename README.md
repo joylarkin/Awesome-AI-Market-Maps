@@ -246,7 +246,7 @@ OR
 
 #### Legaltech AI
 - [Battery Ventures - The New Code of Law: How AI Will Revolutionize the Legal Sector - June 2024](https://www.battery.com/blog/the-new-code-of-law/)
-- [The Legal Tech Fund - https://www.legaltech.com/post/early-stage-legaltech-generative-ai-market-map-june-2024 - June 2024](https://www.legaltech.com/post/early-stage-legaltech-generative-ai-market-map-june-2024)
+- [The LegalTech Fund - https://www.legaltech.com/post/early-stage-legaltech-generative-ai-market-map-june-2024 - June 2024](https://www.legaltech.com/post/early-stage-legaltech-generative-ai-market-map-june-2024)
 
 #### AI Everything Else
 - [a16z - Death, Taxes, and AI: How Generative AI Will Change Accounting - June 2024](https://a16z.com/generative-ai-in-accounting/)
