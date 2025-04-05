@@ -149,6 +149,9 @@ OR
 
 #### AI Everything Else
 - [Greenfield - Vertical AI Is Here: How to Capture the Opportunity and Win Big - December 2024](https://www.greenfield-growth.com/blog-posts/vertical-ai-is-here-how-to-capture-the-opportunity-and-win-big)
+- [DocuBridge - AI in Private Equity: an Overview of the AI Market Map - December 2024](https://www.docubridge.ai/articles/ai-in-private-equity-an-overview-of-the-ai-market-map)
+- [Ascend - Mapping Seattle's Enterprise AI Startups - December 2024](https://www.ascend.vc/blog/mapping-seattles-enterprise-ai-startups)
+- [eaidb.org - The Responsible AI Ecosystem FY 2024 Market Map * - December 2024](https://www.eaidb.org/map)
 
 
 ### November 2024
@@ -203,6 +206,9 @@ OR
 - [Menlo Ventures - Beyond Bots: How AI Agents Are Driving the Next Wave of Enterprise Automation](https://menlovc.com/perspective/beyond-bots-how-ai-agents-are-driving-the-next-wave-of-enterprise-automation/)
 - [E2B.dev - Awesome AI Agents - September 2024](https://github.com/e2b-dev/awesome-ai-agents)
 
+#### Climate AI
+- [Climactic - Climate AI Market * - September 2024](https://www.climactic.vc/climate-ai-market)
+
 #### Robotics
 - [MMC - Robotics: Featuring the transformers - September 2024](https://mmc.vc/research/robotics-featuring-the-transformers/)
 
@@ -254,6 +260,7 @@ OR
 - [Deutsche Telekom Israel - Global GenAI Cyber Security Market Map - June 2024](https://www.dtisrael.com/genaisecurity)
 - [PitchBook - Market Map: Mega-deals dominate AI’s horizontal platform startups - June 2024](https://pitchbook.com/news/articles/market-map-ai-ml-horizontal-platforms-2024)
 - [The Westly Group - AI for the Power Sector - June 2024](https://medium.com/@TheWestlyGroup/ai-for-the-power-sector-0aa7365fce82)
+- [Bain & Company - AI Leaders to Watch in 2024 mapped by Bain & Company as numbers of providers and funding continue to burgeon - June 2024](https://www.bain.com/about/media-center/press-releases/2024/ai-leaders-to-watch-in-2024-mapped-by-bain--company-as-numbers-of-providers-and-funding-continue-to-burgeon/)
 
 
 ### May 2024
@@ -273,16 +280,22 @@ OR
 - [Sapphire Ventures - Building the Future: A Deep Dive Into the Generative AI App Infrastructure Stack - May 2024](https://sapphireventures.com/blog/building-the-future-a-deep-dive-into-the-generative-ai-app-infrastructure-stack/)
 
 #### AI Everything Else
-- [Sequoia - AI 50 2024 - May 2024](https://www.sequoiacap.com/article/ai-50-2024/)
 - [Paolo Fornasini, Venture - Top Of The Stack: Mapping Today’s AI x PE-tech Landscape - May 2024](https://medium.com/venturehq/top-of-the-stack-mapping-todays-ai-x-pe-tech-landscape-52d87d7aaa9a)
 - [Cobus Greyling - The Conversational AI Technology Landscape: Version 5.0 - May 2024](https://medium.com/@cobusgreyling/the-conversational-ai-technology-landscape-version-5-0-840290d97c7f)
 
 
 ### April 2024
-- [Sapphire - “La French Tech” – A Tour de Force of Innovation and Growth - April 2024](https://sapphireventures.com/blog/la-french-tech-a-tour-de-force-of-innovation-and-growth/)
+
+#### Conversational AI
+- [CXO Today - The Top Conversational AI Solutions Vendors in 2024 - April 2024](https://www.cxtoday.com/conversational-ai/the-top-conversational-ai-solutions-vendors-in-2024/)
+
+#### Top AI
 - [Sequoia - AI 50 2024 - April 2024](https://www.sequoiacap.com/article/ai-50-2024/)
 - [CB Insights - AI 100: The most promising artificial intelligence startups of 2024 - April 2024](https://www.cbinsights.com/research/report/artificial-intelligence-top-startups-2024/)
-- [CXO Today - The Top Conversational AI Solutions Vendors in 2024 - April 2024](https://www.cxtoday.com/conversational-ai/the-top-conversational-ai-solutions-vendors-in-2024/)
+
+#### AI Everything Else
+- [Sapphire - “La French Tech” – A Tour de Force of Innovation and Growth - April 2024](https://sapphireventures.com/blog/la-french-tech-a-tour-de-force-of-innovation-and-growth/)
+- [MMC - The Who’s Who in Responsible AI - April 2024](https://mmc.vc/research/the-whos-who-in-responsible-ai/)
 
 ---
 ## AI Market Maps - Q1 2024
