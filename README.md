@@ -24,7 +24,7 @@ OR
 ---
 ---
 
-## AI Market Maps - Q1 2025
+## AI Market Maps - Q2 2025
 
 ### April 2025
 
