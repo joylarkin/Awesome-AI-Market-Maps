@@ -1,7 +1,9 @@
 # Awesome AI Market Maps  [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)  
 An Awesome List of Artificial Intelligence-related Market Maps from 2025 and 2024.
 
-As these things go, this awesome list was inspired out of an ongoing personal frustration — I have been searching for a frequently updated and well-resourced list of recent AI-related market maps. Since I couldn't find a comprehensive resource which met my needs, I decided to set something up for the greater community. 
+***Now featuring over 115 AI Market Maps!***   
+
+As these things go, this awesome list was inspired out of an ongoing personal frustration — I have been searching for a frequently updated and well-resourced list of recent AI-related market maps. Since I couldn't find a comprehensive resource which met my needs, I decided to build something substantial for the greater community. 
 
 METHODOLOGY  
 The list is currently organized by quarter, to illustrate hot topics as they are discussed and how fast the industry is evolving, mostly focusing on market maps from 2025 and 2024. My current data collection workflow includes <a href="https://chatgpt.com/">ChatGPT</a>, <a href="https://websets.exa.ai/">Exa Websets</a>, <a href="https://getliner.com/">Liner</a>, human-in-the-loop curation, and some other methods. 
@@ -44,8 +46,8 @@ OR
 
 #### AI Agents
 - [CB Insights - AI Agent Market Map - March 2025](https://www.cbinsights.com/research/ai-agent-market-map/)
-- [Antler - Market Map - AI Agents: Marketing - March 2025](https://www.antler.co/blog/ai-market-map-marketing)
-- [Antler - Market Map - AI Agents: Fintech - March 2025](https://www.antler.co/blog/ai-market-map-fintech)
+- [Antler - Market Map — AI Agents: Marketing - March 2025](https://www.antler.co/blog/ai-market-map-marketing)
+- [Antler - Market Map — AI Agents: Fintech - March 2025](https://www.antler.co/blog/ai-market-map-fintech)
 - [AI Agents Directory - AI Agents Market Landscape - March 2025](https://aiagentsdirectory.com/landscape)
 - [Acrew Capital - A-Commerce Evolution: Agentic Commerce as The New Frontier - March 2025](https://perspectives.acrewcapital.com/a-commerce-evolution-agentic-commerce-as-the-new-frontier-27a4c855a778)
 
@@ -83,7 +85,7 @@ OR
 - [Brighteye Ventures - AI for Training - the evolution of corporate training - March 2025](https://www.brighteyevc.com/post/ai-for-training-the-evolution-of-corporate-training)
 - [Brighteye Ventures - AI for Hiring - how AI is transforming talent acquisition - March 2025](https://www.brighteyevc.com/post/ai-for-hiring-transforming-talent-acquisition-with-ai)
 - [Forum Ventures - Vertical AI Market Map - March 2025](https://airtable.com/appJKSyHsK9L7emVe/shrsmkAjfpzC7Ofaa/tblRYihkumYwZ9BXu)
-- [Florian Seemann, P9 - A First Landscape of AI-first Service Businesses - March 2025](https://medium.com/point-nine-news/a-first-landscape-of-ai-first-service-businesses-d0a5e4977678)
+- [Florian Seemann — P9 - A First Landscape of AI-first Service Businesses - March 2025](https://medium.com/point-nine-news/a-first-landscape-of-ai-first-service-businesses-d0a5e4977678)
 - [Software Analyst Cyber Research - Securing AI/LLMs in 2025: A Practical Guide To Securing & Deploying AI - March 2025](https://softwareanalyst.substack.com/p/securing-aillms-in-2025-a-practical)
   
 
@@ -92,7 +94,7 @@ OR
 #### AI Agents
 - [Madrona - The AI Agent Infrastructure Stack - February 2025](https://www.madrona.com/ai-agent-infrastructure-three-layers-tools-data-orchestration/)
 - [Wing.vc - The rise of the agentic workforce - February 2025](https://www.wing.vc/content/the-rise-of-the-agentic-workforce)
-- [Kenn So, Generational - Memory in AI Agents - February 2025](https://www.generational.pub/p/memory-in-ai-agents)
+- [Kenn So — Generational - Memory in AI Agents - February 2025](https://www.generational.pub/p/memory-in-ai-agents)
 - [AI Accelerator Instutite - Agentic Code Gen Market Leaders - February 2025](https://www.aiacceleratorinstitute.com/agentic-code-generation-the-future-of-software-development/)
 - [Elaia - Agentic AI: the Next (R)evolution? - February 2025](https://medium.com/elaia/agentic-ai-the-next-r-evolution-384bd77f5c57)
 
@@ -145,7 +147,7 @@ OR
 - [Obvious Ventures - How Generative AI Is Transforming Healthcare - December 2024](https://obvious.com/ideas/how-generative-ai-is-transforming-healthcare/)
 
 #### AI Trends
-- [Kenn So, Generational - AI Trends 2024 - December 2024](https://www.generational.pub/p/ai-trends-2024)
+- [Kenn So — Generational - AI Trends 2024 - December 2024](https://www.generational.pub/p/ai-trends-2024)
 
 #### AI Everything Else
 - [Greenfield - Vertical AI Is Here: How to Capture the Opportunity and Win Big - December 2024](https://www.greenfield-growth.com/blog-posts/vertical-ai-is-here-how-to-capture-the-opportunity-and-win-big)
@@ -231,7 +233,7 @@ OR
 - [Coatue - Robotics won’t have a ChatGPT Moment - July 2024](https://www.coatue.com/blog/perspective/robotics-wont-have-a-chatgpt-moment)
 
 #### AI Everything Else
-- [a16z - “Death of a Salesforce”: Why AI Will Transform the Next Generation of Sales Tech - July 2024](https://a16z.com/ai-transforms-sales/)
+- [a16z - "Death of a Salesforce": Why AI Will Transform the Next Generation of Sales Tech - July 2024](https://a16z.com/ai-transforms-sales/)
 - [a16z - New a16z investment thesis: AI scribes - July 2024](https://x.com/omooretweets/status/1812878684182942144)
 - [Hardware FYI - Manufacturing Deep-Tech Market Map - July 2024](https://hardwarefyi.substack.com/p/the-analog-89-apple-vision-pro-suppliers)
 
@@ -280,7 +282,7 @@ OR
 - [Sapphire Ventures - Building the Future: A Deep Dive Into the Generative AI App Infrastructure Stack - May 2024](https://sapphireventures.com/blog/building-the-future-a-deep-dive-into-the-generative-ai-app-infrastructure-stack/)
 
 #### AI Everything Else
-- [Paolo Fornasini, Venture - Top Of The Stack: Mapping Today’s AI x PE-tech Landscape - May 2024](https://medium.com/venturehq/top-of-the-stack-mapping-todays-ai-x-pe-tech-landscape-52d87d7aaa9a)
+- [Paolo Fornasini — Venture - Top Of The Stack: Mapping Today’s AI x PE-tech Landscape - May 2024](https://medium.com/venturehq/top-of-the-stack-mapping-todays-ai-x-pe-tech-landscape-52d87d7aaa9a)
 - [Cobus Greyling - The Conversational AI Technology Landscape: Version 5.0 - May 2024](https://medium.com/@cobusgreyling/the-conversational-ai-technology-landscape-version-5-0-840290d97c7f)
 
 
@@ -309,10 +311,10 @@ OR
 
 #### AI Hardware
 - [Activant Capital - Silicon Synapses for AI - AI hardware in data centers and on the edge - March 2024](https://activantcapital.com/research/ai-hardware)
-- [Alex Huckstepp - “Software for Hardware” is Heating Up! The landscape of software solutions for developing and manufacturing hardware is rapidly expanding. - March 2024](https://medium.com/@alexhuckstepp/software-for-hardware-is-heating-up-8c39979c0eac)
+- [Alex Huckstepp - "Software for Hardware" is Heating Up! The landscape of software solutions for developing and manufacturing hardware is rapidly expanding. - March 2024](https://medium.com/@alexhuckstepp/software-for-hardware-is-heating-up-8c39979c0eac)
 
 #### AI Everything Else
-- [Matt Turck, Firstmark - Full Steam Ahead: The 2024 MAD (Machine Learning, AI & Data) Landscape - March 2024](https://mattturck.com/mad2024/)
+- [Matt Turck — Firstmark - Full Steam Ahead: The 2024 MAD (Machine Learning, AI & Data) Landscape - March 2024](https://mattturck.com/mad2024/)
 - [Creandum - Mastering AI Governance and Security - March 2024](https://creandum.com/stories/mastering-ai-governance-and-security/)
 
 
@@ -322,7 +324,7 @@ OR
 
 
 ### January 2024
-- [Kwesi Acquay, Scaling Verticals - Is 2024 Vertical AI’s breakout year? - January 2024](https://scalingverticals.substack.com/p/is-2024-vertical-ais-breakout-year)
+- [Kwesi Acquay — Scaling Verticals - Is 2024 Vertical AI’s breakout year? - January 2024](https://scalingverticals.substack.com/p/is-2024-vertical-ais-breakout-year)
 
 
 
