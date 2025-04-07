@@ -176,6 +176,9 @@ OR
 #### Healthcare AI 
 - [Flare Capital - Representative Health System AI Market Map - November 2024](https://x.com/HealthcareAIGuy/status/1854904237337325768)
 
+#### Voice AI
+- [Bessemer - Roadmap: Voice AI - November 2024](https://www.bvp.com/atlas/roadmap-voice-ai)
+
 #### AI Everything Else  
 - [Felicis - How AI is reshaping IT, QA, and Incident Response - November 2024](https://www.felicis.com/insight/ai-it-qa-incident-response)
 - [Sapphire Ventures - AI-Native Applications: A Framework for Evaluating the Future of Enterprise Software - November 2024](https://sapphireventures.com/blog/ai-native-applications/)
@@ -325,6 +328,9 @@ OR
 
 ### January 2024
 - [Kwesi Acquay — Scaling Verticals - Is 2024 Vertical AI’s breakout year? - January 2024](https://scalingverticals.substack.com/p/is-2024-vertical-ais-breakout-year)
+- [Maheshwaran A K - Open-Source AI is booming - January 2024](https://www.linkedin.com/pulse/open-source-ai-booming-maheshwaran-a-k-nzwcc)
+
+
 
 
 
