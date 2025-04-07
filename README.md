@@ -1,12 +1,12 @@
 # Awesome AI Market Maps  [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)  
 An Awesome List of Artificial Intelligence-related Market Maps from 2025 and 2024.
 
-***Now featuring over 115 AI Market Maps!***   
+***Now featuring over 135 AI Market Maps!***   
 
 As these things go, this awesome list was inspired out of an ongoing personal frustration — I have been searching for a frequently updated and well-resourced list of recent AI-related market maps. Since I couldn't find a comprehensive resource which met my needs, I decided to build something substantial for the greater community. 
 
 METHODOLOGY  
-The list is currently organized by quarter, to illustrate hot topics as they are discussed and how fast the industry is evolving, mostly focusing on market maps from 2025 and 2024. My current data collection workflow includes <a href="https://chatgpt.com/">ChatGPT</a>, <a href="https://websets.exa.ai/">Exa Websets</a>, <a href="https://getliner.com/">Liner</a>, human-in-the-loop curation, and some other methods. 
+The list is currently organized by quarter, to illustrate hot AI topics as they are discussed and how fast the industry is evolving, mostly focusing on market maps from 2025 and 2024. My current data collection workflow includes <a href="https://chatgpt.com/">ChatGPT</a>, <a href="https://websets.exa.ai/">Exa Websets</a>, <a href="https://getliner.com/">Liner</a>, human-in-the-loop curation, and some other methods. 
 
 ADD OR UPDATE A MARKET MAP  
 Named AI market maps, landscapes, blog posts with market maps, and related AI industry positioning (such as top XX lists) are fine.
