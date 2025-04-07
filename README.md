@@ -37,6 +37,7 @@ OR
 - [World Fund - Green Computing in the AI Era - April 2025](https://www.worldfund.vc/knowledge/green-computing-in-the-ai-era)
 - [Reach Capital - AI Is Unlocking the Future of Frontline Work — And Where We’re Investing - April 2025](https://www.reachcapital.com/2025/04/03/ai-is-unlocking-the-future-of-frontline-work-and-where-were-investing/)
 - [a16z - AI Learned to Talk. Now it’s Learning to Build Reality - April 2025](https://a16z.com/ai-is-learning-to-build-reality/)
+- [Norwest - Market Map: Reimagining the CFO Software Stack - April 2025](https://www.nvp.com/blog/market-map-reimagining-cfo-software-stack/)
 
 
 ---
@@ -63,9 +64,11 @@ OR
 
 #### GenAI 
 - [a16z - The Top 100 GenAI Consumer Apps 2025 - March 2025](https://a16z.com/100-gen-ai-apps-4/)
+- [IoT Analytics - The leading generative AI companies - March 2025](https://iot-analytics.com/leading-generative-ai-companies/)
 
 #### AI Hardware
 - [SemiAnalysis - The GPU Cloud ClusterMAX™ Rating System | How to Rent GPUs - March 2025](https://semianalysis.com/2025/03/26/the-gpu-cloud-clustermax-rating-system-how-to-rent-gpus/)
+- [AIMultiple Research - Top 20 AI Chip Makers: NVIDIA & Its Competitors in 2025 - March 2025](https://research.aimultiple.com/ai-chip-makers/)
 - [Synaptic - Chipping Away: AI x Hardware - March 2025](https://synaptic.com/resources/chipping-away-ai-hardware/)
 
 #### Healthtech AI
@@ -242,6 +245,7 @@ OR
 
 #### AI Everything Else
 - [American Family Ventures - The 2024 Home Services Market Map - September 2024](https://www.amfamventures.com/news/the-2024-home-services-market-map/)
+- [CACV Central - Mapping the Growth of AI in Canada Through Investment - September 2024](https://central.cvca.ca/mapping-the-growth-of-ai-in-canada-through-investment)
 
 
 ### August 2024
@@ -254,6 +258,7 @@ OR
 
 #### AI Everything Else
 - [New Economies - AI Unicorns Landscape - August 2024](https://www.neweconomies.co/i/147601422/meet-the-ai-unicorns)
+- [Bessemer - The Rise of Cloud AI in India 2024 - August 2024](https://www.bvp.com/atlas/the-rise-of-cloud-ai-in-india-2024)
 
 
 ### July 2024 
@@ -329,6 +334,7 @@ OR
 
 #### AI Everything Else
 - [Paolo Fornasini — Venture - Top Of The Stack: Mapping Today’s AI x PE-tech Landscape - May 2024](https://medium.com/venturehq/top-of-the-stack-mapping-todays-ai-x-pe-tech-landscape-52d87d7aaa9a)
+- [Reimagine Ventures - The Q2 2024 Israeli Generative AI startup landscape - May 2024](https://www.remagineventures.com/generative-ai-landscape/)
 
 
 ### April 2024
