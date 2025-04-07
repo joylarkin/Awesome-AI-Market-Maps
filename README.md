@@ -21,7 +21,7 @@ OR
 🌟 GitHub stars are appreciated.  
 
 
-🤗 Hugging Face Dataset: https://huggingface.co/datasets/joylarkin/2025AIMarketMaps  
+🤗 Hugging Face Dataset → https://huggingface.co/datasets/joylarkin/2025AIMarketMaps  
 
 ---
 ---
@@ -64,16 +64,17 @@ OR
 #### GenAI 
 - [a16z - The Top 100 GenAI Consumer Apps 2025 - March 2025](https://a16z.com/100-gen-ai-apps-4/)
 
-#### AI Infrastructure
-- [Headline VC - The Duality of Infrastructure Software Investing in an AI World - "Infra of AI" and "AI in Infra" Market Maps - March 2025](https://headline.com/blog-latest/article-latest/the-duality-of-infrastructure-software-investing-i)
-- [Forum Ventures - AI Infrastructure Market Map - March 2025](https://airtable.com/appJKSyHsK9L7emVe/shrIaPop9BFkCdXx5/tblep1S6vE6nyvsJ3)
-
 #### AI Hardware
+- [SemiAnalysis - The GPU Cloud ClusterMAX™ Rating System | How to Rent GPUs - March 2025](https://semianalysis.com/2025/03/26/the-gpu-cloud-clustermax-rating-system-how-to-rent-gpus/)
 - [Synaptic - Chipping Away: AI x Hardware - March 2025](https://synaptic.com/resources/chipping-away-ai-hardware/)
 
 #### Healthtech AI
 - [Protege - Healthcare AI Market Map - March 2025](https://www.withprotege.ai/ai-market-map)
 - [High Street Equity Partners - Health Tech Seed Landscape: Startups to Watch - March 2025](https://www.linkedin.com/posts/high-street-equity-partners_health-tech-seed-landscape-startups-to-watch-activity-7310328926164123651-caPk)
+
+#### AI Infrastructure
+- [Headline VC - The Duality of Infrastructure Software Investing in an AI World - "Infra of AI" and "AI in Infra" Market Maps - March 2025](https://headline.com/blog-latest/article-latest/the-duality-of-infrastructure-software-investing-i)
+- [Forum Ventures - AI Infrastructure Market Map - March 2025](https://airtable.com/appJKSyHsK9L7emVe/shrIaPop9BFkCdXx5/tblep1S6vE6nyvsJ3)
 
 #### Robotics
 - [Hardware FYI - Deep Tech Market Map - Robotics and Autonomous Systems - March 2025](https://www.linkedin.com/feed/update/urn:li:activity:7308530241210093569/)
