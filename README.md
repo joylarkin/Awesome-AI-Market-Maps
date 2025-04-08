@@ -33,11 +33,15 @@ OR
 #### Healthtech AI
 - [7wire Ventures - From Diagnosis to Treatment: Unlocking Potential with Generative AI - April 2025](https://www.7wireventures.com/perspectives/from-diagnosis-to-treatment-unlocking-potential-with-generative-ai/)
 
+#### Voice AI
+- [Cathy Gao & Julie Nguyen — Sapphire Ventures - B2B Voice AI Landscape - April 2025](https://www.linkedin.com/feed/update/urn:li:activity:7315387989294043137/)
+
 #### AI Everything Else
 - [World Fund - Green Computing in the AI Era - April 2025](https://www.worldfund.vc/knowledge/green-computing-in-the-ai-era)
 - [Reach Capital - AI Is Unlocking the Future of Frontline Work — And Where We’re Investing - April 2025](https://www.reachcapital.com/2025/04/03/ai-is-unlocking-the-future-of-frontline-work-and-where-were-investing/)
 - [a16z - AI Learned to Talk. Now it’s Learning to Build Reality - April 2025](https://a16z.com/ai-is-learning-to-build-reality/)
 - [Norwest - Market Map: Reimagining the CFO Software Stack - April 2025](https://www.nvp.com/blog/market-map-reimagining-cfo-software-stack/)
+- [a16z - AI Avatars Escape the Uncanny Valley - April 2025](https://a16z.com/ai-avatars/)
 
 
 ---
@@ -116,6 +120,7 @@ OR
 #### AI Everything Else
 - [a16z - AI-Powered Web App Builders Market Map - February 2025](https://a16z.com/ai-web-app-builders/)
 - [Inc42 - Indian GenAI Startup Tracker: 60+ Startups Putting India On The Global AI Map - February 2025](https://inc42.com/startups/indian-genai-startup-tracker/)
+- [Backlinko - Most Popular AI Apps - February 2025](https://backlinko.com/most-popular-ai-apps)
 
 
 ### January 2025
@@ -354,7 +359,7 @@ OR
 - [CB Insights - AI 100: The most promising artificial intelligence startups of 2024 - April 2024](https://www.cbinsights.com/research/report/artificial-intelligence-top-startups-2024/)
 
 #### AI Everything Else
-- [Sapphire - “La French Tech” – A Tour de Force of Innovation and Growth - April 2024](https://sapphireventures.com/blog/la-french-tech-a-tour-de-force-of-innovation-and-growth/)
+- [Sapphire Ventures - “La French Tech” – A Tour de Force of Innovation and Growth - April 2024](https://sapphireventures.com/blog/la-french-tech-a-tour-de-force-of-innovation-and-growth/)
 - [MMC - The Who’s Who in Responsible AI - April 2024](https://mmc.vc/research/the-whos-who-in-responsible-ai/)
 
 ---
