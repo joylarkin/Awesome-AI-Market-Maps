@@ -62,6 +62,9 @@ OR
 - [Thomvest Ventures - Market Map: 130+ companies transforming the AI Software Development market - March 2025](https://blog.thomvest.com/market-map-130-companies-transforming-the-ai-software-development-market-1e8ef2179439)
 - [Yujian Tang - LLM Stack Market Map - March 2025](https://www.linkedin.com/posts/yujiantang_seattlestartupsummit-activity-7310753598353592321-qYZY)
 
+#### Foundation Models
+- [Leonis Capital - Zero or Hero: A Technical Framework for Valuing AI Companies (Part I: Foundation Models) - March 2025](https://www.leoniscap.com/deep-dives/zero-or-hero-a-technical-framework-for-valuing-ai-companies-(part-i-foundation-models))
+
 #### GenAI 
 - [a16z - The Top 100 GenAI Consumer Apps 2025 - March 2025](https://a16z.com/100-gen-ai-apps-4/)
 - [IoT Analytics - The leading generative AI companies - March 2025](https://iot-analytics.com/leading-generative-ai-companies/)
@@ -223,6 +226,7 @@ OR
 
 #### AI Everything Else  
 - [Alex Carter - Leading RAG Technology Companies to Watch in 2024 - October 2024](https://medium.com/@iamalexcarter/leading-rag-technology-companies-to-watch-in-2024-ed6c1c6bc475)
+- [Nathan Benaich — Air Street Capital - Welcome to STATE OF AI REPORT 2024. - October 2024](https://www.stateof.ai/2024-report-launch)
 
 
 ---
