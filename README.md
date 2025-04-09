@@ -36,6 +36,9 @@ OR
 #### Voice AI
 - [Cathy Gao & Julie Nguyen — Sapphire Ventures - B2B Voice AI Landscape - April 2025](https://www.linkedin.com/feed/update/urn:li:activity:7315387989294043137/)
 
+#### Robotics
+- [Tracxn - Industrial Robotics sector overview - April 2025](https://tracxn.com/d/sectors/industrial-robotics/__8YzlIwdZtVDpzlzTadeYnqjdh1suJksuE5MDB89oZiU)
+
 #### AI Everything Else
 - [World Fund - Green Computing in the AI Era - April 2025](https://www.worldfund.vc/knowledge/green-computing-in-the-ai-era)
 - [Reach Capital - AI Is Unlocking the Future of Frontline Work — And Where We’re Investing - April 2025](https://www.reachcapital.com/2025/04/03/ai-is-unlocking-the-future-of-frontline-work-and-where-were-investing/)
@@ -119,7 +122,9 @@ OR
 - [Dallas VC - Observability: Current Landscape and Emerging Trends - February 2025](https://www.dallasvc.com/post/observability-current-landscape-and-emerging-trends)
 
 #### Robotics
+- [Morgan Stanley Research - The Humanoid 100: Mapping the Humanoid Robot Value Chain - February 2025](https://advisor.morganstanley.com/john.howard/documents/field/j/jo/john-howard/The_Humanoid_100_-_Mapping_the_Humanoid_Robot_Value_Chain.pdf)
 - [Aaron Pickard — Dorm Room Fund - Humanoid Robots Market Map & Investor List - February 2025](https://aaronpickard.substack.com/p/humanoid-robots-market-map-and-investor)
+- [Merphi - Categorization of ROBOTS - February 2025](https://www.merphi.se/downloads/#link-categorization)
   
 #### AI Everything Else
 - [a16z - AI-Powered Web App Builders Market Map - February 2025](https://a16z.com/ai-web-app-builders/)
@@ -345,6 +350,9 @@ OR
 #### AI Infrastructure
 - [Sapphire Ventures - Building the Future: A Deep Dive Into the Generative AI App Infrastructure Stack - May 2024](https://sapphireventures.com/blog/building-the-future-a-deep-dive-into-the-generative-ai-app-infrastructure-stack/)
 
+#### Robotics
+- [Obvious Ventures - Getting Physical: The New AI Frontier of Robotics - May 2024](https://obvious.com/ideas/getting-physical-the-new-ai-frontier-of-robotics/)
+
 #### AI Everything Else
 - [Paolo Fornasini — Venture - Top Of The Stack: Mapping Today’s AI x PE-tech Landscape - May 2024](https://medium.com/venturehq/top-of-the-stack-mapping-todays-ai-x-pe-tech-landscape-52d87d7aaa9a)
 - [Reimagine Ventures - The Q2 2024 Israeli Generative AI startup landscape - May 2024](https://www.remagineventures.com/generative-ai-landscape/)
@@ -357,6 +365,9 @@ OR
 
 #### Open Source AI
 - [Alex Irina Sandu - 20 Popular Open Source AI Developer Tools - April 2024](https://alexsandu.substack.com/p/20-popular-open-source-ai-developer)
+
+#### Robotics 
+- [Tangram Vision - 2024 Perception Industry Market Map - April 2024](https://www.tangramvision.com/blog/2024-perception-industry-market-map)
 
 #### Top AI
 - [Sequoia - AI 50 2024 - April 2024](https://www.sequoiacap.com/article/ai-50-2024/)
@@ -391,6 +402,9 @@ OR
 
 #### AI DevTools
 - [Maverick Ventures - Market Map of LLM Evaluation Startups - February 2024](https://medium.com/p/what-the-history-of-software-development-tells-us-about-the-hurdles-to-enterprise-adoption-of-llms-c96bc968456d)
+
+#### Robotics
+- [Sifted.eu - Early Stage European Robotics Market Map - February 2024](https://sifted.eu/pro/briefings/robotics-2024)
 
 #### AI Security
 - [Menlo Ventures - Security for AI: The New Wave of Startups Racing to Secure the AI Stack - February 2024](https://menlovc.com/perspective/security-for-ai-genai-risks-and-the-emerging-startup-landscape/)
