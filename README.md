@@ -42,6 +42,7 @@ OR
 - [a16z - AI Learned to Talk. Now it’s Learning to Build Reality - April 2025](https://a16z.com/ai-is-learning-to-build-reality/)
 - [Norwest - Market Map: Reimagining the CFO Software Stack - April 2025](https://www.nvp.com/blog/market-map-reimagining-cfo-software-stack/)
 - [a16z - AI Avatars Escape the Uncanny Valley - April 2025](https://a16z.com/ai-avatars/)
+- [XAnge - Market Map: European AI-Enabled SalesTech - April 2025](https://www.xange.vc/knowledge-hub/ai-enabled-salestech-separating-hype-from-the-real)
 
 
 ---
@@ -116,6 +117,9 @@ OR
 
 #### AI DevTools
 - [Dallas VC - Observability: Current Landscape and Emerging Trends - February 2025](https://www.dallasvc.com/post/observability-current-landscape-and-emerging-trends)
+
+#### Robotics
+- [Aaron Pickard — Dorm Room Fund - Humanoid Robots Market Map & Investor List - February 2025](https://aaronpickard.substack.com/p/humanoid-robots-market-map-and-investor)
   
 #### AI Everything Else
 - [a16z - AI-Powered Web App Builders Market Map - February 2025](https://a16z.com/ai-web-app-builders/)
