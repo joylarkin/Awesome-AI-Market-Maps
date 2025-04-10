@@ -30,14 +30,24 @@ OR
 
 ### April 2025
 
+#### AI Agents
+- [Antler - Market Map — AI Agents: Sales - April 2025](https://www.antler.co/blog/ai-market-map-sales)
+
 #### Healthtech AI
 - [7wire Ventures - From Diagnosis to Treatment: Unlocking Potential with Generative AI - April 2025](https://www.7wireventures.com/perspectives/from-diagnosis-to-treatment-unlocking-potential-with-generative-ai/)
+- [Elion - AI Denials Management Market Map: Recovering lost revenue with robots? - April 2025](https://elion.health/resources/ai-denials-management)
 
 #### Voice AI
 - [Cathy Gao & Julie Nguyen — Sapphire Ventures - B2B Voice AI Landscape - April 2025](https://www.linkedin.com/feed/update/urn:li:activity:7315387989294043137/)
 
 #### Robotics
 - [Tracxn - Industrial Robotics sector overview - April 2025](https://tracxn.com/d/sectors/industrial-robotics/__8YzlIwdZtVDpzlzTadeYnqjdh1suJksuE5MDB89oZiU)
+
+#### AI Security
+- [Software Analyst Cyber Research - Securing For AI Specialist Ecosystem - April 2025](https://www.linkedin.com/posts/software-analyst_as-enterprises-race-to-deploy-genai-and-llms-activity-7315805428607504385-hClF)
+
+#### Top AI
+- [Forbes - AI 50 - April 2025](https://www.forbes.com/lists/ai50/)
 
 #### AI Everything Else
 - [World Fund - Green Computing in the AI Era - April 2025](https://www.worldfund.vc/knowledge/green-computing-in-the-ai-era)
@@ -181,6 +191,7 @@ OR
 
 #### AI Security
 - [Brandon Dixon — Applied GAI in Security - Agentic Security Marketmap - December 2024](https://applied-gai-in-security.ghost.io/agentic-security-marketmap/)
+- [Software Analyst Cyber Research - Data Security Platforms: The New Frontier in Cybersecurity & AI - December 2024](https://softwareanalyst.substack.com/p/data-security-platforms-the-new-frontier)
 
 #### Vertical AI
 - [Greenfield - Vertical AI Is Here: How to Capture the Opportunity and Win Big - December 2024](https://www.greenfield-growth.com/blog-posts/vertical-ai-is-here-how-to-capture-the-opportunity-and-win-big)
@@ -273,6 +284,9 @@ OR
 
 #### Open Source AI
 - [Synaptic - Open Source AI: A Fast Forward - August 2024](https://synaptic.com/resources/open-source-ai-2024)
+
+#### AI Security 
+- [Software Analyst Cyber Research - Deep Dive Into The Security for AI Ecosystem - August 2024](https://softwareanalyst.substack.com/p/deep-dive-into-the-security-for-ai)
 
 #### AI Everything Else
 - [New Economies - AI Unicorns Landscape - August 2024](https://www.neweconomies.co/i/147601422/meet-the-ai-unicorns)
