@@ -33,6 +33,12 @@ OR
 #### AI Agents
 - [Antler - Market Map — AI Agents: Sales - April 2025](https://www.antler.co/blog/ai-market-map-sales)
 
+#### AI Data
+- [Hitachi Ventures - From Pipelines to Insights: The AI-Driven Data Stack Revolution in 2025 - April 2025](https://medium.com/@HitachiVentures/from-pipelines-to-insights-the-ai-driven-data-stack-revolution-in-2025-64a58c070b5d)
+
+#### AI DevTools
+- [Yujian Tang - LLM Stack Market Map - April 2025](https://www.linkedin.com/posts/yujiantang_revamped-this-market-map-retrieval-data-activity-7316147686779363329-AYjk)
+
 #### Healthtech AI
 - [7wire Ventures - From Diagnosis to Treatment: Unlocking Potential with Generative AI - April 2025](https://www.7wireventures.com/perspectives/from-diagnosis-to-treatment-unlocking-potential-with-generative-ai/)
 - [Elion - AI Denials Management Market Map: Recovering lost revenue with robots? - April 2025](https://elion.health/resources/ai-denials-management)
