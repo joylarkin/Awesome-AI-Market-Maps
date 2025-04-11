@@ -56,6 +56,7 @@ OR
 - [Norwest - Market Map: Reimagining the CFO Software Stack - April 2025](https://www.nvp.com/blog/market-map-reimagining-cfo-software-stack/)
 - [a16z - AI Avatars Escape the Uncanny Valley - April 2025](https://a16z.com/ai-avatars/)
 - [XAnge - Market Map: European AI-Enabled SalesTech - April 2025](https://www.xange.vc/knowledge-hub/ai-enabled-salestech-separating-hype-from-the-real)
+- [CroAI - The Croatian AI Landscape - April 2025](https://map.croai.org/)
 
 
 ---
@@ -116,6 +117,7 @@ OR
 - [Brighteye Ventures - AI for Training - the evolution of corporate training - March 2025](https://www.brighteyevc.com/post/ai-for-training-the-evolution-of-corporate-training)
 - [Brighteye Ventures - AI for Hiring - how AI is transforming talent acquisition - March 2025](https://www.brighteyevc.com/post/ai-for-hiring-transforming-talent-acquisition-with-ai)
 - [Florian Seemann — P9 - A First Landscape of AI-first Service Businesses - March 2025](https://medium.com/point-nine-news/a-first-landscape-of-ai-first-service-businesses-d0a5e4977678)
+- [RankMyAI - Mapping the Dutch AI Landscape: Key insights from our latest report - March 2025](https://www.rankmyai.com/insights/5/mapping-the-dutch-ai-landscape-key-insights-from-our-latest-report)
 
  
 ### February 2025 
