@@ -44,11 +44,14 @@ OR
 - [7wire Ventures - From Diagnosis to Treatment: Unlocking Potential with Generative AI - April 2025](https://www.7wireventures.com/perspectives/from-diagnosis-to-treatment-unlocking-potential-with-generative-ai/)
 - [Elion - AI Denials Management Market Map: Recovering lost revenue with robots? - April 2025](https://elion.health/resources/ai-denials-management)
 
-#### Voice AI
-- [Cathy Gao & Julie Nguyen — Sapphire Ventures - B2B Voice AI Landscape - April 2025](https://www.linkedin.com/feed/update/urn:li:activity:7315387989294043137/)
+#### Legal AI
+- [Synaptic - AI x Legaltech 2025 - April 2025](https://x.com/synaptic_data/status/1911810464322928884)
 
 #### Robotics
 - [Tracxn - Industrial Robotics sector overview - April 2025](https://tracxn.com/d/sectors/industrial-robotics/__8YzlIwdZtVDpzlzTadeYnqjdh1suJksuE5MDB89oZiU)
+
+#### Voice AI
+- [Cathy Gao & Julie Nguyen — Sapphire Ventures - B2B Voice AI Landscape - April 2025](https://www.linkedin.com/feed/update/urn:li:activity:7315387989294043137/)
 
 #### AI Security
 - [Software Analyst Cyber Research - Securing For AI Specialist Ecosystem - April 2025](https://www.linkedin.com/posts/software-analyst_as-enterprises-race-to-deploy-genai-and-llms-activity-7315805428607504385-hClF)
