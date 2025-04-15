@@ -1,7 +1,7 @@
 # Awesome AI Market Maps  [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)  
 An Awesome List of Artificial Intelligence-related Market Maps from 2025 and 2024.
 
-***Now featuring over 150 AI Market Maps!***   
+***Now featuring 165 AI Market Maps!***   
 
 As these things go, this awesome list was inspired out of an ongoing personal frustration — I have been searching for a frequently updated and well-resourced list of recent AI-related market maps. Since I couldn't find a comprehensive resource which met my needs, I decided to build something substantial for the greater community. 
 
