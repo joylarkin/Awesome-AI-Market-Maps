@@ -70,6 +70,7 @@ OR
 - [a16z - AI Avatars Escape the Uncanny Valley - April 2025](https://a16z.com/ai-avatars/)
 - [XAnge - Market Map: European AI-Enabled SalesTech - April 2025](https://www.xange.vc/knowledge-hub/ai-enabled-salestech-separating-hype-from-the-real)
 - [CroAI - The Croatian AI Landscape - April 2025](https://map.croai.org/)
+- [Nimble - AI Automation and Agents for ecommerce Market Map - April 2025](https://www.linkedin.com/posts/joshwood1_ecommerce-aiagents-marketmaps-activity-7318272007819653121-ewIs)
 
 
 ---
