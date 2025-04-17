@@ -38,6 +38,7 @@ OR
 - [Hitachi Ventures - From Pipelines to Insights: The AI-Driven Data Stack Revolution in 2025 - April 2025](https://medium.com/@HitachiVentures/from-pipelines-to-insights-the-ai-driven-data-stack-revolution-in-2025-64a58c070b5d)
 
 #### AI DevTools 
+- [Denise Teng — Gradient Ventures - Code Gen Tool Market Map - April 2025](https://www.linkedin.com/posts/activity-7318692414703947777-HTC-)
 - [Yujian Tang - LLM Stack Market Map - April 2025](https://www.linkedin.com/posts/yujiantang_revamped-this-market-map-retrieval-data-activity-7316147686779363329-AYjk)
 
 #### AI Hardware and Inference
