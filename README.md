@@ -144,6 +144,7 @@ OR
 - [AI Accelerator Instutite - Agentic Code Gen Market Leaders - February 2025](https://www.aiacceleratorinstitute.com/agentic-code-generation-the-future-of-software-development/)
 - [Elaia - Agentic AI: the Next (R)evolution? - February 2025](https://medium.com/elaia/agentic-ai-the-next-r-evolution-384bd77f5c57)
 - [Michael Tefula — Ada Ventures - AI Agent Market Map * - February 2025](https://mychaelangelo.github.io/ai_agents_marketmap/)
+- [AgentOps.ai - 2025 AI Agent Market Map - February 2025](https://x.com/AtomSilverman/status/1893050805718262005) 
 
 #### AI DevTools
 - [Dallas VC - Observability: Current Landscape and Emerging Trends - February 2025](https://www.dallasvc.com/post/observability-current-landscape-and-emerging-trends)
