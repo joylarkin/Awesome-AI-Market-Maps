@@ -43,6 +43,7 @@ OR
 
 #### AI Hardware and Inference
 - [Ashish Kakran — Thomvest Ventures - AI inference tooling landscape - April 2025](https://www.linkedin.com/posts/kakran_ai-inference-startups-activity-7318052931742617600-4rRn)
+- [Gennaro Cuofano - AI Compute Market Map: A Practical Guide - April 2025](https://businessengineer.ai/p/ai-compute-market-map-a-practical)
 
 #### Healthtech AI
 - [7wire Ventures - From Diagnosis to Treatment: Unlocking Potential with Generative AI - April 2025](https://www.7wireventures.com/perspectives/from-diagnosis-to-treatment-unlocking-potential-with-generative-ai/)
