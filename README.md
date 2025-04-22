@@ -48,6 +48,9 @@ OR
 - [7wire Ventures - From Diagnosis to Treatment: Unlocking Potential with Generative AI - April 2025](https://www.7wireventures.com/perspectives/from-diagnosis-to-treatment-unlocking-potential-with-generative-ai/)
 - [Elion - AI Denials Management Market Map: Recovering lost revenue with robots? - April 2025](https://elion.health/resources/ai-denials-management)
 
+#### AI Infrastructure
+- [Ensemble VC - All AI infrastructure market maps are wrong. But some are better than others. - April 2025](https://www.ensemble.vc/research/all-ai-infrastructure-market-maps-are-wrong-but-some-are-better-than-others)
+
 #### Legal AI
 - [Synaptic - AI x Legaltech 2025 - April 2025](https://x.com/synaptic_data/status/1911810464322928884)
 
