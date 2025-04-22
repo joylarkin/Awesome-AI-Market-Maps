@@ -76,6 +76,8 @@ OR
 - [XAnge - Market Map: European AI-Enabled SalesTech - April 2025](https://www.xange.vc/knowledge-hub/ai-enabled-salestech-separating-hype-from-the-real)
 - [CroAI - The Croatian AI Landscape - April 2025](https://map.croai.org/)
 - [Nimble - AI Automation and Agents for ecommerce Market Map - April 2025](https://www.linkedin.com/posts/joshwood1_ecommerce-aiagents-marketmaps-activity-7318272007819653121-ewIs)
+- [GoHub Ventures - AI Personal Assistants - April 2025](https://www.linkedin.com/posts/gohubventures_ai-startups-activity-7320034821735378944-_lJP)
+- [Joseph Kim — GameMakers - 📍 The Definitive AI x Gaming Market Map (April 2025) - April 2025](https://www.gamemakers.com/p/the-definitive-ai-x-gaming-market)
 
 
 ---
