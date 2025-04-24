@@ -44,6 +44,7 @@ OR
 #### AI Hardware and Inference
 - [Ashish Kakran — Thomvest Ventures - AI inference tooling landscape - April 2025](https://www.linkedin.com/posts/kakran_ai-inference-startups-activity-7318052931742617600-4rRn)
 - [Gennaro Cuofano - AI Compute Market Map: A Practical Guide - April 2025](https://businessengineer.ai/p/ai-compute-market-map-a-practical)
+- [World Fund - Green Computing in the AI Era - April 2025](https://www.worldfund.vc/knowledge/green-computing-in-the-ai-era)
 
 #### Healthtech AI
 - [7wire Ventures - From Diagnosis to Treatment: Unlocking Potential with Generative AI - April 2025](https://www.7wireventures.com/perspectives/from-diagnosis-to-treatment-unlocking-potential-with-generative-ai/)
@@ -66,9 +67,9 @@ OR
 
 #### Top AI
 - [Forbes - AI 50 - April 2025](https://www.forbes.com/lists/ai50/)
+- [CBInsights - AI 100: The most promising artificial intelligence startups of 2025 - April 2025](https://www.cbinsights.com/research/report/artificial-intelligence-top-startups-2025/)
 
 #### AI Everything Else
-- [World Fund - Green Computing in the AI Era - April 2025](https://www.worldfund.vc/knowledge/green-computing-in-the-ai-era)
 - [Reach Capital - AI Is Unlocking the Future of Frontline Work — And Where We’re Investing - April 2025](https://www.reachcapital.com/2025/04/03/ai-is-unlocking-the-future-of-frontline-work-and-where-were-investing/)
 - [a16z - AI Learned to Talk. Now it’s Learning to Build Reality - April 2025](https://a16z.com/ai-is-learning-to-build-reality/)
 - [Norwest - Market Map: Reimagining the CFO Software Stack - April 2025](https://www.nvp.com/blog/market-map-reimagining-cfo-software-stack/)
