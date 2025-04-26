@@ -41,6 +41,10 @@ OR
 - [Denise Teng — Gradient Ventures - Code Gen Tool Market Map - April 2025](https://www.linkedin.com/posts/activity-7318692414703947777-HTC-)
 - [Yujian Tang - LLM Stack Market Map - April 2025](https://www.linkedin.com/posts/yujiantang_revamped-this-market-map-retrieval-data-activity-7316147686779363329-AYjk)
 
+#### Fintech AI
+- [Norwest - Market Map: Reimagining the CFO Software Stack - April 2025](https://www.nvp.com/blog/market-map-reimagining-cfo-software-stack/)
+- [Kison Patel — Dealroom - AI Tools for M&A Market Map - April 2025](https://www.linkedin.com/posts/kisonpatel_buyerledmanda-aitools-corporatedevelopment-activity-7321582532402077696-CarX)
+
 #### AI Hardware and Inference
 - [Ashish Kakran — Thomvest Ventures - AI inference tooling landscape - April 2025](https://www.linkedin.com/posts/kakran_ai-inference-startups-activity-7318052931742617600-4rRn)
 - [Gennaro Cuofano - AI Compute Market Map: A Practical Guide - April 2025](https://businessengineer.ai/p/ai-compute-market-map-a-practical)
@@ -73,7 +77,6 @@ OR
 #### AI Everything Else
 - [Reach Capital - AI Is Unlocking the Future of Frontline Work — And Where We’re Investing - April 2025](https://www.reachcapital.com/2025/04/03/ai-is-unlocking-the-future-of-frontline-work-and-where-were-investing/)
 - [a16z - AI Learned to Talk. Now it’s Learning to Build Reality - April 2025](https://a16z.com/ai-is-learning-to-build-reality/)
-- [Norwest - Market Map: Reimagining the CFO Software Stack - April 2025](https://www.nvp.com/blog/market-map-reimagining-cfo-software-stack/)
 - [a16z - AI Avatars Escape the Uncanny Valley - April 2025](https://a16z.com/ai-avatars/)
 - [XAnge - Market Map: European AI-Enabled SalesTech - April 2025](https://www.xange.vc/knowledge-hub/ai-enabled-salestech-separating-hype-from-the-real)
 - [CroAI - The Croatian AI Landscape - April 2025](https://map.croai.org/)
