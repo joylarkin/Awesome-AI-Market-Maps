@@ -67,7 +67,7 @@ OR
 
 #### Voice AI
 - [Cathy Gao & Julie Nguyen — Sapphire Ventures - B2B Voice AI Landscape - April 2025](https://www.linkedin.com/feed/update/urn:li:activity:7315387989294043137/)
-- [Chelcie Taylor  Notable Capital - Vertical Voice AI Agents - April 2025](https://www.linkedin.com/posts/chelcie-taylor_after-my-last-few-posts-on-the-opportunity-activity-7321552414313009152-XgKF)
+- [Chelcie Taylor — Notable Capital - Vertical Voice AI Agents - April 2025](https://www.linkedin.com/posts/chelcie-taylor_after-my-last-few-posts-on-the-opportunity-activity-7321552414313009152-XgKF)
 
 #### AI Security
 - [Software Analyst Cyber Research - Securing For AI Specialist Ecosystem - April 2025](https://www.linkedin.com/posts/software-analyst_as-enterprises-race-to-deploy-genai-and-llms-activity-7315805428607504385-hClF)
@@ -401,6 +401,7 @@ OR
 #### AI Everything Else
 - [Paolo Fornasini — Venture - Top Of The Stack: Mapping Today’s AI x PE-tech Landscape - May 2024](https://medium.com/venturehq/top-of-the-stack-mapping-todays-ai-x-pe-tech-landscape-52d87d7aaa9a)
 - [Reimagine Ventures - The Q2 2024 Israeli Generative AI startup landscape - May 2024](https://www.remagineventures.com/generative-ai-landscape/)
+- [Kyle Poyar and Palle Broe - How AI apps make money - May 2024](https://substack.com/home/post/p-144001968)
 
 
 ### April 2024
