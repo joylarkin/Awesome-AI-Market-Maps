@@ -35,6 +35,7 @@ OR
 
 #### AI Agents
 - [Antler - Market Map — AI Agents: Sales - April 2025](https://www.antler.co/blog/ai-market-map-sales)
+- [Tom Doerr - LLM Agent Systems Landscape 2025 - April 2025](https://x.com/tom_doerr/status/1916296071552156099/photo/1)
 
 #### AI Data
 - [Hitachi Ventures - From Pipelines to Insights: The AI-Driven Data Stack Revolution in 2025 - April 2025](https://medium.com/@HitachiVentures/from-pipelines-to-insights-the-ai-driven-data-stack-revolution-in-2025-64a58c070b5d)
