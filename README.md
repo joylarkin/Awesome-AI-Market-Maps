@@ -23,6 +23,8 @@ OR
 
 🤗 Hugging Face Dataset → https://huggingface.co/datasets/joylarkin/2025AIMarketMaps  
 ️‍🔥 MCP server → https://gitmcp.io/joylarkin/Awesome-AI-Market-Maps  
+📖 DeepWiki Overview → https://deepwiki.com/joylarkin/Awesome-AI-Market-Maps  
+
 
 ---
 ---
