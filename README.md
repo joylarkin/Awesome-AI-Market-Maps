@@ -148,6 +148,7 @@ OR
 - [Brighteye Ventures - AI for Hiring - how AI is transforming talent acquisition - March 2025](https://www.brighteyevc.com/post/ai-for-hiring-transforming-talent-acquisition-with-ai)
 - [Florian Seemann — P9 - A First Landscape of AI-first Service Businesses - March 2025](https://medium.com/point-nine-news/a-first-landscape-of-ai-first-service-businesses-d0a5e4977678)
 - [RankMyAI - Mapping the Dutch AI Landscape: Key insights from our latest report - March 2025](https://www.rankmyai.com/insights/5/mapping-the-dutch-ai-landscape-key-insights-from-our-latest-report)
+- [Juhi Parekh - Demystifying Spatial AI : A Market Map - March 2025](https://juhiparekh.substack.com/p/demystifying-spatial-ai)
 
  
 ### February 2025 
