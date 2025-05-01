@@ -31,6 +31,13 @@ OR
 
 ## AI Market Maps - Q2 2025
 
+### May 2025
+
+#### AI Everything Else
+- [Business of Apps - AI App Market Map 2025 - May 2025](https://www.linkedin.com/posts/business-of-apps_introducing-our-ai-app-market-map-2025-activity-7323624734837911554-p-kN)
+- [Craig Iskowitz - AI Notetaker market for Financial Advisors - May 2025](https://www.linkedin.com/posts/craigiskowitz_wealthmanagement-ai-financialadvisors-activity-7323704087596654593-oLf-)
+
+
 ### April 2025
 
 #### AI Agents
@@ -87,6 +94,7 @@ OR
 - [Nimble - AI Automation and Agents for ecommerce Market Map - April 2025](https://www.linkedin.com/posts/joshwood1_ecommerce-aiagents-marketmaps-activity-7318272007819653121-ewIs)
 - [GoHub Ventures - AI Personal Assistants - April 2025](https://www.linkedin.com/posts/gohubventures_ai-startups-activity-7320034821735378944-_lJP)
 - [Joseph Kim — GameMakers - 📍 The Definitive AI x Gaming Market Map (April 2025) - April 2025](https://www.gamemakers.com/p/the-definitive-ai-x-gaming-market)
+- [The Wealth Mosaic - The AI WealthTech Market Map, April 2025 - April 2025](https://www.thewealthmosaic.com/vendors/the-wealth-mosaic/news/the-ai-wealthtech-market-map-april-2025/)
 
 
 ---
