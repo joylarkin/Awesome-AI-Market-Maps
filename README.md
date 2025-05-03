@@ -79,6 +79,7 @@ OR
 - [Chelcie Taylor — Notable Capital - Vertical Voice AI Agents - April 2025](https://www.linkedin.com/posts/chelcie-taylor_after-my-last-few-posts-on-the-opportunity-activity-7321552414313009152-XgKF)
 
 #### AI Security
+- [Premji Invest — Alumni Ventures - AI Is Coming: Meet the Startups Building Cyber Defenses for the Age of AI - April 2025](https://www.premjiinvest.com/blog/ai-is-coming-meet-the-startups-building-cyber-defenses-for-the-age-of-ai)
 - [Software Analyst Cyber Research - Securing For AI Specialist Ecosystem - April 2025](https://www.linkedin.com/posts/software-analyst_as-enterprises-race-to-deploy-genai-and-llms-activity-7315805428607504385-hClF)
 
 #### Top AI
