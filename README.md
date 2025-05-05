@@ -1,4 +1,4 @@
-# Awesome AI Market Maps  [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)  
+# Awesome AI Market Maps  [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)  ![Last Commit](https://img.shields.io/github/last-commit/joylarkin/Awesome-AI-Market-Maps.svg)  
 An Awesome List of Artificial Intelligence-related Market Maps from 2025 and 2024.
 
 ***Now featuring over 175 AI Market Maps!***   
@@ -36,6 +36,7 @@ OR
 #### AI Everything Else
 - [Business of Apps - AI App Market Map 2025 - May 2025](https://www.linkedin.com/posts/business-of-apps_introducing-our-ai-app-market-map-2025-activity-7323624734837911554-p-kN)
 - [Craig Iskowitz - AI Notetaker market for Financial Advisors - May 2025](https://www.linkedin.com/posts/craigiskowitz_wealthmanagement-ai-financialadvisors-activity-7323704087596654593-oLf-)
+- [LiveRamp Ventures - A.I. in Digital Advertising Landscape - May 2025](https://www.linkedin.com/posts/jimmy-ren-b015b639_introducing-our-first-ever-ai-in-digital-activity-7325182089702633474--ChQ)
 
 
 ### April 2025
