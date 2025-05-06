@@ -11,8 +11,8 @@ The list is currently organized by quarter, to illustrate hot AI topics as they 
 ADD OR UPDATE A MARKET MAP  
 Named AI market maps, landscapes, blog posts with market maps, and related AI industry positioning (such as top XX lists) are fine.
 
-NOTES
-The readme.md file is regularly updated with new market maps, the .csv file is updated ~bimonthly.   
+NOTES  
+The readme.md file is regularly updated with new market maps, the .csv file is updated bimonthly.   
 
 
 ✅ Pull requests accepted!  
