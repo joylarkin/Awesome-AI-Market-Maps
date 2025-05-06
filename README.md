@@ -11,6 +11,10 @@ The list is currently organized by quarter, to illustrate hot AI topics as they 
 ADD OR UPDATE A MARKET MAP  
 Named AI market maps, landscapes, blog posts with market maps, and related AI industry positioning (such as top XX lists) are fine.
 
+NOTES
+The readme.md file is regularly updated with new market maps, the .csv file is updated ~bimonthly.   
+
+
 ✅ Pull requests accepted!  
 OR  
 💬 Tweet at me <a href="https://twitter.com/joy">@joy</a>  
@@ -32,6 +36,9 @@ OR
 ## AI Market Maps - Q2 2025
 
 ### May 2025
+
+#### AI Infrastructure
+- [Cobus Greyling - AI Agent infrastructure and Build Stack - May 2025](https://www.linkedin.com/posts/cobusgreyling_ai-artificialintelligence-aiagents-activity-7325111303839055872-qrem)
 
 #### AI Everything Else
 - [Business of Apps - AI App Market Map 2025 - May 2025](https://www.linkedin.com/posts/business-of-apps_introducing-our-ai-app-market-map-2025-activity-7323624734837911554-p-kN)
