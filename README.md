@@ -43,6 +43,9 @@ OR
 #### AI Drug Discovery
 - [Scale Venture Partners - The future of biological foundation models and value creation in AI-driven drug discovery - May 2025](https://www.scalevp.com/insights/the-future-of-biological-foundation-models-and-value-creation-in-ai-driven-drug-discovery/)
 
+#### Enterprise AI 
+- [Lightspeed - AI Enterprise Market Map: Cutting through the hype - May 2025](https://lsvp.com/stories/ai-enterprise-market-map-cutting-through-the-hype/)
+
 #### AI Infrastructure
 - [Cobus Greyling - AI Agent infrastructure and Build Stack - May 2025](https://www.linkedin.com/posts/cobusgreyling_ai-artificialintelligence-aiagents-activity-7325111303839055872-qrem)
 
