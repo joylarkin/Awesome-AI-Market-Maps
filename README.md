@@ -37,6 +37,12 @@ OR
 
 ### May 2025
 
+#### AI Agents
+- [b2venture - The Market Map of AI Voice & Call Center Agents - May 2025](https://www.b2venture.vc/stories/the-market-map-of-ai-voice-call-center-agents)
+
+#### AI Drug Discovery
+- [Scale Venture Partners - The future of biological foundation models and value creation in AI-driven drug discovery - May 2025](https://www.scalevp.com/insights/the-future-of-biological-foundation-models-and-value-creation-in-ai-driven-drug-discovery/)
+
 #### AI Infrastructure
 - [Cobus Greyling - AI Agent infrastructure and Build Stack - May 2025](https://www.linkedin.com/posts/cobusgreyling_ai-artificialintelligence-aiagents-activity-7325111303839055872-qrem)
 
@@ -47,7 +53,6 @@ OR
 - [Business of Apps - AI App Market Map 2025 - May 2025](https://www.linkedin.com/posts/business-of-apps_introducing-our-ai-app-market-map-2025-activity-7323624734837911554-p-kN)
 - [Craig Iskowitz - AI Notetaker market for Financial Advisors - May 2025](https://www.linkedin.com/posts/craigiskowitz_wealthmanagement-ai-financialadvisors-activity-7323704087596654593-oLf-)
 - [LiveRamp Ventures - A.I. in Digital Advertising Landscape - May 2025](https://www.linkedin.com/posts/jimmy-ren-b015b639_introducing-our-first-ever-ai-in-digital-activity-7325182089702633474--ChQ)
-- [Scale Venture Partners - The future of biological foundation models and value creation in AI-driven drug discovery - May 2025](https://www.scalevp.com/insights/the-future-of-biological-foundation-models-and-value-creation-in-ai-driven-drug-discovery/)
 
 
 ### April 2025
