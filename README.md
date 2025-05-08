@@ -46,8 +46,14 @@ OR
 #### Enterprise AI 
 - [Lightspeed - AI Enterprise Market Map: Cutting through the hype - May 2025](https://lsvp.com/stories/ai-enterprise-market-map-cutting-through-the-hype/)
 
+#### AI Hardware and Inference
+- [AlbionVC and Beauhurst - Future of Compute Market Map UK - May 2025](https://albion.vc/spotlight/deep-dives/the-future-of-compute-mini-market-map/)
+
 #### AI Infrastructure
 - [Cobus Greyling - AI Agent infrastructure and Build Stack - May 2025](https://www.linkedin.com/posts/cobusgreyling_ai-artificialintelligence-aiagents-activity-7325111303839055872-qrem)
+
+### Large Language Models
+- [Eduardo Ordax - The 2025 Landscape of LLMs — Updated View of the Big Players in the Game of AI - May 2025](https://www.linkedin.com/posts/eordax_llms-ai-machinelearning-activity-7325788055221452802-y5ue)
 
 #### Robotics 
 - [Vanessa Loiola - Robotics Overview 2025 - May 2025](https://www.linkedin.com/feed/update/urn:li:activity:7325134009544421378/)
