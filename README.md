@@ -58,6 +58,9 @@ OR
 #### Robotics 
 - [Vanessa Loiola - Robotics Overview 2025 - May 2025](https://www.linkedin.com/feed/update/urn:li:activity:7325134009544421378/)
 
+#### AI Security 
+- [Dan Cahana — Notable Capital - Agent Identity Security Framework - May 2025](https://www.notablecap.com/blog/the-identity-shift-preparing-for-a-non-human-future)
+
 #### AI Everything Else
 - [Business of Apps - AI App Market Map 2025 - May 2025](https://www.linkedin.com/posts/business-of-apps_introducing-our-ai-app-market-map-2025-activity-7323624734837911554-p-kN)
 - [Craig Iskowitz - AI Notetaker market for Financial Advisors - May 2025](https://www.linkedin.com/posts/craigiskowitz_wealthmanagement-ai-financialadvisors-activity-7323704087596654593-oLf-)
@@ -81,6 +84,9 @@ OR
 #### Fintech AI
 - [Norwest - Market Map: Reimagining the CFO Software Stack - April 2025](https://www.nvp.com/blog/market-map-reimagining-cfo-software-stack/)
 - [Kison Patel — Dealroom - AI Tools for M&A Market Map - April 2025](https://www.linkedin.com/posts/kisonpatel_buyerledmanda-aitools-corporatedevelopment-activity-7321582532402077696-CarX)
+
+#### AI Gaming
+- [Daniel Derzic — Hartmann Capital - GenAI in Gaming Industry Report: Q1 2025 - April 2025](https://www.hartmanncapital.com/news-insights/genai-in-gaming-industry-report-q1-2025)
 
 #### AI Hardware and Inference
 - [Ashish Kakran — Thomvest Ventures - AI inference tooling landscape - April 2025](https://www.linkedin.com/posts/kakran_ai-inference-startups-activity-7318052931742617600-4rRn)
@@ -314,6 +320,9 @@ OR
 
 #### AI Infrastructure
 - [PitchBook - Market Map: VCs bet on data infrastructure to keep fueling AI - October 2024](https://pitchbook.com/news/articles/market-map-venture-capital-investors-data-infrastructure-ai)
+
+#### AI Security
+- [Oren Yunger & Dan Cahana — Notable Capital - Identity Crisis: Breaking Down The Emerging Identity Stack - October 2024](https://www.notablecap.com/blog/identity-crisis-breaking-down-the-emerging-identity-stack)
 
 #### Vertical AI
 - [Ardent Venture Partners - One Year Later: A Refreshed View of the AI-Native Vertical Software Landscape - October 2024](https://medium.com/@ardent-vc/one-year-later-a-refreshed-view-of-the-ai-native-vertical-software-landscape-1c400dd1243e)
