@@ -47,12 +47,12 @@ OR
 - [Lightspeed - AI Enterprise Market Map: Cutting through the hype - May 2025](https://lsvp.com/stories/ai-enterprise-market-map-cutting-through-the-hype/)
 
 #### AI Hardware and Inference
-- [AlbionVC and Beauhurst - Future of Compute Market Map UK - May 2025](https://albion.vc/spotlight/deep-dives/the-future-of-compute-mini-market-map/)
+- [AlbionVC & Beauhurst - UK Future of Compute Market Map - May 2025](https://albion.vc/spotlight/deep-dives/the-future-of-compute-mini-market-map/)
 
 #### AI Infrastructure
 - [Cobus Greyling - AI Agent infrastructure and Build Stack - May 2025](https://www.linkedin.com/posts/cobusgreyling_ai-artificialintelligence-aiagents-activity-7325111303839055872-qrem)
 
-### Large Language Models
+#### Large Language Models
 - [Eduardo Ordax - The 2025 Landscape of LLMs — Updated View of the Big Players in the Game of AI - May 2025](https://www.linkedin.com/posts/eordax_llms-ai-machinelearning-activity-7325788055221452802-y5ue)
 
 #### Robotics 
@@ -67,6 +67,7 @@ OR
 - [LiveRamp Ventures - A.I. in Digital Advertising Landscape - May 2025](https://www.linkedin.com/posts/jimmy-ren-b015b639_introducing-our-first-ever-ai-in-digital-activity-7325182089702633474--ChQ)
 
 
+***  
 ### April 2025
 
 #### AI Agents
@@ -191,7 +192,8 @@ OR
 - [RankMyAI - Mapping the Dutch AI Landscape: Key insights from our latest report - March 2025](https://www.rankmyai.com/insights/5/mapping-the-dutch-ai-landscape-key-insights-from-our-latest-report)
 - [Juhi Parekh - Demystifying Spatial AI : A Market Map - March 2025](https://juhiparekh.substack.com/p/demystifying-spatial-ai)
 
- 
+
+***  
 ### February 2025 
 
 #### AI Agents
@@ -217,6 +219,7 @@ OR
 - [Backlinko - Most Popular AI Apps - February 2025](https://backlinko.com/most-popular-ai-apps)
 
 
+***
 ### January 2025
 
 #### AI Agents
@@ -277,6 +280,7 @@ OR
 - [eaidb.org - The Responsible AI Ecosystem FY 2024 Market Map * - December 2024](https://www.eaidb.org/map)
 
 
+***
 ### November 2024
 
 #### AI Agents
@@ -313,6 +317,7 @@ OR
 - [EdTech Insiders - The Edtech Insiders Generative AI Map - November 2024](https://edtechinsiders.substack.com/p/the-edtech-insiders-generative-ai)
 
 
+***
 ### October 2024
 
 #### AI Agents
@@ -355,6 +360,7 @@ OR
 - [CACV Central - Mapping the Growth of AI in Canada Through Investment - September 2024](https://central.cvca.ca/mapping-the-growth-of-ai-in-canada-through-investment)
 
 
+***
 ### August 2024
 
 #### Enterprise AI
@@ -371,6 +377,7 @@ OR
 - [Bessemer - The Rise of Cloud AI in India 2024 - August 2024](https://www.bvp.com/atlas/the-rise-of-cloud-ai-in-india-2024)
 
 
+***
 ### July 2024 
 
 #### GenAI
@@ -387,6 +394,7 @@ OR
 - [a16z - "Death of a Salesforce": Why AI Will Transform the Next Generation of Sales Tech - July 2024](https://a16z.com/ai-transforms-sales/)
 - [a16z - New a16z investment thesis: AI scribes - July 2024](https://x.com/omooretweets/status/1812878684182942144)
 - [Hardware FYI - Manufacturing Deep-Tech Market Map - July 2024](https://hardwarefyi.substack.com/p/the-analog-89-apple-vision-pro-suppliers)
+
 
 ---
 ## AI Market Maps - Q2 2024
@@ -423,6 +431,7 @@ OR
 - [Bain & Company - AI Leaders to Watch in 2024 mapped by Bain & Company as numbers of providers and funding continue to burgeon - June 2024](https://www.bain.com/about/media-center/press-releases/2024/ai-leaders-to-watch-in-2024-mapped-by-bain--company-as-numbers-of-providers-and-funding-continue-to-burgeon/)
 
 
+***
 ### May 2024
 
 #### AI Agents
@@ -451,6 +460,7 @@ OR
 - [Kyle Poyar and Palle Broe - How AI apps make money - May 2024](https://substack.com/home/post/p-144001968)
 
 
+***
 ### April 2024
 
 #### Conversational AI
@@ -469,6 +479,7 @@ OR
 #### AI Everything Else
 - [Sapphire Ventures - “La French Tech” – A Tour de Force of Innovation and Growth - April 2024](https://sapphireventures.com/blog/la-french-tech-a-tour-de-force-of-innovation-and-growth/)
 - [MMC - The Who’s Who in Responsible AI - April 2024](https://mmc.vc/research/the-whos-who-in-responsible-ai/)
+
 
 ---
 ## AI Market Maps - Q1 2024
@@ -491,6 +502,7 @@ OR
 - [Matt Turck — Firstmark - Full Steam Ahead: The 2024 MAD (Machine Learning, AI & Data) Landscape - March 2024](https://mattturck.com/mad2024/)
 
 
+***
 ### February 2024 
 
 #### AI DevTools
@@ -503,6 +515,7 @@ OR
 - [Menlo Ventures - Security for AI: The New Wave of Startups Racing to Secure the AI Stack - February 2024](https://menlovc.com/perspective/security-for-ai-genai-risks-and-the-emerging-startup-landscape/)
 
 
+***
 ### January 2024
 
 #### Open Source AI 
