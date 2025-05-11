@@ -9,7 +9,7 @@ METHODOLOGY
 The list is currently organized by quarter, to illustrate hot AI topics as they are discussed and how fast the industry is evolving, mostly focusing on market maps from 2025 and 2024. My current data collection workflow includes <a href="https://chatgpt.com/">ChatGPT</a>, <a href="https://websets.exa.ai/">Exa Websets</a>, <a href="https://getliner.com/">Liner</a>, human-in-the-loop curation, and some other methods. 
 
 NOTES  
-The readme.md file is regularly updated with new market maps, the .csv file is updated bimonthly.   
+The README.md file is regularly updated with new market maps, the .csv file is updated bimonthly.   
 
 ADD OR UPDATE A MARKET MAP  
 Named AI market maps, landscapes, blog posts with market maps, and related AI industry positioning (such as top XX lists) are fine.  
