@@ -7,7 +7,7 @@ An Awesome List of Artificial Intelligence-related Market Maps from 2025 and 202
 As these things go, this awesome list was inspired out of an ongoing personal frustration — I have been searching for a frequently updated and well-resourced list of recent AI-related market maps. Since I couldn't find a comprehensive resource which met my needs, I decided to build something substantial for the greater community. 
 
 METHODOLOGY  
-The list is currently organized by quarter, to illustrate hot AI topics as they are discussed and how fast the industry is evolving, mostly focusing on market maps from 2025 and 2024. My current data collection workflow includes <a href="https://chatgpt.com/">ChatGPT</a>, <a href="https://websets.exa.ai/">Exa Websets</a>, <a href="https://getliner.com/">Liner</a>, human-in-the-loop curation, and some other methods. 
+The list is currently organized by quarter, to illustrate hot AI topics as they are discussed and how fast the industry is evolving, with a specific focus on market maps from 2025 and 2024. The current data collection workflow includes <a href="https://chatgpt.com/">ChatGPT</a>, <a href="https://websets.exa.ai/">Exa Websets</a>, <a href="https://getliner.com/">Liner</a>, human-in-the-loop curation for "taste," and some other unlisted methods. 
 
 NOTES  
 The README.md file is regularly updated with new market maps, the .csv file is updated bimonthly.   
