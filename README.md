@@ -64,6 +64,9 @@ OR
 #### AI Security 
 - [Dan Cahana — Notable Capital - Agent Identity Security Framework - May 2025](https://www.notablecap.com/blog/the-identity-shift-preparing-for-a-non-human-future)
 
+#### Venture AI
+- [Cory Bolotsky - Market Map: Data + AI Tooling for Venture Capital Firms - May 2025](https://bolots.ky/p/vc-ai-data-market-map)
+
 #### AI Everything Else
 - [Business of Apps - AI App Market Map 2025 - May 2025](https://www.linkedin.com/posts/business-of-apps_introducing-our-ai-app-market-map-2025-activity-7323624734837911554-p-kN)
 - [Craig Iskowitz - AI Notetaker market for Financial Advisors - May 2025](https://www.linkedin.com/posts/craigiskowitz_wealthmanagement-ai-financialadvisors-activity-7323704087596654593-oLf-)
