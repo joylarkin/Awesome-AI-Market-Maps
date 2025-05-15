@@ -59,7 +59,7 @@ OR
 - [Vanessa Loiola - Robotics Overview 2025 - May 2025](https://www.linkedin.com/feed/update/urn:li:activity:7325134009544421378/)
 
 #### Spatial Computing
-- [Nic Mitham - Spatial Computing Market Map Q1 2025 - May 2025](https://www.linkedin.com/posts/nicmitham_spatialcomputing-smartglasses-augmentedreality-activity-7328036829281009664-XsFN)
+- [Nic Mitham — KZero Worldswide - Spatial Computing Market Map Q2 2025 - May 2025](https://www.linkedin.com/posts/nicmitham_kzero-spatial-reality-market-map-q2-2025-activity-7328696144966922242-wEp6)
 
 #### AI Security 
 - [Dan Cahana — Notable Capital - Agent Identity Security Framework - May 2025](https://www.notablecap.com/blog/the-identity-shift-preparing-for-a-non-human-future)
