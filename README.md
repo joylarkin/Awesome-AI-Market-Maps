@@ -65,6 +65,9 @@ OR
 #### AI Security 
 - [Dan Cahana — Notable Capital - Agent Identity Security Framework - May 2025](https://www.notablecap.com/blog/the-identity-shift-preparing-for-a-non-human-future)
 
+#### Top AI
+- [Ollie Forsyth & Amos Bar Joseph — New Economies - Top 100 Startups to Watch - May 2025](https://www.neweconomies.co/p/the-new-operating-system)
+
 #### Venture AI
 - [Cory Bolotsky - Market Map: Data + AI Tooling for Venture Capital Firms - May 2025](https://bolots.ky/p/vc-ai-data-market-map)
 
