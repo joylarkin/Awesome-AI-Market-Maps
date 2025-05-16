@@ -47,6 +47,7 @@ OR
 - [Lightspeed - AI Enterprise Market Map: Cutting through the hype - May 2025](https://lsvp.com/stories/ai-enterprise-market-map-cutting-through-the-hype/)
 
 #### AI Hardware and Inference
+- [AI Insider - Market Map: AI Hardware and Datacenter enablers - May 2025](https://www.linkedin.com/posts/ai-insider-intel_ai-chips-gpus-activity-7329150192421703683-k4uw)
 - [AlbionVC & Beauhurst - UK Future of Compute Market Map - May 2025](https://albion.vc/spotlight/deep-dives/the-future-of-compute-mini-market-map/)
 
 #### AI Infrastructure
