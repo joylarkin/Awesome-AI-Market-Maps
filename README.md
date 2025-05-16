@@ -75,6 +75,7 @@ OR
 - [Business of Apps - AI App Market Map 2025 - May 2025](https://www.linkedin.com/posts/business-of-apps_introducing-our-ai-app-market-map-2025-activity-7323624734837911554-p-kN)
 - [Craig Iskowitz - AI Notetaker market for Financial Advisors - May 2025](https://www.linkedin.com/posts/craigiskowitz_wealthmanagement-ai-financialadvisors-activity-7323704087596654593-oLf-)
 - [LiveRamp Ventures - A.I. in Digital Advertising Landscape - May 2025](https://www.linkedin.com/posts/jimmy-ren-b015b639_introducing-our-first-ever-ai-in-digital-activity-7325182089702633474--ChQ)
+- [Jonathan King — Coinbase Ventures - The Rise of Onchain AI: Agents, Apps, and Commerce - May 2025](https://x.com/cbventures/status/1923401975766355982)
 
 
 ***  
@@ -345,6 +346,7 @@ OR
 #### AI Everything Else  
 - [Alex Carter - Leading RAG Technology Companies to Watch in 2024 - October 2024](https://medium.com/@iamalexcarter/leading-rag-technology-companies-to-watch-in-2024-ed6c1c6bc475)
 - [Nathan Benaich — Air Street Capital - Welcome to STATE OF AI REPORT 2024. - October 2024](https://www.stateof.ai/2024-report-launch)
+- [Coinbase Ventures - Demystifying the Crypto x AI Stack - October 2024](https://paragraph.com/@cbventures/demystifying-the-crypto-x-ai-stack)
 
 
 ---
