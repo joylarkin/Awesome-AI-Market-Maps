@@ -216,6 +216,9 @@ OR
 - [Michael Tefula — Ada Ventures - AI Agent Market Map * - February 2025](https://mychaelangelo.github.io/ai_agents_marketmap/)
 - [AgentOps.ai - 2025 AI Agent Market Map - February 2025](https://x.com/AtomSilverman/status/1893050805718262005) 
 
+#### AI Data Engineering
+- [Alireza Sadeghi — pracdata.io - 2025 Open Source Data Engineering Landscape - February 2025](https://www.pracdata.io/p/open-source-data-engineering-landscape-2025)
+
 #### AI DevTools
 - [Dallas VC - Observability: Current Landscape and Emerging Trends - February 2025](https://www.dallasvc.com/post/observability-current-landscape-and-emerging-trends)
 
@@ -529,6 +532,9 @@ OR
 
 ***
 ### January 2024
+
+#### AI Data Engineering
+- [Alireza Sadeghi — pracdata.io - 2024 Open Source Data Engineering Landscape - January 2024](https://www.pracdata.io/p/open-source-data-engineering-landscape)
 
 #### Open Source AI 
 - [Synaptic - Free Weights: Open Source AI - January 2024](https://synaptic.com/resources/free-weights-open-source-ai)
