@@ -1,10 +1,20 @@
-date,category,author,title,url
+date,category,author,title,URL
+May 2025,AI Agents,b2venture,The Market Map of AI Voice & Call Center Agents,https://www.b2venture.vc/stories/the-market-map-of-ai-voice-call-center-agents
+May 2025,AI Drug Discovery,Scale Venture Partners,The future of biological foundation models and value creation in AI-driven drug discovery,https://www.scalevp.com/insights/the-future-of-biological-foundation-models-and-value-creation-in-ai-driven-drug-discovery/
+May 2025,Enterprise AI,Lightspeed,AI Enterprise Market Map: Cutting through the hype,https://lsvp.com/stories/ai-enterprise-market-map-cutting-through-the-hype/
+May 2025,AI Hardware and Inference,AI Insider,Market Map: AI Hardware and Datacenter enablers,https://www.linkedin.com/posts/ai-insider-intel_ai-chips-gpus-activity-7329150192421703683-k4uw
+May 2025,AI Hardware and Inference,AlbionVC & Beauhurst,UK Future of Compute Market Map,https://albion.vc/spotlight/deep-dives/the-future-of-compute-mini-market-map/
 May 2025,AI Infrastructure,Cobus Greyling,AI Agent infrastructure and Build Stack,https://www.linkedin.com/posts/cobusgreyling_ai-artificialintelligence-aiagents-activity-7325111303839055872-qrem
+May 2025,Large Language Models,Eduardo Ordax,The 2025 Landscape of LLMs — Updated View of the Big Players in the Game of AI,https://www.linkedin.com/posts/eordax_llms-ai-machinelearning-activity-7325788055221452802-y5ue
 May 2025,Robotics,Vanessa Loiola,Robotics Overview 2025,https://www.linkedin.com/feed/update/urn:li:activity:7325134009544421378/
+May 2025,Spatial Computing,Nic Mitham — KZero Worldswide,Spatial Computing Market Map Q2 2025,https://www.linkedin.com/posts/nicmitham_kzero-spatial-reality-market-map-q2-2025-activity-7328696144966922242-wEp6
+May 2025,AI Security,Dan Cahana — Notable Capital,Agent Identity Security Framework,https://www.notablecap.com/blog/the-identity-shift-preparing-for-a-non-human-future
+May 2025,Top AI,Ollie Forsyth & Amos Bar Joseph — New Economies,Top 100 Startups to Watch,https://www.neweconomies.co/p/the-new-operating-system
+May 2025,Venture AI,Cory Bolotsky,Market Map: Data + AI Tooling for Venture Capital Firms,https://bolots.ky/p/vc-ai-data-market-map
 May 2025,AI Everything Else,Business of Apps,AI App Market Map 2025,https://www.linkedin.com/posts/business-of-apps_introducing-our-ai-app-market-map-2025-activity-7323624734837911554-p-kN
 May 2025,AI Everything Else,Craig Iskowitz,AI Notetaker market for Financial Advisors,https://www.linkedin.com/posts/craigiskowitz_wealthmanagement-ai-financialadvisors-activity-7323704087596654593-oLf-
 May 2025,AI Everything Else,LiveRamp Ventures,A.I. in Digital Advertising Landscape,https://www.linkedin.com/posts/jimmy-ren-b015b639_introducing-our-first-ever-ai-in-digital-activity-7325182089702633474--ChQ
-May 2025,AI Everything Else,Scale Venture Partners,The future of biological foundation models and value creation in AI-driven drug discovery,https://www.scalevp.com/insights/the-future-of-biological-foundation-models-and-value-creation-in-ai-driven-drug-discovery/
+May 2025,AI Everything Else,Jonathan King — Coinbase Ventures,The Rise of Onchain AI: Agents Apps and Commerce,https://x.com/cbventures/status/1923401975766355982
 April 2025,AI Agents,Antler,Market Map — AI Agents: Sales,https://www.antler.co/blog/ai-market-map-sales
 April 2025,AI Agents,Georgian,AI LANDSCAPE SERIES Agentic Platforms and Applications,https://georgian.io/agentic-platforms-and-applications/
 April 2025,AI Agents,Tom Doerr,LLM Agent Systems Landscape 2025,https://x.com/tom_doerr/status/1916296071552156099/photo/1
@@ -13,6 +23,7 @@ April 2025,AI DevTools,Denise Teng — Gradient Ventures,Code Gen Tool Market Ma
 April 2025,AI DevTools,Yujian Tang,LLM Stack Market Map,https://www.linkedin.com/posts/yujiantang_revamped-this-market-map-retrieval-data-activity-7316147686779363329-AYjk
 April 2025,Fintech AI,Norwest,Market Map: Reimagining the CFO Software Stack,https://www.nvp.com/blog/market-map-reimagining-cfo-software-stack/
 April 2025,Fintech AI,Kison Patel — Dealroom,AI Tools for M&A Market Map,https://www.linkedin.com/posts/kisonpatel_buyerledmanda-aitools-corporatedevelopment-activity-7321582532402077696-CarX
+April 2025,AI Gaming,Daniel Derzic — Hartmann Capital,GenAI in Gaming Industry Report: Q1 2025,https://www.hartmanncapital.com/news-insights/genai-in-gaming-industry-report-q1-2025
 April 2025,AI Hardware and Inference,Ashish Kakran — Thomvest Ventures,AI inference tooling landscape,https://www.linkedin.com/posts/kakran_ai-inference-startups-activity-7318052931742617600-4rRn
 April 2025,AI Hardware and Inference,Gennaro Cuofano,AI Compute Market Map: A Practical Guide,https://businessengineer.ai/p/ai-compute-market-map-a-practical
 April 2025,AI Hardware and Inference,World Fund,Green Computing in the AI Era,https://www.worldfund.vc/knowledge/green-computing-in-the-ai-era
@@ -34,15 +45,15 @@ April 2025,AI Everything Else,XAnge,Market Map: European AI-Enabled SalesTech,ht
 April 2025,AI Everything Else,CroAI,The Croatian AI Landscape,https://map.croai.org/
 April 2025,AI Everything Else,Nimble,AI Automation and Agents for ecommerce Market Map,https://www.linkedin.com/posts/joshwood1_ecommerce-aiagents-marketmaps-activity-7318272007819653121-ewIs
 April 2025,AI Everything Else,GoHub Ventures,AI Personal Assistants,https://www.linkedin.com/posts/gohubventures_ai-startups-activity-7320034821735378944-_lJP
-April 2025,AI Everything Else,Joseph Kim — GameMakers,📍 The Definitive AI x Gaming Market Map (April 2025),https://www.gamemakers.com/p/the-definitive-ai-x-gaming-market
-April 2025,AI Everything Else,The Wealth Mosaic The AI WealthTech Market Map, April 2025,https://www.thewealthmosaic.com/vendors/the-wealth-mosaic/news/the-ai-wealthtech-market-map-april-2025/
+April 2025,AI Everything Else,Joseph Kim — GameMakers,The Definitive AI x Gaming Market Map (April 2025),https://www.gamemakers.com/p/the-definitive-ai-x-gaming-market
+April 2025,AI Everything Else,The Wealth Mosaic,The AI WealthTech Market Map, April 2025,https://www.thewealthmosaic.com/vendors/the-wealth-mosaic/news/the-ai-wealthtech-market-map-april-2025/
 March 2025,AI Agents,CB Insights,AI Agent Market Map,https://www.cbinsights.com/research/ai-agent-market-map/
 March 2025,AI Agents,Antler,Market Map — AI Agents: Marketing,https://www.antler.co/blog/ai-market-map-marketing
 March 2025,AI Agents,Antler,Market Map — AI Agents: Fintech,https://www.antler.co/blog/ai-market-map-fintech
 March 2025,AI Agents,AI Agents Directory,AI Agents Market Landscape,https://aiagentsdirectory.com/landscape
 March 2025,AI Agents,Acrew Capital,A-Commerce Evolution: Agentic Commerce as The New Frontier,https://perspectives.acrewcapital.com/a-commerce-evolution-agentic-commerce-as-the-new-frontier-27a4c855a778
 March 2025,AI Data,Bessemer,Roadmap: Data 3.0 in the Lakehouse Era,https://www.bvp.com/atlas/roadmap-data-3-0-in-the-lakehouse-era
-March 2025,AI Data,Activant Capital,AI's Undervalued Asset - Data's pivotal role in the next era of Gen AI deployment,https://activantcapital.com/research/ai-s-undervalued-asset
+March 2025,AI Data,Activant Capital,AIs Undervalued Asset - Datas pivotal role in the next era of Gen AI deployment,https://activantcapital.com/research/ai-s-undervalued-asset
 March 2025,AI DevTools and Integrations,a16z,MCP Market Map,https://a16z.com/a-deep-dive-into-mcp-and-the-future-of-ai-tooling/
 March 2025,AI DevTools and Integrations,Auchenberg,AI Tools and Integrations Market Map,https://github.com/auchenberg/ai-tools-integrations-market-map
 March 2025,AI DevTools and Integrations,Thomvest Ventures,Market Map: 130+ companies transforming the AI Software Development market,https://blog.thomvest.com/market-map-130-companies-transforming-the-ai-software-development-market-1e8ef2179439
@@ -60,8 +71,8 @@ March 2025,AI Infrastructure,Forum Ventures,AI Infrastructure Market Map,https:/
 March 2025,Robotics,Hardware FYI,Deep Tech Market Map - Robotics and Autonomous Systems,https://www.linkedin.com/feed/update/urn:li:activity:7308530241210093569/
 March 2025,AI Security,Software Analyst Cyber Research,Securing AI/LLMs in 2025: A Practical Guide To Securing & Deploying AI,https://softwareanalyst.substack.com/p/securing-aillms-in-2025-a-practical
 March 2025,Vertical AI,Forum Ventures,Vertical AI Market Map,https://airtable.com/appJKSyHsK9L7emVe/shrsmkAjfpzC7Ofaa/tblRYihkumYwZ9BXu
-March 2025,AI Everything Else,a16z,Shopping in 'God Mode' with AI,https://a16z.com/ai-shopping-online/
-March 2025,AI Everything Else,Optimist Ventures,Q1'25 Insurtech Market Map,https://medium.com/@jp_at_optimist/q125-insurtech-market-map-%EF%B8%8F-aa3ee89bd275
+March 2025,AI Everything Else,a16z,Shopping in God Mode with AI,https://a16z.com/ai-shopping-online/
+March 2025,AI Everything Else,Optimist Ventures,Q125 Insurtech Market Map,https://medium.com/@jp_at_optimist/q125-insurtech-market-map-%EF%B8%8F-aa3ee89bd275
 March 2025,AI Everything Else,Brighteye Ventures,AI for Enhancing Productivity - learning in the flow of work,https://www.brighteyevc.com/post/ai-for-training-the-evolution-of-corporate-training-1
 March 2025,AI Everything Else,Brighteye Ventures,AI for Training - the evolution of corporate training,https://www.brighteyevc.com/post/ai-for-training-the-evolution-of-corporate-training
 March 2025,AI Everything Else,Brighteye Ventures,AI for Hiring - how AI is transforming talent acquisition,https://www.brighteyevc.com/post/ai-for-hiring-transforming-talent-acquisition-with-ai
@@ -75,6 +86,7 @@ February 2025,AI Agents,AI Accelerator Instutite,Agentic Code Gen Market Leaders
 February 2025,AI Agents,Elaia,Agentic AI: the Next (R)evolution?,https://medium.com/elaia/agentic-ai-the-next-r-evolution-384bd77f5c57
 February 2025,AI Agents,Michael Tefula — Ada Ventures,AI Agent Market Map *,https://mychaelangelo.github.io/ai_agents_marketmap/
 February 2025,AI Agents,AgentOps.ai,2025 AI Agent Market Map,https://x.com/AtomSilverman/status/1893050805718262005
+February 2025,AI Data Engineering,Alireza Sadeghi — pracdata.io,2025 Open Source Data Engineering Landscape,https://www.pracdata.io/p/open-source-data-engineering-landscape-2025
 February 2025,AI DevTools,Dallas VC,Observability: Current Landscape and Emerging Trends,https://www.dallasvc.com/post/observability-current-landscape-and-emerging-trends
 February 2025,Robotics,Morgan Stanley Research,The Humanoid 100: Mapping the Humanoid Robot Value Chain,https://advisor.morganstanley.com/john.howard/documents/field/j/jo/john-howard/The_Humanoid_100_-_Mapping_the_Humanoid_Robot_Value_Chain.pdf
 February 2025,Robotics,Aaron Pickard — Dorm Room Fund,Humanoid Robots Market Map & Investor List,https://aaronpickard.substack.com/p/humanoid-robots-market-map-and-investor
@@ -89,7 +101,7 @@ January 2025,AI Agents,CB Insights,Industrial AI Agents & Copilots Market Map,ht
 January 2025,AI DevTools,AI Accelerator Institute,LLMOps Market Map,https://www.aiacceleratorinstitute.com/llmops-optimizing-towards-enterprise-value-in-the-llm-agentic-era/
 January 2025,Fintech AI,Magnusta Capital,FinTech AI Market Map,https://medium.com/%40Mangusta/mangusta-capital-2025-fintech-ai-market-map-c936a84e1a84
 January 2025,AI Hardware,AI Supremacy,The AI Semiconductor Landscape,https://www.ai-supremacy.com/p/the-ai-semiconductor-landscape-2025
-January 2025,Healthtech AI,Lux Capital,Unlocking Potential: Artificial Intelligence for Women's Health,https://www.luxcapital.com/news/unlocking-potential-artificial-intelligence-for-womens-health
+January 2025,Healthtech AI,Lux Capital,Unlocking Potential: Artificial Intelligence for Womens Health,https://www.luxcapital.com/news/unlocking-potential-artificial-intelligence-for-womens-health
 January 2025,Healthtech AI,NVIDIA,NVIDIA Healthcare & Life Sciences Market Map,https://x.com/HealthcareAIGuy/status/1884615818509680871
 January 2025,AI Security,TechOperators,Cybersecurity + AI Startup Market Map,https://www.linkedin.com/posts/techoperators-llc_cybersecurity-ai-startup-market-map-jan-activity-7287878267297017861-FIJr
 January 2025,Voice AI,Dawn Capital,Voice AI Market,https://dawncapital.com/horizons/#voice-ai-market
@@ -103,86 +115,90 @@ December 2024,AI Security,Brandon Dixon — Applied GAI in Security,Agentic Secu
 December 2024,AI Security,Software Analyst Cyber Research,Data Security Platforms: The New Frontier in Cybersecurity & AI,https://softwareanalyst.substack.com/p/data-security-platforms-the-new-frontier
 December 2024,Vertical AI,Greenfield,Vertical AI Is Here: How to Capture the Opportunity and Win Big,https://www.greenfield-growth.com/blog-posts/vertical-ai-is-here-how-to-capture-the-opportunity-and-win-big
 December 2024,AI Everything Else,DocuBridge,AI in Private Equity: an Overview of the AI Market Map,https://www.docubridge.ai/articles/ai-in-private-equity-an-overview-of-the-ai-market-map
-December 2024,AI Everything Else,Ascend,Mapping Seattle's Enterprise AI Startups,https://www.ascend.vc/blog/mapping-seattles-enterprise-ai-startups
+December 2024,AI Everything Else,Ascend,Mapping Seattles Enterprise AI Startups,https://www.ascend.vc/blog/mapping-seattles-enterprise-ai-startups
 December 2024,AI Everything Else,eaidb.org,The Responsible AI Ecosystem FY 2024 Market Map *,https://www.eaidb.org/map
 November 2024,AI Agents,Sahar Mor — AI Tidbits,The Open-Source Toolkit for Building AI Agents,https://www.aitidbits.ai/p/open-source-agents
 November 2024,AI Agents,Letta,The AI Agents Stack,https://www.letta.com/blog/ai-agents-stack
 November 2024,AI Automation,a16z,RIP to RPA: The Rise of Intelligent Automation,https://a16z.com/rip-to-rpa-the-rise-of-intelligent-automation/
-November 2024,Fintech AI,Foundation Capital,Banking's New Tech Stack: A market map of generative AI in financial services,https://foundationcapital.com/bankings-new-tech-stack-a-market-map-of-generative-ai-in-financial-services/
+November 2024,Fintech AI,Foundation Capital,Bankings New Tech Stack: A market map of generative AI in financial services,https://foundationcapital.com/bankings-new-tech-stack-a-market-map-of-generative-ai-in-financial-services/
 November 2024,GenAI,Menlo Ventures,2024: The State of Generative AI in the Enterprise,https://menlovc.com/2024-the-state-of-generative-ai-in-the-enterprise/
 November 2024,AI Hardware and Inference,Generative Value,The Inference Landscape,https://www.generativevalue.com/p/the-inference-landscape
 November 2024,Healthcare AI,Flare Capital,Representative Health System AI Market Map,https://x.com/HealthcareAIGuy/status/1854904237337325768
-November 2024,AI Security,PitchBook,Market Map: Application security defends software's next generation,https://pitchbook.com/news/articles/market-map-application-security-startups-q2-2024
-November 2024,AI Security,Felicis,How AI is reshaping IT QA and Incident Response,https://www.felicis.com/insight/ai-it-qa-incident-response
+November 2024,AI Security,PitchBook,Market Map: Application security defends softwares next generation,https://pitchbook.com/news/articles/market-map-application-security-startups-q2-2024
+November 2024,AI Security,Felicis,How AI is reshaping IT, QA, and Incident Response,https://www.felicis.com/insight/ai-it-qa-incident-response
 November 2024,Voice AI,Bessemer,Roadmap: Voice AI,https://www.bvp.com/atlas/roadmap-voice-ai
 November 2024,AI Everything Else,Sapphire Ventures,AI-Native Applications: A Framework for Evaluating the Future of Enterprise Software,https://sapphireventures.com/blog/ai-native-applications/
 November 2024,AI Everything Else,Insight Partners,Reimagination of everything: How intelligence-first design and the Next Stack will unlock human+AI collaborative reasoning,https://www.insightpartners.com/ideas/intelligence-first-design-unlocks-humanai-collaborative-reasoning/
 November 2024,AI Everything Else,Hardware FYI,Deep Tech Market Map: The Future of Aerospace and Defense,https://hardwarefyi.substack.com/p/deep-tech-market-map-the-future-of
 November 2024,AI Everything Else,OpenOcean,The market map for AI-enabled services: where to watch in 2025,https://www.openocean.vc/articles/the-market-map-for-ai-enabled-services-where-to-watch-in-2025
 November 2024,AI Everything Else,EdTech Insiders,The Edtech Insiders Generative AI Map,https://edtechinsiders.substack.com/p/the-edtech-insiders-generative-ai
-November 2024,AI Everything Else,Foundation Capital,A System of Agents brings Service-as-Software to life,https://foundationcapital.com/system-of-agents/
-November 2024,AI Everything Else,PitchBook,Market Map: VCs bet on data infrastructure to keep fueling AI,https://pitchbook.com/news/articles/market-map-venture-capital-investors-data-infrastructure-ai
-November 2024,AI Everything Else,Ardent Venture Partners,One Year Later: A Refreshed View of the AI-Native Vertical Software Landscape,https://medium.com/@ardent-vc/one-year-later-a-refreshed-view-of-the-ai-native-vertical-software-landscape-1c400dd1243e
-November 2024,AI Everything Else,Alex Carter,Leading RAG Technology Companies to Watch in 2024,https://medium.com/@iamalexcarter/leading-rag-technology-companies-to-watch-in-2024-ed6c1c6bc475
-November 2024,AI Everything Else,Nathan Benaich — Air Street Capital,Welcome to STATE OF AI REPORT 2024.,https://www.stateof.ai/2024-report-launch
-October 2024,AI Agents,Menlo Ventures,Beyond Bots: How AI Agents Are Driving the Next Wave of Enterprise Automation,https://menlovc.com/perspective/beyond-bots-how-ai-agents-are-driving-the-next-wave-of-enterprise-automation/
-October 2024,AI Agents,E2B.dev,Awesome AI Agents,https://github.com/e2b-dev/awesome-ai-agents
-October 2024,AI Everything Else,Climactic,Climate AI Market *,https://www.climactic.vc/climate-ai-market
-October 2024,Robotics,MMC,Robotics: Featuring the transformers,https://mmc.vc/research/robotics-featuring-the-transformers/
-October 2024,Voice AI,Lightspeed,The Future of Voice: Our Thoughts On How It Will Transform Conversational AI,https://lsvp.com/stories/the-future-of-voice-our-thoughts-on-how-it-will-transform-conversational-ai/
-October 2024,AI Everything Else,American Family Ventures,The 2024 Home Services Market Map,https://www.amfamventures.com/news/the-2024-home-services-market-map/
-October 2024,AI Everything Else,CACV Central,Mapping the Growth of AI in Canada Through Investment,https://central.cvca.ca/mapping-the-growth-of-ai-in-canada-through-investment
-October 2024,AI Everything Else,Lightspeed,AI Enterprise Market Map: Cutting Throught The Hype,https://lsvp.com/stories/ai-enterprise-market-map-cutting-through-the-hype/
-October 2024,AI Everything Else,Synaptic,Open Source AI: A Fast Forward,https://synaptic.com/resources/open-source-ai-2024
-October 2024,AI Security,Software Analyst Cyber Research,Deep Dive Into The Security for AI Ecosystem,https://softwareanalyst.substack.com/p/deep-dive-into-the-security-for-ai
-October 2024,AI Everything Else,New Economies,AI Unicorns Landscape,https://www.neweconomies.co/i/147601422/meet-the-ai-unicorns
-October 2024,AI Everything Else,Bessemer,The Rise of Cloud AI in India 2024,https://www.bvp.com/atlas/the-rise-of-cloud-ai-in-india-2024
-October 2024,AI Everything Else,New Economies,The 2024 landscape across enterprise and vertical platforms. Generative AI + AI Agents Market Maps,https://www.neweconomies.co/p/generative-ai
-October 2024,AI Everything Else,AWS Marketplace,Generative AI partner offerings in AWS Marketplace: Core & Infrastructure Software,https://aws.amazon.com/blogs/awsmarketplace/generative-ai-partner-offerings-in-aws-marketplace-core-infrastructure-software/
-October 2024,Robotics,Coatue,Robotics won't have a ChatGPT Moment,https://www.coatue.com/blog/perspective/robotics-wont-have-a-chatgpt-moment
-October 2024,AI Security,Geodesic Capital,Cybersecurity in an AI-First World,https://geodesiccap.com/insight/cybersecurity-in-an-ai-first-world/
-October 2024,AI Everything Else,a16z,Death of a Salesforce: Why AI Will Transform the Next Generation of Sales Tech,https://a16z.com/ai-transforms-sales/
-October 2024,AI Everything Else,a16z,New a16z investment thesis: AI scribes,https://x.com/omooretweets/status/1812878684182942144
-October 2024,AI Everything Else,Hardware FYI,Manufacturing Deep-Tech Market Map,https://hardwarefyi.substack.com/p/the-analog-89-apple-vision-pro-suppliers
-September 2024,AI Agents,Ollie Forsyth — New Economies,AI Agents: The ultimate market map,https://www.neweconomies.co/p/ai-agents-part-i
-September 2024,AI Agents,Madrona,The Rise of AI Agent Infrastructure,https://www.madrona.com/the-rise-of-ai-agent-infrastructure/
-September 2024,AI Data,Felicis,The rise of AI data infrastructure,https://www.felicis.com/insight/ai-data-infrastructure
-September 2024,AI Everything Else,Blumberg Capital,Mapping the AI Toolchain – 2024 Perspective,https://blumbergcapital.com/news-insights/mapping-the-ai-toolchain-2024-perspective/
-September 2024,AI Everything Else,PitchBook,Market Map: Mega-deals dominate AI's horizontal platform startups,https://pitchbook.com/news/articles/market-map-ai-ml-horizontal-platforms-2024
-September 2024,AI Infrastructure,Bessemer,Roadmap: AI Infrastructure,https://www.bvp.com/atlas/roadmap-ai-infrastructure
-September 2024,Legal AI,Battery Ventures,The New Code of Law: How AI Will Revolutionize the Legal Sector,https://www.battery.com/blog/the-new-code-of-law/
-September 2024,Legal AI,The LegalTech Fund,Early-Stage Legaltech Generative AI Market Map,https://www.legaltech.com/post/early-stage-legaltech-generative-ai-market-map-june-2024
-September 2024,AI Security,Deutsche Telekom Israel,Global GenAI Cyber Security Market Map,https://www.dtisrael.com/genaisecurity
-September 2024,AI Everything Else,a16z,Death Taxes and AI: How Generative AI Will Change Accounting,https://a16z.com/generative-ai-in-accounting/
-September 2024,AI Everything Else,a16z,Say Hello to My New AI Marketer: How Gen AI-Based Software Is Advancing Marketing and Sales,https://a16z.com/ai-marketer-how-gen-ai-based-software-is-advancing-marketing-and-sales/
-September 2024,AI Everything Else,The Westly Group,AI for the Power Sector,https://medium.com/@TheWestlyGroup/ai-for-the-power-sector-0aa7365fce82
-September 2024,AI Everything Else,Bain & Company,AI Leaders to Watch in 2024 mapped by Bain & Company as numbers of providers and funding continue to burgeon,https://www.bain.com/about/media-center/press-releases/2024/ai-leaders-to-watch-in-2024-mapped-by-bain--company-as-numbers-of-providers-and-funding-continue-to-burgeon/
-August 2024,Voice AI,a16z,Hi AI: Our Thesis On AI Voice Agents,https://x.com/omooretweets/status/1795834644732285402
-August 2024,AI Agents,Insight Partners,AI Agents are disrupting automation: Current approaches market solutions and recommendations,https://www.insightpartners.com/ideas/ai-agents-disrupting-automation/
-August 2024,AI Agents,Prosus Ventures,The emerging AI AgentOps landscape: a builders' perspective,https://www.prosus.com/news-insights/group-updates/2024/ai-agentops-landscape
-August 2024,Voice AI,Cobus Greyling,The Conversational AI Technology Landscape: Version 5.0,https://medium.com/@cobusgreyling/the-conversational-ai-technology-landscape-version-5-0-840290d97c7f
-August 2024,AI Data,Activant Capital,Unstructured Data Pipelines,https://activantcapital.com/research/unstructured-data-pipelines
-August 2024,AI Everything Else,Greylock,Code Smarter Not Harder,https://greylock.com/greymatter/code-smarter-not-harder/
-August 2024,AI Everything Else,Sapphire Ventures,Building the Future: A Deep Dive Into the Generative AI App Infrastructure Stack,https://sapphireventures.com/blog/building-the-future-a-deep-dive-into-the-generative-ai-app-infrastructure-stack/
-August 2024,Robotics,Obvious Ventures,Getting Physical: The New AI Frontier of Robotics,https://obvious.com/ideas/getting-physical-the-new-ai-frontier-of-robotics/
-August 2024,AI Everything Else,Paolo Fornasini — Venture,Top Of The Stack: Mapping Today's AI x PE-tech Landscape,https://medium.com/venturehq/top-of-the-stack-mapping-todays-ai-x-pe-tech-landscape-52d87d7aaa9a
-August 2024,AI Everything Else,Reimagine Ventures,The Q2 2024 Israeli Generative AI startup landscape,https://www.remagineventures.com/generative-ai-landscape/
-August 2024,AI Everything Else,Kyle Poyar and Palle Broe,How AI apps make money,https://substack.com/home/post/p-144001968
-July 2024,Voice AI,CXO Today,The Top Conversational AI Solutions Vendors in 2024,https://www.cxtoday.com/conversational-ai/the-top-conversational-ai-solutions-vendors-in-2024/
-July 2024,AI DevTools,Alex Irina Sandu,20 Popular Open Source AI Developer Tools,https://alexsandu.substack.com/p/20-popular-open-source-ai-developer
-July 2024,AI Everything Else,Tangram Vision,2024 Perception Industry Market Map,https://www.tangramvision.com/blog/2024-perception-industry-market-map
-July 2024,Top AI,Sequoia,AI 50 2024,https://www.sequoiacap.com/article/ai-50-2024/
-July 2024,Top AI,CB Insights,AI 100: The most promising artificial intelligence startups of 2024,https://www.cbinsights.com/research/report/artificial-intelligence-top-startups-2024/
-July 2024,AI Everything Else,Sapphire Ventures,La French Tech – A Tour de Force of Innovation and Growth,https://sapphireventures.com/blog/la-french-tech-a-tour-de-force-of-innovation-and-growth/
-July 2024,AI Everything Else,MMC,The Who's Who in Responsible AI,https://mmc.vc/research/the-whos-who-in-responsible-ai/
-July 2024,AI Everything Else,Foundation Capital,Beyond RPA: How LLMs are ushering in a new era of intelligent process automation,https://foundationcapital.com/beyond-rpa-how-llms-are-ushering-in-a-new-era-of-intelligent-process-automation/
-July 2024,AI Infrastructure,Criteria Venture Tech,LLM Infrastructure Stack Market Map,https://aleixperez.substack.com/p/llm-infrastructure-stack-market-landscape
-July 2024,AI Hardware,Activant Capital,Silicon Synapses for AI - AI hardware in data centers and on the edge,https://activantcapital.com/research/ai-hardware
-July 2024,AI Everything Else,Alex Huckstepp,Software for Hardware is Heating Up! The landscape of software solutions for developing and manufacturing hardware is rapidly expanding.,https://medium.com/@alexhuckstepp/software-for-hardware-is-heating-up-8c39979c0eac
-July 2024,AI Security,Creandum,Mastering AI Governance and Security,https://creandum.com/stories/mastering-ai-governance-and-security/
-July 2024,AI Everything Else,Matt Turck — Firstmark,Full Steam Ahead: The 2024 MAD (Machine Learning AI & Data) Landscape,https://mattturck.com/mad2024/
-July 2024,AI Everything Else,Maverick Ventures,Market Map of LLM Evaluation Startups,https://medium.com/p/what-the-history-of-software-development-tells-us-about-the-hurdles-to-enterprise-adoption-of-llms-c96bc968456d
-July 2024,Robotics,Sifted.eu,Early Stage European Robotics Market Map,https://sifted.eu/pro/briefings/robotics-2024
-July 2024,AI Security,Menlo Ventures,Security for AI: The New Wave of Startups Racing to Secure the AI Stack,https://menlovc.com/perspective/security-for-ai-genai-risks-and-the-emerging-startup-landscape/
-July 2024,AI Everything Else,Synaptic,Free Weights: Open Source AI,https://synaptic.com/resources/free-weights-open-source-ai
-January 2024,Vertical AI,Kwesi Acquay — Scaling Verticals,Is 2024 Vertical AI's breakout year?,https://scalingverticals.substack.com/p/is-2024-vertical-ais-breakout-year 
+October 2024,AI Agents,Foundation Capital,A System of Agents brings Service-as-Software to life,https://foundationcapital.com/system-of-agents/
+October 2024,AI Infrastructure,PitchBook,Market Map: VCs bet on data infrastructure to keep fueling AI,https://pitchbook.com/news/articles/market-map-venture-capital-investors-data-infrastructure-ai
+October 2024,AI Security,Oren Yunger & Dan Cahana — Notable Capital,Identity Crisis: Breaking Down The Emerging Identity Stack,https://www.notablecap.com/blog/identity-crisis-breaking-down-the-emerging-identity-stack
+October 2024,Vertical AI,Ardent Venture Partners,One Year Later: A Refreshed View of the AI-Native Vertical Software Landscape,https://medium.com/@ardent-vc/one-year-later-a-refreshed-view-of-the-ai-native-vertical-software-landscape-1c400dd1243e
+October 2024,AI Everything Else,Alex Carter,Leading RAG Technology Companies to Watch in 2024,https://medium.com/@iamalexcarter/leading-rag-technology-companies-to-watch-in-2024-ed6c1c6bc475
+October 2024,AI Everything Else,Nathan Benaich — Air Street Capital,Welcome to STATE OF AI REPORT 2024.,https://www.stateof.ai/2024-report-launch
+October 2024,AI Everything Else,Coinbase Ventures,Demystifying the Crypto x AI Stack,https://paragraph.com/@cbventures/demystifying-the-crypto-x-ai-stack
+September 2024,AI Agents,Menlo Ventures,Beyond Bots: How AI Agents Are Driving the Next Wave of Enterprise Automation,https://menlovc.com/perspective/beyond-bots-how-ai-agents-are-driving-the-next-wave-of-enterprise-automation/
+September 2024,AI Agents,E2B.dev,Awesome AI Agents,https://github.com/e2b-dev/awesome-ai-agents
+September 2024,Climate AI,Climactic,Climate AI Market *,https://www.climactic.vc/climate-ai-market
+September 2024,Robotics,MMC,Robotics: Featuring the transformers,https://mmc.vc/research/robotics-featuring-the-transformers/
+September 2024,Voice AI,Lightspeed,The Future of Voice: Our Thoughts On How It Will Transform Conversational AI,https://lsvp.com/stories/the-future-of-voice-our-thoughts-on-how-it-will-transform-conversational-ai/
+September 2024,AI Everything Else,American Family Ventures,The 2024 Home Services Market Map,https://www.amfamventures.com/news/the-2024-home-services-market-map/
+September 2024,AI Everything Else,CACV Central,Mapping the Growth of AI in Canada Through Investment,https://central.cvca.ca/mapping-the-growth-of-ai-in-canada-through-investment
+August 2024,Enterprise AI,Lightspeed,AI Enterprise Market Map: Cutting Throught The Hype,https://lsvp.com/stories/ai-enterprise-market-map-cutting-through-the-hype/
+August 2024,Open Source AI,Synaptic,Open Source AI: A Fast Forward,https://synaptic.com/resources/open-source-ai-2024
+August 2024,AI Security,Software Analyst Cyber Research,Deep Dive Into The Security for AI Ecosystem,https://softwareanalyst.substack.com/p/deep-dive-into-the-security-for-ai
+August 2024,AI Everything Else,New Economies,AI Unicorns Landscape,https://www.neweconomies.co/i/147601422/meet-the-ai-unicorns
+August 2024,AI Everything Else,Bessemer,The Rise of Cloud AI in India 2024,https://www.bvp.com/atlas/the-rise-of-cloud-ai-in-india-2024
+July 2024,GenAI,New Economies,The 2024 landscape across enterprise and vertical platforms. Generative AI + AI Agents Market Maps,https://www.neweconomies.co/p/generative-ai
+July 2024,GenAI,AWS Marketplace,Generative AI partner offerings in AWS Marketplace: Core & Infrastructure Software,https://aws.amazon.com/blogs/awsmarketplace/generative-ai-partner-offerings-in-aws-marketplace-core-infrastructure-software/
+July 2024,Robotics,Coatue,Robotics wont have a ChatGPT Moment,https://www.coatue.com/blog/perspective/robotics-wont-have-a-chatgpt-moment
+July 2024,AI Security,Geodesic Capital,Cybersecurity in an AI-First World,https://geodesiccap.com/insight/cybersecurity-in-an-ai-first-world/
+July 2024,AI Everything Else,a16z,Death of a Salesforce: Why AI Will Transform the Next Generation of Sales Tech,https://a16z.com/ai-transforms-sales/
+July 2024,AI Everything Else,a16z,New a16z investment thesis: AI scribes,https://x.com/omooretweets/status/1812878684182942144
+July 2024,AI Everything Else,Hardware FYI,Manufacturing Deep-Tech Market Map,https://hardwarefyi.substack.com/p/the-analog-89-apple-vision-pro-suppliers
+June 2024,AI Agents,Ollie Forsyth — New Economies,AI Agents: The ultimate market map,https://www.neweconomies.co/p/ai-agents-part-i
+June 2024,AI Data,Madrona,The Rise of AI Agent Infrastructure,https://www.madrona.com/the-rise-of-ai-agent-infrastructure/
+June 2024,AI Data,Felicis,The rise of AI data infrastructure,https://www.felicis.com/insight/ai-data-infrastructure
+June 2024,AI DevTools,Blumberg Capital,Mapping the AI Toolchain – 2024 Perspective,https://blumbergcapital.com/news-insights/mapping-the-ai-toolchain-2024-perspective/
+June 2024,Horizontal AI,PitchBook,Market Map: Mega-deals dominate AIs horizontal platform startups,https://pitchbook.com/news/articles/market-map-ai-ml-horizontal-platforms-2024
+June 2024,AI Infrastructure,Bessemer,Roadmap: AI Infrastructure,https://www.bvp.com/atlas/roadmap-ai-infrastructure
+June 2024,Legaltech AI,Battery Ventures,The New Code of Law: How AI Will Revolutionize the Legal Sector,https://www.battery.com/blog/the-new-code-of-law/
+June 2024,Legaltech AI,The LegalTech Fund,Early-Stage Legaltech Generative AI Market Map,https://www.legaltech.com/post/early-stage-legaltech-generative-ai-market-map-june-2024
+June 2024,AI Security,Deutsche Telekom Israel,Global GenAI Cyber Security Market Map,https://www.dtisrael.com/genaisecurity
+June 2024,AI Everything Else,a16z,Death, Taxes, and AI: How Generative AI Will Change Accounting,https://a16z.com/generative-ai-in-accounting/
+June 2024,AI Everything Else,a16z,Say Hello to My New AI Marketer: How Gen AI-Based Software Is Advancing Marketing and Sales,https://a16z.com/ai-marketer-how-gen-ai-based-software-is-advancing-marketing-and-sales/
+June 2024,AI Everything Else,The Westly Group,AI for the Power Sector,https://medium.com/@TheWestlyGroup/ai-for-the-power-sector-0aa7365fce82
+June 2024,AI Everything Else,Bain & Company,AI Leaders to Watch in 2024 mapped by Bain & Company as numbers of providers and funding continue to burgeon,https://www.bain.com/about/media-center/press-releases/2024/ai-leaders-to-watch-in-2024-mapped-by-bain--company-as-numbers-of-providers-and-funding-continue-to-burgeon/
+May 2024,AI Agents,a16z,Hi, AI: Our Thesis On AI Voice Agents,https://x.com/omooretweets/status/1795834644732285402
+May 2024,AI Agents,Insight Partners,AI Agents are disrupting automation: Current approaches, market solutions and recommendations,https://www.insightpartners.com/ideas/ai-agents-disrupting-automation/
+May 2024,AI Agents,Prosus Ventures,The emerging AI AgentOps landscape: a builders perspective,https://www.prosus.com/news-insights/group-updates/2024/ai-agentops-landscape
+May 2024,Conversational AI,Cobus Greyling,The Conversational AI Technology Landscape: Version 5.0,https://medium.com/@cobusgreyling/the-conversational-ai-technology-landscape-version-5-0-840290d97c7f
+May 2024,AI Data,Activant Capital,Unstructured Data Pipelines,https://activantcapital.com/research/unstructured-data-pipelines
+May 2024,AI DevTools,Greylock,Code Smarter, Not Harder,https://greylock.com/greymatter/code-smarter-not-harder/
+May 2024,AI Infrastructure,Sapphire Ventures,Building the Future: A Deep Dive Into the Generative AI App Infrastructure Stack,https://sapphireventures.com/blog/building-the-future-a-deep-dive-into-the-generative-ai-app-infrastructure-stack/
+May 2024,Robotics,Obvious Ventures,Getting Physical: The New AI Frontier of Robotics,https://obvious.com/ideas/getting-physical-the-new-ai-frontier-of-robotics/
+May 2024,AI Everything Else,Paolo Fornasini — Venture,Top Of The Stack: Mapping Todays AI x PE-tech Landscape,https://medium.com/venturehq/top-of-the-stack-mapping-todays-ai-x-pe-tech-landscape-52d87d7aaa9a
+May 2024,AI Everything Else,Reimagine Ventures,The Q2 2024 Israeli Generative AI startup landscape,https://www.remagineventures.com/generative-ai-landscape/
+May 2024,AI Everything Else,Kyle Poyar and Palle Broe,How AI apps make money,https://substack.com/home/post/p-144001968
+April 2024,Conversational AI,CXO Today,The Top Conversational AI Solutions Vendors in 2024,https://www.cxtoday.com/conversational-ai/the-top-conversational-ai-solutions-vendors-in-2024/
+April 2024,Open Source AI,Alex Irina Sandu,20 Popular Open Source AI Developer Tools,https://alexsandu.substack.com/p/20-popular-open-source-ai-developer
+April 2024,Robotics,Tangram Vision,2024 Perception Industry Market Map,https://www.tangramvision.com/blog/2024-perception-industry-market-map
+April 2024,Top AI,Sequoia,AI 50 2024,https://www.sequoiacap.com/article/ai-50-2024/
+April 2024,Top AI,CB Insights,AI 100: The most promising artificial intelligence startups of 2024,https://www.cbinsights.com/research/report/artificial-intelligence-top-startups-2024/
+April 2024,AI Everything Else,Sapphire Ventures,La French Tech – A Tour de Force of Innovation and Growth,https://sapphireventures.com/blog/la-french-tech-a-tour-de-force-of-innovation-and-growth/
+April 2024,AI Everything Else,MMC,The Whos Who in Responsible AI,https://mmc.vc/research/the-whos-who-in-responsible-ai/
+March 2024,AI Automation,Foundation Capital,Beyond RPA: How LLMs are ushering in a new era of intelligent process automation,https://foundationcapital.com/beyond-rpa-how-llms-are-ushering-in-a-new-era-of-intelligent-process-automation/
+March 2024,AI Infrastructure,Criteria Venture Tech,LLM Infrastructure Stack Market Map,https://aleixperez.substack.com/p/llm-infrastructure-stack-market-landscape
+March 2024,AI Hardware,Activant Capital,Silicon Synapses for AI - AI hardware in data centers and on the edge,https://activantcapital.com/research/ai-hardware
+March 2024,AI Hardware,Alex Huckstepp,Software for Hardware is Heating Up! The landscape of software solutions for developing and manufacturing hardware is rapidly expanding.,https://medium.com/@alexhuckstepp/software-for-hardware-is-heating-up-8c39979c0eac
+March 2024,AI Security,Creandum,Mastering AI Governance and Security,https://creandum.com/stories/mastering-ai-governance-and-security/
+March 2024,AI Everything Else,Matt Turck — Firstmark,Full Steam Ahead: The 2024 MAD (Machine Learning, AI & Data) Landscape,https://mattturck.com/mad2024/
+February 2024,AI DevTools,Maverick Ventures,Market Map of LLM Evaluation Startups,https://medium.com/p/what-the-history-of-software-development-tells-us-about-the-hurdles-to-enterprise-adoption-of-llms-c96bc968456d
+February 2024,Robotics,Sifted.eu,Early Stage European Robotics Market Map,https://sifted.eu/pro/briefings/robotics-2024
+February 2024,AI Security,Menlo Ventures,Security for AI: The New Wave of Startups Racing to Secure the AI Stack,https://menlovc.com/perspective/security-for-ai-genai-risks-and-the-emerging-startup-landscape/
+January 2024,AI Data Engineering,Alireza Sadeghi — pracdata.io,2024 Open Source Data Engineering Landscape,https://www.pracdata.io/p/open-source-data-engineering-landscape
+January 2024,Open Source AI,Synaptic,Free Weights: Open Source AI,https://synaptic.com/resources/free-weights-open-source-ai
+January 2024,Vertical AI,Kwesi Acquay — Scaling Verticals,Is 2024 Vertical AIs breakout year?,https://scalingverticals.substack.com/p/is-2024-vertical-ais-breakout-year
+
