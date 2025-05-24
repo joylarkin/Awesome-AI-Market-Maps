@@ -1,6 +1,6 @@
 # Awesome AI Market Maps  [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)  [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/joylarkin/Awesome-AI-Market-Maps)  ![Last Commit](https://img.shields.io/github/last-commit/joylarkin/Awesome-AI-Market-Maps.svg)  
 
-An Awesome List of Artificial Intelligence-related Market Maps from 2025 and 2024.  
+An Awesome List of Artificial Intelligence Startup Market Maps from 2025 and 2024.  
 
 ***Now featuring over 200 AI Market Maps!***   
 
