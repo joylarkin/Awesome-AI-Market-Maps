@@ -26,6 +26,7 @@ OR
 🌟 GitHub stars are appreciated.  
 
 
+🔍 Search the CSV file → https://github.com/joylarkin/Awesome-AI-Market-Maps/blob/main/ai_market_maps.csv  
 🤗 Hugging Face Dataset → https://huggingface.co/datasets/joylarkin/2025AIMarketMaps  
 ️‍🔥 MCP server → https://gitmcp.io/joylarkin/Awesome-AI-Market-Maps  
 
