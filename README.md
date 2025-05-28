@@ -82,6 +82,7 @@ OR
 - [Jonathan King — Coinbase Ventures - The Rise of Onchain AI: Agents, Apps, and Commerce - May 2025](https://x.com/cbventures/status/1923401975766355982)
 - [Ollie Forsyth & Partners — New Economies - HOW TO ADOPT AI WITHIN THE WORKPLACE - May 2025](https://www.neweconomies.co/i/161537748/how-to-adopt-ai-within-the-workplace)
 - [MMC - AI Discoverability: How can I get ChatGPT to recommend my brand? - May 2025](https://mmc.vc/research/ai-discoverability-how-can-i-get-chatgpt-to-recommend-my-brand/)
+- [Zach Cohen and Seema Amble — a16z - How Generative Engine Optimization (GEO) Rewrites the Rules of Search - May 2025](https://a16z.com/geo-over-seo)
 
 
 ***  
