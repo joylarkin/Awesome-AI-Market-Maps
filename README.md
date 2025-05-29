@@ -46,6 +46,7 @@ OR
 
 #### AI Drug Discovery
 - [Scale Venture Partners - The future of biological foundation models and value creation in AI-driven drug discovery - May 2025](https://www.scalevp.com/insights/the-future-of-biological-foundation-models-and-value-creation-in-ai-driven-drug-discovery/)
+- [CB Insights - The AI in drug R&D market map - May 2025](https://www.cbinsights.com/research/ai-drug-research-development-market-map/)
 
 #### Enterprise AI 
 - [Lightspeed - AI Enterprise Market Map: Cutting through the hype - May 2025](https://lsvp.com/stories/ai-enterprise-market-map-cutting-through-the-hype/)
