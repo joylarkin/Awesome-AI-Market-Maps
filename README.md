@@ -54,6 +54,7 @@ OR
 #### AI Hardware and Inference
 - [AI Insider - Market Map: AI Hardware and Datacenter enablers - May 2025](https://www.linkedin.com/posts/ai-insider-intel_ai-chips-gpus-activity-7329150192421703683-k4uw)
 - [AlbionVC & Beauhurst - UK Future of Compute Market Map - May 2025](https://albion.vc/spotlight/deep-dives/the-future-of-compute-mini-market-map/)
+- [Wing VC - The AI Inference Stack - May 2025](https://www.linkedin.com/pulse/ai-inference-stack-jake-flomenberg-rsppc/)
 
 #### AI Infrastructure
 - [Cobus Greyling - AI Agent infrastructure and Build Stack - May 2025](https://www.linkedin.com/posts/cobusgreyling_ai-artificialintelligence-aiagents-activity-7325111303839055872-qrem)
