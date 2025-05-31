@@ -374,8 +374,14 @@ OR
 #### Climate AI
 - [Climactic - Climate AI Market * - September 2024](https://www.climactic.vc/climate-ai-market)
 
+#### Health AI 
+- [IVP - Health AI 35: What to know, who to watch - September 2024](https://www.ivp.com/content/health-ai-35-what-to-know-who-to-watch/)
+
 #### Robotics
 - [MMC - Robotics: Featuring the transformers - September 2024](https://mmc.vc/research/robotics-featuring-the-transformers/)
+
+#### Vertical AI
+- [IVP - The Value of Vertical AI - September 2024](https://www.ivp.com/content/the-value-of-vertical-ai/)
 
 #### Voice AI
 - [Lightspeed - The Future of Voice: Our Thoughts On How It Will Transform Conversational AI - September 2024](https://lsvp.com/stories/the-future-of-voice-our-thoughts-on-how-it-will-transform-conversational-ai/)
@@ -435,6 +441,9 @@ OR
 
 #### AI DevTools
 - [Blumberg Capital - Mapping the AI Toolchain – 2024 Perspective - June 2024](https://blumbergcapital.com/news-insights/mapping-the-ai-toolchain-2024-perspective/)
+
+#### Enterprise AI
+- [IVP - The IVP Enterprise AI 55: 2024 Edition - June 2024](https://www.ivp.com/content/the-ivp-enterprise-ai-55-2024/)
 
 #### Horizontal AI
 - [PitchBook - Market Map: Mega-deals dominate AI’s horizontal platform startups - June 2024](https://pitchbook.com/news/articles/market-map-ai-ml-horizontal-platforms-2024)
