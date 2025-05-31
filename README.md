@@ -40,7 +40,7 @@ OR
 
 #### AI Agents
 - [b2venture - The Market Map of AI Voice & Call Center Agents - May 2025](https://www.b2venture.vc/stories/the-market-map-of-ai-voice-call-center-agents)
-- [Tanay Jaipuria Wing VC - AI App Builder Agents: Default Tool Choices - May 2025](https://www.linkedin.com/posts/tanayjaipuria_80-of-new-databases-on-neon-were-created-activity-7333552988696829953-boOp)
+- [Tanay Jaipuria — Wing VC - AI App Builder Agents: Default Tool Choices - May 2025](https://www.linkedin.com/posts/tanayjaipuria_80-of-new-databases-on-neon-were-created-activity-7333552988696829953-boOp)
 
 #### AI Data
 - [AI Insider - Layer 2 Data Structure and Processing market map - May 2025](https://www.linkedin.com/posts/ai-insider-intel_layer-2-market-map-activity-7331600550217551874-Xgzz)
