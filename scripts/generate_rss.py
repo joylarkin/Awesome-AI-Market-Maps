@@ -32,9 +32,9 @@ for title, url in items:
     fe.id(url)
     fe.title(title)
     fe.link(href=url)
-    fe.published(utc_now)          # (or parse dates per item if you add them)
-                                                          # Add the description field to each entry
-    fe.description(f"Learn more about {title} at {url}")  # Add a default description
+    fe.published(utc_now)          # (or parse dates per item if you add them)                            
+    description = f"Learn more about {title} at {url}" if title and url else "No description available."  # Ensure description is populated
+    fe.description(description)
 
 # ── write/overwrite the XML file ──────────────────────────────────────────────
 out = ROOT / "feeds"
