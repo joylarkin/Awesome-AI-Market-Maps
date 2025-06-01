@@ -41,10 +41,10 @@ for line in block.splitlines():
 
 fg = FeedGenerator()
 fg.id("https://github.com/joylarkin/Awesome-AI-Market-Maps")
-fg.title("Awesome AI Market Maps – Master AI Market Maps Update Feed.")
+fg.title("Awesome AI Market Maps – Master AI Market Maps Update Feed.")  # RSS feed title
 fg.link(href="https://github.com/joylarkin/Awesome-AI-Market-Maps")
 fg.language("en")
-fg.description("A curated list of AI Market Maps from the Awesome-AI-Market-Maps GitHub repository. Follow for new AI Market Maps as they are added. Curated by Joy Larkin (Twitter:@joy).")
+fg.description("Updated list of AI Market Maps from the Awesome-AI-Market-Maps GitHub repository. Follow for new AI Market Maps as they are added. By Joy Larkin (Twitter: @joy).")
 
 utc_now = dt.datetime.now(dt.timezone.utc)
 for title, url in reversed(items):
