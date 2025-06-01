@@ -1,0 +1,32 @@
+name: Re-build RSS
+
+on:
+  push:
+    paths: [ "README.md", "scripts/generate_rss.py" ]   # run when list changes
+  schedule:
+    - cron:  '0 6 * * *'    # 06:00 UTC daily as a safety net
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install deps
+        run: pip install feedgen
+
+      - name: Generate feed
+        run: python scripts/generate_rss.py
+
+      - name: Commit updated feed
+        run: |
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name  "github-actions[bot]"
+          git add feeds/AIMarketMaps.xml
+          git commit -m "chore: auto-update AI Market Maps feed" || echo "nothing new"
+          git push 
