@@ -151,8 +151,8 @@ OR
 - [CBInsights - AI 100: The most promising artificial intelligence startups of 2025 - April 2025](https://www.cbinsights.com/research/report/artificial-intelligence-top-startups-2025/)
 
 #### AI Everything Else
-- [Reach Capital - AI Is Unlocking the Future of Frontline Work — And Where We’re Investing - April 2025](https://www.reachcapital.com/2025/04/03/ai-is-unlocking-the-future-of-frontline-work-and-where-were-investing/)
-- [a16z - AI Learned to Talk. Now it’s Learning to Build Reality - April 2025](https://a16z.com/ai-is-learning-to-build-reality/)
+- [Reach Capital - AI Is Unlocking the Future of Frontline Work — And Where We're Investing - April 2025](https://www.reachcapital.com/2025/04/03/ai-is-unlocking-the-future-of-frontline-work-and-where-were-investing/)
+- [a16z - AI Learned to Talk. Now it's Learning to Build Reality - April 2025](https://a16z.com/ai-is-learning-to-build-reality/)
 - [a16z - AI Avatars Escape the Uncanny Valley - April 2025](https://a16z.com/ai-avatars/)
 - [XAnge - Market Map: European AI-Enabled SalesTech - April 2025](https://www.xange.vc/knowledge-hub/ai-enabled-salestech-separating-hype-from-the-real)
 - [CroAI - The Croatian AI Landscape - April 2025](https://map.croai.org/)
@@ -176,7 +176,7 @@ OR
 
 #### AI Data
 - [Bessemer - Roadmap: Data 3.0 in the Lakehouse Era - March 2025](https://www.bvp.com/atlas/roadmap-data-3-0-in-the-lakehouse-era)
-- [Activant Capital - AI's Undervalued Asset - Data’s pivotal role in the next era of Gen AI deployment - March 2025](https://activantcapital.com/research/ai-s-undervalued-asset)
+- [Activant Capital - AI's Undervalued Asset - Data's pivotal role in the next era of Gen AI deployment - March 2025](https://activantcapital.com/research/ai-s-undervalued-asset)
 
 #### AI DevTools and Integrations
 - [a16z - MCP Market Map - March 2025](https://a16z.com/a-deep-dive-into-mcp-and-the-future-of-ai-tooling/)
@@ -215,7 +215,7 @@ OR
 
 #### AI Everything Else
 - [a16z - Shopping in 'God Mode' with AI - March 2025](https://a16z.com/ai-shopping-online/)
-- [Optimist Ventures - Q1’25 Insurtech Market Map - March 2025](https://medium.com/@jp_at_optimist/q125-insurtech-market-map-%EF%B8%8F-aa3ee89bd275)
+- [Optimist Ventures - Q1'25 Insurtech Market Map - March 2025](https://medium.com/@jp_at_optimist/q125-insurtech-market-map-%EF%B8%8F-aa3ee89bd275)
 - [Brighteye Ventures - AI for Enhancing Productivity - learning in the flow of work - March 2025](https://www.brighteyevc.com/post/ai-for-training-the-evolution-of-corporate-training-1)
 - [Brighteye Ventures - AI for Training - the evolution of corporate training - March 2025](https://www.brighteyevc.com/post/ai-for-training-the-evolution-of-corporate-training)
 - [Brighteye Ventures - AI for Hiring - how AI is transforming talent acquisition - March 2025](https://www.brighteyevc.com/post/ai-for-hiring-transforming-talent-acquisition-with-ai)
@@ -272,7 +272,7 @@ OR
 - [AI Supremacy - The AI Semiconductor Landscape - January 2025](https://www.ai-supremacy.com/p/the-ai-semiconductor-landscape-2025)
 
 #### Healthtech AI
-- [Lux Capital - Unlocking Potential: Artificial Intelligence for Women’s Health - January 2025](https://www.luxcapital.com/news/unlocking-potential-artificial-intelligence-for-womens-health)
+- [Lux Capital - Unlocking Potential: Artificial Intelligence for Women's Health - January 2025](https://www.luxcapital.com/news/unlocking-potential-artificial-intelligence-for-womens-health)
 - [NVIDIA - NVIDIA Healthcare & Life Sciences Market Map - January 2025](https://x.com/HealthcareAIGuy/status/1884615818509680871)
 
 #### AI Security
@@ -325,7 +325,7 @@ OR
 - [a16z - RIP to RPA: The Rise of Intelligent Automation - November 2024](https://a16z.com/rip-to-rpa-the-rise-of-intelligent-automation/)
 
 #### Fintech AI
-- [Foundation Capital - Banking’s New Tech Stack: A market map of generative AI in financial services - November 2024](https://foundationcapital.com/bankings-new-tech-stack-a-market-map-of-generative-ai-in-financial-services/)
+- [Foundation Capital - Banking's New Tech Stack: A market map of generative AI in financial services - November 2024](https://foundationcapital.com/bankings-new-tech-stack-a-market-map-of-generative-ai-in-financial-services/)
 
 #### GenAI
 - [Menlo Ventures - 2024: The State of Generative AI in the Enterprise - November 2024](https://menlovc.com/2024-the-state-of-generative-ai-in-the-enterprise/)
@@ -337,7 +337,7 @@ OR
 - [Flare Capital - Representative Health System AI Market Map - November 2024](https://x.com/HealthcareAIGuy/status/1854904237337325768)
 
 #### AI Security
-- [PitchBook - Market Map: Application security defends software’s next generation - November 2024](https://pitchbook.com/news/articles/market-map-application-security-startups-q2-2024)
+- [PitchBook - Market Map: Application security defends software's next generation - November 2024](https://pitchbook.com/news/articles/market-map-application-security-startups-q2-2024)
 - [Felicis - How AI is reshaping IT, QA, and Incident Response - November 2024](https://www.felicis.com/insight/ai-it-qa-incident-response)
 
 #### Voice AI
@@ -426,7 +426,7 @@ OR
 - [AWS Marketplace - Generative AI partner offerings in AWS Marketplace: Core & Infrastructure Software - July 2024](https://aws.amazon.com/blogs/awsmarketplace/generative-ai-partner-offerings-in-aws-marketplace-core-infrastructure-software/)
 
 #### Robotics
-- [Coatue - Robotics won’t have a ChatGPT Moment - July 2024](https://www.coatue.com/blog/perspective/robotics-wont-have-a-chatgpt-moment)
+- [Coatue - Robotics won't have a ChatGPT Moment - July 2024](https://www.coatue.com/blog/perspective/robotics-wont-have-a-chatgpt-moment)
 
 #### AI Security 
 - [Geodesic Capital - Cybersecurity in an AI-First World - July 2024](https://geodesiccap.com/insight/cybersecurity-in-an-ai-first-world/)
@@ -456,7 +456,7 @@ OR
 - [IVP - The IVP Enterprise AI 55: 2024 Edition - June 2024](https://www.ivp.com/content/the-ivp-enterprise-ai-55-2024/)
 
 #### Horizontal AI
-- [PitchBook - Market Map: Mega-deals dominate AI’s horizontal platform startups - June 2024](https://pitchbook.com/news/articles/market-map-ai-ml-horizontal-platforms-2024)
+- [PitchBook - Market Map: Mega-deals dominate AI's horizontal platform startups - June 2024](https://pitchbook.com/news/articles/market-map-ai-ml-horizontal-platforms-2024)
 
 #### AI Infrastructure
 - [Bessemer - Roadmap: AI Infrastructure - June 2024](https://www.bvp.com/atlas/roadmap-ai-infrastructure)
@@ -499,7 +499,7 @@ OR
 - [Obvious Ventures - Getting Physical: The New AI Frontier of Robotics - May 2024](https://obvious.com/ideas/getting-physical-the-new-ai-frontier-of-robotics/)
 
 #### AI Everything Else
-- [Paolo Fornasini — Venture - Top Of The Stack: Mapping Today’s AI x PE-tech Landscape - May 2024](https://medium.com/venturehq/top-of-the-stack-mapping-todays-ai-x-pe-tech-landscape-52d87d7aaa9a)
+- [Paolo Fornasini — Venture - Top Of The Stack: Mapping Today's AI x PE-tech Landscape - May 2024](https://medium.com/venturehq/top-of-the-stack-mapping-todays-ai-x-pe-tech-landscape-52d87d7aaa9a)
 - [Reimagine Ventures - The Q2 2024 Israeli Generative AI startup landscape - May 2024](https://www.remagineventures.com/generative-ai-landscape/)
 - [Kyle Poyar and Palle Broe - How AI apps make money - May 2024](https://substack.com/home/post/p-144001968)
 
@@ -521,8 +521,8 @@ OR
 - [CB Insights - AI 100: The most promising artificial intelligence startups of 2024 - April 2024](https://www.cbinsights.com/research/report/artificial-intelligence-top-startups-2024/)
 
 #### AI Everything Else
-- [Sapphire Ventures - “La French Tech” – A Tour de Force of Innovation and Growth - April 2024](https://sapphireventures.com/blog/la-french-tech-a-tour-de-force-of-innovation-and-growth/)
-- [MMC - The Who’s Who in Responsible AI - April 2024](https://mmc.vc/research/the-whos-who-in-responsible-ai/)
+- [Sapphire Ventures - "La French Tech" – A Tour de Force of Innovation and Growth - April 2024](https://sapphireventures.com/blog/la-french-tech-a-tour-de-force-of-innovation-and-growth/)
+- [MMC - The Who's Who in Responsible AI - April 2024](https://mmc.vc/research/the-whos-who-in-responsible-ai/)
 
 
 ---
@@ -569,7 +569,7 @@ OR
 - [Synaptic - Free Weights: Open Source AI - January 2024](https://synaptic.com/resources/free-weights-open-source-ai)
 
 #### Vertical AI
-- [Kwesi Acquay — Scaling Verticals - Is 2024 Vertical AI’s breakout year? - January 2024](https://scalingverticals.substack.com/p/is-2024-vertical-ais-breakout-year)
+- [Kwesi Acquay — Scaling Verticals - Is 2024 Vertical AI's breakout year? - January 2024](https://scalingverticals.substack.com/p/is-2024-vertical-ais-breakout-year)
 
 
 
