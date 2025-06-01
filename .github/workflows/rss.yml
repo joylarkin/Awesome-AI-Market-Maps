@@ -9,8 +9,12 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Required for pushing changes
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -29,4 +33,4 @@ jobs:
           git config --global user.name  "github-actions[bot]"
           git add feeds/AIMarketMaps.xml
           git commit -m "chore: auto-update AI Market Maps feed" || echo "nothing new"
-          git push 
+          git push origin main 
