@@ -36,6 +36,13 @@ OR
 
 ## AI Market Maps - Q2 2025
 
+### June 2025
+
+#### AI Agents
+- [Sahar Mor — AI Tidbits - The Open-Source Toolkit for Building AI Agents v2 - June 2025](https://www.aitidbits.ai/p/open-source-agents-updated)
+
+
+***
 ### May 2025
 
 #### AI Agents
