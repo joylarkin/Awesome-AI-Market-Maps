@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# This script generates an RSS feed from the README.md file.
 """
 Re-builds feeds/AIMarketMaps.xml from every list item that sits
 *below* the banner  '## ▦ MARKET MAPS ▦' in README.md
@@ -40,10 +41,10 @@ for line in block.splitlines():
 
 fg = FeedGenerator()
 fg.id("https://github.com/joylarkin/Awesome-AI-Market-Maps")
-fg.title("Awesome AI Market Maps – master feed")
+fg.title("Awesome AI Market Maps – Master AI Market Maps Update Feed.")
 fg.link(href="https://github.com/joylarkin/Awesome-AI-Market-Maps")
 fg.language("en")
-fg.description("A curated list of AI Market Maps from the Awesome-AI-Market-Maps GitHub repository.")
+fg.description("A curated list of AI Market Maps from the Awesome-AI-Market-Maps GitHub repository. Follow for new AI Market Maps as they are added. Curated by Joy Larkin (Twitter:@joy).")
 
 utc_now = dt.datetime.now(dt.timezone.utc)
 for title, url in reversed(items):
