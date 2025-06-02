@@ -19,7 +19,7 @@ Named AI market maps, landscapes, blog posts with market maps, and related AI in
 OR  
 💬 Tweet at me [@joy](https://twitter.com/joy) OR Connect with me on [LinkedIn](https://www.linkedin.com/in/joylarkin/)  
 OR  
-📩 Submit via email at jklarkin+AIMM AT gmail dot com
+📩 Submit via email at jklarkin+AIMM AT gmail dot com  
 
 
 🙌 Spread the word.  
