@@ -41,7 +41,13 @@ OR
 ### June 2025  
 
 #### AI Agents
-- [Sahar Mor — AI Tidbits - The Open-Source Toolkit for Building AI Agents v2 - June 2025](https://www.aitidbits.ai/p/open-source-agents-updated) 
+- [Sahar Mor — AI Tidbits - The Open-Source Toolkit for Building AI Agents v2 - June 2025](https://www.aitidbits.ai/p/open-source-agents-updated)
+
+#### AI Video
+- [Nic Mitham - The AI Video Stack: Status By Company - June 2025](https://www.linkedin.com/posts/nicmitham_aivideo-fullstack-shortformvideo-activity-7335359142515142656-h3Gx)
+
+#### AI Everything Else
+- [Henry Shi - Market Map of AI Ad-Gen Tools - June 2025](https://www.linkedin.com/posts/henrythe9th_ive-spent-100m-on-ads-as-a-founder-and-activity-7335640153769562116-ndd-)
 
 
 ***
@@ -222,6 +228,7 @@ OR
 - [Florian Seemann — P9 - A First Landscape of AI-first Service Businesses - March 2025](https://medium.com/point-nine-news/a-first-landscape-of-ai-first-service-businesses-d0a5e4977678)
 - [RankMyAI - Mapping the Dutch AI Landscape: Key insights from our latest report - March 2025](https://www.rankmyai.com/insights/5/mapping-the-dutch-ai-landscape-key-insights-from-our-latest-report)
 - [Juhi Parekh - Demystifying Spatial AI : A Market Map - March 2025](https://juhiparekh.substack.com/p/demystifying-spatial-ai)
+- [Eric Flanigam — Generative Value - The Current State of AI Markets - March 2025](https://www.generativevalue.com/p/the-current-state-of-ai-markets-6b3)
 
 
 ***  
@@ -262,14 +269,18 @@ OR
 - [Dawn Capital - AI Agents - January 2025](https://dawncapital.com/horizons/#agentic-ai)
 - [CB Insights - Industrial AI Agents & Copilots Market Map - January 2025](https://x.com/CBinsights/status/1879536580496343474)
 
+#### AI Data
+- [Eric Flanigam — Generative Value - The Unstructured Data Landscape - January 2025](https://www.generativevalue.com/p/the-unstructured-data-landscape)
+
 #### AI DevTools
 - [AI Accelerator Institute - LLMOps Market Map - January 2025](https://www.aiacceleratorinstitute.com/llmops-optimizing-towards-enterprise-value-in-the-llm-agentic-era/)
 
 #### Fintech AI
 - [Magnusta Capital - FinTech AI Market Map - January 2025](https://medium.com/%40Mangusta/mangusta-capital-2025-fintech-ai-market-map-c936a84e1a84)
 
-#### AI Hardware
+#### AI Hardware and Inference
 - [AI Supremacy - The AI Semiconductor Landscape - January 2025](https://www.ai-supremacy.com/p/the-ai-semiconductor-landscape-2025)
+- [Eric Flanigam — Generative Value - A Deep Dive on Inference Semiconductors - January 2025](https://www.generativevalue.com/p/a-deep-dive-on-inference-semiconductors)
 
 #### Healthtech AI
 - [Lux Capital - Unlocking Potential: Artificial Intelligence for Women's Health - January 2025](https://www.luxcapital.com/news/unlocking-potential-artificial-intelligence-for-womens-health)
@@ -357,6 +368,9 @@ OR
 #### AI Agents
 - [Foundation Capital - A System of Agents brings Service-as-Software to life - October 2024](https://foundationcapital.com/system-of-agents/)
 
+#### AI Hardware
+- [Eric Flanigam — Generative Value - A Primer on AI Data Centers - October 2024](https://www.generativevalue.com/p/a-primer-on-ai-data-centers)
+
 #### AI Infrastructure
 - [PitchBook - Market Map: VCs bet on data infrastructure to keep fueling AI - October 2024](https://pitchbook.com/news/articles/market-map-venture-capital-investors-data-infrastructure-ai)
 
@@ -370,6 +384,7 @@ OR
 - [Alex Carter - Leading RAG Technology Companies to Watch in 2024 - October 2024](https://medium.com/@iamalexcarter/leading-rag-technology-companies-to-watch-in-2024-ed6c1c6bc475)
 - [Nathan Benaich — Air Street Capital - Welcome to STATE OF AI REPORT 2024. - October 2024](https://www.stateof.ai/2024-report-launch)
 - [Coinbase Ventures - Demystifying the Crypto x AI Stack - October 2024](https://paragraph.com/@cbventures/demystifying-the-crypto-x-ai-stack)
+- [Eric Flanigam — Generative Value - Nuclear's AI Opportunity - October 2024](https://www.generativevalue.com/p/nuclears-ai-opportunity)
 
 
 ---
