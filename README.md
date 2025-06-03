@@ -48,6 +48,7 @@ OR
 
 #### AI Everything Else
 - [Henry Shi - Market Map of AI Ad-Gen Tools - June 2025](https://www.linkedin.com/posts/henrythe9th_ive-spent-100m-on-ads-as-a-founder-and-activity-7335640153769562116-ndd-)
+- [Zach Cohen & Seema Amble — a16z - Faster, Smarter, Cheaper: AI Is Reinventing Market Research - June 2025](https://a16z.com/ai-market-research/)
 
 
 ***
