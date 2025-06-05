@@ -43,6 +43,12 @@ OR
 #### AI Agents
 - [Sahar Mor — AI Tidbits - The Open-Source Toolkit for Building AI Agents v2 - June 2025](https://www.aitidbits.ai/p/open-source-agents-updated)
 
+#### Healthcare AI 
+- [Charge - The Healthcare AI Governance Market Map - June 2025](https://www.linkedin.com/posts/charge-health-ai_ai-is-transforming-healthcare-but-it-also-activity-7336019128035475456-ZHcs?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAAMUMBCgQ5ezfrH5kN4TmZxCNp0J47g3M)
+
+#### AI Software QA/Testing
+- [Jacob Conger & Ram Raval — Headline - AI Can Write Code. Who Makes Sure It Works? - June 2025](https://headline.com/blog-latest/article-latest/ai-can-write-code-who-makes-sure-it-works)
+
 #### AI Video
 - [Nic Mitham - The AI Video Stack: Status By Company - June 2025](https://www.linkedin.com/posts/nicmitham_aivideo-fullstack-shortformvideo-activity-7335359142515142656-h3Gx)
 
@@ -405,6 +411,7 @@ OR
 
 #### Health AI 
 - [IVP - Health AI 35: What to know, who to watch - September 2024](https://www.ivp.com/content/health-ai-35-what-to-know-who-to-watch/)
+- [Flare Capital Partners - Where do Healthcare Budgets Match AI Hype? A 10-Year Lookback of Funding Data - September 2024](https://flarecapitalpartners.medium.com/where-do-healthcare-budgets-match-ai-hype-a-10-year-lookback-of-funding-data-783d52010e29#6103)
 
 #### Robotics
 - [MMC - Robotics: Featuring the transformers - September 2024](https://mmc.vc/research/robotics-featuring-the-transformers/)
