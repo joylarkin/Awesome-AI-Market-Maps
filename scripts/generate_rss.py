@@ -28,8 +28,10 @@ def safe_xml_text(text):
     """Safely escape text for XML while preserving necessary characters."""
     # First clean any HTML entities
     text = clean_html_entities(text)
-    # Then escape for XML
-    return escape(text)
+    # Then escape for XML, but only if not already escaped
+    if '&' in text and not any(entity in text for entity in ['&amp;', '&lt;', '&gt;', '&quot;', '&apos;']):
+        text = escape(text)
+    return text
 
 ROOT = Path(__file__).resolve().parents[1]
 readme = (ROOT / "README.md").read_text(encoding="utf-8")
