@@ -11,6 +11,7 @@ import hashlib
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
 from xml.sax.saxutils import escape
+import subprocess
 
 def clean_html_entities(text):
     """Clean HTML entities from text while preserving necessary characters."""
@@ -68,6 +69,22 @@ def write_xml_element(element, indent=0):
     
     return ''.join(result)
 
+def get_git_commit_date(file_path, line_number):
+    """Get the commit date for a specific line in a file."""
+    try:
+        # Get the commit date for the line
+        cmd = ['git', 'blame', '-L', f'{line_number},{line_number}', '--date=iso', file_path]
+        result = subprocess.run(cmd, capture_output=True, text=True, check=True)
+        
+        # Extract the date from the blame output
+        # Format: <commit_hash> (<author> <date> <line_number>) <content>
+        match = re.search(r'\([^)]*(\d{4}-\d{2}-\d{2})', result.stdout)
+        if match:
+            return dt.datetime.fromisoformat(match.group(1))
+    except subprocess.CalledProcessError:
+        pass
+    return None
+
 ROOT = Path(__file__).resolve().parents[1]
 readme = (ROOT / "README.md").read_text(encoding="utf-8")
 
@@ -85,7 +102,17 @@ print("\n".join(block.splitlines()[:10]))
 # ── pull every markdown list item that contains a [title](url) link and associate with nearest preceding #### header ───────────
 category = None
 categorized_items = []
+current_line = 0
+
+# Count lines up to the market maps section
+for line in readme.splitlines():
+    current_line += 1
+    if line.strip() == "## ▦ MARKET MAPS ▦":
+        break
+
+# Now process the items
 for line in block.splitlines():
+    current_line += 1
     header_match = re.match(r"^####\s+(.+)", line)
     if header_match:
         category = header_match.group(1).strip()
@@ -94,7 +121,9 @@ for line in block.splitlines():
         title, url = item_match.groups()
         # Clean HTML entities at the source, before adding to categorized_items
         cleaned_title = clean_html_entities(title)
-        categorized_items.append((cleaned_title, url, category))
+        # Get the commit date for this line
+        commit_date = get_git_commit_date(ROOT / "README.md", current_line)
+        categorized_items.append((cleaned_title, url, category, commit_date))
 
 print(f"[DEBUG] Number of categorized items found: {len(categorized_items)}")
 if categorized_items:
@@ -110,6 +139,9 @@ for line in block.splitlines():
             if not url.startswith(('http://', 'https://')):
                 print(f"URL: {url}")
                 print(f"Line: {line.strip()}\n")
+
+# Sort items by commit date (newest first)
+categorized_items.sort(key=lambda x: x[3] if x[3] else dt.datetime.min, reverse=True)
 
 # Create RSS feed using ElementTree
 rss = ET.Element('rss', {
@@ -137,7 +169,7 @@ ET.SubElement(channel, 'language').text = "en"
 utc_now = dt.datetime.now(dt.timezone.utc)
 seen_guids = set()  # Track GUIDs to prevent duplicates
 
-for title, url, category in categorized_items:  # Removed reversed() to keep chronological order
+for title, url, category, commit_date in categorized_items:
     # Create a unique GUID by combining URL and title
     guid = hashlib.md5(f"{url}{title}".encode()).hexdigest()
     
@@ -153,7 +185,9 @@ for title, url, category in categorized_items:  # Removed reversed() to keep chr
     ET.SubElement(item, 'guid', {'isPermaLink': 'false'}).text = guid
     if category:
         ET.SubElement(item, 'category').text = safe_xml_text(category)
-    ET.SubElement(item, 'pubDate').text = utc_now.strftime('%a, %d %b %Y %H:%M:%S %z')
+    # Use commit date if available, otherwise use current time
+    pub_date = commit_date if commit_date else utc_now
+    ET.SubElement(item, 'pubDate').text = pub_date.strftime('%a, %d %b %Y %H:%M:%S %z')
 
 # ── write/overwrite the XML file ──────────────────────────────────────────────
 out = ROOT / "feeds"
