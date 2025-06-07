@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://raw.githubusercontent.com/joylarkin/Awesome-AI-Market-Maps/main/feeds/rss.xsl"?>
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
@@ -8,14 +10,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Jun 2025 16:48:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Jun 2025 16:52:55 +0000</lastBuildDate>
     <item>
       <title>Sahar Mor — AI Tidbits - The Open-Source Toolkit for Building AI Agents v2 - June 2025</title>
       <link>https://www.aitidbits.ai/p/open-source-agents-updated</link>
       <description>Sahar Mor — AI Tidbits - The Open-Source Toolkit for Building AI Agents v2 - June 2025 - https://www.aitidbits.ai/p/open-source-agents-updated</description>
       <guid isPermaLink="false">fd50fd3dc7b0cf0d679b9d99c2e81869</guid>
       <category>AI Agents</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Charge - The Healthcare AI Governance Market Map - June 2025</title>
@@ -23,7 +25,7 @@
       <description>Charge - The Healthcare AI Governance Market Map - June 2025 - https://www.linkedin.com/posts/charge-health-ai_ai-is-transforming-healthcare-but-it-also-activity-7336019128035475456-ZHcs</description>
       <guid isPermaLink="false">54f859665deb4c2aabb0d757c2b2e1ec</guid>
       <category>Healthcare AI</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Jacob Conger and Ram Raval — Headline - AI Can Write Code. Who Makes Sure It Works? - June 2025</title>
@@ -31,7 +33,7 @@
       <description>Jacob Conger and Ram Raval — Headline - AI Can Write Code. Who Makes Sure It Works? - June 2025 - https://headline.com/blog-latest/article-latest/ai-can-write-code-who-makes-sure-it-works</description>
       <guid isPermaLink="false">5151339c4a27521910ca3a81e82e0639</guid>
       <category>AI Software QA/Testing</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Nic Mitham - The AI Video Stack: Status By Company - June 2025</title>
@@ -39,7 +41,7 @@
       <description>Nic Mitham - The AI Video Stack: Status By Company - June 2025 - https://www.linkedin.com/posts/nicmitham_aivideo-fullstack-shortformvideo-activity-7335359142515142656-h3Gx</description>
       <guid isPermaLink="false">2535b8a8c44ba52e0fe55e94e076699c</guid>
       <category>AI Video</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Henry Shi - Market Map of AI Ad-Gen Tools - June 2025</title>
@@ -47,7 +49,7 @@
       <description>Henry Shi - Market Map of AI Ad-Gen Tools - June 2025 - https://www.linkedin.com/posts/henrythe9th_ive-spent-100m-on-ads-as-a-founder-and-activity-7335640153769562116-ndd-</description>
       <guid isPermaLink="false">8d9962f28ca99874af5a951b2e8329a8</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Zach Cohen and Seema Amble — a16z - Faster, Smarter, Cheaper: AI Is Reinventing Market Research - June 2025</title>
@@ -55,7 +57,7 @@
       <description>Zach Cohen and Seema Amble — a16z - Faster, Smarter, Cheaper: AI Is Reinventing Market Research - June 2025 - https://a16z.com/ai-market-research/</description>
       <guid isPermaLink="false">bccca140c173a8904fc9f35d4518bc14</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Varun Ramakrishnan — SignalFire - AI is reshaping B2B GTM with signals you’re still ignoring - June 2025</title>
@@ -63,7 +65,7 @@
       <description>Varun Ramakrishnan — SignalFire - AI is reshaping B2B GTM with signals you’re still ignoring - June 2025 - https://www.signalfire.com/blog/ai-is-reshaping-b2b-gtm-with-signals-youre-ignoring</description>
       <guid isPermaLink="false">24c8a8289ecf16019d33dc908b95ad49</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>b2venture - The Market Map of AI Voice and Call Center Agents - May 2025</title>
@@ -71,7 +73,7 @@
       <description>b2venture - The Market Map of AI Voice and Call Center Agents - May 2025 - https://www.b2venture.vc/stories/the-market-map-of-ai-voice-call-center-agents</description>
       <guid isPermaLink="false">a94bc3d17f78450237e23dba8a3d98e0</guid>
       <category>AI Agents</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Tanay Jaipuria — Wing VC - AI App Builder Agents: Default Tool Choices - May 2025</title>
@@ -79,7 +81,7 @@
       <description>Tanay Jaipuria — Wing VC - AI App Builder Agents: Default Tool Choices - May 2025 - https://www.linkedin.com/posts/tanayjaipuria_80-of-new-databases-on-neon-were-created-activity-7333552988696829953-boOp</description>
       <guid isPermaLink="false">354c07449f4db1623bedc4431e7d4b7a</guid>
       <category>AI Agents</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Scott Wingo — Retailgentic - Retailgentic Ecosystem as of 5/8/25 - May 2025</title>
@@ -87,7 +89,7 @@
       <description>Scott Wingo — Retailgentic - Retailgentic Ecosystem as of 5/8/25 - May 2025 - https://www.retailgentic.com/p/retailgentic-ecosystem-as-of-5825</description>
       <guid isPermaLink="false">5258144b7934ad00dbb20f54b7b42e47</guid>
       <category>AI Agents</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Scott Wingo — Retailgentic - Agentic Payments - The Essential Building Block for the Agentic Shopping Future. - May 2025</title>
@@ -95,7 +97,7 @@
       <description>Scott Wingo — Retailgentic - Agentic Payments - The Essential Building Block for the Agentic Shopping Future. - May 2025 - https://www.retailgentic.com/p/agentic-payments-the-essential-building</description>
       <guid isPermaLink="false">517e34972d8e60c5224264e7d4072ffd</guid>
       <category>AI Agents</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>AI Insider - Layer 2 Data Structure and Processing market map - May 2025</title>
@@ -103,7 +105,7 @@
       <description>AI Insider - Layer 2 Data Structure and Processing market map - May 2025 - https://www.linkedin.com/posts/ai-insider-intel_layer-2-market-map-activity-7331600550217551874-Xgzz</description>
       <guid isPermaLink="false">dfbb1b915d5d5fa07716c032d61d19a0</guid>
       <category>AI Data</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Scale Venture Partners - The future of biological foundation models and value creation in AI-driven drug discovery - May 2025</title>
@@ -111,7 +113,7 @@
       <description>Scale Venture Partners - The future of biological foundation models and value creation in AI-driven drug discovery - May 2025 - https://www.scalevp.com/insights/the-future-of-biological-foundation-models-and-value-creation-in-ai-driven-drug-discovery/</description>
       <guid isPermaLink="false">aed849501192f5f7ffc5ac7cb32c8e80</guid>
       <category>AI Drug Discovery</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>CB Insights - The AI in drug R and D market map - May 2025</title>
@@ -119,7 +121,7 @@
       <description>CB Insights - The AI in drug R and D market map - May 2025 - https://www.cbinsights.com/research/ai-drug-research-development-market-map/</description>
       <guid isPermaLink="false">b0b75e209003cf48dea1c775ecf5f455</guid>
       <category>AI Drug Discovery</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Lightspeed - AI Enterprise Market Map: Cutting through the hype - May 2025</title>
@@ -127,7 +129,7 @@
       <description>Lightspeed - AI Enterprise Market Map: Cutting through the hype - May 2025 - https://lsvp.com/stories/ai-enterprise-market-map-cutting-through-the-hype/</description>
       <guid isPermaLink="false">08d7ea48e80c7f6ecdf35cc64fa7dc24</guid>
       <category>Enterprise AI</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>AI Insider - Market Map: AI Hardware and Datacenter enablers - May 2025</title>
@@ -135,7 +137,7 @@
       <description>AI Insider - Market Map: AI Hardware and Datacenter enablers - May 2025 - https://www.linkedin.com/posts/ai-insider-intel_ai-chips-gpus-activity-7329150192421703683-k4uw</description>
       <guid isPermaLink="false">2e940ebd64f428711c932227ec825bfc</guid>
       <category>AI Hardware and Inference</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>AlbionVC and Beauhurst - UK Future of Compute Market Map - May 2025</title>
@@ -143,7 +145,7 @@
       <description>AlbionVC and Beauhurst - UK Future of Compute Market Map - May 2025 - https://albion.vc/spotlight/deep-dives/the-future-of-compute-mini-market-map/</description>
       <guid isPermaLink="false">45a9156260df4b578f6125513bf96a5e</guid>
       <category>AI Hardware and Inference</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Wing VC - The AI Inference Stack - May 2025</title>
@@ -151,7 +153,7 @@
       <description>Wing VC - The AI Inference Stack - May 2025 - https://www.linkedin.com/pulse/ai-inference-stack-jake-flomenberg-rsppc/</description>
       <guid isPermaLink="false">a2165cdcd5ccd53108870b4051eef0da</guid>
       <category>AI Hardware and Inference</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Cobus Greyling - AI Agent infrastructure and Build Stack - May 2025</title>
@@ -159,7 +161,7 @@
       <description>Cobus Greyling - AI Agent infrastructure and Build Stack - May 2025 - https://www.linkedin.com/posts/cobusgreyling_ai-artificialintelligence-aiagents-activity-7325111303839055872-qrem</description>
       <guid isPermaLink="false">b2334f470287ce8fba7baf29ff766cb2</guid>
       <category>AI Infrastructure</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Eduardo Ordax - The 2025 Landscape of LLMs — Updated View of the Big Players in the Game of AI - May 2025</title>
@@ -167,7 +169,7 @@
       <description>Eduardo Ordax - The 2025 Landscape of LLMs — Updated View of the Big Players in the Game of AI - May 2025 - https://www.linkedin.com/posts/eordax_llms-ai-machinelearning-activity-7325788055221452802-y5ue</description>
       <guid isPermaLink="false">a54823f85cc6802c154a225fec924c93</guid>
       <category>Large Language Models</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Vanessa Loiola - Robotics Overview 2025 - May 2025</title>
@@ -175,7 +177,7 @@
       <description>Vanessa Loiola - Robotics Overview 2025 - May 2025 - https://www.linkedin.com/feed/update/urn:li:activity:7325134009544421378/</description>
       <guid isPermaLink="false">5eff379fe54860be6f469874ec2377b6</guid>
       <category>Robotics</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Nic Mitham — KZero Worldswide - Spatial Computing Market Map Q2 2025 - May 2025</title>
@@ -183,7 +185,7 @@
       <description>Nic Mitham — KZero Worldswide - Spatial Computing Market Map Q2 2025 - May 2025 - https://www.linkedin.com/posts/nicmitham_kzero-spatial-reality-market-map-q2-2025-activity-7328696144966922242-wEp6</description>
       <guid isPermaLink="false">652a96e8bb2a789c480bea1f20e0ca86</guid>
       <category>Spatial Computing</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Dan Cahana — Notable Capital - Agent Identity Security Framework - May 2025</title>
@@ -191,7 +193,7 @@
       <description>Dan Cahana — Notable Capital - Agent Identity Security Framework - May 2025 - https://www.notablecap.com/blog/the-identity-shift-preparing-for-a-non-human-future</description>
       <guid isPermaLink="false">fb0066b20495e1515c2941414c8b870c</guid>
       <category>AI Security</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Ollie Forsyth and Amos Bar Joseph — New Economies - Top 100 Startups to Watch - May 2025</title>
@@ -199,7 +201,7 @@
       <description>Ollie Forsyth and Amos Bar Joseph — New Economies - Top 100 Startups to Watch - May 2025 - https://www.neweconomies.co/p/the-new-operating-system</description>
       <guid isPermaLink="false">7dc088bfec87cfdabb1cc896297ff498</guid>
       <category>Top AI</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Cory Bolotsky - Market Map: Data + AI Tooling for Venture Capital Firms - May 2025</title>
@@ -207,7 +209,7 @@
       <description>Cory Bolotsky - Market Map: Data + AI Tooling for Venture Capital Firms - May 2025 - https://bolots.ky/p/vc-ai-data-market-map</description>
       <guid isPermaLink="false">2f721b9abfcb2ecca6797c04ffe1a84a</guid>
       <category>Venture AI</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Business of Apps - AI App Market Map 2025 - May 2025</title>
@@ -215,7 +217,7 @@
       <description>Business of Apps - AI App Market Map 2025 - May 2025 - https://www.linkedin.com/posts/business-of-apps_introducing-our-ai-app-market-map-2025-activity-7323624734837911554-p-kN</description>
       <guid isPermaLink="false">f7c8217d1de6a8d27de4828d3b185a10</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Craig Iskowitz - AI Notetaker market for Financial Advisors - May 2025</title>
@@ -223,7 +225,7 @@
       <description>Craig Iskowitz - AI Notetaker market for Financial Advisors - May 2025 - https://www.linkedin.com/posts/craigiskowitz_wealthmanagement-ai-financialadvisors-activity-7323704087596654593-oLf-</description>
       <guid isPermaLink="false">0fff82573a6b4202db4e481f29aff249</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>LiveRamp Ventures - A.I. in Digital Advertising Landscape - May 2025</title>
@@ -231,7 +233,7 @@
       <description>LiveRamp Ventures - A.I. in Digital Advertising Landscape - May 2025 - https://www.linkedin.com/posts/jimmy-ren-b015b639_introducing-our-first-ever-ai-in-digital-activity-7325182089702633474--ChQ</description>
       <guid isPermaLink="false">161a1a9e83a247b76fb60d99a6645bce</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Jonathan King — Coinbase Ventures - The Rise of Onchain AI: Agents, Apps, and Commerce - May 2025</title>
@@ -239,7 +241,7 @@
       <description>Jonathan King — Coinbase Ventures - The Rise of Onchain AI: Agents, Apps, and Commerce - May 2025 - https://x.com/cbventures/status/1923401975766355982</description>
       <guid isPermaLink="false">c3e11f687abe04cbb725f2d2863cbbf7</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Ollie Forsyth and Partners — New Economies - HOW TO ADOPT AI WITHIN THE WORKPLACE - May 2025</title>
@@ -247,7 +249,7 @@
       <description>Ollie Forsyth and Partners — New Economies - HOW TO ADOPT AI WITHIN THE WORKPLACE - May 2025 - https://www.neweconomies.co/i/161537748/how-to-adopt-ai-within-the-workplace</description>
       <guid isPermaLink="false">a0d7cc2b8b09c27a74b3ec9c0ff47627</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>MMC - AI Discoverability: How can I get ChatGPT to recommend my brand? - May 2025</title>
@@ -255,7 +257,7 @@
       <description>MMC - AI Discoverability: How can I get ChatGPT to recommend my brand? - May 2025 - https://mmc.vc/research/ai-discoverability-how-can-i-get-chatgpt-to-recommend-my-brand/</description>
       <guid isPermaLink="false">473dc4df0aeea09e323bafaa35f3c0fb</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Zach Cohen and Seema Amble — a16z - How Generative Engine Optimization (GEO) Rewrites the Rules of Search - May 2025</title>
@@ -263,7 +265,7 @@
       <description>Zach Cohen and Seema Amble — a16z - How Generative Engine Optimization (GEO) Rewrites the Rules of Search - May 2025 - https://a16z.com/geo-over-seo</description>
       <guid isPermaLink="false">fe9cd59f2e33820f34c52f62735bdb13</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Carta - 1,200+ seed rounds raised by US startups on Carta over the last 12 months - May 2025</title>
@@ -271,7 +273,7 @@
       <description>Carta - 1,200+ seed rounds raised by US startups on Carta over the last 12 months - May 2025 - https://www.linkedin.com/posts/peterjameswalker_startups-seed-founders-activity-7333567913305485314-G2Q_</description>
       <guid isPermaLink="false">20190575f16aaf9edd2e865d02516d77</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Antler - Market Map — AI Agents: Sales - April 2025</title>
@@ -279,7 +281,7 @@
       <description>Antler - Market Map — AI Agents: Sales - April 2025 - https://www.antler.co/blog/ai-market-map-sales</description>
       <guid isPermaLink="false">d7dab714062e204afa6833121a16771b</guid>
       <category>AI Agents</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Georgian - AI LANDSCAPE SERIES Agentic Platforms and Applications - April 2025</title>
@@ -287,7 +289,7 @@
       <description>Georgian - AI LANDSCAPE SERIES Agentic Platforms and Applications - April 2025 - https://georgian.io/agentic-platforms-and-applications/</description>
       <guid isPermaLink="false">9d9026f810bdfe77718203767edcc96b</guid>
       <category>AI Agents</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Tom Doerr - LLM Agent Systems Landscape 2025 - April 2025</title>
@@ -295,7 +297,7 @@
       <description>Tom Doerr - LLM Agent Systems Landscape 2025 - April 2025 - https://x.com/tom_doerr/status/1916296071552156099/photo/1</description>
       <guid isPermaLink="false">d7bdeaa49778351ba7704849cb5c3abb</guid>
       <category>AI Agents</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Hitachi Ventures - From Pipelines to Insights: The AI-Driven Data Stack Revolution in 2025 - April 2025</title>
@@ -303,7 +305,7 @@
       <description>Hitachi Ventures - From Pipelines to Insights: The AI-Driven Data Stack Revolution in 2025 - April 2025 - https://medium.com/@HitachiVentures/from-pipelines-to-insights-the-ai-driven-data-stack-revolution-in-2025-64a58c070b5d</description>
       <guid isPermaLink="false">41beeb4cd6dd202ac9ab6fb6fa860d5e</guid>
       <category>AI Data</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Denise Teng — Gradient Ventures - Code Gen Tool Market Map - April 2025</title>
@@ -311,7 +313,7 @@
       <description>Denise Teng — Gradient Ventures - Code Gen Tool Market Map - April 2025 - https://www.linkedin.com/posts/activity-7318692414703947777-HTC-</description>
       <guid isPermaLink="false">85abb91a52489e07f93a6162fe68d169</guid>
       <category>AI DevTools</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Yujian Tang - LLM Stack Market Map - April 2025</title>
@@ -319,7 +321,7 @@
       <description>Yujian Tang - LLM Stack Market Map - April 2025 - https://www.linkedin.com/posts/yujiantang_revamped-this-market-map-retrieval-data-activity-7316147686779363329-AYjk</description>
       <guid isPermaLink="false">8da4cd8c82ce7b6760c1750e35784fa6</guid>
       <category>AI DevTools</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Norwest - Market Map: Reimagining the CFO Software Stack - April 2025</title>
@@ -327,7 +329,7 @@
       <description>Norwest - Market Map: Reimagining the CFO Software Stack - April 2025 - https://www.nvp.com/blog/market-map-reimagining-cfo-software-stack/</description>
       <guid isPermaLink="false">4cf2496225537ad588da88ef6f4530c9</guid>
       <category>Fintech AI</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Kison Patel — Dealroom - AI Tools for M and A Market Map - April 2025</title>
@@ -335,7 +337,7 @@
       <description>Kison Patel — Dealroom - AI Tools for M and A Market Map - April 2025 - https://www.linkedin.com/posts/kisonpatel_buyerledmanda-aitools-corporatedevelopment-activity-7321582532402077696-CarX</description>
       <guid isPermaLink="false">afeeacfbf57d884c35a638f28c73eb3a</guid>
       <category>Fintech AI</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Daniel Derzic — Hartmann Capital - GenAI in Gaming Industry Report: Q1 2025 - April 2025</title>
@@ -343,7 +345,7 @@
       <description>Daniel Derzic — Hartmann Capital - GenAI in Gaming Industry Report: Q1 2025 - April 2025 - https://www.hartmanncapital.com/news-insights/genai-in-gaming-industry-report-q1-2025</description>
       <guid isPermaLink="false">e1e784dc9ebc67aed0cfc8ea8c3ce919</guid>
       <category>AI Gaming</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Ashish Kakran — Thomvest Ventures - AI inference tooling landscape - April 2025</title>
@@ -351,7 +353,7 @@
       <description>Ashish Kakran — Thomvest Ventures - AI inference tooling landscape - April 2025 - https://www.linkedin.com/posts/kakran_ai-inference-startups-activity-7318052931742617600-4rRn</description>
       <guid isPermaLink="false">d26f094a06405b669077959a385e1fb0</guid>
       <category>AI Hardware and Inference</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Gennaro Cuofano - AI Compute Market Map: A Practical Guide - April 2025</title>
@@ -359,7 +361,7 @@
       <description>Gennaro Cuofano - AI Compute Market Map: A Practical Guide - April 2025 - https://businessengineer.ai/p/ai-compute-market-map-a-practical</description>
       <guid isPermaLink="false">d7ab0c627893217d62b003441b7c4f81</guid>
       <category>AI Hardware and Inference</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>World Fund - Green Computing in the AI Era - April 2025</title>
@@ -367,7 +369,7 @@
       <description>World Fund - Green Computing in the AI Era - April 2025 - https://www.worldfund.vc/knowledge/green-computing-in-the-ai-era</description>
       <guid isPermaLink="false">4e12a18cf17a521ea7f58530af6f5a1e</guid>
       <category>AI Hardware and Inference</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>7wire Ventures - From Diagnosis to Treatment: Unlocking Potential with Generative AI - April 2025</title>
@@ -375,7 +377,7 @@
       <description>7wire Ventures - From Diagnosis to Treatment: Unlocking Potential with Generative AI - April 2025 - https://www.7wireventures.com/perspectives/from-diagnosis-to-treatment-unlocking-potential-with-generative-ai/</description>
       <guid isPermaLink="false">a94ec0f66ce68c548b66fb95d4fc0961</guid>
       <category>Healthtech AI</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Elion - AI Denials Management Market Map: Recovering lost revenue with robots? - April 2025</title>
@@ -383,7 +385,7 @@
       <description>Elion - AI Denials Management Market Map: Recovering lost revenue with robots? - April 2025 - https://elion.health/resources/ai-denials-management</description>
       <guid isPermaLink="false">716ef93b29b05a97d4e15378f1f8d6f1</guid>
       <category>Healthtech AI</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Ensemble VC - All AI infrastructure market maps are wrong. But some are better than others. - April 2025</title>
@@ -391,7 +393,7 @@
       <description>Ensemble VC - All AI infrastructure market maps are wrong. But some are better than others. - April 2025 - https://www.ensemble.vc/research/all-ai-infrastructure-market-maps-are-wrong-but-some-are-better-than-others</description>
       <guid isPermaLink="false">526b1f324385b9417e8802121d843b06</guid>
       <category>AI Infrastructure</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Synaptic - AI x Legaltech 2025 - April 2025</title>
@@ -399,7 +401,7 @@
       <description>Synaptic - AI x Legaltech 2025 - April 2025 - https://x.com/synaptic_data/status/1911810464322928884</description>
       <guid isPermaLink="false">fccff9a451f8d85b0542af6cf8a40166</guid>
       <category>Legal AI</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Tracxn - Industrial Robotics sector overview - April 2025</title>
@@ -407,7 +409,7 @@
       <description>Tracxn - Industrial Robotics sector overview - April 2025 - https://tracxn.com/d/sectors/industrial-robotics/__8YzlIwdZtVDpzlzTadeYnqjdh1suJksuE5MDB89oZiU</description>
       <guid isPermaLink="false">a22e3f9e531db57dd01c98efbd16db4e</guid>
       <category>Robotics</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Cathy Gao and Julie Nguyen — Sapphire Ventures - B2B Voice AI Landscape - April 2025</title>
@@ -415,7 +417,7 @@
       <description>Cathy Gao and Julie Nguyen — Sapphire Ventures - B2B Voice AI Landscape - April 2025 - https://www.linkedin.com/feed/update/urn:li:activity:7315387989294043137/</description>
       <guid isPermaLink="false">83a2aa7e038806d624f880d13c6b1c62</guid>
       <category>Voice AI</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Chelcie Taylor — Notable Capital - Vertical Voice AI Agents - April 2025</title>
@@ -423,7 +425,7 @@
       <description>Chelcie Taylor — Notable Capital - Vertical Voice AI Agents - April 2025 - https://www.linkedin.com/posts/chelcie-taylor_after-my-last-few-posts-on-the-opportunity-activity-7321552414313009152-XgKF</description>
       <guid isPermaLink="false">0e10ea352b1b9fbaf7a9d987ef199df5</guid>
       <category>Voice AI</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Premji Invest — Alumni Ventures - AI Is Coming: Meet the Startups Building Cyber Defenses for the Age of AI - April 2025</title>
@@ -431,7 +433,7 @@
       <description>Premji Invest — Alumni Ventures - AI Is Coming: Meet the Startups Building Cyber Defenses for the Age of AI - April 2025 - https://www.premjiinvest.com/blog/ai-is-coming-meet-the-startups-building-cyber-defenses-for-the-age-of-ai</description>
       <guid isPermaLink="false">6a61ab15784d398423f9022003be5d6a</guid>
       <category>AI Security</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Software Analyst Cyber Research - Securing For AI Specialist Ecosystem - April 2025</title>
@@ -439,7 +441,7 @@
       <description>Software Analyst Cyber Research - Securing For AI Specialist Ecosystem - April 2025 - https://www.linkedin.com/posts/software-analyst_as-enterprises-race-to-deploy-genai-and-llms-activity-7315805428607504385-hClF</description>
       <guid isPermaLink="false">02c888fd15f21e6739d8d4a472c23e46</guid>
       <category>AI Security</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Forbes - AI 50 - April 2025</title>
@@ -447,7 +449,7 @@
       <description>Forbes - AI 50 - April 2025 - https://www.forbes.com/lists/ai50/</description>
       <guid isPermaLink="false">5a3e98733f417d8935b9a92ddc68c423</guid>
       <category>Top AI</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>CBInsights - AI 100: The most promising artificial intelligence startups of 2025 - April 2025</title>
@@ -455,7 +457,7 @@
       <description>CBInsights - AI 100: The most promising artificial intelligence startups of 2025 - April 2025 - https://www.cbinsights.com/research/report/artificial-intelligence-top-startups-2025/</description>
       <guid isPermaLink="false">bbea03a8093d63832faed2c4d35fefdf</guid>
       <category>Top AI</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Reach Capital - AI Is Unlocking the Future of Frontline Work — And Where We're Investing - April 2025</title>
@@ -463,7 +465,7 @@
       <description>Reach Capital - AI Is Unlocking the Future of Frontline Work — And Where We're Investing - April 2025 - https://www.reachcapital.com/2025/04/03/ai-is-unlocking-the-future-of-frontline-work-and-where-were-investing/</description>
       <guid isPermaLink="false">7cc9bda422f0ad9230a39d61db1c2969</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>a16z - AI Learned to Talk. Now it's Learning to Build Reality - April 2025</title>
@@ -471,7 +473,7 @@
       <description>a16z - AI Learned to Talk. Now it's Learning to Build Reality - April 2025 - https://a16z.com/ai-is-learning-to-build-reality/</description>
       <guid isPermaLink="false">49ebb7ddc6572ca5738ecc4bae41066c</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>a16z - AI Avatars Escape the Uncanny Valley - April 2025</title>
@@ -479,7 +481,7 @@
       <description>a16z - AI Avatars Escape the Uncanny Valley - April 2025 - https://a16z.com/ai-avatars/</description>
       <guid isPermaLink="false">160b426affb148175994f449a32adad3</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>XAnge - Market Map: European AI-Enabled SalesTech - April 2025</title>
@@ -487,7 +489,7 @@
       <description>XAnge - Market Map: European AI-Enabled SalesTech - April 2025 - https://www.xange.vc/knowledge-hub/ai-enabled-salestech-separating-hype-from-the-real</description>
       <guid isPermaLink="false">156068132309734691e9777ec4f11956</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>CroAI - The Croatian AI Landscape - April 2025</title>
@@ -495,7 +497,7 @@
       <description>CroAI - The Croatian AI Landscape - April 2025 - https://map.croai.org/</description>
       <guid isPermaLink="false">8563159e02b0b5151a8ca69c09c83f72</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Nimble - AI Automation and Agents for ecommerce Market Map - April 2025</title>
@@ -503,7 +505,7 @@
       <description>Nimble - AI Automation and Agents for ecommerce Market Map - April 2025 - https://www.linkedin.com/posts/joshwood1_ecommerce-aiagents-marketmaps-activity-7318272007819653121-ewIs</description>
       <guid isPermaLink="false">92383d6a5d2a2f991947e5a4bb0254c9</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>GoHub Ventures - AI Personal Assistants - April 2025</title>
@@ -511,7 +513,7 @@
       <description>GoHub Ventures - AI Personal Assistants - April 2025 - https://www.linkedin.com/posts/gohubventures_ai-startups-activity-7320034821735378944-_lJP</description>
       <guid isPermaLink="false">5e449ffd5e67f995032e4b158d98d259</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Joseph Kim — GameMakers - 📍 The Definitive AI x Gaming Market Map (April 2025) - April 2025</title>
@@ -519,7 +521,7 @@
       <description>Joseph Kim — GameMakers - 📍 The Definitive AI x Gaming Market Map (April 2025) - April 2025 - https://www.gamemakers.com/p/the-definitive-ai-x-gaming-market</description>
       <guid isPermaLink="false">b65253340a62ec38efdb521373e78586</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>The Wealth Mosaic - The AI WealthTech Market Map, April 2025 - April 2025</title>
@@ -527,7 +529,7 @@
       <description>The Wealth Mosaic - The AI WealthTech Market Map, April 2025 - April 2025 - https://www.thewealthmosaic.com/vendors/the-wealth-mosaic/news/the-ai-wealthtech-market-map-april-2025/</description>
       <guid isPermaLink="false">2803073498fe93f32f8e8bcea16ed4a3</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>CB Insights - AI Agent Market Map - March 2025</title>
@@ -535,7 +537,7 @@
       <description>CB Insights - AI Agent Market Map - March 2025 - https://www.cbinsights.com/research/ai-agent-market-map/</description>
       <guid isPermaLink="false">2791600c0a868c4e60d8e133007fb88b</guid>
       <category>AI Agents</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Antler - Market Map — AI Agents: Marketing - March 2025</title>
@@ -543,7 +545,7 @@
       <description>Antler - Market Map — AI Agents: Marketing - March 2025 - https://www.antler.co/blog/ai-market-map-marketing</description>
       <guid isPermaLink="false">e798a716a36c18d30feb4cb870a938b2</guid>
       <category>AI Agents</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Antler - Market Map — AI Agents: Fintech - March 2025</title>
@@ -551,7 +553,7 @@
       <description>Antler - Market Map — AI Agents: Fintech - March 2025 - https://www.antler.co/blog/ai-market-map-fintech</description>
       <guid isPermaLink="false">acfbef21d15368185f7263cf2db9e152</guid>
       <category>AI Agents</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>AI Agents Directory - AI Agents Market Landscape - March 2025</title>
@@ -559,7 +561,7 @@
       <description>AI Agents Directory - AI Agents Market Landscape - March 2025 - https://aiagentsdirectory.com/landscape</description>
       <guid isPermaLink="false">1f69dd5de426ce10c4753baded3ea466</guid>
       <category>AI Agents</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Acrew Capital - A-Commerce Evolution: Agentic Commerce as The New Frontier - March 2025</title>
@@ -567,7 +569,7 @@
       <description>Acrew Capital - A-Commerce Evolution: Agentic Commerce as The New Frontier - March 2025 - https://perspectives.acrewcapital.com/a-commerce-evolution-agentic-commerce-as-the-new-frontier-27a4c855a778</description>
       <guid isPermaLink="false">e44d8344b9b00dcf9600acae25259d2a</guid>
       <category>AI Agents</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Bessemer - Roadmap: Data 3.0 in the Lakehouse Era - March 2025</title>
@@ -575,7 +577,7 @@
       <description>Bessemer - Roadmap: Data 3.0 in the Lakehouse Era - March 2025 - https://www.bvp.com/atlas/roadmap-data-3-0-in-the-lakehouse-era</description>
       <guid isPermaLink="false">71493df442460632076a2855ce706af6</guid>
       <category>AI Data</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Activant Capital - AI's Undervalued Asset - Data's pivotal role in the next era of Gen AI deployment - March 2025</title>
@@ -583,7 +585,7 @@
       <description>Activant Capital - AI's Undervalued Asset - Data's pivotal role in the next era of Gen AI deployment - March 2025 - https://activantcapital.com/research/ai-s-undervalued-asset</description>
       <guid isPermaLink="false">f506b2b86c54187ffe73cc58cb81701e</guid>
       <category>AI Data</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>a16z - MCP Market Map - March 2025</title>
@@ -591,7 +593,7 @@
       <description>a16z - MCP Market Map - March 2025 - https://a16z.com/a-deep-dive-into-mcp-and-the-future-of-ai-tooling/</description>
       <guid isPermaLink="false">9ae13d6bbc2ede549b9f72235d9a9684</guid>
       <category>AI DevTools and Integrations</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Auchenberg - AI Tools and Integrations Market Map - March 2025</title>
@@ -599,7 +601,7 @@
       <description>Auchenberg - AI Tools and Integrations Market Map - March 2025 - https://github.com/auchenberg/ai-tools-integrations-market-map</description>
       <guid isPermaLink="false">764ae5ddd2e6d8dfd758628ff7928499</guid>
       <category>AI DevTools and Integrations</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Thomvest Ventures - Market Map: 130+ companies transforming the AI Software Development market - March 2025</title>
@@ -607,7 +609,7 @@
       <description>Thomvest Ventures - Market Map: 130+ companies transforming the AI Software Development market - March 2025 - https://blog.thomvest.com/market-map-130-companies-transforming-the-ai-software-development-market-1e8ef2179439</description>
       <guid isPermaLink="false">ea09f51d87f3c3248291d99798c35128</guid>
       <category>AI DevTools and Integrations</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Yujian Tang - LLM Stack Market Map - March 2025</title>
@@ -615,7 +617,7 @@
       <description>Yujian Tang - LLM Stack Market Map - March 2025 - https://www.linkedin.com/posts/yujiantang_seattlestartupsummit-activity-7310753598353592321-qYZY</description>
       <guid isPermaLink="false">e8809d5e2512713d9d654492390bcaa2</guid>
       <category>AI DevTools and Integrations</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Leonis Capital - Zero or Hero: A Technical Framework for Valuing AI Companies (Part I: Foundation Models) - March 2025</title>
@@ -623,7 +625,7 @@
       <description>Leonis Capital - Zero or Hero: A Technical Framework for Valuing AI Companies (Part I: Foundation Models) - March 2025 - https://www.leoniscap.com/deep-dives/zero-or-hero-a-technical-framework-for-valuing-ai-companies-(part-i-foundation-models</description>
       <guid isPermaLink="false">a55554f2516aff4038403d31401b18e2</guid>
       <category>Foundation Models</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>a16z - The Top 100 GenAI Consumer Apps 2025 - March 2025</title>
@@ -631,7 +633,7 @@
       <description>a16z - The Top 100 GenAI Consumer Apps 2025 - March 2025 - https://a16z.com/100-gen-ai-apps-4/</description>
       <guid isPermaLink="false">1b51a84bbc47e1f43c1e632aa7c12b89</guid>
       <category>GenAI</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>IoT Analytics - The leading generative AI companies - March 2025</title>
@@ -639,7 +641,7 @@
       <description>IoT Analytics - The leading generative AI companies - March 2025 - https://iot-analytics.com/leading-generative-ai-companies/</description>
       <guid isPermaLink="false">ea9a7307d0dbf76200b1a56e3893d20c</guid>
       <category>GenAI</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>SemiAnalysis - The GPU Cloud ClusterMAX™ Rating System | How to Rent GPUs - March 2025</title>
@@ -647,7 +649,7 @@
       <description>SemiAnalysis - The GPU Cloud ClusterMAX™ Rating System | How to Rent GPUs - March 2025 - https://semianalysis.com/2025/03/26/the-gpu-cloud-clustermax-rating-system-how-to-rent-gpus/</description>
       <guid isPermaLink="false">74e0abced301c6c2d468838f1d68e28e</guid>
       <category>AI Hardware</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>AIMultiple Research - Top 20 AI Chip Makers: NVIDIA and Its Competitors in 2025 - March 2025</title>
@@ -655,7 +657,7 @@
       <description>AIMultiple Research - Top 20 AI Chip Makers: NVIDIA and Its Competitors in 2025 - March 2025 - https://research.aimultiple.com/ai-chip-makers/</description>
       <guid isPermaLink="false">378b841c7f5409aa5905d55056ef0fd0</guid>
       <category>AI Hardware</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Synaptic - Chipping Away: AI x Hardware - March 2025</title>
@@ -663,7 +665,7 @@
       <description>Synaptic - Chipping Away: AI x Hardware - March 2025 - https://synaptic.com/resources/chipping-away-ai-hardware/</description>
       <guid isPermaLink="false">20f4a963c420b73bd31fa0af9b25156c</guid>
       <category>AI Hardware</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Protege - Healthcare AI Market Map - March 2025</title>
@@ -671,7 +673,7 @@
       <description>Protege - Healthcare AI Market Map - March 2025 - https://www.withprotege.ai/ai-market-map</description>
       <guid isPermaLink="false">69d1375f1caa2d8724669c45b574140d</guid>
       <category>Healthtech AI</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>High Street Equity Partners - Health Tech Seed Landscape: Startups to Watch - March 2025</title>
@@ -679,7 +681,7 @@
       <description>High Street Equity Partners - Health Tech Seed Landscape: Startups to Watch - March 2025 - https://www.linkedin.com/posts/high-street-equity-partners_health-tech-seed-landscape-startups-to-watch-activity-7310328926164123651-caPk</description>
       <guid isPermaLink="false">427505ec3f342c8050bb3074c801f978</guid>
       <category>Healthtech AI</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Headline VC - The Duality of Infrastructure Software Investing in an AI World - "Infra of AI" and "AI in Infra" Market Maps - March 2025</title>
@@ -687,7 +689,7 @@
       <description>Headline VC - The Duality of Infrastructure Software Investing in an AI World - "Infra of AI" and "AI in Infra" Market Maps - March 2025 - https://headline.com/blog-latest/article-latest/the-duality-of-infrastructure-software-investing-i</description>
       <guid isPermaLink="false">199172e334a0a4b0df5cfa13cc08a2c9</guid>
       <category>AI Infrastructure</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Forum Ventures - AI Infrastructure Market Map - March 2025</title>
@@ -695,7 +697,7 @@
       <description>Forum Ventures - AI Infrastructure Market Map - March 2025 - https://airtable.com/appJKSyHsK9L7emVe/shrIaPop9BFkCdXx5/tblep1S6vE6nyvsJ3</description>
       <guid isPermaLink="false">6ea9c633fad5cc3e3ec878a7490fb3a2</guid>
       <category>AI Infrastructure</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Hardware FYI - Deep Tech Market Map - Robotics and Autonomous Systems - March 2025</title>
@@ -703,7 +705,7 @@
       <description>Hardware FYI - Deep Tech Market Map - Robotics and Autonomous Systems - March 2025 - https://www.linkedin.com/feed/update/urn:li:activity:7308530241210093569/</description>
       <guid isPermaLink="false">bfe27bd95d47dd5fd658c9d554ca2df0</guid>
       <category>Robotics</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Software Analyst Cyber Research - Securing AI/LLMs in 2025: A Practical Guide To Securing and Deploying AI - March 2025</title>
@@ -711,7 +713,7 @@
       <description>Software Analyst Cyber Research - Securing AI/LLMs in 2025: A Practical Guide To Securing and Deploying AI - March 2025 - https://softwareanalyst.substack.com/p/securing-aillms-in-2025-a-practical</description>
       <guid isPermaLink="false">d9100e55222b5ed8ef96cc78940f008c</guid>
       <category>AI Security</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Forum Ventures - Vertical AI Market Map - March 2025</title>
@@ -719,7 +721,7 @@
       <description>Forum Ventures - Vertical AI Market Map - March 2025 - https://airtable.com/appJKSyHsK9L7emVe/shrsmkAjfpzC7Ofaa/tblRYihkumYwZ9BXu</description>
       <guid isPermaLink="false">036bec2e6f8f21cd01af97858c341a3a</guid>
       <category>Vertical AI</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>a16z - Shopping in 'God Mode' with AI - March 2025</title>
@@ -727,7 +729,7 @@
       <description>a16z - Shopping in 'God Mode' with AI - March 2025 - https://a16z.com/ai-shopping-online/</description>
       <guid isPermaLink="false">eab40b1d2efab04ff25640e3feb0ad12</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Optimist Ventures - Q1'25 Insurtech Market Map - March 2025</title>
@@ -735,7 +737,7 @@
       <description>Optimist Ventures - Q1'25 Insurtech Market Map - March 2025 - https://medium.com/@jp_at_optimist/q125-insurtech-market-map-%EF%B8%8F-aa3ee89bd275</description>
       <guid isPermaLink="false">5a7235e1478bb686ab853200753c4bf1</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Brighteye Ventures - AI for Enhancing Productivity - learning in the flow of work - March 2025</title>
@@ -743,7 +745,7 @@
       <description>Brighteye Ventures - AI for Enhancing Productivity - learning in the flow of work - March 2025 - https://www.brighteyevc.com/post/ai-for-training-the-evolution-of-corporate-training-1</description>
       <guid isPermaLink="false">237a7743745cb191dd61253c719623f5</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Brighteye Ventures - AI for Training - the evolution of corporate training - March 2025</title>
@@ -751,7 +753,7 @@
       <description>Brighteye Ventures - AI for Training - the evolution of corporate training - March 2025 - https://www.brighteyevc.com/post/ai-for-training-the-evolution-of-corporate-training</description>
       <guid isPermaLink="false">1300f817e3b160949a8bf4822fded25b</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Brighteye Ventures - AI for Hiring - how AI is transforming talent acquisition - March 2025</title>
@@ -759,7 +761,7 @@
       <description>Brighteye Ventures - AI for Hiring - how AI is transforming talent acquisition - March 2025 - https://www.brighteyevc.com/post/ai-for-hiring-transforming-talent-acquisition-with-ai</description>
       <guid isPermaLink="false">b2c41b5c0dbc20f7a8ab48a5fb2c9d42</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Florian Seemann — P9 - A First Landscape of AI-first Service Businesses - March 2025</title>
@@ -767,7 +769,7 @@
       <description>Florian Seemann — P9 - A First Landscape of AI-first Service Businesses - March 2025 - https://medium.com/point-nine-news/a-first-landscape-of-ai-first-service-businesses-d0a5e4977678</description>
       <guid isPermaLink="false">bad2e178322db53feba95210b40c990f</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>RankMyAI - Mapping the Dutch AI Landscape: Key insights from our latest report - March 2025</title>
@@ -775,7 +777,7 @@
       <description>RankMyAI - Mapping the Dutch AI Landscape: Key insights from our latest report - March 2025 - https://www.rankmyai.com/insights/5/mapping-the-dutch-ai-landscape-key-insights-from-our-latest-report</description>
       <guid isPermaLink="false">c6ba75548c4621e45a4e741db4f5bef4</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Juhi Parekh - Demystifying Spatial AI : A Market Map - March 2025</title>
@@ -783,7 +785,7 @@
       <description>Juhi Parekh - Demystifying Spatial AI : A Market Map - March 2025 - https://juhiparekh.substack.com/p/demystifying-spatial-ai</description>
       <guid isPermaLink="false">a95fbfaa589e8cb3546dc53208e32a9a</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Eric Flanigam — Generative Value - The Current State of AI Markets - March 2025</title>
@@ -791,7 +793,7 @@
       <description>Eric Flanigam — Generative Value - The Current State of AI Markets - March 2025 - https://www.generativevalue.com/p/the-current-state-of-ai-markets-6b3</description>
       <guid isPermaLink="false">c75f0104f6a5a23903fc53733ffa6388</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Madrona - The AI Agent Infrastructure Stack - February 2025</title>
@@ -799,7 +801,7 @@
       <description>Madrona - The AI Agent Infrastructure Stack - February 2025 - https://www.madrona.com/ai-agent-infrastructure-three-layers-tools-data-orchestration/</description>
       <guid isPermaLink="false">905c100611c728679b901f2abeec81d9</guid>
       <category>AI Agents</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Wing.vc - The rise of the agentic workforce - February 2025</title>
@@ -807,7 +809,7 @@
       <description>Wing.vc - The rise of the agentic workforce - February 2025 - https://www.wing.vc/content/the-rise-of-the-agentic-workforce</description>
       <guid isPermaLink="false">d077ff23a8b7472117723cbac776fc35</guid>
       <category>AI Agents</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Kenn So — Generational - Memory in AI Agents - February 2025</title>
@@ -815,7 +817,7 @@
       <description>Kenn So — Generational - Memory in AI Agents - February 2025 - https://www.generational.pub/p/memory-in-ai-agents</description>
       <guid isPermaLink="false">1a73907d7b874b03196a8d0021108ca8</guid>
       <category>AI Agents</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>AI Accelerator Instutite - Agentic Code Gen Market Leaders - February 2025</title>
@@ -823,7 +825,7 @@
       <description>AI Accelerator Instutite - Agentic Code Gen Market Leaders - February 2025 - https://www.aiacceleratorinstitute.com/agentic-code-generation-the-future-of-software-development/</description>
       <guid isPermaLink="false">f768568413010835c6c9a65be286fcc9</guid>
       <category>AI Agents</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Elaia - Agentic AI: the Next (R)evolution? - February 2025</title>
@@ -831,7 +833,7 @@
       <description>Elaia - Agentic AI: the Next (R)evolution? - February 2025 - https://medium.com/elaia/agentic-ai-the-next-r-evolution-384bd77f5c57</description>
       <guid isPermaLink="false">66e35efcef5a3420067d0018e4be62e8</guid>
       <category>AI Agents</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Michael Tefula — Ada Ventures - AI Agent Market Map * - February 2025</title>
@@ -839,7 +841,7 @@
       <description>Michael Tefula — Ada Ventures - AI Agent Market Map * - February 2025 - https://mychaelangelo.github.io/ai_agents_marketmap/</description>
       <guid isPermaLink="false">2af9fb369219f0d9431d72d7433b6e1d</guid>
       <category>AI Agents</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>AgentOps.ai - 2025 AI Agent Market Map - February 2025</title>
@@ -847,7 +849,7 @@
       <description>AgentOps.ai - 2025 AI Agent Market Map - February 2025 - https://x.com/AtomSilverman/status/1893050805718262005</description>
       <guid isPermaLink="false">b7cc097037b5d9e3801a716824798ad0</guid>
       <category>AI Agents</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Alireza Sadeghi — pracdata.io - 2025 Open Source Data Engineering Landscape - February 2025</title>
@@ -855,7 +857,7 @@
       <description>Alireza Sadeghi — pracdata.io - 2025 Open Source Data Engineering Landscape - February 2025 - https://www.pracdata.io/p/open-source-data-engineering-landscape-2025</description>
       <guid isPermaLink="false">75d2d9be8cca45fd9073b3f9eb99aa2c</guid>
       <category>AI Data Engineering</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Dallas VC - Observability: Current Landscape and Emerging Trends - February 2025</title>
@@ -863,7 +865,7 @@
       <description>Dallas VC - Observability: Current Landscape and Emerging Trends - February 2025 - https://www.dallasvc.com/post/observability-current-landscape-and-emerging-trends</description>
       <guid isPermaLink="false">d15a0a7265b8a28bfeb61bdaea37ffb2</guid>
       <category>AI DevTools</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Morgan Stanley Research - The Humanoid 100: Mapping the Humanoid Robot Value Chain - February 2025</title>
@@ -871,7 +873,7 @@
       <description>Morgan Stanley Research - The Humanoid 100: Mapping the Humanoid Robot Value Chain - February 2025 - https://advisor.morganstanley.com/john.howard/documents/field/j/jo/john-howard/The_Humanoid_100_-_Mapping_the_Humanoid_Robot_Value_Chain.pdf</description>
       <guid isPermaLink="false">039ced08f28b5b80dd70385ad3bb4e5f</guid>
       <category>Robotics</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Aaron Pickard — Dorm Room Fund - Humanoid Robots Market Map and Investor List - February 2025</title>
@@ -879,7 +881,7 @@
       <description>Aaron Pickard — Dorm Room Fund - Humanoid Robots Market Map and Investor List - February 2025 - https://aaronpickard.substack.com/p/humanoid-robots-market-map-and-investor</description>
       <guid isPermaLink="false">6a2f39d482e7639f679947e78ab098d6</guid>
       <category>Robotics</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Merphi - Categorization of ROBOTS - February 2025</title>
@@ -887,7 +889,7 @@
       <description>Merphi - Categorization of ROBOTS - February 2025 - https://www.merphi.se/downloads/#link-categorization</description>
       <guid isPermaLink="false">9d4fc1046021ec53167391e998fd8e55</guid>
       <category>Robotics</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>a16z - AI-Powered Web App Builders Market Map - February 2025</title>
@@ -895,7 +897,7 @@
       <description>a16z - AI-Powered Web App Builders Market Map - February 2025 - https://a16z.com/ai-web-app-builders/</description>
       <guid isPermaLink="false">047872b553b9bb766bbeb20af53029fb</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Inc42 - Indian GenAI Startup Tracker: 60+ Startups Putting India On The Global AI Map - February 2025</title>
@@ -903,7 +905,7 @@
       <description>Inc42 - Indian GenAI Startup Tracker: 60+ Startups Putting India On The Global AI Map - February 2025 - https://inc42.com/startups/indian-genai-startup-tracker/</description>
       <guid isPermaLink="false">e4cff37e2f72eea0f1970b117513d0c0</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Backlinko - Most Popular AI Apps - February 2025</title>
@@ -911,7 +913,7 @@
       <description>Backlinko - Most Popular AI Apps - February 2025 - https://backlinko.com/most-popular-ai-apps</description>
       <guid isPermaLink="false">002420c0bb682afc3e95cd82bbf1a892</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>a16z - AI Voice Agent Update - January 2025</title>
@@ -919,7 +921,7 @@
       <description>a16z - AI Voice Agent Update - January 2025 - https://a16z.com/ai-voice-agents-2025-update/</description>
       <guid isPermaLink="false">fc8d7af1ba1b45e0df5259e5d9c50cd5</guid>
       <category>AI Agents</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Menlo Ventures - Beyond Bots: How AI Agents Are Driving the Next Wave of Enterprise Automation - Updated January 2025</title>
@@ -927,7 +929,7 @@
       <description>Menlo Ventures - Beyond Bots: How AI Agents Are Driving the Next Wave of Enterprise Automation - Updated January 2025 - https://menlovc.com/perspective/beyond-bots-how-ai-agents-are-driving-the-next-wave-of-enterprise-automation/?=Jan2025</description>
       <guid isPermaLink="false">001890ed0c6598c0f35146ff8ab68775</guid>
       <category>AI Agents</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Dawn Capital - AI Agents - January 2025</title>
@@ -935,7 +937,7 @@
       <description>Dawn Capital - AI Agents - January 2025 - https://dawncapital.com/horizons/#agentic-ai</description>
       <guid isPermaLink="false">abc07a023253e1e54c57acc5df968de9</guid>
       <category>AI Agents</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>CB Insights - Industrial AI Agents and Copilots Market Map - January 2025</title>
@@ -943,7 +945,7 @@
       <description>CB Insights - Industrial AI Agents and Copilots Market Map - January 2025 - https://x.com/CBinsights/status/1879536580496343474</description>
       <guid isPermaLink="false">09fb5892bffb281c0006b57c5591ec78</guid>
       <category>AI Agents</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Eric Flanigam — Generative Value - The Unstructured Data Landscape - January 2025</title>
@@ -951,7 +953,7 @@
       <description>Eric Flanigam — Generative Value - The Unstructured Data Landscape - January 2025 - https://www.generativevalue.com/p/the-unstructured-data-landscape</description>
       <guid isPermaLink="false">35c42bff31fc81c0c8f71be911b156e2</guid>
       <category>AI Data</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>AI Accelerator Institute - LLMOps Market Map - January 2025</title>
@@ -959,7 +961,7 @@
       <description>AI Accelerator Institute - LLMOps Market Map - January 2025 - https://www.aiacceleratorinstitute.com/llmops-optimizing-towards-enterprise-value-in-the-llm-agentic-era/</description>
       <guid isPermaLink="false">5cf056d02f094f3e3f1b3df71663b579</guid>
       <category>AI DevTools</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Magnusta Capital - FinTech AI Market Map - January 2025</title>
@@ -967,7 +969,7 @@
       <description>Magnusta Capital - FinTech AI Market Map - January 2025 - https://medium.com/%40Mangusta/mangusta-capital-2025-fintech-ai-market-map-c936a84e1a84</description>
       <guid isPermaLink="false">e81c7c83043ba81098cab576d942c76a</guid>
       <category>Fintech AI</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>AI Supremacy - The AI Semiconductor Landscape - January 2025</title>
@@ -975,7 +977,7 @@
       <description>AI Supremacy - The AI Semiconductor Landscape - January 2025 - https://www.ai-supremacy.com/p/the-ai-semiconductor-landscape-2025</description>
       <guid isPermaLink="false">18b32d76f17957f12b3e5076fb1368a3</guid>
       <category>AI Hardware and Inference</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Eric Flanigam — Generative Value - A Deep Dive on Inference Semiconductors - January 2025</title>
@@ -983,7 +985,7 @@
       <description>Eric Flanigam — Generative Value - A Deep Dive on Inference Semiconductors - January 2025 - https://www.generativevalue.com/p/a-deep-dive-on-inference-semiconductors</description>
       <guid isPermaLink="false">20ba1ae32823edcbf6ade01a9e4020f3</guid>
       <category>AI Hardware and Inference</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Lux Capital - Unlocking Potential: Artificial Intelligence for Women's Health - January 2025</title>
@@ -991,7 +993,7 @@
       <description>Lux Capital - Unlocking Potential: Artificial Intelligence for Women's Health - January 2025 - https://www.luxcapital.com/news/unlocking-potential-artificial-intelligence-for-womens-health</description>
       <guid isPermaLink="false">c7cc853a7782ed0bab8624e132dd4b81</guid>
       <category>Healthtech AI</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>NVIDIA - NVIDIA Healthcare and Life Sciences Market Map - January 2025</title>
@@ -999,7 +1001,7 @@
       <description>NVIDIA - NVIDIA Healthcare and Life Sciences Market Map - January 2025 - https://x.com/HealthcareAIGuy/status/1884615818509680871</description>
       <guid isPermaLink="false">01f3f7a9e3b5864ac465f49b206b54f9</guid>
       <category>Healthtech AI</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>TechOperators - Cybersecurity + AI Startup Market Map - January 2025</title>
@@ -1007,7 +1009,7 @@
       <description>TechOperators - Cybersecurity + AI Startup Market Map - January 2025 - https://www.linkedin.com/posts/techoperators-llc_cybersecurity-ai-startup-market-map-jan-activity-7287878267297017861-FIJr</description>
       <guid isPermaLink="false">48615381bb3ee6136d035015cc4100f5</guid>
       <category>AI Security</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Dawn Capital - Voice AI Market - January 2025</title>
@@ -1015,7 +1017,7 @@
       <description>Dawn Capital - Voice AI Market - January 2025 - https://dawncapital.com/horizons/#voice-ai-market</description>
       <guid isPermaLink="false">a7075e36de8446a261383bff6c97b8ac</guid>
       <category>Voice AI</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Aakash Gupta - Sales Tech Market Map 2025: The $30B Industry Breakdown</title>
@@ -1023,7 +1025,7 @@
       <description>Aakash Gupta - Sales Tech Market Map 2025: The $30B Industry Breakdown - https://www.news.aakashg.com/p/sales-tech-market-map-2025</description>
       <guid isPermaLink="false">241ae359442411b8e98d89c34bd51a40</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Sapphire Ventures - AI-Native Applications Market Map - January 2025</title>
@@ -1031,7 +1033,7 @@
       <description>Sapphire Ventures - AI-Native Applications Market Map - January 2025 - https://medium.com/@cgao/ai-native-applications-a-framework-for-evaluating-the-future-of-enterprise-software-0ddfa3989db9</description>
       <guid isPermaLink="false">dc416320037534efed70f497392e4c4b</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Mininath Jirage - Evolving Market Map — Marketing Stack with GenAI - January 2025</title>
@@ -1039,7 +1041,7 @@
       <description>Mininath Jirage - Evolving Market Map — Marketing Stack with GenAI - January 2025 - https://medium.com/@mininathjirage/evolving-market-map-marketing-stack-with-genai-5eb83b7d4678</description>
       <guid isPermaLink="false">0c111a54cc69c32af37413d419144911</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Insight Partners - The State of the AI Agents Ecosystem - December 2024</title>
@@ -1047,7 +1049,7 @@
       <description>Insight Partners - The State of the AI Agents Ecosystem - December 2024 - https://www.insightpartners.com/ideas/state-of-the-ai-agent-ecosystem-use-cases-and-learnings-for-technology-builders-and-buyers/</description>
       <guid isPermaLink="false">a9eaca8e94f8508909547321b792b217</guid>
       <category>AI Agents</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Obvious Ventures - How Generative AI Is Transforming Healthcare - December 2024</title>
@@ -1055,7 +1057,7 @@
       <description>Obvious Ventures - How Generative AI Is Transforming Healthcare - December 2024 - https://obvious.com/ideas/how-generative-ai-is-transforming-healthcare/</description>
       <guid isPermaLink="false">93ee5f9446d395ec2a52834df9ea0320</guid>
       <category>Healthcare AI</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Kenn So — Generational - AI Trends 2024 - December 2024</title>
@@ -1063,7 +1065,7 @@
       <description>Kenn So — Generational - AI Trends 2024 - December 2024 - https://www.generational.pub/p/ai-trends-2024</description>
       <guid isPermaLink="false">01c721f3b781f53f6b89b18a577920c9</guid>
       <category>AI Trends</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Brandon Dixon — Applied GAI in Security - Agentic Security Marketmap - December 2024</title>
@@ -1071,7 +1073,7 @@
       <description>Brandon Dixon — Applied GAI in Security - Agentic Security Marketmap - December 2024 - https://applied-gai-in-security.ghost.io/agentic-security-marketmap/</description>
       <guid isPermaLink="false">3fdbbe46c9a0a140a1c5d609c7797c90</guid>
       <category>AI Security</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Software Analyst Cyber Research - Data Security Platforms: The New Frontier in Cybersecurity and AI - December 2024</title>
@@ -1079,7 +1081,7 @@
       <description>Software Analyst Cyber Research - Data Security Platforms: The New Frontier in Cybersecurity and AI - December 2024 - https://softwareanalyst.substack.com/p/data-security-platforms-the-new-frontier</description>
       <guid isPermaLink="false">415476af63e68d7f2db51fd32344c6bb</guid>
       <category>AI Security</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Greenfield - Vertical AI Is Here: How to Capture the Opportunity and Win Big - December 2024</title>
@@ -1087,7 +1089,7 @@
       <description>Greenfield - Vertical AI Is Here: How to Capture the Opportunity and Win Big - December 2024 - https://www.greenfield-growth.com/blog-posts/vertical-ai-is-here-how-to-capture-the-opportunity-and-win-big</description>
       <guid isPermaLink="false">f502beb3d19d6532c772709e23bfd4bd</guid>
       <category>Vertical AI</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>DocuBridge - AI in Private Equity: an Overview of the AI Market Map - December 2024</title>
@@ -1095,7 +1097,7 @@
       <description>DocuBridge - AI in Private Equity: an Overview of the AI Market Map - December 2024 - https://www.docubridge.ai/articles/ai-in-private-equity-an-overview-of-the-ai-market-map</description>
       <guid isPermaLink="false">b54ec94bf7639f2b7f31c069101bae86</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Ascend - Mapping Seattle's Enterprise AI Startups - December 2024</title>
@@ -1103,7 +1105,7 @@
       <description>Ascend - Mapping Seattle's Enterprise AI Startups - December 2024 - https://www.ascend.vc/blog/mapping-seattles-enterprise-ai-startups</description>
       <guid isPermaLink="false">51542f05199e7f37b550c1f9d6e3d613</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>eaidb.org - The Responsible AI Ecosystem FY 2024 Market Map * - December 2024</title>
@@ -1111,7 +1113,7 @@
       <description>eaidb.org - The Responsible AI Ecosystem FY 2024 Market Map * - December 2024 - https://www.eaidb.org/map</description>
       <guid isPermaLink="false">0fb685cc34388cfc3b9a07a18ba713b2</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Sahar Mor — AI Tidbits - The Open-Source Toolkit for Building AI Agents - November 2024</title>
@@ -1119,7 +1121,7 @@
       <description>Sahar Mor — AI Tidbits - The Open-Source Toolkit for Building AI Agents - November 2024 - https://www.aitidbits.ai/p/open-source-agents</description>
       <guid isPermaLink="false">d3497dca81a86351a9eb6a47739484c6</guid>
       <category>AI Agents</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Letta - The AI Agents Stack - November 2024</title>
@@ -1127,7 +1129,7 @@
       <description>Letta - The AI Agents Stack - November 2024 - https://www.letta.com/blog/ai-agents-stack</description>
       <guid isPermaLink="false">70e83fb5bb447dfbd4a9a3a84d207aff</guid>
       <category>AI Agents</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>a16z - RIP to RPA: The Rise of Intelligent Automation - November 2024</title>
@@ -1135,7 +1137,7 @@
       <description>a16z - RIP to RPA: The Rise of Intelligent Automation - November 2024 - https://a16z.com/rip-to-rpa-the-rise-of-intelligent-automation/</description>
       <guid isPermaLink="false">ad86f1575fcb37f05b178da155663117</guid>
       <category>AI Automation</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Foundation Capital - Banking's New Tech Stack: A market map of generative AI in financial services - November 2024</title>
@@ -1143,7 +1145,7 @@
       <description>Foundation Capital - Banking's New Tech Stack: A market map of generative AI in financial services - November 2024 - https://foundationcapital.com/bankings-new-tech-stack-a-market-map-of-generative-ai-in-financial-services/</description>
       <guid isPermaLink="false">4363f8b2fcca5058f8f43b05155211b0</guid>
       <category>Fintech AI</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Menlo Ventures - 2024: The State of Generative AI in the Enterprise - November 2024</title>
@@ -1151,7 +1153,7 @@
       <description>Menlo Ventures - 2024: The State of Generative AI in the Enterprise - November 2024 - https://menlovc.com/2024-the-state-of-generative-ai-in-the-enterprise/</description>
       <guid isPermaLink="false">97f23952ca21e456943627a4f4868b7e</guid>
       <category>GenAI</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Generative Value - The Inference Landscape - November 2024</title>
@@ -1159,7 +1161,7 @@
       <description>Generative Value - The Inference Landscape - November 2024 - https://www.generativevalue.com/p/the-inference-landscape</description>
       <guid isPermaLink="false">c712d0c64d941dc926feb7f2d6ea2d89</guid>
       <category>AI Hardware and Inference</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Flare Capital - Representative Health System AI Market Map - November 2024</title>
@@ -1167,7 +1169,7 @@
       <description>Flare Capital - Representative Health System AI Market Map - November 2024 - https://x.com/HealthcareAIGuy/status/1854904237337325768</description>
       <guid isPermaLink="false">9155829649971143906de70f49cdc2b8</guid>
       <category>Healthcare AI</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>PitchBook - Market Map: Application security defends software's next generation - November 2024</title>
@@ -1175,7 +1177,7 @@
       <description>PitchBook - Market Map: Application security defends software's next generation - November 2024 - https://pitchbook.com/news/articles/market-map-application-security-startups-q2-2024</description>
       <guid isPermaLink="false">c99f0437e2c95d699dfce5fbda54ff5a</guid>
       <category>AI Security</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Felicis - How AI is reshaping IT, QA, and Incident Response - November 2024</title>
@@ -1183,7 +1185,7 @@
       <description>Felicis - How AI is reshaping IT, QA, and Incident Response - November 2024 - https://www.felicis.com/insight/ai-it-qa-incident-response</description>
       <guid isPermaLink="false">7b35c760be47c151c795e2763c1e613e</guid>
       <category>AI Security</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Bessemer - Roadmap: Voice AI - November 2024</title>
@@ -1191,7 +1193,7 @@
       <description>Bessemer - Roadmap: Voice AI - November 2024 - https://www.bvp.com/atlas/roadmap-voice-ai</description>
       <guid isPermaLink="false">4368252cf6ae5bfd3f48aa8ef82cb3e2</guid>
       <category>Voice AI</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Sapphire Ventures - AI-Native Applications: A Framework for Evaluating the Future of Enterprise Software - November 2024</title>
@@ -1199,7 +1201,7 @@
       <description>Sapphire Ventures - AI-Native Applications: A Framework for Evaluating the Future of Enterprise Software - November 2024 - https://sapphireventures.com/blog/ai-native-applications/</description>
       <guid isPermaLink="false">35e535bfedaade5b270269527426da9d</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Insight Partners - Reimagination of everything: How intelligence-first design and the Next Stack will unlock human+AI collaborative reasoning - November 2024</title>
@@ -1207,7 +1209,7 @@
       <description>Insight Partners - Reimagination of everything: How intelligence-first design and the Next Stack will unlock human+AI collaborative reasoning - November 2024 - https://www.insightpartners.com/ideas/intelligence-first-design-unlocks-humanai-collaborative-reasoning/</description>
       <guid isPermaLink="false">67bdd2eb0a40fee230913c61581a497c</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Hardware FYI - Deep Tech Market Map: The Future of Aerospace and Defense - November 2024</title>
@@ -1215,7 +1217,7 @@
       <description>Hardware FYI - Deep Tech Market Map: The Future of Aerospace and Defense - November 2024 - https://hardwarefyi.substack.com/p/deep-tech-market-map-the-future-of</description>
       <guid isPermaLink="false">ca7cb3d7c35ad1c77c259f178786489b</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>OpenOcean - The market map for AI-enabled services: where to watch in 2025 - November 2024</title>
@@ -1223,7 +1225,7 @@
       <description>OpenOcean - The market map for AI-enabled services: where to watch in 2025 - November 2024 - https://www.openocean.vc/articles/the-market-map-for-ai-enabled-services-where-to-watch-in-2025</description>
       <guid isPermaLink="false">24b1a1fc119f04d04a1c4e63f89c5a1e</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>EdTech Insiders - The Edtech Insiders Generative AI Map - November 2024</title>
@@ -1231,7 +1233,7 @@
       <description>EdTech Insiders - The Edtech Insiders Generative AI Map - November 2024 - https://edtechinsiders.substack.com/p/the-edtech-insiders-generative-ai</description>
       <guid isPermaLink="false">f186927ba99c8907f025af19ed2dc659</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Foundation Capital - A System of Agents brings Service-as-Software to life - October 2024</title>
@@ -1239,7 +1241,7 @@
       <description>Foundation Capital - A System of Agents brings Service-as-Software to life - October 2024 - https://foundationcapital.com/system-of-agents/</description>
       <guid isPermaLink="false">6e36a4d87966c77a642345cb2a2be00d</guid>
       <category>AI Agents</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Eric Flanigam — Generative Value - A Primer on AI Data Centers - October 2024</title>
@@ -1247,7 +1249,7 @@
       <description>Eric Flanigam — Generative Value - A Primer on AI Data Centers - October 2024 - https://www.generativevalue.com/p/a-primer-on-ai-data-centers</description>
       <guid isPermaLink="false">cb82b8019b42aca0f5d18b6667e40eeb</guid>
       <category>AI Hardware</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>PitchBook - Market Map: VCs bet on data infrastructure to keep fueling AI - October 2024</title>
@@ -1255,7 +1257,7 @@
       <description>PitchBook - Market Map: VCs bet on data infrastructure to keep fueling AI - October 2024 - https://pitchbook.com/news/articles/market-map-venture-capital-investors-data-infrastructure-ai</description>
       <guid isPermaLink="false">756792fb32bd634f8efac35112549777</guid>
       <category>AI Infrastructure</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Oren Yunger and Dan Cahana — Notable Capital - Identity Crisis: Breaking Down The Emerging Identity Stack - October 2024</title>
@@ -1263,7 +1265,7 @@
       <description>Oren Yunger and Dan Cahana — Notable Capital - Identity Crisis: Breaking Down The Emerging Identity Stack - October 2024 - https://www.notablecap.com/blog/identity-crisis-breaking-down-the-emerging-identity-stack</description>
       <guid isPermaLink="false">738f791f94030f1a2847d77522ceedd8</guid>
       <category>AI Security</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Ardent Venture Partners - One Year Later: A Refreshed View of the AI-Native Vertical Software Landscape - October 2024</title>
@@ -1271,7 +1273,7 @@
       <description>Ardent Venture Partners - One Year Later: A Refreshed View of the AI-Native Vertical Software Landscape - October 2024 - https://medium.com/@ardent-vc/one-year-later-a-refreshed-view-of-the-ai-native-vertical-software-landscape-1c400dd1243e</description>
       <guid isPermaLink="false">a9e340a36c6e0dca39854bd923101524</guid>
       <category>Vertical AI</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Alex Carter - Leading RAG Technology Companies to Watch in 2024 - October 2024</title>
@@ -1279,7 +1281,7 @@
       <description>Alex Carter - Leading RAG Technology Companies to Watch in 2024 - October 2024 - https://medium.com/@iamalexcarter/leading-rag-technology-companies-to-watch-in-2024-ed6c1c6bc475</description>
       <guid isPermaLink="false">e27ba9d05be7dc449c934f3affd56af7</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Nathan Benaich — Air Street Capital - Welcome to STATE OF AI REPORT 2024. - October 2024</title>
@@ -1287,7 +1289,7 @@
       <description>Nathan Benaich — Air Street Capital - Welcome to STATE OF AI REPORT 2024. - October 2024 - https://www.stateof.ai/2024-report-launch</description>
       <guid isPermaLink="false">fe5ffcadf747159267083897e8bf61b6</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Coinbase Ventures - Demystifying the Crypto x AI Stack - October 2024</title>
@@ -1295,7 +1297,7 @@
       <description>Coinbase Ventures - Demystifying the Crypto x AI Stack - October 2024 - https://paragraph.com/@cbventures/demystifying-the-crypto-x-ai-stack</description>
       <guid isPermaLink="false">72ddc2c4b35088b6bd321ef03f151e26</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Eric Flanigam — Generative Value - Nuclear's AI Opportunity - October 2024</title>
@@ -1303,7 +1305,7 @@
       <description>Eric Flanigam — Generative Value - Nuclear's AI Opportunity - October 2024 - https://www.generativevalue.com/p/nuclears-ai-opportunity</description>
       <guid isPermaLink="false">b3b41724625f80552da0098fef806a1d</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Menlo Ventures - Beyond Bots: How AI Agents Are Driving the Next Wave of Enterprise Automation</title>
@@ -1311,7 +1313,7 @@
       <description>Menlo Ventures - Beyond Bots: How AI Agents Are Driving the Next Wave of Enterprise Automation - https://menlovc.com/perspective/beyond-bots-how-ai-agents-are-driving-the-next-wave-of-enterprise-automation/</description>
       <guid isPermaLink="false">e9fac93f3435958448434a548571c60e</guid>
       <category>AI Agents</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>E2B.dev - Awesome AI Agents - September 2024</title>
@@ -1319,7 +1321,7 @@
       <description>E2B.dev - Awesome AI Agents - September 2024 - https://github.com/e2b-dev/awesome-ai-agents</description>
       <guid isPermaLink="false">cab1bf7a565a9cd9a9134f7335af049b</guid>
       <category>AI Agents</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Climactic - Climate AI Market * - September 2024</title>
@@ -1327,7 +1329,7 @@
       <description>Climactic - Climate AI Market * - September 2024 - https://www.climactic.vc/climate-ai-market</description>
       <guid isPermaLink="false">93c9c93e9c9f2be86757a50dca92ebd6</guid>
       <category>Climate AI</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>IVP - Health AI 35: What to know, who to watch - September 2024</title>
@@ -1335,7 +1337,7 @@
       <description>IVP - Health AI 35: What to know, who to watch - September 2024 - https://www.ivp.com/content/health-ai-35-what-to-know-who-to-watch/</description>
       <guid isPermaLink="false">2202d3746b608199212a5a531c819b7d</guid>
       <category>Health AI</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Flare Capital Partners - Where do Healthcare Budgets Match AI Hype? A 10-Year Lookback of Funding Data - September 2024</title>
@@ -1343,7 +1345,7 @@
       <description>Flare Capital Partners - Where do Healthcare Budgets Match AI Hype? A 10-Year Lookback of Funding Data - September 2024 - https://flarecapitalpartners.medium.com/where-do-healthcare-budgets-match-ai-hype-a-10-year-lookback-of-funding-data-783d52010e29#6103</description>
       <guid isPermaLink="false">f1996eb4423626c68d813a3d77a82f43</guid>
       <category>Health AI</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>MMC - Robotics: Featuring the transformers - September 2024</title>
@@ -1351,7 +1353,7 @@
       <description>MMC - Robotics: Featuring the transformers - September 2024 - https://mmc.vc/research/robotics-featuring-the-transformers/</description>
       <guid isPermaLink="false">1e3ea11c3728fc4a8b5599b9cb4eeaee</guid>
       <category>Robotics</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>IVP - The Value of Vertical AI - September 2024</title>
@@ -1359,7 +1361,7 @@
       <description>IVP - The Value of Vertical AI - September 2024 - https://www.ivp.com/content/the-value-of-vertical-ai/</description>
       <guid isPermaLink="false">1ee9690a4408bd0a8369564ea8b27075</guid>
       <category>Vertical AI</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Lightspeed - The Future of Voice: Our Thoughts On How It Will Transform Conversational AI - September 2024</title>
@@ -1367,7 +1369,7 @@
       <description>Lightspeed - The Future of Voice: Our Thoughts On How It Will Transform Conversational AI - September 2024 - https://lsvp.com/stories/the-future-of-voice-our-thoughts-on-how-it-will-transform-conversational-ai/</description>
       <guid isPermaLink="false">f5c9533e65f2ef62672396a8adb9d437</guid>
       <category>Voice AI</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>American Family Ventures - The 2024 Home Services Market Map - September 2024</title>
@@ -1375,7 +1377,7 @@
       <description>American Family Ventures - The 2024 Home Services Market Map - September 2024 - https://www.amfamventures.com/news/the-2024-home-services-market-map/</description>
       <guid isPermaLink="false">f8bd0cdff76fd40b3a82e7f0f5129d4c</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>CACV Central - Mapping the Growth of AI in Canada Through Investment - September 2024</title>
@@ -1383,7 +1385,7 @@
       <description>CACV Central - Mapping the Growth of AI in Canada Through Investment - September 2024 - https://central.cvca.ca/mapping-the-growth-of-ai-in-canada-through-investment</description>
       <guid isPermaLink="false">5bda9fde87517a150ad47b883efe5505</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Lightspeed - AI Enterprise Market Map: Cutting Throught The Hype - August 2024</title>
@@ -1391,7 +1393,7 @@
       <description>Lightspeed - AI Enterprise Market Map: Cutting Throught The Hype - August 2024 - https://lsvp.com/stories/ai-enterprise-market-map-cutting-through-the-hype/</description>
       <guid isPermaLink="false">5aed20ed017f8aee210af2db4d4f576a</guid>
       <category>Enterprise AI</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Synaptic - Open Source AI: A Fast Forward - August 2024</title>
@@ -1399,7 +1401,7 @@
       <description>Synaptic - Open Source AI: A Fast Forward - August 2024 - https://synaptic.com/resources/open-source-ai-2024</description>
       <guid isPermaLink="false">e224dc9e77082e0382c62c0a0b54df05</guid>
       <category>Open Source AI</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Software Analyst Cyber Research - Deep Dive Into The Security for AI Ecosystem - August 2024</title>
@@ -1407,7 +1409,7 @@
       <description>Software Analyst Cyber Research - Deep Dive Into The Security for AI Ecosystem - August 2024 - https://softwareanalyst.substack.com/p/deep-dive-into-the-security-for-ai</description>
       <guid isPermaLink="false">2c4045924c0658f601ebace9909471ea</guid>
       <category>AI Security</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>New Economies - AI Unicorns Landscape - August 2024</title>
@@ -1415,7 +1417,7 @@
       <description>New Economies - AI Unicorns Landscape - August 2024 - https://www.neweconomies.co/i/147601422/meet-the-ai-unicorns</description>
       <guid isPermaLink="false">6ac40d99c8831d5a5f12818d6a7e92b8</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Bessemer - The Rise of Cloud AI in India 2024 - August 2024</title>
@@ -1423,7 +1425,7 @@
       <description>Bessemer - The Rise of Cloud AI in India 2024 - August 2024 - https://www.bvp.com/atlas/the-rise-of-cloud-ai-in-india-2024</description>
       <guid isPermaLink="false">fc32a6b8898f812e9578d573ecbea384</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Ollie Forsyth — New Economies - The 2024 landscape across enterprise and vertical platforms. Generative AI + AI Agents Market Maps - July 2024</title>
@@ -1431,7 +1433,7 @@
       <description>Ollie Forsyth — New Economies - The 2024 landscape across enterprise and vertical platforms. Generative AI + AI Agents Market Maps - July 2024 - https://www.neweconomies.co/p/generative-ai</description>
       <guid isPermaLink="false">d9b272de30f013b343da56407bc18732</guid>
       <category>GenAI</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>AWS Marketplace - Generative AI partner offerings in AWS Marketplace: Core and Infrastructure Software - July 2024</title>
@@ -1439,7 +1441,7 @@
       <description>AWS Marketplace - Generative AI partner offerings in AWS Marketplace: Core and Infrastructure Software - July 2024 - https://aws.amazon.com/blogs/awsmarketplace/generative-ai-partner-offerings-in-aws-marketplace-core-infrastructure-software/</description>
       <guid isPermaLink="false">426521300339bd6480f6e77956fa8af8</guid>
       <category>GenAI</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Coatue - Robotics won't have a ChatGPT Moment - July 2024</title>
@@ -1447,7 +1449,7 @@
       <description>Coatue - Robotics won't have a ChatGPT Moment - July 2024 - https://www.coatue.com/blog/perspective/robotics-wont-have-a-chatgpt-moment</description>
       <guid isPermaLink="false">6a5d4856a29eabe94bf1997153d61a14</guid>
       <category>Robotics</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Geodesic Capital - Cybersecurity in an AI-First World - July 2024</title>
@@ -1455,7 +1457,7 @@
       <description>Geodesic Capital - Cybersecurity in an AI-First World - July 2024 - https://geodesiccap.com/insight/cybersecurity-in-an-ai-first-world/</description>
       <guid isPermaLink="false">f419af0300648c9a484851eb730869be</guid>
       <category>AI Security</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>a16z - "Death of a Salesforce": Why AI Will Transform the Next Generation of Sales Tech - July 2024</title>
@@ -1463,7 +1465,7 @@
       <description>a16z - "Death of a Salesforce": Why AI Will Transform the Next Generation of Sales Tech - July 2024 - https://a16z.com/ai-transforms-sales/</description>
       <guid isPermaLink="false">64187d59eeba659ed8cab502e328b87b</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>a16z - New a16z investment thesis: AI scribes - July 2024</title>
@@ -1471,7 +1473,7 @@
       <description>a16z - New a16z investment thesis: AI scribes - July 2024 - https://x.com/omooretweets/status/1812878684182942144</description>
       <guid isPermaLink="false">2b2aa1c2b21711676ef5ee799542eaed</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Hardware FYI - Manufacturing Deep-Tech Market Map - July 2024</title>
@@ -1479,7 +1481,7 @@
       <description>Hardware FYI - Manufacturing Deep-Tech Market Map - July 2024 - https://hardwarefyi.substack.com/p/the-analog-89-apple-vision-pro-suppliers</description>
       <guid isPermaLink="false">4a5373794c955dddab9472f3dad55fd0</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Ollie Forsyth — New Economies - AI Agents: The ultimate market map - June 2024</title>
@@ -1487,7 +1489,7 @@
       <description>Ollie Forsyth — New Economies - AI Agents: The ultimate market map - June 2024 - https://www.neweconomies.co/p/ai-agents-part-i</description>
       <guid isPermaLink="false">e28114c17952c9a438665e54fd818ec4</guid>
       <category>AI Agents</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Madrona - The Rise of AI Agent Infrastructure - June 2024</title>
@@ -1495,7 +1497,7 @@
       <description>Madrona - The Rise of AI Agent Infrastructure - June 2024 - https://www.madrona.com/the-rise-of-ai-agent-infrastructure/</description>
       <guid isPermaLink="false">5a66dae505af46bf98f84ced069574ca</guid>
       <category>AI Data</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Felicis - The rise of AI data infrastructure - June 2024</title>
@@ -1503,7 +1505,7 @@
       <description>Felicis - The rise of AI data infrastructure - June 2024 - https://www.felicis.com/insight/ai-data-infrastructure</description>
       <guid isPermaLink="false">79180c62c1fe207017d3ab5991757fd1</guid>
       <category>AI Data</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Blumberg Capital - Mapping the AI Toolchain – 2024 Perspective - June 2024</title>
@@ -1511,7 +1513,7 @@
       <description>Blumberg Capital - Mapping the AI Toolchain – 2024 Perspective - June 2024 - https://blumbergcapital.com/news-insights/mapping-the-ai-toolchain-2024-perspective/</description>
       <guid isPermaLink="false">e817d367a33cecf44f19b8daad6f5579</guid>
       <category>AI DevTools</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>IVP - The IVP Enterprise AI 55: 2024 Edition - June 2024</title>
@@ -1519,7 +1521,7 @@
       <description>IVP - The IVP Enterprise AI 55: 2024 Edition - June 2024 - https://www.ivp.com/content/the-ivp-enterprise-ai-55-2024/</description>
       <guid isPermaLink="false">ec0d9a4e76ab58258edbabb2c9a18320</guid>
       <category>Enterprise AI</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>PitchBook - Market Map: Mega-deals dominate AI's horizontal platform startups - June 2024</title>
@@ -1527,7 +1529,7 @@
       <description>PitchBook - Market Map: Mega-deals dominate AI's horizontal platform startups - June 2024 - https://pitchbook.com/news/articles/market-map-ai-ml-horizontal-platforms-2024</description>
       <guid isPermaLink="false">05fdfdf7244ae60d65780e38cd88ef48</guid>
       <category>Horizontal AI</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Bessemer - Roadmap: AI Infrastructure - June 2024</title>
@@ -1535,7 +1537,7 @@
       <description>Bessemer - Roadmap: AI Infrastructure - June 2024 - https://www.bvp.com/atlas/roadmap-ai-infrastructure</description>
       <guid isPermaLink="false">42b73331d1b24a49ad64fc7772dd8c83</guid>
       <category>AI Infrastructure</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Battery Ventures - The New Code of Law: How AI Will Revolutionize the Legal Sector - June 2024</title>
@@ -1543,7 +1545,7 @@
       <description>Battery Ventures - The New Code of Law: How AI Will Revolutionize the Legal Sector - June 2024 - https://www.battery.com/blog/the-new-code-of-law/</description>
       <guid isPermaLink="false">b1814d47100bce91d702316a1f04230a</guid>
       <category>Legaltech AI</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>The LegalTech Fund - Early-Stage Legaltech Generative AI Market Map - June 2024</title>
@@ -1551,7 +1553,7 @@
       <description>The LegalTech Fund - Early-Stage Legaltech Generative AI Market Map - June 2024 - https://www.legaltech.com/post/early-stage-legaltech-generative-ai-market-map-june-2024</description>
       <guid isPermaLink="false">69523e9eba56bbb166d613a5d6d70aad</guid>
       <category>Legaltech AI</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Deutsche Telekom Israel - Global GenAI Cyber Security Market Map - June 2024</title>
@@ -1559,7 +1561,7 @@
       <description>Deutsche Telekom Israel - Global GenAI Cyber Security Market Map - June 2024 - https://www.dtisrael.com/genaisecurity</description>
       <guid isPermaLink="false">e0614089c67f647d281023b10aade3ae</guid>
       <category>AI Security</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>a16z - Death, Taxes, and AI: How Generative AI Will Change Accounting - June 2024</title>
@@ -1567,7 +1569,7 @@
       <description>a16z - Death, Taxes, and AI: How Generative AI Will Change Accounting - June 2024 - https://a16z.com/generative-ai-in-accounting/</description>
       <guid isPermaLink="false">5e5df924762e9e2bac43191747733f9b</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>a16z - Say Hello to My New AI Marketer: How Gen AI-Based Software Is Advancing Marketing and Sales - June 2024</title>
@@ -1575,7 +1577,7 @@
       <description>a16z - Say Hello to My New AI Marketer: How Gen AI-Based Software Is Advancing Marketing and Sales - June 2024 - https://a16z.com/ai-marketer-how-gen-ai-based-software-is-advancing-marketing-and-sales/</description>
       <guid isPermaLink="false">ccc2181a295a5e632cc9cbc1470c27ae</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>The Westly Group - AI for the Power Sector - June 2024</title>
@@ -1583,7 +1585,7 @@
       <description>The Westly Group - AI for the Power Sector - June 2024 - https://medium.com/@TheWestlyGroup/ai-for-the-power-sector-0aa7365fce82</description>
       <guid isPermaLink="false">2d3fb047940f0289b3d970894c34cb1b</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Bain and Company - AI Leaders to Watch in 2024 mapped by Bain and Company as numbers of providers and funding continue to burgeon - June 2024</title>
@@ -1591,7 +1593,7 @@
       <description>Bain and Company - AI Leaders to Watch in 2024 mapped by Bain and Company as numbers of providers and funding continue to burgeon - June 2024 - https://www.bain.com/about/media-center/press-releases/2024/ai-leaders-to-watch-in-2024-mapped-by-bain--company-as-numbers-of-providers-and-funding-continue-to-burgeon/</description>
       <guid isPermaLink="false">e2ef90fc0f1e6d66cbc7bf0de2dc3e25</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>a16z - Hi, AI: Our Thesis On AI Voice Agents - May 2024</title>
@@ -1599,7 +1601,7 @@
       <description>a16z - Hi, AI: Our Thesis On AI Voice Agents - May 2024 - https://x.com/omooretweets/status/1795834644732285402</description>
       <guid isPermaLink="false">254130964b28908bed7075a6c8e33f23</guid>
       <category>AI Agents</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Insight Partners - AI Agents are disrupting automation: Current approaches, market solutions and recommendations - May 2024</title>
@@ -1607,7 +1609,7 @@
       <description>Insight Partners - AI Agents are disrupting automation: Current approaches, market solutions and recommendations - May 2024 - https://www.insightpartners.com/ideas/ai-agents-disrupting-automation/</description>
       <guid isPermaLink="false">dc77e3b4f788876b2910b8cbcc990a7b</guid>
       <category>AI Agents</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Prosus Ventures - The emerging AI AgentOps landscape: a builders' perspective - May 2024</title>
@@ -1615,7 +1617,7 @@
       <description>Prosus Ventures - The emerging AI AgentOps landscape: a builders' perspective - May 2024 - https://www.prosus.com/news-insights/group-updates/2024/ai-agentops-landscape</description>
       <guid isPermaLink="false">24204f5e8761d8a81056acf937d9d421</guid>
       <category>AI Agents</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Cobus Greyling - The Conversational AI Technology Landscape: Version 5.0 - May 2024</title>
@@ -1623,7 +1625,7 @@
       <description>Cobus Greyling - The Conversational AI Technology Landscape: Version 5.0 - May 2024 - https://medium.com/@cobusgreyling/the-conversational-ai-technology-landscape-version-5-0-840290d97c7f</description>
       <guid isPermaLink="false">8a438ed9fd545f036d518bd2ce1ecf47</guid>
       <category>Conversational AI</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Activant Capital - Unstructured Data Pipelines - May 2024</title>
@@ -1631,7 +1633,7 @@
       <description>Activant Capital - Unstructured Data Pipelines - May 2024 - https://activantcapital.com/research/unstructured-data-pipelines</description>
       <guid isPermaLink="false">126fbda8cb2a6592818b1b3b7ba58271</guid>
       <category>AI Data</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Greylock - Code Smarter, Not Harder - May 2024</title>
@@ -1639,7 +1641,7 @@
       <description>Greylock - Code Smarter, Not Harder - May 2024 - https://greylock.com/greymatter/code-smarter-not-harder/</description>
       <guid isPermaLink="false">69fac172c0836c3fc7199cfa23eba8d5</guid>
       <category>AI DevTools</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Sapphire Ventures - Building the Future: A Deep Dive Into the Generative AI App Infrastructure Stack - May 2024</title>
@@ -1647,7 +1649,7 @@
       <description>Sapphire Ventures - Building the Future: A Deep Dive Into the Generative AI App Infrastructure Stack - May 2024 - https://sapphireventures.com/blog/building-the-future-a-deep-dive-into-the-generative-ai-app-infrastructure-stack/</description>
       <guid isPermaLink="false">003c30e210f6026e11597dd2d5b6fabb</guid>
       <category>AI Infrastructure</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Obvious Ventures - Getting Physical: The New AI Frontier of Robotics - May 2024</title>
@@ -1655,7 +1657,7 @@
       <description>Obvious Ventures - Getting Physical: The New AI Frontier of Robotics - May 2024 - https://obvious.com/ideas/getting-physical-the-new-ai-frontier-of-robotics/</description>
       <guid isPermaLink="false">7ba0ccab080d0f1dec9d9a944f7521ba</guid>
       <category>Robotics</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Paolo Fornasini — Venture - Top Of The Stack: Mapping Today's AI x PE-tech Landscape - May 2024</title>
@@ -1663,7 +1665,7 @@
       <description>Paolo Fornasini — Venture - Top Of The Stack: Mapping Today's AI x PE-tech Landscape - May 2024 - https://medium.com/venturehq/top-of-the-stack-mapping-todays-ai-x-pe-tech-landscape-52d87d7aaa9a</description>
       <guid isPermaLink="false">c53c6ca90f515b7274f1fcc464081c9b</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Reimagine Ventures - The Q2 2024 Israeli Generative AI startup landscape - May 2024</title>
@@ -1671,7 +1673,7 @@
       <description>Reimagine Ventures - The Q2 2024 Israeli Generative AI startup landscape - May 2024 - https://www.remagineventures.com/generative-ai-landscape/</description>
       <guid isPermaLink="false">1f06ec8cfe5b8abd24b4188c6fe0f8a1</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Kyle Poyar and Palle Broe - How AI apps make money - May 2024</title>
@@ -1679,7 +1681,7 @@
       <description>Kyle Poyar and Palle Broe - How AI apps make money - May 2024 - https://substack.com/home/post/p-144001968</description>
       <guid isPermaLink="false">b2a657d7f8d76ba8d8c5e21ceca5167d</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>CXO Today - The Top Conversational AI Solutions Vendors in 2024 - April 2024</title>
@@ -1687,7 +1689,7 @@
       <description>CXO Today - The Top Conversational AI Solutions Vendors in 2024 - April 2024 - https://www.cxtoday.com/conversational-ai/the-top-conversational-ai-solutions-vendors-in-2024/</description>
       <guid isPermaLink="false">704e92662e83d9e736668d1dba762581</guid>
       <category>Conversational AI</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Alex Irina Sandu - 20 Popular Open Source AI Developer Tools - April 2024</title>
@@ -1695,7 +1697,7 @@
       <description>Alex Irina Sandu - 20 Popular Open Source AI Developer Tools - April 2024 - https://alexsandu.substack.com/p/20-popular-open-source-ai-developer</description>
       <guid isPermaLink="false">bce29fe29dfba5a2f63e161c5bf9f34c</guid>
       <category>Open Source AI</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Tangram Vision - 2024 Perception Industry Market Map - April 2024</title>
@@ -1703,7 +1705,7 @@
       <description>Tangram Vision - 2024 Perception Industry Market Map - April 2024 - https://www.tangramvision.com/blog/2024-perception-industry-market-map</description>
       <guid isPermaLink="false">340a43852dfabf36eb924cde9161d9ec</guid>
       <category>Robotics</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Sequoia - AI 50 2024 - April 2024</title>
@@ -1711,7 +1713,7 @@
       <description>Sequoia - AI 50 2024 - April 2024 - https://www.sequoiacap.com/article/ai-50-2024/</description>
       <guid isPermaLink="false">3058ae53db43bcd8cc7d32b1ed4eb1d4</guid>
       <category>Top AI</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>CB Insights - AI 100: The most promising artificial intelligence startups of 2024 - April 2024</title>
@@ -1719,7 +1721,7 @@
       <description>CB Insights - AI 100: The most promising artificial intelligence startups of 2024 - April 2024 - https://www.cbinsights.com/research/report/artificial-intelligence-top-startups-2024/</description>
       <guid isPermaLink="false">f14aa7563411b910522c4224c823645d</guid>
       <category>Top AI</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Sapphire Ventures - "La French Tech" – A Tour de Force of Innovation and Growth - April 2024</title>
@@ -1727,7 +1729,7 @@
       <description>Sapphire Ventures - "La French Tech" – A Tour de Force of Innovation and Growth - April 2024 - https://sapphireventures.com/blog/la-french-tech-a-tour-de-force-of-innovation-and-growth/</description>
       <guid isPermaLink="false">49f4b5daff81e699d637633db16e6b24</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>MMC - The Who's Who in Responsible AI - April 2024</title>
@@ -1735,7 +1737,7 @@
       <description>MMC - The Who's Who in Responsible AI - April 2024 - https://mmc.vc/research/the-whos-who-in-responsible-ai/</description>
       <guid isPermaLink="false">cfb170ad32cdf6f8cc09743b9265c8b5</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Foundation Capital - Beyond RPA: How LLMs are ushering in a new era of intelligent process automation - March 2024</title>
@@ -1743,7 +1745,7 @@
       <description>Foundation Capital - Beyond RPA: How LLMs are ushering in a new era of intelligent process automation - March 2024 - https://foundationcapital.com/beyond-rpa-how-llms-are-ushering-in-a-new-era-of-intelligent-process-automation/</description>
       <guid isPermaLink="false">50914210987840c50bf2c50a74d38e9d</guid>
       <category>AI Automation</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Criteria Venture Tech - LLM Infrastructure Stack Market Map - March 2024</title>
@@ -1751,7 +1753,7 @@
       <description>Criteria Venture Tech - LLM Infrastructure Stack Market Map - March 2024 - https://aleixperez.substack.com/p/llm-infrastructure-stack-market-landscape</description>
       <guid isPermaLink="false">e4fffd7e280cf392b5a10dbd81d025b6</guid>
       <category>AI Infrastructure</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Activant Capital - Silicon Synapses for AI - AI hardware in data centers and on the edge - March 2024</title>
@@ -1759,7 +1761,7 @@
       <description>Activant Capital - Silicon Synapses for AI - AI hardware in data centers and on the edge - March 2024 - https://activantcapital.com/research/ai-hardware</description>
       <guid isPermaLink="false">d05acb2daf98daa66e0528a0e489fa86</guid>
       <category>AI Hardware</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Alex Huckstepp - "Software for Hardware" is Heating Up! The landscape of software solutions for developing and manufacturing hardware is rapidly expanding. - March 2024</title>
@@ -1767,7 +1769,7 @@
       <description>Alex Huckstepp - "Software for Hardware" is Heating Up! The landscape of software solutions for developing and manufacturing hardware is rapidly expanding. - March 2024 - https://medium.com/@alexhuckstepp/software-for-hardware-is-heating-up-8c39979c0eac</description>
       <guid isPermaLink="false">a8dfce2f0b4ba189778f24e3f8442f9b</guid>
       <category>AI Hardware</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Creandum - Mastering AI Governance and Security - March 2024</title>
@@ -1775,7 +1777,7 @@
       <description>Creandum - Mastering AI Governance and Security - March 2024 - https://creandum.com/stories/mastering-ai-governance-and-security/</description>
       <guid isPermaLink="false">68b439490a030586b4026ad5068e713e</guid>
       <category>AI Security</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Matt Turck — Firstmark - Full Steam Ahead: The 2024 MAD (Machine Learning, AI and Data) Landscape - March 2024</title>
@@ -1783,7 +1785,7 @@
       <description>Matt Turck — Firstmark - Full Steam Ahead: The 2024 MAD (Machine Learning, AI and Data) Landscape - March 2024 - https://mattturck.com/mad2024/</description>
       <guid isPermaLink="false">6178d3b1151e23104408dfc2485ed7a4</guid>
       <category>AI Everything Else</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Maverick Ventures - Market Map of LLM Evaluation Startups - February 2024</title>
@@ -1791,7 +1793,7 @@
       <description>Maverick Ventures - Market Map of LLM Evaluation Startups - February 2024 - https://medium.com/p/what-the-history-of-software-development-tells-us-about-the-hurdles-to-enterprise-adoption-of-llms-c96bc968456d</description>
       <guid isPermaLink="false">b3e24d456defc44d3d6c4e5aea7cd597</guid>
       <category>AI DevTools</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Sifted.eu - Early Stage European Robotics Market Map - February 2024</title>
@@ -1799,7 +1801,7 @@
       <description>Sifted.eu - Early Stage European Robotics Market Map - February 2024 - https://sifted.eu/pro/briefings/robotics-2024</description>
       <guid isPermaLink="false">138097f86e3c1dddab10408bda36f205</guid>
       <category>Robotics</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Menlo Ventures - Security for AI: The New Wave of Startups Racing to Secure the AI Stack - February 2024</title>
@@ -1807,7 +1809,7 @@
       <description>Menlo Ventures - Security for AI: The New Wave of Startups Racing to Secure the AI Stack - February 2024 - https://menlovc.com/perspective/security-for-ai-genai-risks-and-the-emerging-startup-landscape/</description>
       <guid isPermaLink="false">df48e03f67232e23bc8a6b6bea8e9346</guid>
       <category>AI Security</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Alireza Sadeghi — pracdata.io - 2024 Open Source Data Engineering Landscape - January 2024</title>
@@ -1815,7 +1817,7 @@
       <description>Alireza Sadeghi — pracdata.io - 2024 Open Source Data Engineering Landscape - January 2024 - https://www.pracdata.io/p/open-source-data-engineering-landscape</description>
       <guid isPermaLink="false">7ad7fb823c7f78ac4a25e357381551cd</guid>
       <category>AI Data Engineering</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Synaptic - Free Weights: Open Source AI - January 2024</title>
@@ -1823,7 +1825,7 @@
       <description>Synaptic - Free Weights: Open Source AI - January 2024 - https://synaptic.com/resources/free-weights-open-source-ai</description>
       <guid isPermaLink="false">03cc6498bf5545aee62e71f9e2918b07</guid>
       <category>Open Source AI</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Kwesi Acquay — Scaling Verticals - Is 2024 Vertical AI's breakout year? - January 2024</title>
@@ -1831,7 +1833,7 @@
       <description>Kwesi Acquay — Scaling Verticals - Is 2024 Vertical AI's breakout year? - January 2024 - https://scalingverticals.substack.com/p/is-2024-vertical-ais-breakout-year</description>
       <guid isPermaLink="false">079730452df90cfc4ee80dd4c7105443</guid>
       <category>Vertical AI</category>
-      <pubDate>Sat, 07 Jun 2025 16:48:16 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 2025 16:52:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
