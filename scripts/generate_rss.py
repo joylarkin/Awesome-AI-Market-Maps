@@ -68,7 +68,7 @@ fg.link(href="https://github.com/joylarkin/Awesome-AI-Market-Maps")
 fg.language("en")
 fg.description("Real-time updates of new AI Market Maps featured in the Awesome-AI-Market-Maps GitHub repository. Follow for new AI Market Maps as they are added. Curated by Joy Larkin (Twitter: @joy).")
 
-# Add atom:link with rel="self"
+# Add atom:link with rel="self" and proper content type
 feed_url = "https://raw.githubusercontent.com/joylarkin/Awesome-AI-Market-Maps/main/feeds/AIMarketMaps.xml"
 fg.link(href=feed_url, rel="self", type="application/rss+xml")
 
@@ -86,10 +86,12 @@ for title, url, category in reversed(categorized_items):
     
     fe = fg.add_entry()
     fe.id(guid)
-    fe.title(clean_html_entities(title))
+    # Clean HTML entities from title before setting it
+    cleaned_title = clean_html_entities(title)
+    fe.title(cleaned_title)
     fe.link(href=url)
     fe.published(utc_now)
-    description = f"{clean_html_entities(title)} - {url}"
+    description = f"{cleaned_title} - {url}"
     fe.description(description)
     if category:
         fe.category(term=category)
