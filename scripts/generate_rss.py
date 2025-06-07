@@ -24,6 +24,11 @@ def clean_html_entities(text):
     text = text.replace('&gt;', '>')
     text = text.replace('&quot;', '"')
     text = text.replace('&#x27;', "'")
+    # Handle double-encoded entities
+    text = text.replace('&amp;amp;', 'and')
+    text = text.replace('&amp;lt;', '<')
+    text = text.replace('&amp;gt;', '>')
+    text = text.replace('&amp;quot;', '"')
     return text
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -105,4 +110,10 @@ for title, url, category in reversed(categorized_items):
 # ── write/overwrite the XML file ──────────────────────────────────────────────
 out = ROOT / "feeds"
 out.mkdir(exist_ok=True)
-fg.rss_file(out / "AIMarketMaps.xml", pretty=True) 
+
+# Write with explicit XML declaration and stylesheet
+xml_content = fg.rss_str(pretty=True).decode('utf-8')
+with open(out / "AIMarketMaps.xml", 'w', encoding='utf-8') as f:
+    f.write('<?xml version="1.0" encoding="UTF-8"?>\n')
+    f.write('<?xml-stylesheet type="text/xsl" href="https://raw.githubusercontent.com/joylarkin/Awesome-AI-Market-Maps/main/feeds/rss.xsl"?>\n')
+    f.write(xml_content) 
