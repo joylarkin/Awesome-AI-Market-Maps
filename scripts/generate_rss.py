@@ -18,17 +18,6 @@ def clean_html_entities(text):
     text = re.sub(r'\s*&\s*', ' and ', text)
     # Remove any remaining < or > characters
     text = text.replace('<', '').replace('>', '')
-    # Replace any remaining HTML entities with their plain text equivalents
-    text = text.replace('&amp;', 'and')
-    text = text.replace('&lt;', '<')
-    text = text.replace('&gt;', '>')
-    text = text.replace('&quot;', '"')
-    text = text.replace('&#x27;', "'")
-    # Handle double-encoded entities
-    text = text.replace('&amp;amp;', 'and')
-    text = text.replace('&amp;lt;', '<')
-    text = text.replace('&amp;gt;', '>')
-    text = text.replace('&amp;quot;', '"')
     return text
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -55,7 +44,9 @@ for line in block.splitlines():
     item_match = re.match(r"[-*] \s*\[([^\]]+?)\]\((https?://[^\)]+)\)", line)
     if item_match:
         title, url = item_match.groups()
-        categorized_items.append((title, url, category))
+        # Clean HTML entities at the source, before adding to categorized_items
+        cleaned_title = clean_html_entities(title)
+        categorized_items.append((cleaned_title, url, category))
 
 print(f"[DEBUG] Number of categorized items found: {len(categorized_items)}")
 if categorized_items:
@@ -97,12 +88,11 @@ for title, url, category in reversed(categorized_items):
     
     fe = fg.add_entry()
     fe.id(guid)
-    # Clean HTML entities from title before setting it
-    cleaned_title = clean_html_entities(title)
-    fe.title(cleaned_title)
+    # Title is already cleaned, no need to clean again
+    fe.title(title)
     fe.link(href=url)
     fe.published(utc_now)
-    description = f"{cleaned_title} - {url}"
+    description = f"{title} - {url}"
     fe.description(description)
     if category:
         fe.category(term=category)
