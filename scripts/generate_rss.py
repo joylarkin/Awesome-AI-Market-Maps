@@ -20,6 +20,8 @@ def clean_html_entities(text):
     text = re.sub(r'\s*&\s*', ' and ', text)
     # Remove any remaining < or > characters
     text = text.replace('<', '').replace('>', '')
+    # Remove any remaining HTML entities
+    text = re.sub(r'&[a-zA-Z]+;', '', text)
     return text
 
 def safe_xml_text(text):
