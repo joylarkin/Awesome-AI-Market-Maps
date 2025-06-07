@@ -6,11 +6,11 @@ Re-builds feeds/AIMarketMaps.xml from every list item that sits
 """
 from pathlib import Path
 import re, datetime as dt
-from feedgen.feed import FeedGenerator
 import html
 import hashlib
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
+from xml.sax.saxutils import escape
 
 def clean_html_entities(text):
     """Clean HTML entities from text while preserving necessary characters."""
@@ -21,6 +21,13 @@ def clean_html_entities(text):
     # Remove any remaining < or > characters
     text = text.replace('<', '').replace('>', '')
     return text
+
+def safe_xml_text(text):
+    """Safely escape text for XML while preserving necessary characters."""
+    # First clean any HTML entities
+    text = clean_html_entities(text)
+    # Then escape for XML
+    return escape(text)
 
 ROOT = Path(__file__).resolve().parents[1]
 readme = (ROOT / "README.md").read_text(encoding="utf-8")
@@ -73,9 +80,9 @@ rss = ET.Element('rss', {
 })
 
 channel = ET.SubElement(rss, 'channel')
-ET.SubElement(channel, 'title').text = "Awesome AI Market Maps •• Master AI Market Maps Update Feed"
+ET.SubElement(channel, 'title').text = safe_xml_text("Awesome AI Market Maps •• Master AI Market Maps Update Feed")
 ET.SubElement(channel, 'link').text = "https://github.com/joylarkin/Awesome-AI-Market-Maps"
-ET.SubElement(channel, 'description').text = "Real-time updates of new AI Market Maps featured in the Awesome-AI-Market-Maps GitHub repository. Follow for new AI Market Maps as they are added. Curated by Joy Larkin (Twitter: @joy)."
+ET.SubElement(channel, 'description').text = safe_xml_text("Real-time updates of new AI Market Maps featured in the Awesome-AI-Market-Maps GitHub repository. Follow for new AI Market Maps as they are added. Curated by Joy Larkin (Twitter: @joy).")
 
 # Add atom:link with rel="self" and proper content type
 feed_url = "https://raw.githubusercontent.com/joylarkin/Awesome-AI-Market-Maps/main/feeds/AIMarketMaps.xml"
@@ -101,12 +108,12 @@ for title, url, category in reversed(categorized_items):
     seen_guids.add(guid)
     
     item = ET.SubElement(channel, 'item')
-    ET.SubElement(item, 'title').text = title
+    ET.SubElement(item, 'title').text = safe_xml_text(title)
     ET.SubElement(item, 'link').text = url
-    ET.SubElement(item, 'description').text = f"{title} - {url}"
+    ET.SubElement(item, 'description').text = safe_xml_text(f"{title} - {url}")
     ET.SubElement(item, 'guid', {'isPermaLink': 'false'}).text = guid
     if category:
-        ET.SubElement(item, 'category').text = category
+        ET.SubElement(item, 'category').text = safe_xml_text(category)
     ET.SubElement(item, 'pubDate').text = utc_now.strftime('%a, %d %b %Y %H:%M:%S %z')
 
 # ── write/overwrite the XML file ──────────────────────────────────────────────
