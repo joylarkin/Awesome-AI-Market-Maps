@@ -10,6 +10,16 @@ from feedgen.feed import FeedGenerator
 import html
 import hashlib
 
+def clean_html_entities(text):
+    """Clean HTML entities from text while preserving necessary characters."""
+    # First decode any existing HTML entities
+    text = html.unescape(text)
+    # Then escape only the characters that need to be escaped in XML
+    text = text.replace('&', ' and ')  # Replace & with 'and'
+    text = text.replace('<', '')  # Remove <
+    text = text.replace('>', '')  # Remove >
+    return text
+
 ROOT = Path(__file__).resolve().parents[1]
 readme = (ROOT / "README.md").read_text(encoding="utf-8")
 
@@ -76,10 +86,10 @@ for title, url, category in reversed(categorized_items):
     
     fe = fg.add_entry()
     fe.id(guid)
-    fe.title(html.escape(title))
+    fe.title(clean_html_entities(title))
     fe.link(href=url)
     fe.published(utc_now)
-    description = f"{html.escape(title)} - {url}"
+    description = f"{clean_html_entities(title)} - {url}"
     fe.description(description)
     if category:
         fe.category(term=category)
