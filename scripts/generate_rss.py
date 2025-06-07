@@ -33,6 +33,41 @@ def safe_xml_text(text):
         text = escape(text)
     return text
 
+def write_xml_element(element, indent=0):
+    """Write an XML element with proper indentation and entity handling."""
+    result = []
+    indent_str = '  ' * indent
+    
+    # Start tag
+    result.append(f"{indent_str}<{element.tag}")
+    
+    # Attributes
+    for key, value in element.attrib.items():
+        result.append(f' {key}="{escape(str(value))}"')
+    
+    if element.text is None and len(element) == 0:
+        # Empty element
+        result.append(" />\n")
+    else:
+        # Non-empty element
+        result.append(">")
+        
+        # Text content
+        if element.text:
+            result.append(safe_xml_text(element.text))
+        
+        # Child elements
+        if len(element) > 0:
+            result.append("\n")
+            for child in element:
+                result.append(write_xml_element(child, indent + 1))
+            result.append(indent_str)
+        
+        # End tag
+        result.append(f"</{element.tag}>\n")
+    
+    return ''.join(result)
+
 ROOT = Path(__file__).resolve().parents[1]
 readme = (ROOT / "README.md").read_text(encoding="utf-8")
 
@@ -124,11 +159,8 @@ for title, url, category in reversed(categorized_items):
 out = ROOT / "feeds"
 out.mkdir(exist_ok=True)
 
-# Convert to string with proper formatting
-xml_str = minidom.parseString(ET.tostring(rss, 'utf-8')).toprettyxml(indent='  ')
-
 # Write with explicit XML declaration and stylesheet
 with open(out / "AIMarketMaps.xml", 'w', encoding='utf-8') as f:
     f.write('<?xml version="1.0" encoding="UTF-8"?>\n')
     f.write('<?xml-stylesheet type="text/xsl" href="https://raw.githubusercontent.com/joylarkin/Awesome-AI-Market-Maps/main/feeds/rss.xsl"?>\n')
-    f.write(xml_str) 
+    f.write(write_xml_element(rss)) 
