@@ -14,10 +14,10 @@ def clean_html_entities(text):
     """Clean HTML entities from text while preserving necessary characters."""
     # First decode any existing HTML entities
     text = html.unescape(text)
-    # Then escape only the characters that need to be escaped in XML
-    text = text.replace('&', ' and ')  # Replace & with 'and'
-    text = text.replace('<', '')  # Remove <
-    text = text.replace('>', '')  # Remove >
+    # Replace & with 'and' only if it's not part of a word
+    text = re.sub(r'\s*&\s*', ' and ', text)
+    # Remove any remaining < or > characters
+    text = text.replace('<', '').replace('>', '')
     return text
 
 ROOT = Path(__file__).resolve().parents[1]
