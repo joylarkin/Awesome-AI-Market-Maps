@@ -18,6 +18,12 @@ def clean_html_entities(text):
     text = re.sub(r'\s*&\s*', ' and ', text)
     # Remove any remaining < or > characters
     text = text.replace('<', '').replace('>', '')
+    # Replace any remaining HTML entities with their plain text equivalents
+    text = text.replace('&amp;', 'and')
+    text = text.replace('&lt;', '<')
+    text = text.replace('&gt;', '>')
+    text = text.replace('&quot;', '"')
+    text = text.replace('&#x27;', "'")
     return text
 
 ROOT = Path(__file__).resolve().parents[1]
