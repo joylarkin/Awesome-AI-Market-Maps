@@ -275,7 +275,7 @@ OR
 
 #### AI Agents
 - [a16z - AI Voice Agent Update - January 2025](https://a16z.com/ai-voice-agents-2025-update/)
-- [Menlo Ventures - Beyond Bots: How AI Agents Are Driving the Next Wave of Enterprise Automation - Updated January 2025](https://menlovc.com/perspective/beyond-bots-how-ai-agents-are-driving-the-next-wave-of-enterprise-automation/)
+- [Menlo Ventures - Beyond Bots: How AI Agents Are Driving the Next Wave of Enterprise Automation - Updated January 2025](https://menlovc.com/perspective/beyond-bots-how-ai-agents-are-driving-the-next-wave-of-enterprise-automation/?=Jan2025)
 - [Dawn Capital - AI Agents - January 2025](https://dawncapital.com/horizons/#agentic-ai)
 - [CB Insights - Industrial AI Agents & Copilots Market Map - January 2025](https://x.com/CBinsights/status/1879536580496343474)
 
