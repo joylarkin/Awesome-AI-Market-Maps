@@ -44,7 +44,7 @@ OR
 - [Sahar Mor — AI Tidbits - The Open-Source Toolkit for Building AI Agents v2 - June 2025](https://www.aitidbits.ai/p/open-source-agents-updated)
 
 #### Healthcare AI 
-- [Charge - The Healthcare AI Governance Market Map - June 2025](https://www.linkedin.com/posts/charge-health-ai_ai-is-transforming-healthcare-but-it-also-activity-7336019128035475456-ZHcs?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAAMUMBCgQ5ezfrH5kN4TmZxCNp0J47g3M)
+- [Charge - The Healthcare AI Governance Market Map - June 2025](https://www.linkedin.com/posts/charge-health-ai_ai-is-transforming-healthcare-but-it-also-activity-7336019128035475456-ZHcs)
 
 #### AI Software QA/Testing
 - [Jacob Conger & Ram Raval — Headline - AI Can Write Code. Who Makes Sure It Works? - June 2025](https://headline.com/blog-latest/article-latest/ai-can-write-code-who-makes-sure-it-works)
