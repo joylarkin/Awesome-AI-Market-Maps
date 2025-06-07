@@ -9,6 +9,8 @@ import re, datetime as dt
 from feedgen.feed import FeedGenerator
 import html
 import hashlib
+import xml.etree.ElementTree as ET
+from xml.dom import minidom
 
 def clean_html_entities(text):
     """Clean HTML entities from text while preserving necessary characters."""
@@ -63,16 +65,28 @@ for line in block.splitlines():
                 print(f"URL: {url}")
                 print(f"Line: {line.strip()}\n")
 
-fg = FeedGenerator()
-fg.id("https://github.com/joylarkin/Awesome-AI-Market-Maps")
-fg.title("Awesome AI Market Maps •• Master AI Market Maps Update Feed")
-fg.link(href="https://github.com/joylarkin/Awesome-AI-Market-Maps")
-fg.language("en")
-fg.description("Real-time updates of new AI Market Maps featured in the Awesome-AI-Market-Maps GitHub repository. Follow for new AI Market Maps as they are added. Curated by Joy Larkin (Twitter: @joy).")
+# Create RSS feed using ElementTree
+rss = ET.Element('rss', {
+    'version': '2.0',
+    'xmlns:atom': 'http://www.w3.org/2005/Atom',
+    'xmlns:content': 'http://purl.org/rss/1.0/modules/content/'
+})
+
+channel = ET.SubElement(rss, 'channel')
+ET.SubElement(channel, 'title').text = "Awesome AI Market Maps •• Master AI Market Maps Update Feed"
+ET.SubElement(channel, 'link').text = "https://github.com/joylarkin/Awesome-AI-Market-Maps"
+ET.SubElement(channel, 'description').text = "Real-time updates of new AI Market Maps featured in the Awesome-AI-Market-Maps GitHub repository. Follow for new AI Market Maps as they are added. Curated by Joy Larkin (Twitter: @joy)."
 
 # Add atom:link with rel="self" and proper content type
 feed_url = "https://raw.githubusercontent.com/joylarkin/Awesome-AI-Market-Maps/main/feeds/AIMarketMaps.xml"
-fg.link(href=feed_url, rel="self", type="application/rss+xml")
+atom_link = ET.SubElement(channel, 'atom:link')
+atom_link.set('href', feed_url)
+atom_link.set('rel', 'self')
+atom_link.set('type', 'application/rss+xml')
+
+ET.SubElement(channel, 'docs').text = "http://www.rssboard.org/rss-specification"
+ET.SubElement(channel, 'generator').text = "python-feedgen"
+ET.SubElement(channel, 'language').text = "en"
 
 utc_now = dt.datetime.now(dt.timezone.utc)
 seen_guids = set()  # Track GUIDs to prevent duplicates
@@ -86,24 +100,24 @@ for title, url, category in reversed(categorized_items):
         continue
     seen_guids.add(guid)
     
-    fe = fg.add_entry()
-    fe.id(guid)
-    # Title is already cleaned, no need to clean again
-    fe.title(title)
-    fe.link(href=url)
-    fe.published(utc_now)
-    description = f"{title} - {url}"
-    fe.description(description)
+    item = ET.SubElement(channel, 'item')
+    ET.SubElement(item, 'title').text = title
+    ET.SubElement(item, 'link').text = url
+    ET.SubElement(item, 'description').text = f"{title} - {url}"
+    ET.SubElement(item, 'guid', {'isPermaLink': 'false'}).text = guid
     if category:
-        fe.category(term=category)
+        ET.SubElement(item, 'category').text = category
+    ET.SubElement(item, 'pubDate').text = utc_now.strftime('%a, %d %b %Y %H:%M:%S %z')
 
 # ── write/overwrite the XML file ──────────────────────────────────────────────
 out = ROOT / "feeds"
 out.mkdir(exist_ok=True)
 
+# Convert to string with proper formatting
+xml_str = minidom.parseString(ET.tostring(rss, 'utf-8')).toprettyxml(indent='  ')
+
 # Write with explicit XML declaration and stylesheet
-xml_content = fg.rss_str(pretty=True).decode('utf-8')
 with open(out / "AIMarketMaps.xml", 'w', encoding='utf-8') as f:
     f.write('<?xml version="1.0" encoding="UTF-8"?>\n')
     f.write('<?xml-stylesheet type="text/xsl" href="https://raw.githubusercontent.com/joylarkin/Awesome-AI-Market-Maps/main/feeds/rss.xsl"?>\n')
-    f.write(xml_content) 
+    f.write(xml_str) 
