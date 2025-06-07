@@ -7,6 +7,7 @@ Re-builds feeds/AIMarketMaps.xml from every list item that sits
 from pathlib import Path
 import re, datetime as dt
 from feedgen.feed import FeedGenerator
+import html
 
 ROOT = Path(__file__).resolve().parents[1]
 readme = (ROOT / "README.md").read_text(encoding="utf-8")
@@ -56,14 +57,24 @@ fg.link(href="https://github.com/joylarkin/Awesome-AI-Market-Maps")
 fg.language("en")
 fg.description("Real-time updates of new AI Market Maps featured in the Awesome-AI-Market-Maps GitHub repository. Follow for new AI Market Maps as they are added. Curated by Joy Larkin (Twitter: @joy).")
 
+# Add atom:link with rel="self"
+fg.link(href="https://raw.githubusercontent.com/joylarkin/Awesome-AI-Market-Maps/main/feeds/AIMarketMaps.xml", rel="self")
+
 utc_now = dt.datetime.now(dt.timezone.utc)
+seen_guids = set()  # Track GUIDs to prevent duplicates
+
 for title, url, category in reversed(categorized_items):
+    # Skip if we've seen this URL before
+    if url in seen_guids:
+        continue
+    seen_guids.add(url)
+    
     fe = fg.add_entry()
     fe.id(url)
-    fe.title(title)
+    fe.title(html.escape(title))  # Properly escape HTML entities
     fe.link(href=url)
-    fe.published(utc_now)          # (or parse dates per item if you add them)                            
-    description = f"Learn more about {title} at {url}" if title and url else "No description available."  # Ensure description is populated
+    fe.published(utc_now)
+    description = f"{html.escape(title)} - {url}" if title and url else "No description available."
     fe.description(description)
     if category:
         fe.category(term=category)
