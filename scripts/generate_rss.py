@@ -137,7 +137,7 @@ ET.SubElement(channel, 'language').text = "en"
 utc_now = dt.datetime.now(dt.timezone.utc)
 seen_guids = set()  # Track GUIDs to prevent duplicates
 
-for title, url, category in reversed(categorized_items):
+for title, url, category in categorized_items:  # Removed reversed() to keep chronological order
     # Create a unique GUID by combining URL and title
     guid = hashlib.md5(f"{url}{title}".encode()).hexdigest()
     
