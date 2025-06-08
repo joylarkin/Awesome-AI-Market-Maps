@@ -76,14 +76,23 @@ def get_git_commit_date(file_path, line_number):
         cmd = ['git', 'blame', '-L', f'{line_number},{line_number}', '--date=iso', file_path]
         result = subprocess.run(cmd, capture_output=True, text=True, check=True)
         
+        print(f"[DEBUG] Git blame output for line {line_number}:")
+        print(result.stdout)
+        
         # Extract the date from the blame output
         # Format: <commit_hash> (<author> <date> <line_number>) <content>
         match = re.search(r'\([^)]*(\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2})', result.stdout)
         if match:
             date_str = match.group(1)
+            print(f"[DEBUG] Found date: {date_str}")
             return dt.datetime.strptime(date_str, '%Y-%m-%d %H:%M:%S').replace(tzinfo=dt.timezone.utc)
-    except subprocess.CalledProcessError:
-        pass
+        else:
+            print(f"[DEBUG] No date found in git blame output")
+    except subprocess.CalledProcessError as e:
+        print(f"[DEBUG] Git blame failed: {e}")
+        print(f"[DEBUG] Command output: {e.output}")
+    except Exception as e:
+        print(f"[DEBUG] Unexpected error: {e}")
     return None
 
 ROOT = Path(__file__).resolve().parents[1]
