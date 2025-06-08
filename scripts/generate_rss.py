@@ -80,7 +80,7 @@ def get_git_commit_date(file_path, line_number):
         # Format: <commit_hash> (<author> <date> <line_number>) <content>
         match = re.search(r'\([^)]*(\d{4}-\d{2}-\d{2})', result.stdout)
         if match:
-            return dt.datetime.fromisoformat(match.group(1))
+            return dt.datetime.fromisoformat(match.group(1)).replace(tzinfo=dt.timezone.utc)
     except subprocess.CalledProcessError:
         pass
     return None
