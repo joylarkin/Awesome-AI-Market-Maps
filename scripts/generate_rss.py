@@ -78,9 +78,10 @@ def get_git_commit_date(file_path, line_number):
         
         # Extract the date from the blame output
         # Format: <commit_hash> (<author> <date> <line_number>) <content>
-        match = re.search(r'\([^)]*(\d{4}-\d{2}-\d{2})', result.stdout)
+        match = re.search(r'\([^)]*(\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2})', result.stdout)
         if match:
-            return dt.datetime.fromisoformat(match.group(1)).replace(tzinfo=dt.timezone.utc)
+            date_str = match.group(1)
+            return dt.datetime.strptime(date_str, '%Y-%m-%d %H:%M:%S').replace(tzinfo=dt.timezone.utc)
     except subprocess.CalledProcessError:
         pass
     return None
@@ -147,7 +148,8 @@ categorized_items.sort(key=lambda x: x[3] if x[3] else dt.datetime.min, reverse=
 rss = ET.Element('rss', {
     'version': '2.0',
     'xmlns:atom': 'http://www.w3.org/2005/Atom',
-    'xmlns:content': 'http://purl.org/rss/1.0/modules/content/'
+    'xmlns:content': 'http://purl.org/rss/1.0/modules/content/',
+    'xmlns:dc': 'http://purl.org/dc/elements/1.1/'
 })
 
 channel = ET.SubElement(rss, 'channel')
