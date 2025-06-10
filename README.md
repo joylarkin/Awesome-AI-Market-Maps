@@ -50,6 +50,9 @@ OR
 #### Healthcare AI 
 - [Charge - The Healthcare AI Governance Market Map - June 2025](https://www.linkedin.com/posts/charge-health-ai_ai-is-transforming-healthcare-but-it-also-activity-7336019128035475456-ZHcs)
 
+#### InsurTech AI 
+- [Plug and Play Insurtech - Customer Service & Support Conversational & Voice AI - June 2025](https://www.linkedin.com/posts/gonzalo-calle-santiago_customerservice-virtualagents-aiinnovation-activity-7338238612406218752-YUX4)
+
 #### AI Software QA/Testing
 - [Jacob Conger & Ram Raval — Headline - AI Can Write Code. Who Makes Sure It Works? - June 2025](https://headline.com/blog-latest/article-latest/ai-can-write-code-who-makes-sure-it-works)
 
