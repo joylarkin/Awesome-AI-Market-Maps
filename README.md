@@ -43,6 +43,9 @@ OR
 #### AI Agents
 - [Sahar Mor — AI Tidbits - The Open-Source Toolkit for Building AI Agents v2 - June 2025](https://www.aitidbits.ai/p/open-source-agents-updated)
 
+#### AI DevTools
+- [Javier Redondo — Scale Venture Partners - MCP is the new WWW - June 2025](https://www.scalevp.com/insights/mcp-is-the-new-www/)
+
 #### Healthcare AI 
 - [Charge - The Healthcare AI Governance Market Map - June 2025](https://www.linkedin.com/posts/charge-health-ai_ai-is-transforming-healthcare-but-it-also-activity-7336019128035475456-ZHcs)
 
