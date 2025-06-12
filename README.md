@@ -56,6 +56,9 @@ OR
 #### InsurTech AI 
 - [Plug and Play Insurtech - Customer Service & Support Conversational & Voice AI - June 2025](https://www.linkedin.com/posts/gonzalo-calle-santiago_customerservice-virtualagents-aiinnovation-activity-7338238612406218752-YUX4)
 
+#### AI Security
+- [Malika Aubakirova — a16z - Next-Gen Pentesting: AI Empowers the Good Guys - June 2025](https://a16z.com/next-gen-pentesting-ai-empowers-the-good-guys/)
+
 #### AI Software QA/Testing
 - [Jacob Conger & Ram Raval — Headline - AI Can Write Code. Who Makes Sure It Works? - June 2025](https://headline.com/blog-latest/article-latest/ai-can-write-code-who-makes-sure-it-works)
 
