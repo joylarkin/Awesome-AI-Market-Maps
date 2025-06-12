@@ -43,6 +43,9 @@ OR
 #### AI Agents
 - [Sahar Mor — AI Tidbits - The Open-Source Toolkit for Building AI Agents v2 - June 2025](https://www.aitidbits.ai/p/open-source-agents-updated)
 
+#### AI Data
+- [Einat Orr — LakeFS - The State of Data and AI Engineering 2025 - June 2025](https://lakefs.io/blog/the-state-of-data-ai-engineering-2025/)
+
 #### AI DevTools
 - [Javier Redondo — Scale Venture Partners - MCP is the new WWW - June 2025](https://www.scalevp.com/insights/mcp-is-the-new-www/)
 - [AI Insider - Exploring AI Insider’s Market Map: Model Development & Deployment - June 2025](https://theaiinsider.tech/2025/06/04/exploring-ai-insiders-market-map-model-development-deployment/)
