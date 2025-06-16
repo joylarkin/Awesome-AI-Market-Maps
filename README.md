@@ -125,6 +125,7 @@ OR
 - [MMC - AI Discoverability: How can I get ChatGPT to recommend my brand? - May 2025](https://mmc.vc/research/ai-discoverability-how-can-i-get-chatgpt-to-recommend-my-brand/)
 - [Zach Cohen and Seema Amble — a16z - How Generative Engine Optimization (GEO) Rewrites the Rules of Search - May 2025](https://a16z.com/geo-over-seo)
 - [Carta - 1,200+ seed rounds raised by US startups on Carta over the last 12 months - May 2025](https://www.linkedin.com/posts/peterjameswalker_startups-seed-founders-activity-7333567913305485314-G2Q_)
+- [Omers Ventures - The Next Frontier in Recruiting and Talent Acquisition - May 2025](https://www.omersventures.com/news/the-next-frontier-in-recruiting-and-talent-acquisition/)
 
 
 ***  
