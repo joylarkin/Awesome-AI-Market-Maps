@@ -65,6 +65,7 @@ OR
 
 #### AI Video
 - [Nic Mitham - The AI Video Stack: Status By Company - June 2025](https://www.linkedin.com/posts/nicmitham_aivideo-fullstack-shortformvideo-activity-7335359142515142656-h3Gx)
+- [Justine Moore — a16z -  New market map: AI video generation - June 2025](https://x.com/venturetwins/status/1935367302834495832) 
 
 #### AI Everything Else
 - [Henry Shi - Market Map of AI Ad-Gen Tools - June 2025](https://www.linkedin.com/posts/henrythe9th_ive-spent-100m-on-ads-as-a-founder-and-activity-7335640153769562116-ndd-)
