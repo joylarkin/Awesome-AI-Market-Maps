@@ -59,6 +59,7 @@ OR
 
 #### AI Security
 - [Malika Aubakirova — a16z - Next-Gen Pentesting: AI Empowers the Good Guys - June 2025](https://a16z.com/next-gen-pentesting-ai-empowers-the-good-guys/)
+- [James Berthoty — Latio - 2025 Latio AI Security Report - June 2025](https://applied-gai-in-security.ghost.io/agentic-security-marketmap/)
 
 #### AI Software QA/Testing
 - [Jacob Conger & Ram Raval — Headline - AI Can Write Code. Who Makes Sure It Works? - June 2025](https://headline.com/blog-latest/article-latest/ai-can-write-code-who-makes-sure-it-works)
