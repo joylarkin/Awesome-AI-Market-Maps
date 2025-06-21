@@ -69,33 +69,24 @@ def write_xml_element(element, indent=0):
     
     return ''.join(result)
 
-def get_git_commit_date(file_path, url):
-    """Get the commit date when a specific URL was first added to the README."""
+def get_git_commit_date(file_path, line_number):
+    """Get the commit date for a specific line in a file using git blame."""
     try:
-        # Find when this URL was first added to the file
-        cmd = ['git', 'log', '--follow', '--format=%H %aI', '--', str(file_path)]
+        # Get the commit date for the line using git blame
+        cmd = ['git', 'blame', '-L', f'{line_number},{line_number}', '--date=iso', str(file_path)]
         result = subprocess.run(cmd, capture_output=True, text=True, check=True)
         
-        # For each commit, check if the URL exists
-        for line in result.stdout.strip().split('\n'):
-            if not line.strip():
-                continue
-            commit_hash, date_str = line.split(' ', 1)
-            
-            # Check if this URL exists in this commit
-            cmd = ['git', 'show', f'{commit_hash}:{file_path}']
-            try:
-                file_content = subprocess.run(cmd, capture_output=True, text=True, check=True).stdout
-                if url in file_content:
-                    print(f"[DEBUG] Found URL {url} in commit {commit_hash} at {date_str}")
-                    return dt.datetime.fromisoformat(date_str.replace('Z', '+00:00'))
-            except subprocess.CalledProcessError:
-                continue
+        # Extract the date from the blame output
+        # Format: <commit_hash> (<author> <date> <line_number>) <content>
+        match = re.search(r'\([^)]*(\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2})', result.stdout)
+        if match:
+            date_str = match.group(1)
+            return dt.datetime.strptime(date_str, '%Y-%m-%d %H:%M:%S').replace(tzinfo=dt.timezone.utc)
                 
     except subprocess.CalledProcessError as e:
-        print(f"[DEBUG] Git log failed: {e}")
+        print(f"[DEBUG] Git blame failed for line {line_number}: {e}")
     except Exception as e:
-        print(f"[DEBUG] Unexpected error: {e}")
+        print(f"[DEBUG] Unexpected error for line {line_number}: {e}")
     return None
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -135,7 +126,7 @@ for line in block.splitlines():
         # Clean HTML entities at the source, before adding to categorized_items
         cleaned_title = clean_html_entities(title)
         # Get the commit date for this line
-        commit_date = get_git_commit_date(ROOT / "README.md", url)
+        commit_date = get_git_commit_date(ROOT / "README.md", current_line)
         categorized_items.append((cleaned_title, url, category, commit_date))
 
 print(f"[DEBUG] Number of categorized items found: {len(categorized_items)}")
@@ -183,6 +174,7 @@ ET.SubElement(channel, 'language').text = "en"
 utc_now = dt.datetime.now(dt.timezone.utc)
 seen_guids = set()  # Track GUIDs to prevent duplicates
 
+# Keep items in the order they appear in README (newest items are typically added at the top)
 for title, url, category, commit_date in categorized_items:
     # Create a unique GUID by combining URL and title
     guid = hashlib.md5(f"{url}{title}".encode()).hexdigest()
