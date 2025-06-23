@@ -64,6 +64,9 @@ OR
 #### AI Software QA/Testing
 - [Jacob Conger & Ram Raval — Headline - AI Can Write Code. Who Makes Sure It Works? - June 2025](https://headline.com/blog-latest/article-latest/ai-can-write-code-who-makes-sure-it-works)
 
+#### Supply Chain AI
+- [Activant Capital - AI is Rewriting the Rules of Supply Chain - June 2025](https://activantcapital.com/research/ai-is-rewriting-the-rules-of-supply-chain)
+
 #### AI Video
 - [Nic Mitham - The AI Video Stack: Status By Company - June 2025](https://www.linkedin.com/posts/nicmitham_aivideo-fullstack-shortformvideo-activity-7335359142515142656-h3Gx)
 - [Justine Moore — a16z -  New market map: AI video generation - June 2025](https://x.com/venturetwins/status/1935367302834495832) 
