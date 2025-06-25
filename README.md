@@ -75,6 +75,7 @@ OR
 
 #### Voice AI
 - [Ivan Landabaso — Startup Riders - Voice AI Market Map 2025 - June 2025](https://www.linkedin.com/posts/ivanlandabaso_ai-startups-voiceagents-activity-7343518092620148737-1VQ7)
+- [Anna Chen & Vivek Ramaswami — Madrona - Voice Is Going Vertical: How Verticalized Voice AI Is Becoming the Next Killer App - June 2025](https://www.madrona.com/voice-is-going-vertical-how-verticalized-voice-ai-is-becoming-the-next-killer-app/) 
 
 #### AI Everything Else
 - [Henry Shi - Market Map of AI Ad-Gen Tools - June 2025](https://www.linkedin.com/posts/henrythe9th_ive-spent-100m-on-ads-as-a-founder-and-activity-7335640153769562116-ndd-)
