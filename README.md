@@ -46,7 +46,8 @@ OR
 #### AI Data
 - [Einat Orr — LakeFS - The State of Data and AI Engineering 2025 - June 2025](https://lakefs.io/blog/the-state-of-data-ai-engineering-2025/)
 
-#### AI DevTools
+#### AI DevTools  
+- [Chris Millisits - Antler - Market Map AI Agents: Engineering - June 2025](https://www.antler.co/blog/ai-market-map-engineering)
 - [Jenny Xiao & Liang Wu & Jay Zhao - Leonis Capital - MCPs: Value Creation, Capture, and Destruction—Lessons from the API Era - June 2025](https://leonisnewsletter.substack.com/p/mcps-value-creation-capture-and-destructionlesso)
 - [Javier Redondo — Scale Venture Partners - MCP is the new WWW - June 2025](https://www.scalevp.com/insights/mcp-is-the-new-www/)
 - [AI Insider - Exploring AI Insider’s Market Map: Model Development & Deployment - June 2025](https://theaiinsider.tech/2025/06/04/exploring-ai-insiders-market-map-model-development-deployment/)
@@ -70,7 +71,10 @@ OR
 
 #### AI Video
 - [Nic Mitham - The AI Video Stack: Status By Company - June 2025](https://www.linkedin.com/posts/nicmitham_aivideo-fullstack-shortformvideo-activity-7335359142515142656-h3Gx)
-- [Justine Moore — a16z -  New market map: AI video generation - June 2025](https://x.com/venturetwins/status/1935367302834495832) 
+- [Justine Moore — a16z -  New market map: AI video generation - June 2025](https://x.com/venturetwins/status/1935367302834495832)
+
+#### Voice AI
+- [Ivan Landabaso — Startup Riders - Voice AI Market Map 2025 - June 2025](https://www.linkedin.com/posts/ivanlandabaso_ai-startups-voiceagents-activity-7343518092620148737-1VQ7)
 
 #### AI Everything Else
 - [Henry Shi - Market Map of AI Ad-Gen Tools - June 2025](https://www.linkedin.com/posts/henrythe9th_ive-spent-100m-on-ads-as-a-founder-and-activity-7335640153769562116-ndd-)
@@ -139,7 +143,7 @@ OR
 ### April 2025
 
 #### AI Agents
-- [Antler - Market Map — AI Agents: Sales - April 2025](https://www.antler.co/blog/ai-market-map-sales)
+- [Antler - Market Map AI Agents: Sales - April 2025](https://www.antler.co/blog/ai-market-map-sales)
 - [Georgian - AI LANDSCAPE SERIES Agentic Platforms and Applications - April 2025](https://georgian.io/agentic-platforms-and-applications/)
 - [Tom Doerr - LLM Agent Systems Landscape 2025 - April 2025](https://x.com/tom_doerr/status/1916296071552156099/photo/1)
 
@@ -206,8 +210,8 @@ OR
 
 #### AI Agents
 - [CB Insights - AI Agent Market Map - March 2025](https://www.cbinsights.com/research/ai-agent-market-map/)
-- [Antler - Market Map — AI Agents: Marketing - March 2025](https://www.antler.co/blog/ai-market-map-marketing)
-- [Antler - Market Map — AI Agents: Fintech - March 2025](https://www.antler.co/blog/ai-market-map-fintech)
+- [Antler - Market Map AI Agents: Marketing - March 2025](https://www.antler.co/blog/ai-market-map-marketing)
+- [Antler - Market Map AI Agents: Fintech - March 2025](https://www.antler.co/blog/ai-market-map-fintech)
 - [AI Agents Directory - AI Agents Market Landscape - March 2025](https://aiagentsdirectory.com/landscape)
 - [Acrew Capital - A-Commerce Evolution: Agentic Commerce as The New Frontier - March 2025](https://perspectives.acrewcapital.com/a-commerce-evolution-agentic-commerce-as-the-new-frontier-27a4c855a778)
 
