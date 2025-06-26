@@ -43,6 +43,9 @@ OR
 #### AI Agents
 - [Sahar Mor — AI Tidbits - The Open-Source Toolkit for Building AI Agents v2 - June 2025](https://www.aitidbits.ai/p/open-source-agents-updated)
 
+#### Consumer AI
+- [Shawn Carolan, Amy Wu Martin, C.C. Gong, Sam Borja — Menlo Ventures - 2025: The State of Consumer AI - June 2025](https://menlovc.com/perspective/2025-the-state-of-consumer-ai/)
+
 #### AI Data
 - [Einat Orr — LakeFS - The State of Data and AI Engineering 2025 - June 2025](https://lakefs.io/blog/the-state-of-data-ai-engineering-2025/)
 
