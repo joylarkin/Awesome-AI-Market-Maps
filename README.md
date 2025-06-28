@@ -62,6 +62,11 @@ OR
 #### InsurTech AI 
 - [Plug and Play Insurtech - Customer Service & Support Conversational & Voice AI - June 2025](https://www.linkedin.com/posts/gonzalo-calle-santiago_customerservice-virtualagents-aiinnovation-activity-7338238612406218752-YUX4)
 
+#### AI Marketing
+- [Henry Shi - Market Map of AI Ad-Gen Tools - June 2025](https://www.linkedin.com/posts/henrythe9th_ive-spent-100m-on-ads-as-a-founder-and-activity-7335640153769562116-ndd-)
+- [Zach Cohen & Seema Amble — a16z - Faster, Smarter, Cheaper: AI Is Reinventing Market Research - June 2025](https://a16z.com/ai-market-research/)
+- [Varun Ramakrishnan — SignalFire - AI is reshaping B2B GTM with signals you’re still ignoring - June 2025](https://www.signalfire.com/blog/ai-is-reshaping-b2b-gtm-with-signals-youre-ignoring)
+
 #### AI Security
 - [Malika Aubakirova — a16z - Next-Gen Pentesting: AI Empowers the Good Guys - June 2025](https://a16z.com/next-gen-pentesting-ai-empowers-the-good-guys/)
 - [James Berthoty — Latio - 2025 Latio AI Security Report - June 2025](https://applied-gai-in-security.ghost.io/agentic-security-marketmap/)
@@ -81,9 +86,7 @@ OR
 - [Anna Chen & Vivek Ramaswami — Madrona - Voice Is Going Vertical: How Verticalized Voice AI Is Becoming the Next Killer App - June 2025](https://www.madrona.com/voice-is-going-vertical-how-verticalized-voice-ai-is-becoming-the-next-killer-app/) 
 
 #### AI Everything Else
-- [Henry Shi - Market Map of AI Ad-Gen Tools - June 2025](https://www.linkedin.com/posts/henrythe9th_ive-spent-100m-on-ads-as-a-founder-and-activity-7335640153769562116-ndd-)
-- [Zach Cohen & Seema Amble — a16z - Faster, Smarter, Cheaper: AI Is Reinventing Market Research - June 2025](https://a16z.com/ai-market-research/)
-- [Varun Ramakrishnan — SignalFire - AI is reshaping B2B GTM with signals you’re still ignoring - June 2025](https://www.signalfire.com/blog/ai-is-reshaping-b2b-gtm-with-signals-youre-ignoring)
+- [Machine Cinema - AI Storytelling Market Map Q3 2025 - June 2025](https://text.machinecinema.ai/p/ai-storytelling-market-map-q3-2025)
 
 
 ***
