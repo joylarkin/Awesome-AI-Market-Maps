@@ -40,7 +40,8 @@ OR
 
 ### June 2025  
 
-#### AI Agents
+#### AI Agents  
+- [Huang et al. - DEEP RESEARCH AGENTS: A SYSTEMATIC EXAMINATION AND ROADMAP - June 2025](https://arxiv.org/pdf/2506.18096#page=5)
 - [Sahar Mor — AI Tidbits - The Open-Source Toolkit for Building AI Agents v2 - June 2025](https://www.aitidbits.ai/p/open-source-agents-updated)
 
 #### Consumer AI
