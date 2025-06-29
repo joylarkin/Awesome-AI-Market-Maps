@@ -10,28 +10,12 @@
     <generator>python-feedgen</generator>
     <language>en</language>
     <item>
-      <title>ICONIQ Capital - 2025 State of AI Report: The Builder’s Playbook - June 2025</title>
-      <link>https://www.iconiqcapital.com/growth/reports/2025-state-of-ai</link>
-      <description>ICONIQ Capital - 2025 State of AI Report: The Builder’s Playbook - June 2025 - https://www.iconiqcapital.com/growth/reports/2025-state-of-ai</description>
-      <guid isPermaLink="false">f6854057dc710e90da70e2c42007f85e</guid>
-      <category>AI DevTools</category>
-      <pubDate>Sun, 29 Jun 2025 12:32:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chris Millisits - Antler - Market Map AI Agents: Engineering - June 2025</title>
-      <link>https://www.antler.co/blog/ai-market-map-engineering</link>
-      <description>Chris Millisits - Antler - Market Map AI Agents: Engineering - June 2025 - https://www.antler.co/blog/ai-market-map-engineering</description>
-      <guid isPermaLink="false">b19bdc00b4b796cf2a961ddf59008429</guid>
-      <category>AI DevTools</category>
-      <pubDate>Sun, 29 Jun 2025 12:32:39 +0000</pubDate>
-    </item>
-    <item>
       <title>Huang et al. - DEEP RESEARCH AGENTS: A SYSTEMATIC EXAMINATION AND ROADMAP - June 2025</title>
       <link>https://arxiv.org/pdf/2506.18096#page=5</link>
       <description>Huang et al. - DEEP RESEARCH AGENTS: A SYSTEMATIC EXAMINATION AND ROADMAP - June 2025 - https://arxiv.org/pdf/2506.18096#page=5</description>
       <guid isPermaLink="false">bb5d29c2b02df96623a2f852098a76b6</guid>
       <category>AI Agents</category>
-      <pubDate>Sat, 28 Jun 2025 15:15:24 +0000</pubDate>
+      <pubDate>Sun, 29 Jun 2025 13:00:51 +0000</pubDate>
     </item>
     <item>
       <title>Sahar Mor — AI Tidbits - The Open-Source Toolkit for Building AI Agents v2 - June 2025</title>
@@ -39,7 +23,39 @@
       <description>Sahar Mor — AI Tidbits - The Open-Source Toolkit for Building AI Agents v2 - June 2025 - https://www.aitidbits.ai/p/open-source-agents-updated</description>
       <guid isPermaLink="false">fd50fd3dc7b0cf0d679b9d99c2e81869</guid>
       <category>AI Agents</category>
-      <pubDate>Sat, 28 Jun 2025 15:15:24 +0000</pubDate>
+      <pubDate>Sun, 29 Jun 2025 13:00:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>ICONIQ Capital - 2025 State of AI Report: The Builder’s Playbook - June 2025</title>
+      <link>https://www.iconiqcapital.com/growth/reports/2025-state-of-ai</link>
+      <description>ICONIQ Capital - 2025 State of AI Report: The Builder’s Playbook - June 2025 - https://www.iconiqcapital.com/growth/reports/2025-state-of-ai</description>
+      <guid isPermaLink="false">f6854057dc710e90da70e2c42007f85e</guid>
+      <category>AI DevTools</category>
+      <pubDate>Sun, 29 Jun 2025 13:00:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chris Millisits - Antler - Market Map AI Agents: Engineering - June 2025</title>
+      <link>https://www.antler.co/blog/ai-market-map-engineering</link>
+      <description>Chris Millisits - Antler - Market Map AI Agents: Engineering - June 2025 - https://www.antler.co/blog/ai-market-map-engineering</description>
+      <guid isPermaLink="false">b19bdc00b4b796cf2a961ddf59008429</guid>
+      <category>AI DevTools</category>
+      <pubDate>Sun, 29 Jun 2025 13:00:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anna Piñol and Valerie Osband Mahoney — NFX - Voice AI is Working. Here’s Where It Wins First - May 2025</title>
+      <link>https://www.nfx.com/post/voice-ai-is-working</link>
+      <description>Anna Piñol and Valerie Osband Mahoney — NFX - Voice AI is Working. Here’s Where It Wins First - May 2025 - https://www.nfx.com/post/voice-ai-is-working</description>
+      <guid isPermaLink="false">242d043a3e4ab823746f36d7a267ea75</guid>
+      <category>Voice AI</category>
+      <pubDate>Sun, 29 Jun 2025 13:00:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chelcie Taylor — Notable Capital - Vertical Voice Agents Are Taking Off: Here’s Why - March 2025</title>
+      <link>https://www.notablecap.com/blog/vertical-voice-agents-are-taking-off-heres-why</link>
+      <description>Chelcie Taylor — Notable Capital - Vertical Voice Agents Are Taking Off: Here’s Why - March 2025 - https://www.notablecap.com/blog/vertical-voice-agents-are-taking-off-heres-why</description>
+      <guid isPermaLink="false">c24352a7f80afdd2e5725ed7a2764e0c</guid>
+      <category>Voice AI</category>
+      <pubDate>Sun, 29 Jun 2025 13:00:51 +0000</pubDate>
     </item>
     <item>
       <title>Machine Cinema - AI Storytelling Market Map Q3 2025 - June 2025</title>
@@ -734,14 +750,6 @@
       <link>https://www.linkedin.com/feed/update/urn:li:activity:7315387989294043137/</link>
       <description>Cathy Gao and Julie Nguyen — Sapphire Ventures - B2B Voice AI Landscape - April 2025 - https://www.linkedin.com/feed/update/urn:li:activity:7315387989294043137/</description>
       <guid isPermaLink="false">a46623ab88d81d9b16334084858f8a4d</guid>
-      <category>Voice AI</category>
-      <pubDate>Mon, 14 Apr 2025 08:59:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chelcie Taylor — Notable Capital - Vertical Voice AI Agents - April 2025</title>
-      <link>https://www.linkedin.com/posts/chelcie-taylor_after-my-last-few-posts-on-the-opportunity-activity-7321552414313009152-XgKF</link>
-      <description>Chelcie Taylor — Notable Capital - Vertical Voice AI Agents - April 2025 - https://www.linkedin.com/posts/chelcie-taylor_after-my-last-few-posts-on-the-opportunity-activity-7321552414313009152-XgKF</description>
-      <guid isPermaLink="false">0e10ea352b1b9fbaf7a9d987ef199df5</guid>
       <category>Voice AI</category>
       <pubDate>Mon, 14 Apr 2025 08:59:57 +0000</pubDate>
     </item>
