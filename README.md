@@ -40,8 +40,8 @@ OR
 
 ### June 2025  
 
-#### AI Agents  
-- [Huang et al. - DEEP RESEARCH AGENTS: A SYSTEMATIC EXAMINATION AND ROADMAP - June 2025](https://arxiv.org/pdf/2506.18096#page=5)
+#### AI Agents   
+- [Huang et al. - DEEP RESEARCH AGENTS: A SYSTEMATIC EXAMINATION AND ROADMAP - June 2025](https://arxiv.org/pdf/2506.18096#page=5) 
 - [Sahar Mor — AI Tidbits - The Open-Source Toolkit for Building AI Agents v2 - June 2025](https://www.aitidbits.ai/p/open-source-agents-updated)
 
 #### Consumer AI
@@ -50,8 +50,8 @@ OR
 #### AI Data
 - [Einat Orr — LakeFS - The State of Data and AI Engineering 2025 - June 2025](https://lakefs.io/blog/the-state-of-data-ai-engineering-2025/)
 
-#### AI DevTools   
-- [ICONIQ Capital - 2025 State of AI Report: The Builder’s Playbook - June 2025](https://www.iconiqcapital.com/growth/reports/2025-state-of-ai)
+#### AI DevTools     
+- [ICONIQ Capital - 2025 State of AI Report: The Builder’s Playbook - June 2025](https://www.iconiqcapital.com/growth/reports/2025-state-of-ai) 
 - [Chris Millisits - Antler - Market Map AI Agents: Engineering - June 2025](https://www.antler.co/blog/ai-market-map-engineering)
 - [Jenny Xiao & Liang Wu & Jay Zhao - Leonis Capital - MCPs: Value Creation, Capture, and Destruction—Lessons from the API Era - June 2025](https://leonisnewsletter.substack.com/p/mcps-value-creation-capture-and-destructionlesso)
 - [Javier Redondo — Scale Venture Partners - MCP is the new WWW - June 2025](https://www.scalevp.com/insights/mcp-is-the-new-www/)
@@ -136,6 +136,9 @@ OR
 #### Venture AI
 - [Cory Bolotsky - Market Map: Data + AI Tooling for Venture Capital Firms - May 2025](https://bolots.ky/p/vc-ai-data-market-map)
 
+#### Voice AI 
+- [Anna Piñol & Valerie Osband Mahoney — NFX - Voice AI is Working. Here’s Where It Wins First - May 2025](https://www.nfx.com/post/voice-ai-is-working)
+
 #### AI Everything Else
 - [Business of Apps - AI App Market Map 2025 - May 2025](https://www.linkedin.com/posts/business-of-apps_introducing-our-ai-app-market-map-2025-activity-7323624734837911554-p-kN)
 - [Craig Iskowitz - AI Notetaker market for Financial Advisors - May 2025](https://www.linkedin.com/posts/craigiskowitz_wealthmanagement-ai-financialadvisors-activity-7323704087596654593-oLf-)
@@ -190,7 +193,6 @@ OR
 
 #### Voice AI
 - [Cathy Gao & Julie Nguyen — Sapphire Ventures - B2B Voice AI Landscape - April 2025](https://www.linkedin.com/feed/update/urn:li:activity:7315387989294043137/)
-- [Chelcie Taylor — Notable Capital - Vertical Voice AI Agents - April 2025](https://www.linkedin.com/posts/chelcie-taylor_after-my-last-few-posts-on-the-opportunity-activity-7321552414313009152-XgKF)
 
 #### AI Security
 - [Premji Invest — Alumni Ventures - AI Is Coming: Meet the Startups Building Cyber Defenses for the Age of AI - April 2025](https://www.premjiinvest.com/blog/ai-is-coming-meet-the-startups-building-cyber-defenses-for-the-age-of-ai)
@@ -262,6 +264,9 @@ OR
 
 #### Vertical AI
 - [Forum Ventures - Vertical AI Market Map - March 2025](https://airtable.com/appJKSyHsK9L7emVe/shrsmkAjfpzC7Ofaa/tblRYihkumYwZ9BXu)
+
+#### Voice AI
+- [Chelcie Taylor — Notable Capital - Vertical Voice Agents Are Taking Off: Here’s Why - March 2025](https://www.notablecap.com/blog/vertical-voice-agents-are-taking-off-heres-why)
 
 #### AI Everything Else
 - [a16z - Shopping in 'God Mode' with AI - March 2025](https://a16z.com/ai-shopping-online/)
