@@ -50,7 +50,8 @@ OR
 #### AI Data
 - [Einat Orr — LakeFS - The State of Data and AI Engineering 2025 - June 2025](https://lakefs.io/blog/the-state-of-data-ai-engineering-2025/)
 
-#### AI DevTools  
+#### AI DevTools   
+- [ICONIQ Capital - 2025 State of AI Report: The Builder’s Playbook - June 2025](https://www.iconiqcapital.com/growth/reports/2025-state-of-ai)
 - [Chris Millisits - Antler - Market Map AI Agents: Engineering - June 2025](https://www.antler.co/blog/ai-market-map-engineering)
 - [Jenny Xiao & Liang Wu & Jay Zhao - Leonis Capital - MCPs: Value Creation, Capture, and Destruction—Lessons from the API Era - June 2025](https://leonisnewsletter.substack.com/p/mcps-value-creation-capture-and-destructionlesso)
 - [Javier Redondo — Scale Venture Partners - MCP is the new WWW - June 2025](https://www.scalevp.com/insights/mcp-is-the-new-www/)
