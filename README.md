@@ -41,7 +41,7 @@ OR
 ### July 2025  
 
 #### AI Automation
-- [Anna Bosch — b3venture - Europe's Industrial Moment: Why AI Automation is the Key to Revitalizing Manufacturing Competitiveness - July 2025](https://www.b2venture.vc/stories/europes-industrial-moment-why-ai-automation-is-the-key-to-revitalizing-manufacturing-competitiveness)
+- [Anna Bosch — b2venture - Europe's Industrial Moment: Why AI Automation is the Key to Revitalizing Manufacturing Competitiveness - July 2025](https://www.b2venture.vc/stories/europes-industrial-moment-why-ai-automation-is-the-key-to-revitalizing-manufacturing-competitiveness) 
 
 #### Consumer AI
 - [NEA - The Current #13: Context in Consumer AI - July 2025](https://www.linkedin.com/pulse/current-13-context-consumer-ai-new-enterprise-associates-jg0hc/)
