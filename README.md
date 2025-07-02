@@ -46,6 +46,9 @@ OR
 #### Consumer AI
 - [NEA - The Current #13: Context in Consumer AI - July 2025](https://www.linkedin.com/pulse/current-13-context-consumer-ai-new-enterprise-associates-jg0hc/)
 
+#### Fintech AI
+- [Noah Gross — Scale Venture Partners - Where’s my AI banker? Why financial services is lagging on AI adoption - July 2025](https://www.scalevp.com/insights/wheres-my-ai-banker-why-financial-services-is-lagging-on-ai-adoption/)
+
 #### AI Everything Else
 - [Cherie Hu — Water & Music - Music Tech Investment and M&A - July 2025](https://www.linkedin.com/posts/cheriehu_musictech-musicbusiness-venturecapital-activity-7345787020016840705-uxpi)
 
