@@ -36,6 +36,18 @@ OR
 
 ## ▦ MARKET MAPS ▦  
 
+## AI Market Maps - Q3 2025  
+
+### July 2025 
+
+#### Consumer AI
+- [NEA - The Current #13: Context in Consumer AI - July 2025](https://www.linkedin.com/pulse/current-13-context-consumer-ai-new-enterprise-associates-jg0hc/)
+
+#### AI Everything Else
+- [Cherie Hu — Water & Music - Music Tech Investment and M&A - July 2025](https://www.linkedin.com/posts/cheriehu_musictech-musicbusiness-venturecapital-activity-7345787020016840705-uxpi)
+
+
+---
 ## AI Market Maps - Q2 2025  
 
 ### June 2025  
