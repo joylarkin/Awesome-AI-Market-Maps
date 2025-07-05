@@ -15,7 +15,7 @@ The README.md file is regularly updated with new market maps, the CSV file is up
 ADD OR UPDATE A MARKET MAP  
 Named AI market maps, landscapes, blog posts with market maps, and related AI industry positioning (such as top XX lists) are fine.  
 
-✅ Pull requests accepted!  
+✅ Pull requests accepted!   
 OR  
 💬 Tweet at me [@joy](https://twitter.com/joy) OR Connect with me on [LinkedIn](https://www.linkedin.com/in/joylarkin/)  
 OR  
