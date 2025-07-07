@@ -49,6 +49,9 @@ OR
 #### Fintech AI
 - [Noah Gross — Scale Venture Partners - Where’s my AI banker? Why financial services is lagging on AI adoption - July 2025](https://www.scalevp.com/insights/wheres-my-ai-banker-why-financial-services-is-lagging-on-ai-adoption/)
 
+#### AI Infrastructure
+- [Astasia Myers & Dan Bartus - Felicis Ventures - Routing the Future: Model Routing Will Decide Who Wins in AI Infrastructure - July 2025](https://www.felicis.com/insight/model-routing)
+
 #### AI Everything Else
 - [Cherie Hu — Water & Music - Music Tech Investment and M&A - July 2025](https://www.linkedin.com/posts/cheriehu_musictech-musicbusiness-venturecapital-activity-7345787020016840705-uxpi)
 
