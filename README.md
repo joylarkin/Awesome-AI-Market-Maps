@@ -49,6 +49,9 @@ OR
 #### Fintech AI
 - [Noah Gross — Scale Venture Partners - Where’s my AI banker? Why financial services is lagging on AI adoption - July 2025](https://www.scalevp.com/insights/wheres-my-ai-banker-why-financial-services-is-lagging-on-ai-adoption/)
 
+#### Government AI
+- [Olivia Levine — Greenfield Partners - The Quiet Rise of AI in Government - July 2025](https://www.greenfield-growth.com/blog-posts/the-quiet-rise-of-ai-in-government)
+
 #### AI Infrastructure
 - [Astasia Myers & Dan Bartus - Felicis Ventures - Routing the Future: Model Routing Will Decide Who Wins in AI Infrastructure - July 2025](https://www.felicis.com/insight/model-routing)
 
