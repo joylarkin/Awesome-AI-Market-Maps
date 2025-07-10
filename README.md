@@ -55,6 +55,9 @@ OR
 #### AI Infrastructure
 - [Astasia Myers & Dan Bartus - Felicis Ventures - Routing the Future: Model Routing Will Decide Who Wins in AI Infrastructure - July 2025](https://www.felicis.com/insight/model-routing)
 
+#### AI Real Estate
+- [Pi Labs - Real AI for Real Assets - July 2025](https://www.linkedin.com/posts/pi-labs-ltd-_sneak-peek-of-the-paper-activity-7349020184923283458-Fu0r)
+
 #### AI Everything Else
 - [Cherie Hu — Water & Music - Music Tech Investment and M&A - July 2025](https://www.linkedin.com/posts/cheriehu_musictech-musicbusiness-venturecapital-activity-7345787020016840705-uxpi)
 
