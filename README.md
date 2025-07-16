@@ -46,6 +46,9 @@ OR
 #### Consumer AI
 - [NEA - The Current #13: Context in Consumer AI - July 2025](https://www.linkedin.com/pulse/current-13-context-consumer-ai-new-enterprise-associates-jg0hc/)
 
+#### Energy AI
+- [Remarkable Ventures Climate - Our AI x Energy Market Map - July 2025](https://www.linkedin.com/posts/remarkable-ventures-climate_climate-climateai-aienergy-activity-7351259697485627392-vLCv)
+
 #### Fintech AI
 - [Noah Gross — Scale Venture Partners - Where’s my AI banker? Why financial services is lagging on AI adoption - July 2025](https://www.scalevp.com/insights/wheres-my-ai-banker-why-financial-services-is-lagging-on-ai-adoption/)
 
