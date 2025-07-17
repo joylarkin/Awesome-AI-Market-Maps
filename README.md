@@ -233,7 +233,7 @@ OR
 
 #### Top AI
 - [Forbes - AI 50 - April 2025](https://www.forbes.com/lists/ai50/)
-- [CBInsights - AI 100: The most promising artificial intelligence startups of 2025 - April 2025](https://www.cbinsights.com/research/report/artificial-intelligence-top-startups-2025/)
+- [CB Insights - AI 100: The most promising artificial intelligence startups of 2025 - April 2025](https://www.cbinsights.com/research/report/artificial-intelligence-top-startups-2025/)
 
 #### AI Everything Else
 - [Reach Capital - AI Is Unlocking the Future of Frontline Work — And Where We're Investing - April 2025](https://www.reachcapital.com/2025/04/03/ai-is-unlocking-the-future-of-frontline-work-and-where-were-investing/)
