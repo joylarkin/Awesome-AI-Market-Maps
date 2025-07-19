@@ -28,7 +28,7 @@ OR
 
 🔍 [Search the CSV file](https://github.com/joylarkin/Awesome-AI-Market-Maps/blob/main/ai_market_maps.csv)  
 ️‍🔥 [Use the MCP server](https://gitmcp.io/joylarkin/Awesome-AI-Market-Maps)  
-🤗 [Explore the Hugging Face Dataset](https://huggingface.co/datasets/joylarkin/2025AIMarketMaps)   
+🤗 [Explore the Hugging Face dataset](https://huggingface.co/datasets/joylarkin/2025AIMarketMaps)   
 📡 [Subscribe to real-time RSS updates](https://raw.githubusercontent.com/joylarkin/Awesome-AI-Market-Maps/main/feeds/AIMarketMaps.xml)  
 
 ---
