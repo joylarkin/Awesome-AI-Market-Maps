@@ -58,6 +58,9 @@ OR
 #### Government AI
 - [Olivia Levine — Greenfield Partners - The Quiet Rise of AI in Government - July 2025](https://www.greenfield-growth.com/blog-posts/the-quiet-rise-of-ai-in-government)
 
+#### Healthcare AI
+- [Sundeep Peechu & Tobi Coker & Eric Flaningam — Felicis Ventures - Healthcare's Trillion-Dollar Admin Problem - July 2025](https://www.felicis.com/insight/healthcare-ai-admin)
+
 #### AI Infrastructure
 - [Astasia Myers & Dan Bartus - Felicis Ventures - Routing the Future: Model Routing Will Decide Who Wins in AI Infrastructure - July 2025](https://www.felicis.com/insight/model-routing)
 
