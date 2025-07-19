@@ -437,7 +437,7 @@ OR
 
 #### AI Security
 - [PitchBook - Market Map: Application security defends software's next generation - November 2024](https://pitchbook.com/news/articles/market-map-application-security-startups-q2-2024)
-- [Felicis - How AI is reshaping IT, QA, and Incident Response - November 2024](https://www.felicis.com/insight/ai-it-qa-incident-response)
+- [Felicis Ventures - How AI is reshaping IT, QA, and Incident Response - November 2024](https://www.felicis.com/insight/ai-it-qa-incident-response)
 
 #### Voice AI
 - [Bessemer - Roadmap: Voice AI - November 2024](https://www.bvp.com/atlas/roadmap-voice-ai)
@@ -551,7 +551,7 @@ OR
 
 #### AI Data
 - [Madrona - The Rise of AI Agent Infrastructure - June 2024](https://www.madrona.com/the-rise-of-ai-agent-infrastructure/)
-- [Felicis - The rise of AI data infrastructure - June 2024](https://www.felicis.com/insight/ai-data-infrastructure)
+- [Felicis Ventures - The rise of AI data infrastructure - June 2024](https://www.felicis.com/insight/ai-data-infrastructure)
 
 #### AI DevTools
 - [Blumberg Capital - Mapping the AI Toolchain – 2024 Perspective - June 2024](https://blumbergcapital.com/news-insights/mapping-the-ai-toolchain-2024-perspective/)
