@@ -30,6 +30,8 @@ OR
 ️‍🔥 [Use the MCP server](https://gitmcp.io/joylarkin/Awesome-AI-Market-Maps)  
 🤗 [Explore the Hugging Face dataset](https://huggingface.co/datasets/joylarkin/2025AIMarketMaps)   
 📡 [Subscribe to real-time RSS updates](https://raw.githubusercontent.com/joylarkin/Awesome-AI-Market-Maps/main/feeds/AIMarketMaps.xml)  
+📖 [Read the blog post](https://cleverhack.com/ai-market-maps-curated-intelligence-from-leading-vcs-analysts-practitioners)  
+
 
 ---
 ---
