@@ -64,10 +64,13 @@ OR
 - [Sundeep Peechu & Tobi Coker & Eric Flaningam — Felicis Ventures - Healthcare's Trillion-Dollar Admin Problem - July 2025](https://www.felicis.com/insight/healthcare-ai-admin)
 
 #### AI Infrastructure
-- [Astasia Myers & Dan Bartus - Felicis Ventures - Routing the Future: Model Routing Will Decide Who Wins in AI Infrastructure - July 2025](https://www.felicis.com/insight/model-routing)
+- [Astasia Myers & Dan Bartus — Felicis Ventures - Routing the Future: Model Routing Will Decide Who Wins in AI Infrastructure - July 2025](https://www.felicis.com/insight/model-routing)
 
 #### Insurance AI
 - [Christo Ritter & Adam Chadroff & and Ali Afridi — Equal Ventures - Insurance x AI | The First Wave of Gen AI in P&C - July 2025](https://newsletter.equal.vc/p/insurance-ai-market-map)
+
+#### Legal AI
+- [Legaltech Hub - LTH AI Agents in Legal Map: July 2025 - July 2025](https://www.legaltechnologyhub.com/contents/lth-ai-agents-in-legal-map-july-2025/)
 
 #### AI Real Estate
 - [Pi Labs - Real AI for Real Assets - July 2025](https://www.linkedin.com/posts/pi-labs-ltd-_sneak-peek-of-the-paper-activity-7349020184923283458-Fu0r)
