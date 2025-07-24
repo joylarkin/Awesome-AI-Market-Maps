@@ -78,7 +78,11 @@ OR
 #### AI Real Estate
 - [Pi Labs - Real AI for Real Assets - July 2025](https://www.linkedin.com/posts/pi-labs-ltd-_sneak-peek-of-the-paper-activity-7349020184923283458-Fu0r)
 
+#### Voice AI
+- [Inside/VC - Voice AI Market Map - July 2025](https://www.linkedin.com/posts/insidevc_voice-infrastructure-middleware-activity-7354086305967865858-1M1z)
+
 #### AI Everything Else
+- [Brighteye Ventures - Research Tools: breaching new frontiers - July 2025](https://www.brighteyevc.com/post/research-tools-breaching-new-frontiers)
 - [Cherie Hu — Water & Music - Music Tech Investment and M&A - July 2025](https://www.linkedin.com/posts/cheriehu_musictech-musicbusiness-venturecapital-activity-7345787020016840705-uxpi)
 
 
