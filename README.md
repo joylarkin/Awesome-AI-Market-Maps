@@ -42,7 +42,7 @@ OR
 
 ### July 2025  
 
-#### AI Agents
+#### AI Agents  
 - [Venky Ganesan & Rama Sekhar & Feyza Haskaraman & Sam Borja — Menlo Ventures - Security for Agents and Agents for Security: The Next Cybersecurity Frontier - July 2025](https://menlovc.com/perspective/security-for-agents-and-agents-for-security-the-next-cybersecurity-frontier/)  
 - [CB Insights - The top 20 AI agents startups by revenue - July 2025](https://www.linkedin.com/posts/mcarrelli_ai-agents-are-turning-into-revenue-machines-activity-7353958030763298816-vLwr)  
 
