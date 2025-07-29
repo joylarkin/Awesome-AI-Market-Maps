@@ -46,7 +46,10 @@ OR
 - [CB Insights - The top 20 AI agents startups by revenue - July 2025](https://www.linkedin.com/posts/mcarrelli_ai-agents-are-turning-into-revenue-machines-activity-7353958030763298816-vLwr)
 
 #### AI Automation
-- [Anna Bosch — b2venture - Europe's Industrial Moment: Why AI Automation is the Key to Revitalizing Manufacturing Competitiveness - July 2025](https://www.b2venture.vc/stories/europes-industrial-moment-why-ai-automation-is-the-key-to-revitalizing-manufacturing-competitiveness) 
+- [Anna Bosch — b2venture - Europe's Industrial Moment: Why AI Automation is the Key to Revitalizing Manufacturing Competitiveness - July 2025](https://www.b2venture.vc/stories/europes-industrial-moment-why-ai-automation-is-the-key-to-revitalizing-manufacturing-competitiveness)
+
+#### AI Compliance 
+- [Shruti Batra — QED Investors - AI's Compliance Takeover - July 2025](https://www.qedinvestors.com/blog/ais-compliance-takeover)
 
 #### Consumer AI
 - [NEA - The Current #13: Context in Consumer AI - July 2025](https://www.linkedin.com/pulse/current-13-context-consumer-ai-new-enterprise-associates-jg0hc/)
