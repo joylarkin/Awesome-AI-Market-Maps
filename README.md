@@ -78,6 +78,7 @@ OR
 
 #### Legal AI
 - [Legaltech Hub - LTH AI Agents in Legal Map: July 2025 - July 2025](https://www.legaltechnologyhub.com/contents/lth-ai-agents-in-legal-map-july-2025/)
+- [Specter - 🧑‍⚖️ Legal AI Landscape - July 2025](https://insights.tryspecter.com/legal-ai-landscape-2025/)
 
 #### AI Real Estate
 - [Pi Labs - Real AI for Real Assets - July 2025](https://www.linkedin.com/posts/pi-labs-ltd-_sneak-peek-of-the-paper-activity-7349020184923283458-Fu0r)
