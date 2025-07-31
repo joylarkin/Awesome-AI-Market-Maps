@@ -87,6 +87,7 @@ OR
 - [Inside/VC - Voice AI Market Map - July 2025](https://www.linkedin.com/posts/insidevc_voice-infrastructure-middleware-activity-7354086305967865858-1M1z)
 
 #### AI Everything Else
+- [Florian Seemann — P9 - The State of AI-First Services Today - July 2025](https://medium.com/point-nine-news/the-state-of-ai-first-services-today-648e5816e89d)
 - [Brighteye Ventures - Research Tools: breaching new frontiers - July 2025](https://www.brighteyevc.com/post/research-tools-breaching-new-frontiers)
 - [Cherie Hu — Water & Music - Music Tech Investment and M&A - July 2025](https://www.linkedin.com/posts/cheriehu_musictech-musicbusiness-venturecapital-activity-7345787020016840705-uxpi)
 
