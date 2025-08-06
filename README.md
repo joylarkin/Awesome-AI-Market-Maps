@@ -42,6 +42,9 @@ OR
 
 ### August 2025
 
+#### Fintech AI
+- [Dave Wang - I mapped 81 AI companies disrupting Wall Street - August 2025](https://www.linkedin.com/posts/davewangmia_i-mapped-81-ai-companies-disrupting-wall-activity-7358518819625000960-578I)
+
 #### AI Everthing Else
 - [Denise Teng — Gradient - Always-On Iteration: How AI Transforms Product Feedback, Analytics, and Prototyping - August 2025](https://www.gradient.com/blog/posts/how-ai-transforms-product-feedback/)
 
