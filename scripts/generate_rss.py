@@ -156,7 +156,7 @@ rss = ET.Element('rss', {
 })
 
 channel = ET.SubElement(rss, 'channel')
-ET.SubElement(channel, 'title').text = safe_xml_text("Awesome AI Market Maps •• Master AI Market Maps Update Feed")
+ET.SubElement(channel, 'title').text = safe_xml_text("Awesome AI Market Maps Update Feed •• github.com/joylarkin/Awesome-AI-Market-Maps")
 ET.SubElement(channel, 'link').text = "https://github.com/joylarkin/Awesome-AI-Market-Maps"
 ET.SubElement(channel, 'description').text = safe_xml_text("Real-time updates of new AI Market Maps featured in the Awesome-AI-Market-Maps GitHub repository. Follow for new AI Market Maps as they are added. Curated by Joy Larkin (Twitter: @joy).")
 
