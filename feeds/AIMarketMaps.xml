@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="https://raw.githubusercontent.com/joylarkin/Awesome-AI-Market-Maps/main/feeds/rss.xsl"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <title>Awesome AI Market Maps •• Master AI Market Maps Update Feed</title>
+    <title>Awesome AI Market Maps Update Feed •• github.com/joylarkin/Awesome-AI-Market-Maps</title>
     <link>https://github.com/joylarkin/Awesome-AI-Market-Maps</link>
     <description>Real-time updates of new AI Market Maps featured in the Awesome-AI-Market-Maps GitHub repository. Follow for new AI Market Maps as they are added. Curated by Joy Larkin (Twitter: @joy).</description>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/Awesome-AI-Market-Maps/main/feeds/AIMarketMaps.xml" rel="self" type="application/rss+xml" />
