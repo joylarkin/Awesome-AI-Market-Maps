@@ -42,6 +42,9 @@ OR
 
 ### August 2025
 
+#### AI Customer Support 
+- [Norwest - AI Native Customer Support Market Map - August 2025](https://www.linkedin.com/posts/norwest-venture-partners_this-year-alone-organizations-around-the-activity-7361461976708911105-uP3C)
+
 #### Fintech AI  
 - [Dave Wang - I mapped 81 AI companies disrupting Wall Street - August 2025](https://www.linkedin.com/posts/davewangmia_i-mapped-81-ai-companies-disrupting-wall-activity-7358518819625000960-578I) 
 
