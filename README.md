@@ -55,6 +55,9 @@ OR
 - [Zach Teiger - AI is Impacting the Way We Track - August 2025](https://zachteiger.substack.com/p/ai-is-impacting-the-way-we-track?r=1q9x6c)
 - [Fiat Ventures - The Healthcare & Fintech Market Map - August 2025](https://www.fiat.vc/post/the-healthcare-and-fintech-market-map)
 
+#### AI Security
+- [Sapphire Ventures - State of Cybersecurity: Growth, Risk, and Resilience - August 2025](https://sapphireventures.com/blog/state-of-cybersecurity-growth-risk-and-resilience/)
+
 #### AI Everthing Else
 - [Denise Teng — Gradient - Always-On Iteration: How AI Transforms Product Feedback, Analytics, and Prototyping - August 2025](https://www.gradient.com/blog/posts/how-ai-transforms-product-feedback/)
 
