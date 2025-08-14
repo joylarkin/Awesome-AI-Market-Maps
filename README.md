@@ -42,6 +42,9 @@ OR
 
 ### August 2025
 
+#### AI Agents
+- [Leo Lu & Joanne Chen — Foundation Capital - How AI agents will redefine market research - August 2025](https://foundationcapital.com/how-ai-agents-will-redefine-user-research/)
+
 #### AI Customer Support 
 - [Norwest - AI Native Customer Support Market Map - August 2025](https://www.linkedin.com/posts/norwest-venture-partners_this-year-alone-organizations-around-the-activity-7361461976708911105-uP3C)
 
