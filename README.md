@@ -55,7 +55,8 @@ OR
 - [Zach Teiger - AI is Impacting the Way We Track - August 2025](https://zachteiger.substack.com/p/ai-is-impacting-the-way-we-track?r=1q9x6c)
 - [Fiat Ventures - The Healthcare & Fintech Market Map - August 2025](https://www.fiat.vc/post/the-healthcare-and-fintech-market-map)
 
-#### Open Models
+#### Open Models   
+- [LMArena - August 2025: Top 10 Open Models by Provider (Text) - August 2025](https://www.linkedin.com/posts/lmarena_openmodels-aitrends-activity-7361462179671265281-k9uT)
 - [Nathan Lambert & Florian Brand — Interconnects - Ranking the Chinese Open Model Builders - August 2025](https://www.interconnects.ai/p/chinas-top-19-open-model-labs)
 
 #### AI Security
