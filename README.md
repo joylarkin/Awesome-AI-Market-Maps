@@ -43,6 +43,7 @@ OR
 ### August 2025
 
 #### AI Agents
+- [CB Insights - The AI Agent Tech Stack: The Infrastructure Powering Autonomous AI - August 2025](https://www.linkedin.com/posts/jason-salt_the-ai-agent-tech-stack-the-infrastructure-activity-7363322879712624640-Acfp)
 - [Leo Lu & Joanne Chen — Foundation Capital - How AI agents will redefine market research - August 2025](https://foundationcapital.com/how-ai-agents-will-redefine-user-research/)
 
 #### AI Browsers
