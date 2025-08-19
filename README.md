@@ -46,6 +46,9 @@ OR
 - [CB Insights - The AI Agent Tech Stack: The Infrastructure Powering Autonomous AI - August 2025](https://www.linkedin.com/posts/jason-salt_the-ai-agent-tech-stack-the-infrastructure-activity-7363322879712624640-Acfp)
 - [Leo Lu & Joanne Chen — Foundation Capital - How AI agents will redefine market research - August 2025](https://foundationcapital.com/how-ai-agents-will-redefine-user-research/)
 
+#### AI App Builders  
+- [Gabriel Vasquez & Stephenie Zhang & and Yoko Li — a16z - One Prompt, Zero Engineers: Your New Internal Dev - August 2025](https://a16z.com/one-prompt-zero-engineers-your-new-internal-dev/) 
+
 #### AI Browsers
 - [Can Gurel — Delphi Intelligence - Browser Wars Got Personal - August 2025](https://www.delphiintelligence.io/research/browser-wars-got-personal)  
 
