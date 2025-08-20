@@ -69,6 +69,9 @@ OR
 #### AI Security
 - [Sapphire Ventures - State of Cybersecurity: Growth, Risk, and Resilience - August 2025](https://sapphireventures.com/blog/state-of-cybersecurity-growth-risk-and-resilience/)
 
+#### AI Software Development
+- [Stellaris Venture Partners - Building in AI x SDLC - August 2025](https://www.linkedin.com/posts/vardhan-dharnidharka_so-stellaris-venture-partners-created-a-market-activity-7363819358747303936-l5Gn)
+
 #### AI Everthing Else
 - [Denise Teng — Gradient - Always-On Iteration: How AI Transforms Product Feedback, Analytics, and Prototyping - August 2025](https://www.gradient.com/blog/posts/how-ai-transforms-product-feedback/)
 
