@@ -45,6 +45,7 @@ OR
 #### AI Agents
 - [CB Insights - The AI Agent Tech Stack: The Infrastructure Powering Autonomous AI - August 2025](https://www.linkedin.com/posts/jason-salt_the-ai-agent-tech-stack-the-infrastructure-activity-7363322879712624640-Acfp)
 - [Leo Lu & Joanne Chen — Foundation Capital - How AI agents will redefine market research - August 2025](https://foundationcapital.com/how-ai-agents-will-redefine-user-research/)
+- [Joanna Graiver OpenOcean - The state of agentic AI in 2025: what’s working, what isn’t, and what’s next - August 2025](https://www.openocean.vc/articles/the-state-of-agentic-ai-in-2025-whats-working-what-isnt-and-whats-next)
 
 #### AI App Builders  
 - [Gabriel Vasquez & Stephenie Zhang & and Yoko Li — a16z - One Prompt, Zero Engineers: Your New Internal Dev - August 2025](https://a16z.com/one-prompt-zero-engineers-your-new-internal-dev/) 
@@ -56,11 +57,15 @@ OR
 - [Norwest - AI Native Customer Support Market Map - August 2025](https://www.linkedin.com/posts/norwest-venture-partners_this-year-alone-organizations-around-the-activity-7361461976708911105-uP3C)
 
 #### Fintech AI  
-- [Dave Wang - I mapped 81 AI companies disrupting Wall Street - August 2025](https://www.linkedin.com/posts/davewangmia_i-mapped-81-ai-companies-disrupting-wall-activity-7358518819625000960-578I) 
+- [Dave Wang - I mapped 81 AI companies disrupting Wall Street - August 2025](https://www.linkedin.com/posts/davewangmia_i-mapped-81-ai-companies-disrupting-wall-activity-7358518819625000960-578I)
+- [Alloy Alchemist Fund - AI Compliance for Financial Institutions - August 2025](https://docs.google.com/spreadsheets/d/1vKnqE19OIcOpIlaptbbmIiA8ZsWxN9QVLoi8G4pUtaQ/edit?gid=0#gid=0)
 
 #### Healthcare AI 
 - [Zach Teiger - AI is Impacting the Way We Track - August 2025](https://zachteiger.substack.com/p/ai-is-impacting-the-way-we-track?r=1q9x6c)
 - [Fiat Ventures - The Healthcare & Fintech Market Map - August 2025](https://www.fiat.vc/post/the-healthcare-and-fintech-market-map)
+
+#### Logistics AI
+- [Chelsea Zhang & Christo Ritter & Ali Afridi — Equal Ventures - Logistics x AI | The First Wave of Gen AI - August 2025](https://newsletter.equal.vc/p/logistics-ai)
 
 #### Open Models   
 - [LMArena - August 2025: Top 10 Open Models by Provider (Text) - August 2025](https://www.linkedin.com/posts/lmarena_openmodels-aitrends-activity-7361462179671265281-k9uT)
@@ -119,6 +124,9 @@ OR
 
 #### AI Real Estate
 - [Pi Labs - Real AI for Real Assets - July 2025](https://www.linkedin.com/posts/pi-labs-ltd-_sneak-peek-of-the-paper-activity-7349020184923283458-Fu0r)
+
+#### AI Security
+- [Insight Ventures - The race to secure enterprise AI - July 2025](https://www.insightpartners.com/ideas/securing-ai/)
 
 #### Voice AI
 - [Inside/VC - Voice AI Market Map - July 2025](https://www.linkedin.com/posts/insidevc_voice-infrastructure-middleware-activity-7354086305967865858-1M1z)
