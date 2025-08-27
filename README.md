@@ -56,6 +56,9 @@ OR
 #### AI Customer Support 
 - [Norwest - AI Native Customer Support Market Map - August 2025](https://www.linkedin.com/posts/norwest-venture-partners_this-year-alone-organizations-around-the-activity-7361461976708911105-uP3C)
 
+#### AI DevTools
+- [Janelle Teng & Lauri Moore & Lindsey Li & Libbie Frost — Bessemer Venture Partners - Roadmap: Developer Tooling for Software 3.0 - August 2025](https://www.bvp.com/atlas/roadmap-developer-tooling-for-software-3-0)
+
 #### Fintech AI  
 - [Dave Wang - I mapped 81 AI companies disrupting Wall Street - August 2025](https://www.linkedin.com/posts/davewangmia_i-mapped-81-ai-companies-disrupting-wall-activity-7358518819625000960-578I)
 - [Alloy Alchemist Fund - AI Compliance for Financial Institutions - August 2025](https://docs.google.com/spreadsheets/d/1vKnqE19OIcOpIlaptbbmIiA8ZsWxN9QVLoi8G4pUtaQ/edit?gid=0#gid=0)
@@ -78,6 +81,7 @@ OR
 - [Stellaris Venture Partners - Building in AI x SDLC - August 2025](https://www.linkedin.com/posts/vardhan-dharnidharka_so-stellaris-venture-partners-created-a-market-activity-7363819358747303936-l5Gn)
 
 #### AI Everthing Else
+- [Katy Rea — Bessemer Venture Partners - Roadmap: Public Safety AI - August 2025](https://www.bvp.com/atlas/roadmap-public-safety-ai)
 - [Denise Teng — Gradient - Always-On Iteration: How AI Transforms Product Feedback, Analytics, and Prototyping - August 2025](https://www.gradient.com/blog/posts/how-ai-transforms-product-feedback/)
 
 
