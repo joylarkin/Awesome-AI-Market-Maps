@@ -53,6 +53,9 @@ OR
 #### AI Browsers
 - [Can Gurel — Delphi Intelligence - Browser Wars Got Personal - August 2025](https://www.delphiintelligence.io/research/browser-wars-got-personal)  
 
+#### Consumer AI
+- [Olivia Moore & Daisy Zhao  a16z -  The Top 100 Gen AI Consumer Apps 5th Edition - August 2025](https://a16z.com/100-gen-ai-apps-5/)
+
 #### AI Customer Support 
 - [Norwest - AI Native Customer Support Market Map - August 2025](https://www.linkedin.com/posts/norwest-venture-partners_this-year-alone-organizations-around-the-activity-7361461976708911105-uP3C)
 
