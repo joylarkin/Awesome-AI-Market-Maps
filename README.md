@@ -46,6 +46,8 @@ OR
 - [CB Insights - The AI Agent Tech Stack: The Infrastructure Powering Autonomous AI - August 2025](https://www.linkedin.com/posts/jason-salt_the-ai-agent-tech-stack-the-infrastructure-activity-7363322879712624640-Acfp)
 - [Leo Lu & Joanne Chen — Foundation Capital - How AI agents will redefine market research - August 2025](https://foundationcapital.com/how-ai-agents-will-redefine-user-research/)
 - [Joanna Graiver — OpenOcean - The state of agentic AI in 2025: what’s working, what isn’t, and what’s next - August 2025](https://www.openocean.vc/articles/the-state-of-agentic-ai-in-2025-whats-working-what-isnt-and-whats-next)
+- [Eric Zhou & Yoko Li & Seema Amble & Jennifer Li — a16z - The Rise of Computer Use and Agentic Coworkers - August 2025](https://a16z.com/the-rise-of-computer-use-and-agentic-coworkers/)
+
 
 #### AI App Builders  
 - [Gabriel Vasquez & Stephenie Zhang & and Yoko Li — a16z - One Prompt, Zero Engineers: Your New Internal Dev - August 2025](https://a16z.com/one-prompt-zero-engineers-your-new-internal-dev/) 
