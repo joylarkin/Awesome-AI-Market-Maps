@@ -88,6 +88,7 @@ OR
 #### AI Everthing Else
 - [Katy Rea — Bessemer Venture Partners - Roadmap: Public Safety AI - August 2025](https://www.bvp.com/atlas/roadmap-public-safety-ai)
 - [Denise Teng — Gradient - Always-On Iteration: How AI Transforms Product Feedback, Analytics, and Prototyping - August 2025](https://www.gradient.com/blog/posts/how-ai-transforms-product-feedback/)
+- [The Techshop SGR - Agentic AI: Italy - August 2025](https://www.linkedin.com/posts/techshopcapital_agentic-ai-italy-is-on-the-mapactually-activity-7366788974897520640-aoZ3)
 
 
 ***
