@@ -85,6 +85,9 @@ OR
 #### AI Software Development
 - [Stellaris Venture Partners - Building in AI x SDLC - August 2025](https://www.linkedin.com/posts/vardhan-dharnidharka_so-stellaris-venture-partners-created-a-market-activity-7363819358747303936-l5Gn)
 
+#### Voice AI
+- [Sierra Ventures - Transforming Voice: Market Map of 150+ Voice AI Companies - August 2025](https://www.sierraventures.com/content/voice-ai-market-map)
+
 #### AI Everthing Else
 - [Katy Rea — Bessemer Venture Partners - Roadmap: Public Safety AI - August 2025](https://www.bvp.com/atlas/roadmap-public-safety-ai)
 - [Denise Teng — Gradient - Always-On Iteration: How AI Transforms Product Feedback, Analytics, and Prototyping - August 2025](https://www.gradient.com/blog/posts/how-ai-transforms-product-feedback/)
