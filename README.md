@@ -185,6 +185,7 @@ OR
 - [Varun Ramakrishnan — SignalFire - AI is reshaping B2B GTM with signals you’re still ignoring - June 2025](https://www.signalfire.com/blog/ai-is-reshaping-b2b-gtm-with-signals-youre-ignoring)
 
 #### AI Security
+- [Wickey Wang - The AI Cybersecurity Frontier: 100 Emerging Startups to Watch (2021–2024) - June 2025](https://wickey.substack.com/p/the-ai-cybersecurity-frontier-100)
 - [Malika Aubakirova — a16z - Next-Gen Pentesting: AI Empowers the Good Guys - June 2025](https://a16z.com/next-gen-pentesting-ai-empowers-the-good-guys/)
 - [James Berthoty — Latio - 2025 Latio AI Security Report - June 2025](https://applied-gai-in-security.ghost.io/agentic-security-marketmap/)
 
