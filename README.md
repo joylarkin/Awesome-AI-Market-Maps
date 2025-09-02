@@ -43,7 +43,7 @@ OR
 ### September 2025
 
 #### AI Startups
-- [Theory VC - A Living Market Map - September 2025](https://theoryvc.com)
+- [Theory Ventures - A Living Market Map - September 2025](https://theoryvc.com)
 
 
 ***
