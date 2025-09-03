@@ -42,6 +42,15 @@ OR
 
 ### September 2025
 
+#### Construction AI
+- [Varad Mohod — Plug and Play Ventures - What’s Next for AI in Construction Tech? - September 2025](https://www.linkedin.com/posts/varad-mohod_whats-next-for-ai-in-construction-tech-activity-7369043759516319744-7RFp)
+
+#### AI Data Center
+- [Future Energy Ventures - Data Center Market Map - September 2025](https://www.linkedin.com/posts/futureenergyventures_data-center-market-map-by-fev-activity-7368913517925597185-3tiS)
+
+#### AI Search
+- [Rebecca Rodseth & Marc Wu & Teddy Cohen — Activant Capital - Enterprise Search Is Entering a New Era - September 2025](https://activantcapital.com/research/enterprise-search-is-entering-a-new-era)
+
 #### AI Startups
 - [Theory Ventures - A Living Market Map - September 2025](https://theoryvc.com)
 
@@ -54,6 +63,7 @@ OR
 - [Leo Lu & Joanne Chen — Foundation Capital - How AI agents will redefine market research - August 2025](https://foundationcapital.com/how-ai-agents-will-redefine-user-research/)
 - [Joanna Graiver — OpenOcean - The state of agentic AI in 2025: what’s working, what isn’t, and what’s next - August 2025](https://www.openocean.vc/articles/the-state-of-agentic-ai-in-2025-whats-working-what-isnt-and-whats-next)
 - [Eric Zhou & Yoko Li & Seema Amble & Jennifer Li — a16z - The Rise of Computer Use and Agentic Coworkers - August 2025](https://a16z.com/the-rise-of-computer-use-and-agentic-coworkers/)
+- [dealroom.co - 1.5k+ AI Agents - August 2025](https://app.dealroom.co/lists/53885)
 
 #### AI App Builders  
 - [Gabriel Vasquez & Stephenie Zhang & and Yoko Li — a16z - One Prompt, Zero Engineers: Your New Internal Dev - August 2025](https://a16z.com/one-prompt-zero-engineers-your-new-internal-dev/) 
