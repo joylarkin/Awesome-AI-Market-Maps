@@ -44,6 +44,7 @@ OR
 
 #### AI Agents
 - [Jelena Zec & Jeff Flynn & Robert Li & Lucas Kirshenbaum — Citi Ventures - Agentic commerce at scale: Why startups are key in building robust AI-powered shopping experiences - September 2025](https://www.citi.com/ventures/perspectives/opinion/agentic-commerce-why-startups-are-key.html)
+- [Laura Salesse  Eight Roads - Fintech x AI - part 2 : The rise of agentic payment infrastructure - September 2025](https://www.linkedin.com/pulse/fintech-x-ai-part-2-rise-agentic-payment-laura-salesse-bo5re/?trackingId=jlR6snACTke4JoApBF9qsQ%3D%3D)
 
 #### Construction AI
 - [Varad Mohod — Plug and Play Ventures - What’s Next for AI in Construction Tech? - September 2025](https://www.linkedin.com/posts/varad-mohod_whats-next-for-ai-in-construction-tech-activity-7369043759516319744-7RFp)
