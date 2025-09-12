@@ -65,6 +65,9 @@ OR
 #### AI Startups
 - [Theory Ventures - A Living Market Map - September 2025](https://theoryvc.com)
 
+#### AI Everything Else
+- [Daisy Zhao & Olivia Moore — a16z - The AI-Native Office Suite – Can AI Do Work For You? - September 2025](https://a16z.com/the-ai-native-office-suite-can-ai-do-work-for-you/)
+
 
 ***
 ### August 2025
