@@ -44,16 +44,20 @@ OR
 
 #### AI Agents
 - [Jelena Zec & Jeff Flynn & Robert Li & Lucas Kirshenbaum — Citi Ventures - Agentic commerce at scale: Why startups are key in building robust AI-powered shopping experiences - September 2025](https://www.citi.com/ventures/perspectives/opinion/agentic-commerce-why-startups-are-key.html)
-- [Laura Salesse  Eight Roads - Fintech x AI - part 2 : The rise of agentic payment infrastructure - September 2025](https://www.linkedin.com/pulse/fintech-x-ai-part-2-rise-agentic-payment-laura-salesse-bo5re/?trackingId=jlR6snACTke4JoApBF9qsQ%3D%3D)
+- [Laura Salesse — Eight Roads - Fintech x AI - part 2 : The rise of agentic payment infrastructure - September 2025](https://www.linkedin.com/pulse/fintech-x-ai-part-2-rise-agentic-payment-laura-salesse-bo5re/?trackingId=jlR6snACTke4JoApBF9qsQ%3D%3D)
 
 #### Construction AI
 - [Varad Mohod — Plug and Play Ventures - What’s Next for AI in Construction Tech? - September 2025](https://www.linkedin.com/posts/varad-mohod_whats-next-for-ai-in-construction-tech-activity-7369043759516319744-7RFp)
 
-#### AI Data Center
+#### AI Data Center 
 - [Future Energy Ventures - Data Center Market Map - September 2025](https://www.linkedin.com/posts/futureenergyventures_data-center-market-map-by-fev-activity-7368913517925597185-3tiS)
+- [Fortino Capital Partners - AI is reshaping the MSP industry, what are the opportunities? - September 2025](https://www.fortinocapital.com/blog/ai-reshaping-msp-industry-what-are-opportunities) 
 
 #### Energy AI
 - [Remarkable Ventures Climate - AI and Energy Market Landscape, version 2: 195 AI Companies Powering the Future of Energy - September 2025](https://airtable.com/app68AZGbQLyNhrDh/shrVJy9bskvpPt4cs/tblzlhqtg9LdBo8YV)
+
+#### Fintech AI 
+- [Anirudh Sathya - A market map of all the M&A/PE tech companies that I know of - September 2025](https://www.linkedin.com/posts/anirudh-sathya_pe-mergers-marketmap-activity-7372688330553053184-nn0a) 
 
 #### Healthcare AI
 - [dentaiware - The Dental AI & Software Market Map - September 2025](https://www.linkedin.com/posts/andreas-augat_ai-and-software-are-reshaping-dentistry-activity-7369342247227539456-Noiq)
