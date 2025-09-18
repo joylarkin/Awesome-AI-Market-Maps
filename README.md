@@ -75,7 +75,7 @@ OR
 
 #### AI Everything Else
 - [Daisy Zhao & Olivia Moore — a16z - The AI-Native Office Suite – Can AI Do Work For You? - September 2025](https://a16z.com/the-ai-native-office-suite-can-ai-do-work-for-you/)
-- [GoHub Ventures - Eurorpean Defense Tech Market Map - September 2025](https://x.com/GoHubVentures/status/1968213404822409235)
+- [GoHub Ventures - European Defense Tech Market Map - September 2025](https://x.com/GoHubVentures/status/1968213404822409235)
 
 
 ***
