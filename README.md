@@ -67,6 +67,9 @@ OR
 - [Specter - EU HealthTech Landscape 2025 - September 2025](https://insights.tryspecter.com/eu-healthtech-landscape-2025/)
 - [HealthTechX Global - Healthtech AI and Automation I & UK Market Map - September 2025](https://www.linkedin.com/posts/derrick-khor_how-many-homegrown-clinical-ai-and-automation-activity-7373989206966059008-rFPz)
 
+#### Procurement AI
+- [Amedeo Lorenzotti — M13 - Market Map: Gov't Contracting Technology - September 2025](https://www.linkedin.com/posts/amedeo-lorenzotti-847b39166_founders-are-showing-up-where-the-incumbents-activity-7372377686867886081-QPIt/)
+
 #### AI Search
 - [Rebecca Rodseth & Marc Wu & Teddy Cohen — Activant Capital - Enterprise Search Is Entering a New Era - September 2025](https://activantcapital.com/research/enterprise-search-is-entering-a-new-era)
 
