@@ -20,6 +20,7 @@ OR
 💬 Tweet at me [@joy](https://twitter.com/joy) OR Connect with me on [LinkedIn](https://www.linkedin.com/in/joylarkin/)  
 OR  
 📩 Submit via email at jklarkin+AIMM AT gmail dot com   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⤷ Are you a VC interested in working together? Let me know.   
 
 
 🙌 Spread the word.  
