@@ -71,6 +71,9 @@ OR
 #### Legaltech AI
 - [CB Insights - The legaltech market map - September 2025](https://www.linkedin.com/posts/jason-salt_140-companies-making-the-case-for-legal-activity-7376326108415389696-ntNO)
 
+#### AI Observability
+- [Paweł Huryn - The Ultimate Guide to AI Observability and Evaluation Platforms - September 2025](https://www.productcompass.pm/p/ai-observability-evaluation-platforms)
+
 #### Procurement AI
 - [Amedeo Lorenzotti — M13 - Market Map: Gov't Contracting Technology - September 2025](https://www.linkedin.com/posts/amedeo-lorenzotti-847b39166_founders-are-showing-up-where-the-incumbents-activity-7372377686867886081-QPIt/)
 
