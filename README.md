@@ -67,6 +67,7 @@ OR
 - [dentaiware - The Dental AI & Software Market Map - September 2025](https://www.linkedin.com/posts/andreas-augat_ai-and-software-are-reshaping-dentistry-activity-7369342247227539456-Noiq)
 - [Specter - EU HealthTech Landscape 2025 - September 2025](https://insights.tryspecter.com/eu-healthtech-landscape-2025/)
 - [HealthTechX Global - Healthtech AI and Automation I & UK Market Map - September 2025](https://www.linkedin.com/posts/derrick-khor_how-many-homegrown-clinical-ai-and-automation-activity-7373989206966059008-rFPz)
+- [Cathy Gao & Misty Liao & Callum Kuo & Aditya Reddy — Sapphire Ventures - The AI Healthcare Stack: Data Activation, Automation and the 10x Provider - September 2025](https://sapphireventures.com/blog/ai-healthcare-stack-data-automation-10x-provider-2025/)
 
 #### Legaltech AI
 - [CB Insights - The legaltech market map - September 2025](https://www.linkedin.com/posts/jason-salt_140-companies-making-the-case-for-legal-activity-7376326108415389696-ntNO)
