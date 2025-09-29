@@ -46,6 +46,7 @@ OR
 #### AI Agents
 - [Jelena Zec & Jeff Flynn & Robert Li & Lucas Kirshenbaum — Citi Ventures - Agentic commerce at scale: Why startups are key in building robust AI-powered shopping experiences - September 2025](https://www.citi.com/ventures/perspectives/opinion/agentic-commerce-why-startups-are-key.html)
 - [Laura Salesse — Eight Roads - Fintech x AI - part 2 : The rise of agentic payment infrastructure - September 2025](https://www.linkedin.com/pulse/fintech-x-ai-part-2-rise-agentic-payment-laura-salesse-bo5re/?trackingId=jlR6snACTke4JoApBF9qsQ%3D%3D)
+- [Kenn So — Generational - Agents at Work - September 2025](https://www.generational.pub/p/agents-at-work)
 
 #### Biopharma AI
 - [Emergent Ventures - AI Opportunities in Biopharma: Early Signals - September 2025](https://www.emergent.vc/blog/opportunities-for-ai-in-biopharma-early-signals)
