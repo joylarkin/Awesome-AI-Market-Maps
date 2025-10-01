@@ -71,6 +71,7 @@ OR
 - [Cathy Gao & Misty Liao & Callum Kuo & Aditya Reddy — Sapphire Ventures - The AI Healthcare Stack: Data Activation, Automation and the 10x Provider - September 2025](https://sapphireventures.com/blog/ai-healthcare-stack-data-automation-10x-provider-2025/)
 
 #### Legaltech AI
+- [Legaltech Hub - LTH GenAI Legal Tech Map: September 2025 - September 2025](https://www.legaltechnologyhub.com/contents/lth-genai-legal-tech-map-september-2025/)
 - [CB Insights - The legaltech market map - September 2025](https://www.linkedin.com/posts/jason-salt_140-companies-making-the-case-for-legal-activity-7376326108415389696-ntNO)
 
 #### AI Observability
