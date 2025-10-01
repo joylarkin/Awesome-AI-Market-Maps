@@ -58,6 +58,9 @@ OR
 - [Future Energy Ventures - Data Center Market Map - September 2025](https://www.linkedin.com/posts/futureenergyventures_data-center-market-map-by-fev-activity-7368913517925597185-3tiS)
 - [Fortino Capital Partners - AI is reshaping the MSP industry, what are the opportunities? - September 2025](https://www.fortinocapital.com/blog/ai-reshaping-msp-industry-what-are-opportunities) 
 
+#### AI DevTools
+- [Canaccord Genuity - Pure-play DBMS Ecosystem (Commercial Providers) - September 2025](https://www.linkedin.com/posts/nicolas-hourcard-cfa-b7349b37_postgres-realtime-timeseries-activity-7379173611485437953-Bdr8)
+
 #### Energy AI
 - [Remarkable Ventures Climate - AI and Energy Market Landscape, version 2: 195 AI Companies Powering the Future of Energy - September 2025](https://airtable.com/app68AZGbQLyNhrDh/shrVJy9bskvpPt4cs/tblzlhqtg9LdBo8YV)
 
@@ -80,11 +83,17 @@ OR
 #### Procurement AI
 - [Amedeo Lorenzotti — M13 - Market Map: Gov't Contracting Technology - September 2025](https://www.linkedin.com/posts/amedeo-lorenzotti-847b39166_founders-are-showing-up-where-the-incumbents-activity-7372377686867886081-QPIt/)
 
+#### Robotics
+- [Connie Biel — Montage Ventures - Robotics Market Map - September 2025](https://www.linkedin.com/posts/connielwang_at-montage-ventures-we-invest-in-ai-applications-activity-7378851875325927424-dPcc)
+
 #### AI Search
 - [Rebecca Rodseth & Marc Wu & Teddy Cohen — Activant Capital - Enterprise Search Is Entering a New Era - September 2025](https://activantcapital.com/research/enterprise-search-is-entering-a-new-era)
 
 #### AI Startups
 - [Theory Ventures - A Living Market Map - September 2025](https://theoryvc.com)
+
+#### Voice AI
+- [Rohil Bagga — Lightspeed India - Voice AI Market Map - September 2025](https://www.linkedin.com/posts/rohil-bagga-2b61b6181_voice-ai-is-having-its-moment-in-the-past-activity-7378697042581315584-QLsa)
 
 #### AI Everything Else
 - [Daisy Zhao & Olivia Moore — a16z - The AI-Native Office Suite – Can AI Do Work For You? - September 2025](https://a16z.com/the-ai-native-office-suite-can-ai-do-work-for-you/)
