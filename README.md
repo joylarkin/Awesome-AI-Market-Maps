@@ -39,6 +39,23 @@ OR
 
 ## ▦ MARKET MAPS ▦  
 
+
+## AI Market Maps - Q4 2025  
+
+### October 2025
+
+#### AI Applications
+- [Olivia Moore & Marc Andrusko & Seema Amble — a16z - The AI Application Spending Report: Where Startup Dollars Really Go - October 2025](https://a16z.com/the-ai-application-spending-report-where-startup-dollars-really-go/)
+
+#### AI Security 
+- [Kathryn Shih & Jimmy Park — Forgepoint Capital - Margin of Safety #30: Autonomous Remediation - October 2025](https://mofsafety.substack.com/p/margin-of-safety-30-autonomous-remediation)
+
+
+#### AI Everything Else
+- [Greg Paterson & Nic Brisbourne — Molten Ventures - Molten's UK Generative AI Market Map 2025 - October 2025](https://www.moltenventures.com/insights/moltens-uk-generative-ai-market-map-2025)
+
+
+---
 ## AI Market Maps - Q3 2025  
 
 ### September 2025
