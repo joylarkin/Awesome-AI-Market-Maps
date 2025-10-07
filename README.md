@@ -47,12 +47,17 @@ OR
 #### AI Applications
 - [Olivia Moore & Marc Andrusko & Seema Amble — a16z - The AI Application Spending Report: Where Startup Dollars Really Go - October 2025](https://a16z.com/the-ai-application-spending-report-where-startup-dollars-really-go/)
 
+#### AI DevTools
+- [Jennifer Bemert — XAnge - Inside LLMOps: The Emerging Market Map for AI Agents - October 2025](https://www.xange.vc/knowledge-hub/llm-ops_market-map-2025)
+
 #### Robotics 
 - [Lonne Jaffe, Adithya Sanjay, Sourish Jasti — Insight Partners - The state of the robotics ecosystem: The tech, use cases, and field deployment - October 2025](https://www.insightpartners.com/ideas/the-state-of-the-robotics-ecosystem/)
 
 #### AI Security 
 - [Kathryn Shih & Jimmy Park — Forgepoint Capital - Margin of Safety #30: Autonomous Remediation - October 2025](https://mofsafety.substack.com/p/margin-of-safety-30-autonomous-remediation)
 
+#### Semiconductors
+- [Spector - Semiconductor Market Map - October 2025](https://www.linkedin.com/posts/specterhq_semiconductors-activity-7381328079006220288-LgrX)
 
 #### AI Everything Else
 - [Greg Paterson & Nic Brisbourne — Molten Ventures - Molten's UK Generative AI Market Map 2025 - October 2025](https://www.moltenventures.com/insights/moltens-uk-generative-ai-market-map-2025)
