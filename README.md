@@ -47,6 +47,9 @@ OR
 #### AI Applications
 - [Olivia Moore & Marc Andrusko & Seema Amble — a16z - The AI Application Spending Report: Where Startup Dollars Really Go - October 2025](https://a16z.com/the-ai-application-spending-report-where-startup-dollars-really-go/)
 
+#### Robotics 
+- [Lonne Jaffe, Adithya Sanjay, Sourish Jasti — Insight Partners - The state of the robotics ecosystem: The tech, use cases, and field deployment - October 2025](https://www.insightpartners.com/ideas/the-state-of-the-robotics-ecosystem/)
+
 #### AI Security 
 - [Kathryn Shih & Jimmy Park — Forgepoint Capital - Margin of Safety #30: Autonomous Remediation - October 2025](https://mofsafety.substack.com/p/margin-of-safety-30-autonomous-remediation)
 
