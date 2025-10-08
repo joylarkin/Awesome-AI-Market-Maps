@@ -50,6 +50,9 @@ OR
 #### AI Applications
 - [Olivia Moore & Marc Andrusko & Seema Amble — a16z - The AI Application Spending Report: Where Startup Dollars Really Go - October 2025](https://a16z.com/the-ai-application-spending-report-where-startup-dollars-really-go/)
 
+#### AI Datacenter
+- [Laura Katzman — Buoyant VC - Efficient Compute: Why Optimization Is Now Inevitable - October 2025](https://www.buoyant.vc/blog/efficient-compute-why-optimization-is-now-inevitable)
+
 #### AI DevTools
 - [Jennifer Bemert — XAnge - Inside LLMOps: The Emerging Market Map for AI Agents - October 2025](https://www.xange.vc/knowledge-hub/llm-ops_market-map-2025)
 
@@ -67,6 +70,7 @@ OR
 
 #### AI Everything Else
 - [Greg Paterson & Nic Brisbourne — Molten Ventures - Molten's UK Generative AI Market Map 2025 - October 2025](https://www.moltenventures.com/insights/moltens-uk-generative-ai-market-map-2025)
+- [Equal Ventures - AI x wholesale - October 2025](https://www.linkedin.com/posts/zhangchelsea_wholesale-commerce-ai-activity-7381702658958479360-7l02)
 
 
 ---
