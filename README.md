@@ -34,7 +34,7 @@ OR
 [![RSS](https://github.com/joylarkin/cleverhack/blob/main/rss18.png)](https://raw.githubusercontent.com/joylarkin/Awesome-AI-Market-Maps/main/feeds/AIMarketMaps.xml) [Subscribe to real-time RSS updates](https://raw.githubusercontent.com/joylarkin/Awesome-AI-Market-Maps/main/feeds/AIMarketMaps.xml)    
 
 
-👉 [A quick guide for market map creators](https://www.linkedin.com/posts/joylarkin_github-joylarkinawesome-ai-market-maps-activity-7381415014181584896-g5f-)  
+🔖 [A quick guide for market map creators](https://www.linkedin.com/posts/joylarkin_github-joylarkinawesome-ai-market-maps-activity-7381415014181584896-g5f-)  
 
 
 ---
