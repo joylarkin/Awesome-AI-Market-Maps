@@ -54,6 +54,7 @@ OR
 - [Laura Katzman — Buoyant VC - Efficient Compute: Why Optimization Is Now Inevitable - October 2025](https://www.buoyant.vc/blog/efficient-compute-why-optimization-is-now-inevitable)
 
 #### AI DevTools
+- [Guido Appenzeller and Yoko Li — a16z - The Trillion Dollar AI Software Development Stack - October 2025](https://a16z.com/the-trillion-dollar-ai-software-development-stack/)
 - [Jennifer Bemert — XAnge - Inside LLMOps: The Emerging Market Map for AI Agents - October 2025](https://www.xange.vc/knowledge-hub/llm-ops_market-map-2025)
 
 #### Open Source AI
