@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it as below."
+title: "Awesome AI Market Maps"
+type: dataset
+preferred-citation.type: software
+authors:
+  - family-names: Larkin
+    given-names: Joy
+repository-code: "https://github.com/joylarkin/Awesome-AI-Market-Maps"
+url: "https://github.com/joylarkin/Awesome-AI-Market-Maps"
+abstract: >
+  A curated, continually updated collection of 300+ AI market maps and related resources
+  to help founders, investors, and practitioners survey the AI ecosystem.
+keywords:
+  - artificial intelligence
+  - market maps
+  - landscape
+  - venture capital
+  - taxonomy
+  - ecosystem
+license: MIT
+date-released: 2025
+preferred-citation:
+  type: software
+  title: "Awesome AI Market Maps"
+  authors:
+    - family-names: Larkin
+      given-names: Joy
+  url: "https://github.com/joylarkin/Awesome-AI-Market-Maps"
+  notes: "Please include the access date when citing the repository."
