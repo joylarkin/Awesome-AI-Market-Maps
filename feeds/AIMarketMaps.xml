@@ -10,10 +10,10 @@
     <generator>python-feedgen</generator>
     <language>en</language>
     <item>
-      <title>Jennifer Bemert — XAnge - Inside LLMOps: The Emerging Market Map for AI Agents - October 2025</title>
-      <link>https://www.xange.vc/knowledge-hub/llm-ops_market-map-2025</link>
-      <description>Jennifer Bemert — XAnge - Inside LLMOps: The Emerging Market Map for AI Agents - October 2025 - https://www.xange.vc/knowledge-hub/llm-ops_market-map-2025</description>
-      <guid isPermaLink="false">487197a3391450b38637c6f1b15f4064</guid>
+      <title>Guido Appenzeller and Yoko Li — a16z - The Trillion Dollar AI Software Development Stack - October 2025</title>
+      <link>https://a16z.com/the-trillion-dollar-ai-software-development-stack/</link>
+      <description>Guido Appenzeller and Yoko Li — a16z - The Trillion Dollar AI Software Development Stack - October 2025 - https://a16z.com/the-trillion-dollar-ai-software-development-stack/</description>
+      <guid isPermaLink="false">44fa71552ca5335a4be19f1b14d70d22</guid>
       <category>AI DevTools</category>
       <pubDate>Wed, 08 Oct 2025 15:52:11 +0000</pubDate>
     </item>
@@ -24,6 +24,14 @@
       <guid isPermaLink="false">53250126c3f6a676b3d0390361ee7d2e</guid>
       <category>Robotics</category>
       <pubDate>Tue, 07 Oct 2025 09:47:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jennifer Bemert — XAnge - Inside LLMOps: The Emerging Market Map for AI Agents - October 2025</title>
+      <link>https://www.xange.vc/knowledge-hub/llm-ops_market-map-2025</link>
+      <description>Jennifer Bemert — XAnge - Inside LLMOps: The Emerging Market Map for AI Agents - October 2025 - https://www.xange.vc/knowledge-hub/llm-ops_market-map-2025</description>
+      <guid isPermaLink="false">487197a3391450b38637c6f1b15f4064</guid>
+      <category>AI DevTools</category>
+      <pubDate>Tue, 07 Oct 2025 09:26:15 +0000</pubDate>
     </item>
     <item>
       <title>Synaptic - Model Behavior: Open Source AI  - October 2025</title>
