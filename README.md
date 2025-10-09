@@ -54,14 +54,14 @@ OR
 - [Laura Katzman — Buoyant VC - Efficient Compute: Why Optimization Is Now Inevitable - October 2025](https://www.buoyant.vc/blog/efficient-compute-why-optimization-is-now-inevitable)
 
 #### AI DevTools
-- [Guido Appenzeller and Yoko Li — a16z - The Trillion Dollar AI Software Development Stack - October 2025](https://a16z.com/the-trillion-dollar-ai-software-development-stack/)
+- [Guido Appenzeller & Yoko Li — a16z - The Trillion Dollar AI Software Development Stack - October 2025](https://a16z.com/the-trillion-dollar-ai-software-development-stack/)
 - [Jennifer Bemert — XAnge - Inside LLMOps: The Emerging Market Map for AI Agents - October 2025](https://www.xange.vc/knowledge-hub/llm-ops_market-map-2025)
 
 #### Open Source AI
 - [Synaptic - Model Behavior: Open Source AI  - October 2025](https://research.synaptic.com/resources/market-overviews/model-behavior-open-source-ai)
 
 #### Robotics 
-- [Lonne Jaffe, Adithya Sanjay, Sourish Jasti — Insight Partners - The state of the robotics ecosystem: The tech, use cases, and field deployment - October 2025](https://www.insightpartners.com/ideas/the-state-of-the-robotics-ecosystem/)
+- [Lonne Jaffe & Adithya Sanjay & Sourish Jasti — Insight Partners - The state of the robotics ecosystem: The tech, use cases, and field deployment - October 2025](https://www.insightpartners.com/ideas/the-state-of-the-robotics-ecosystem/)
 
 #### AI Security 
 - [Kathryn Shih & Jimmy Park — Forgepoint Capital - Margin of Safety #30: Autonomous Remediation - October 2025](https://mofsafety.substack.com/p/margin-of-safety-30-autonomous-remediation)
