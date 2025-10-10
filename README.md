@@ -47,6 +47,9 @@ OR
 
 ### October 2025
 
+#### AI Agents
+- [ecommert - Agentic commerce map for CPG & FMCG brands - October 2025](https://www.linkedin.com/posts/mert-damlapinar_cpg-fmcg-ecommerce-activity-7382125082342481920-DY6k)
+
 #### AI Applications
 - [Olivia Moore & Marc Andrusko & Seema Amble — a16z - The AI Application Spending Report: Where Startup Dollars Really Go - October 2025](https://a16z.com/the-ai-application-spending-report-where-startup-dollars-really-go/)
 
