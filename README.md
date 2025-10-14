@@ -65,6 +65,7 @@ OR
 
 #### Robotics 
 - [Lonne Jaffe & Adithya Sanjay & Sourish Jasti — Insight Partners - The state of the robotics ecosystem: The tech, use cases, and field deployment - October 2025](https://www.insightpartners.com/ideas/the-state-of-the-robotics-ecosystem/)
+- [Arthur Brasseur & Isabel Young & Augustin Collot — Atlantic Vantage Point - The Global Robotics Race and How They Actually Work - October 2025](https://avpcap.com/the-global-robotics-race-and-how-robots-actually-work/)
 
 #### AI Security 
 - [Kathryn Shih & Jimmy Park — Forgepoint Capital - Margin of Safety #30: Autonomous Remediation - October 2025](https://mofsafety.substack.com/p/margin-of-safety-30-autonomous-remediation)
