@@ -60,6 +60,9 @@ OR
 - [Guido Appenzeller & Yoko Li — a16z - The Trillion Dollar AI Software Development Stack - October 2025](https://a16z.com/the-trillion-dollar-ai-software-development-stack/)
 - [Jennifer Bemert — XAnge - Inside LLMOps: The Emerging Market Map for AI Agents - October 2025](https://www.xange.vc/knowledge-hub/llm-ops_market-map-2025)
 
+#### Enterprise AI
+- [Emmanuel Benhamou — BGV - Mapping the Human–AI Frontier: Where Intelligence Meets Enterprise - October 2025](https://medium.com/@emmanuel.benhamou/mapping-the-human-ai-frontier-where-intelligence-meets-enterprise-2482563b5ed6)
+
 #### Open Source AI
 - [Synaptic - Model Behavior: Open Source AI  - October 2025](https://research.synaptic.com/resources/market-overviews/model-behavior-open-source-ai)
 
