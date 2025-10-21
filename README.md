@@ -144,6 +144,7 @@ OR
 - [GoHub Ventures - European Defense Tech Market Map - September 2025](https://x.com/GoHubVentures/status/1968213404822409235)
 - [Priscilla Russo — Redpoint Ventures - Design at the Speed of AI - September 2025](https://www.linkedin.com/pulse/design-speed-ai-priscilla-russo-8kevc/)
 - [Patricia Haueiss - Australia’s AI Ecosystem - September 2025](https://ai-in-australia.com/)
+- [Jonathan Userovici & Astrid Moullé-Berteaux & Cyprien Benoist — Headline - Introducing the AI Europe 100 - September 2025](https://headline.com/blog-latest/article-latest/ai-europe-100)
 
 
 ***
