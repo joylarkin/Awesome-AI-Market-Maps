@@ -59,9 +59,13 @@ OR
 #### AI DevTools
 - [Guido Appenzeller & Yoko Li — a16z - The Trillion Dollar AI Software Development Stack - October 2025](https://a16z.com/the-trillion-dollar-ai-software-development-stack/)
 - [Jennifer Bemert — XAnge - Inside LLMOps: The Emerging Market Map for AI Agents - October 2025](https://www.xange.vc/knowledge-hub/llm-ops_market-map-2025)
+- [Eric Fett — NGP Capital - Evals Are the New Moat—And RL Turns Them into Your Product Advantage - October 2025](https://www.ngpcap.com/insights/evals-are-the-new-moat--and-rl-turns-them-into-your-product-advantage)
 
 #### Enterprise AI
 - [Emmanuel Benhamou — BGV - Mapping the Human–AI Frontier: Where Intelligence Meets Enterprise - October 2025](https://medium.com/@emmanuel.benhamou/mapping-the-human-ai-frontier-where-intelligence-meets-enterprise-2482563b5ed6)
+
+#### Healthcare AI 
+- [Greg Yap & Derek Xiao & Johnny Hu Ph.D. & JP Sanday & Croom Beatty — Menlo Ventures - 2025: The State of AI in Healthcare - October 2025](https://menlovc.com/perspective/2025-the-state-of-ai-in-healthcare/)
 
 #### Open Source AI
 - [Synaptic - Model Behavior: Open Source AI  - October 2025](https://research.synaptic.com/resources/market-overviews/model-behavior-open-source-ai)
