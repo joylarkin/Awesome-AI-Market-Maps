@@ -67,6 +67,9 @@ OR
 #### Healthcare AI 
 - [Greg Yap & Derek Xiao & Johnny Hu Ph.D. & JP Sanday & Croom Beatty — Menlo Ventures - 2025: The State of AI in Healthcare - October 2025](https://menlovc.com/perspective/2025-the-state-of-ai-in-healthcare/)
 
+#### Industrial AI
+- [ArcInsight Partners - Industrial AI Market Map - October 2025](https://www.linkedin.com/posts/arcinsight-partners_industrial-ai-activity-7386621722277351424-iG-z)
+
 #### Open Source AI
 - [Synaptic - Model Behavior: Open Source AI  - October 2025](https://research.synaptic.com/resources/market-overviews/model-behavior-open-source-ai)
 
