@@ -74,6 +74,9 @@ OR
 #### Industrial AI
 - [ArcInsight Partners - Industrial AI Market Map - October 2025](https://www.linkedin.com/posts/arcinsight-partners_industrial-ai-activity-7386621722277351424-iG-z)
 
+#### AI Infra 
+- [CB Insights - AI inference and processing - October 2025](https://www.linkedin.com/posts/jason-salt_the-limit-of-ai-is-compute-especially-when-activity-7387207161136852992-UKxS)
+
 #### Open Source AI
 - [Synaptic - Model Behavior: Open Source AI  - October 2025](https://research.synaptic.com/resources/market-overviews/model-behavior-open-source-ai)
 
