@@ -53,6 +53,9 @@ OR
 #### AI Applications
 - [Olivia Moore & Marc Andrusko & Seema Amble — a16z - The AI Application Spending Report: Where Startup Dollars Really Go - October 2025](https://a16z.com/the-ai-application-spending-report-where-startup-dollars-really-go/)
 
+#### Conversational AI
+- [Assaf Harel & Jonathan Schwartz — Norwest - Bringing Enterprise-Grade AI Agents to Healthcare: Why We’re Backing Hyro - October 2025](https://www.norwest.com/blog/why-were-backing-hyro/)
+
 #### AI Datacenter
 - [Laura Katzman — Buoyant VC - Efficient Compute: Why Optimization Is Now Inevitable - October 2025](https://www.buoyant.vc/blog/efficient-compute-why-optimization-is-now-inevitable)
 
