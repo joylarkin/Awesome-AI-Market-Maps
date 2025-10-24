@@ -98,6 +98,7 @@ OR
 - [Equal Ventures - AI x wholesale - October 2025](https://www.linkedin.com/posts/zhangchelsea_wholesale-commerce-ai-activity-7381702658958479360-7l02)
 - [Ivan Montoya - 2025 Mexico Early Stage 100 - October 2025](https://www.linkedin.com/posts/ivanmontoya1_2025-mexico-early-stage-100-activity-7382048452454748160-QS_i)
 - [Redpoint Ventures - AI 64 - October 2025](https://www.redpoint.com/ai64/)
+- [The Private Markets Forum - AI in Private Markets - October 2025](https://www.private-markets.com/lead-magnet-page/ai-in-private-markets-directory)
 
 ---
 ## AI Market Maps - Q3 2025  
