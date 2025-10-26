@@ -81,6 +81,7 @@ OR
 - [Synaptic - Model Behavior: Open Source AI  - October 2025](https://research.synaptic.com/resources/market-overviews/model-behavior-open-source-ai)
 
 #### Robotics 
+- [Merphi - Humanoid robots 2025 - October 2025](https://www.merphi.se/download-robotic-poster/)
 - [Lonne Jaffe & Adithya Sanjay & Sourish Jasti — Insight Partners - The state of the robotics ecosystem: The tech, use cases, and field deployment - October 2025](https://www.insightpartners.com/ideas/the-state-of-the-robotics-ecosystem/)
 - [Arthur Brasseur & Isabel Young & Augustin Collot — Atlantic Vantage Point - The Global Robotics Race and How They Actually Work - October 2025](https://avpcap.com/the-global-robotics-race-and-how-robots-actually-work/)
 
