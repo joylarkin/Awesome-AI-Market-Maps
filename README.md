@@ -95,6 +95,7 @@ OR
 - [Justine Moore — a16z - There is no God Tier video model - October 2025](https://a16z.substack.com/p/there-is-no-god-tier-video-model)
 
 #### AI Everything Else
+- [Matt Turck & Aman Kabeer — Firstmark - The 2025 MAD (ML, AI & Data) Landscape - October 2025](https://mad.firstmark.com/)
 - [Greg Paterson & Nic Brisbourne — Molten Ventures - Molten's UK Generative AI Market Map 2025 - October 2025](https://www.moltenventures.com/insights/moltens-uk-generative-ai-market-map-2025)
 - [Equal Ventures - AI x wholesale - October 2025](https://www.linkedin.com/posts/zhangchelsea_wholesale-commerce-ai-activity-7381702658958479360-7l02)
 - [Ivan Montoya - 2025 Mexico Early Stage 100 - October 2025](https://www.linkedin.com/posts/ivanmontoya1_2025-mexico-early-stage-100-activity-7382048452454748160-QS_i)
