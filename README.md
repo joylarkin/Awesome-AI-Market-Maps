@@ -50,6 +50,7 @@ OR
 #### AI Agents
 - [ecommert - Agentic commerce map for CPG & FMCG brands - October 2025](https://www.linkedin.com/posts/mert-damlapinar_cpg-fmcg-ecommerce-activity-7382125082342481920-DY6k)
 - [Vig Sachidananda & Denise Teng — Gradient - Our Investment in Anchor - October 2025](https://www.gradient.com/blog/posts/anchor-browser/)
+- [George Mathew, Hunter Korn, Ash Tutika, William Blackwell — Insight Partners - Securing the autonomous future: Trust, safety, and reliability of agentic AI - October 2025](https://www.insightpartners.com/ideas/securing-agentic-ai/)
 
 #### AI Applications
 - [Olivia Moore & Marc Andrusko & Seema Amble — a16z - The AI Application Spending Report: Where Startup Dollars Really Go - October 2025](https://a16z.com/the-ai-application-spending-report-where-startup-dollars-really-go/)
@@ -80,6 +81,9 @@ OR
 
 #### Open Source AI
 - [Synaptic - Model Behavior: Open Source AI  - October 2025](https://research.synaptic.com/resources/market-overviews/model-behavior-open-source-ai)
+
+#### Retail AI 
+- [Ken Fenyo - AI & Computer Vision Market Map - October 2025](https://www.linkedin.com/posts/kenfenyo_i-recently-published-a-market-map-on-the-activity-7389309948465385473-VXI4)
 
 #### Robotics 
 - [Merphi - Humanoid robots 2025 - October 2025](https://www.merphi.se/download-robotic-poster/)
