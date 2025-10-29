@@ -64,6 +64,7 @@ OR
 - [Guido Appenzeller & Yoko Li — a16z - The Trillion Dollar AI Software Development Stack - October 2025](https://a16z.com/the-trillion-dollar-ai-software-development-stack/)
 - [Jennifer Bemert — XAnge - Inside LLMOps: The Emerging Market Map for AI Agents - October 2025](https://www.xange.vc/knowledge-hub/llm-ops_market-map-2025)
 - [Eric Fett — NGP Capital - Evals Are the New Moat—And RL Turns Them into Your Product Advantage - October 2025](https://www.ngpcap.com/insights/evals-are-the-new-moat--and-rl-turns-them-into-your-product-advantage)
+- [CB Insights - The AI software development market map - October 2025](https://www.cbinsights.com/research/ai-software-development-market-map/)
 
 #### Enterprise AI
 - [Emmanuel Benhamou — BGV - Mapping the Human–AI Frontier: Where Intelligence Meets Enterprise - October 2025](https://medium.com/@emmanuel.benhamou/mapping-the-human-ai-frontier-where-intelligence-meets-enterprise-2482563b5ed6)
@@ -104,6 +105,7 @@ OR
 - [Equal Ventures - AI x wholesale - October 2025](https://www.linkedin.com/posts/zhangchelsea_wholesale-commerce-ai-activity-7381702658958479360-7l02)
 - [Ivan Montoya - 2025 Mexico Early Stage 100 - October 2025](https://www.linkedin.com/posts/ivanmontoya1_2025-mexico-early-stage-100-activity-7382048452454748160-QS_i)
 - [The Private Markets Forum - AI in Private Markets - October 2025](https://www.private-markets.com/lead-magnet-page/ai-in-private-markets-directory)
+- [Cherie Hu — Water & Music - Music Tech Highlights: 2025 Investments - October 2025](https://www.linkedin.com/posts/cheriehu_musicindustry-musictech-venturecapital-activity-7389004799976878098-LIBQ)
 
 
 ---
