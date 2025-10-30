@@ -70,6 +70,10 @@ OR
 #### Enterprise AI
 - [Emmanuel Benhamou — BGV - Mapping the Human–AI Frontier: Where Intelligence Meets Enterprise - October 2025](https://medium.com/@emmanuel.benhamou/mapping-the-human-ai-frontier-where-intelligence-meets-enterprise-2482563b5ed6)
 
+#### Fintech AI 
+- [The Private Markets Forum - AI in Private Markets - October 2025](https://www.private-markets.com/lead-magnet-page/ai-in-private-markets-directory)
+- [The Wealth Mosaic - The AI WealthTech Market Map, October 2025 - October 2025](https://www.thewealthmosaic.com/vendors/the-wealth-mosaic/news/the-ai-wealthtech-market-map-october-2025/)
+
 #### Healthcare AI 
 - [Greg Yap & Derek Xiao & Johnny Hu Ph.D. & JP Sanday & Croom Beatty — Menlo Ventures - 2025: The State of AI in Healthcare - October 2025](https://menlovc.com/perspective/2025-the-state-of-ai-in-healthcare/)
 
@@ -108,7 +112,6 @@ OR
 - [Greg Paterson & Nic Brisbourne — Molten Ventures - Molten's UK Generative AI Market Map 2025 - October 2025](https://www.moltenventures.com/insights/moltens-uk-generative-ai-market-map-2025)
 - [Equal Ventures - AI x wholesale - October 2025](https://www.linkedin.com/posts/zhangchelsea_wholesale-commerce-ai-activity-7381702658958479360-7l02)
 - [Ivan Montoya - 2025 Mexico Early Stage 100 - October 2025](https://www.linkedin.com/posts/ivanmontoya1_2025-mexico-early-stage-100-activity-7382048452454748160-QS_i)
-- [The Private Markets Forum - AI in Private Markets - October 2025](https://www.private-markets.com/lead-magnet-page/ai-in-private-markets-directory)
 - [Cherie Hu — Water & Music - Music Tech Highlights: 2025 Investments - October 2025](https://www.linkedin.com/posts/cheriehu_musicindustry-musictech-venturecapital-activity-7389004799976878098-LIBQ)
 
 
