@@ -45,6 +45,13 @@ OR
 
 ## AI Market Maps - Q4 2025  
 
+### November 2025
+
+#### DefenseTech
+- [Emerging Defense - Defense Tech Market Map - November 2025](https://emergingdefense.xyz/market-map-v2)
+
+
+***
 ### October 2025
 
 #### AI Agents
@@ -71,6 +78,7 @@ OR
 - [Emmanuel Benhamou — BGV - Mapping the Human–AI Frontier: Where Intelligence Meets Enterprise - October 2025](https://medium.com/@emmanuel.benhamou/mapping-the-human-ai-frontier-where-intelligence-meets-enterprise-2482563b5ed6)
 
 #### Fintech AI 
+- [Laura Bock & Shruti Batra — QED Investors - Finance's back office is entering its biggest upgrade cycle in decades - October 2025](https://www.qedinvestors.com/blog/finances-back-office-is-entering-its-biggest-upgrade-cycle-in-decades)
 - [The Private Markets Forum - AI in Private Markets - October 2025](https://www.private-markets.com/lead-magnet-page/ai-in-private-markets-directory)
 - [The Wealth Mosaic - The AI WealthTech Market Map, October 2025 - October 2025](https://www.thewealthmosaic.com/vendors/the-wealth-mosaic/news/the-ai-wealthtech-market-map-october-2025/)
 
