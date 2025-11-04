@@ -47,6 +47,9 @@ OR
 
 ### November 2025
 
+#### AI Agents
+- [Reliable Agents - State of Agentic Browser/Computer Use 🤖 Q4 2025 - November 2025](https://reliableagents.ai/2025-Q4)
+
 #### DefenseTech
 - [Emerging Defense - Defense Tech Market Map - November 2025](https://emergingdefense.xyz/market-map-v2)
 
