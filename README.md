@@ -53,6 +53,9 @@ OR
 #### DefenseTech
 - [Emerging Defense - Defense Tech Market Map - November 2025](https://emergingdefense.xyz/market-map-v2)
 
+#### Top AI
+- [Jenny Xiao & Jay Zhao & and Liang Wu — Leonis Capital - The Leonis AI 100 - November 2025](https://www.leoniscap.com/research/the-leonis-ai-100)
+
 
 ***
 ### October 2025
