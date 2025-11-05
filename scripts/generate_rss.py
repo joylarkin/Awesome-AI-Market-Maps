@@ -69,24 +69,39 @@ def write_xml_element(element, indent=0):
     
     return ''.join(result)
 
-def get_git_commit_date(file_path, line_number):
-    """Get the commit date for a specific line in a file using git blame."""
+def get_git_commit_date(file_path, title):
+    """Get the commit date when a title was first added using git log."""
     try:
-        # Get the commit date for the line using git blame
-        cmd = ['git', 'blame', '-L', f'{line_number},{line_number}', '--date=iso', str(file_path)]
+        # Search git history for when this title first appeared
+        # Use git log with -S to find commits that added this title
+        # Format: --format=%ai gives author date in ISO format
+        cmd = ['git', 'log', '--format=%ai', '--diff-filter=A', '-S', title, '--', str(file_path)]
         result = subprocess.run(cmd, capture_output=True, text=True, check=True)
-        
-        # Extract the date from the blame output
-        # Format: <commit_hash> (<author> <date> <line_number>) <content>
-        match = re.search(r'\([^)]*(\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2})', result.stdout)
-        if match:
-            date_str = match.group(1)
-            return dt.datetime.strptime(date_str, '%Y-%m-%d %H:%M:%S').replace(tzinfo=dt.timezone.utc)
-                
+
+        if result.stdout.strip():
+            # Get the last line (earliest commit) since git log shows newest first
+            lines = [line for line in result.stdout.strip().split('\n') if line.strip()]
+            if lines:
+                date_str = lines[-1].strip()  # Earliest commit
+                # Parse ISO format date: 2025-11-05 12:08:30 -0800
+                return dt.datetime.strptime(date_str[:19], '%Y-%m-%d %H:%M:%S').replace(tzinfo=dt.timezone.utc)
+
+        # Fallback: use git log -G with regex to find when title first appeared
+        # This searches for the actual text in the diff
+        escaped_title = re.escape(title)
+        cmd = ['git', 'log', '--format=%ai', '--all', '-G', escaped_title, '--', str(file_path)]
+        result = subprocess.run(cmd, capture_output=True, text=True, check=True)
+
+        if result.stdout.strip():
+            lines = [line for line in result.stdout.strip().split('\n') if line.strip()]
+            if lines:
+                date_str = lines[-1].strip()  # Earliest commit
+                return dt.datetime.strptime(date_str[:19], '%Y-%m-%d %H:%M:%S').replace(tzinfo=dt.timezone.utc)
+
     except subprocess.CalledProcessError as e:
-        print(f"[DEBUG] Git blame failed for line {line_number}: {e}")
+        print(f"[DEBUG] Git log failed for title '{title}': {e}")
     except Exception as e:
-        print(f"[DEBUG] Unexpected error for line {line_number}: {e}")
+        print(f"[DEBUG] Unexpected error for title '{title}': {e}")
     return None
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -125,8 +140,8 @@ for line in block.splitlines():
         title, url = item_match.groups()
         # Clean HTML entities at the source, before adding to categorized_items
         cleaned_title = clean_html_entities(title)
-        # Get the commit date for this line
-        commit_date = get_git_commit_date(ROOT / "README.md", current_line)
+        # Get the commit date when this title was first added (pass the original title for git search)
+        commit_date = get_git_commit_date(ROOT / "README.md", title)
         categorized_items.append((cleaned_title, url, category, commit_date))
 
 print(f"[DEBUG] Number of categorized items found: {len(categorized_items)}")
