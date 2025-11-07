@@ -54,6 +54,7 @@ OR
 - [Emerging Defense - Defense Tech Market Map - November 2025](https://emergingdefense.xyz/market-map-v2?utm_source=awesome-ai-market-maps)
 
 #### AI Hardware
+- [Quartr - The Semiconductor Value Chain - November 2025](https://x.com/Quartr_App/status/1986162811098017952)
 - [SemiAnalysis - ClusterMAX™ 2.0: The Industry Standard GPU Cloud Rating System - November 2025](https://newsletter.semianalysis.com/p/clustermax-20-the-industry-standard?utm_source=awesome-ai-market-maps)
 
 #### Top AI
