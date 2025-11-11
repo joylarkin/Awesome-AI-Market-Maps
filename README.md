@@ -48,10 +48,15 @@ OR
 ### November 2025
 
 #### AI Agents
-- [Reliable Agents - State of Agentic Browser/Computer Use 🤖 Q4 2025 - November 2025](https://reliableagents.ai/2025-Q4?utm_source=awesome-ai-market-maps)
+- [CB Insights - The AI agent market map - November 2025](https://www.cbinsights.com/research/ai-agent-market-map-2025/?utm_source=awesome-ai-market-maps)
+- [Reliable Agents - State of Agentic Browser/Computer Use 🤖 Q4 2025 - November 2025](https://reliableagents.ai/2025-Q4?utm_source=awesome-ai-market-maps?utm_source=awesome-ai-market-maps)
 
 #### DefenseTech
-- [Emerging Defense - Defense Tech Market Map - November 2025](https://emergingdefense.xyz/market-map-v2?utm_source=awesome-ai-market-maps)
+- [Emerging Defense - Defense Tech Market Map - November 2025](https://emergingdefense.xyz/market-map-v2?utm_source=awesome-ai-market-maps?utm_source=awesome-ai-market-maps)
+
+#### Fintech AI
+- [mostly metrics - AI's impact on finance report - November 2025](https://mostlymetrics.typeform.com/to/gvDh9ocY?typeform-source=github.com/joylarkin/Awesome-AI-Market-Maps)
+- [Josipa Majic Predin - AI-Powered Financial Planning And The Rise Of Personalized Financial Independence Tools - November 2025](https://www.forbes.com/sites/josipamajic/2025/11/06/ai-powered-financial-planning-and-the-rise-of-personalized-financial-independence-tools/?utm_source=awesome-ai-market-maps)
 
 #### AI Hardware
 - [Quartr - The Semiconductor Value Chain - November 2025](https://x.com/Quartr_App/status/1986162811098017952)
@@ -59,6 +64,10 @@ OR
 
 #### Top AI
 - [Jenny Xiao & Jay Zhao & and Liang Wu — Leonis Capital - The Leonis AI 100 - November 2025](https://www.leoniscap.com/research/the-leonis-ai-100?utm_source=awesome-ai-market-maps)
+
+#### AI Everything Else
+- [SET Ventures - Market Map - AI-powered Industrial Process Efficiency Startups - November 2025](https://www.linkedin.com/posts/setventures_setventures-energytech-industrialai-activity-7393920604262785025-0w-8?utm_source=awesome-ai-market-maps)
+- [Legal Tech Verband Deutschland - German AI Legal Tech Market Map - November 2025](https://www.linkedin.com/posts/legal-tech-verband-deutschland_legaltech-innovation-digitalisierung-activity-7393960357532438529-jffm?utm_source=awesome-ai-market-maps)
 
 
 ***
