@@ -50,6 +50,7 @@ OR
 #### AI Agents
 - [CB Insights - The AI agent market map - November 2025](https://www.cbinsights.com/research/ai-agent-market-map-2025/?utm_source=awesome-ai-market-maps)
 - [Reliable Agents - State of Agentic Browser/Computer Use 🤖 Q4 2025 - November 2025](https://reliableagents.ai/2025-Q4?utm_source=awesome-ai-market-maps?utm_source=awesome-ai-market-maps)
+- [Strategy of Security - AI Agent Identity Market Landscape - November 2025](https://www.linkedin.com/posts/colegrolmus_two-of-the-hardest-problems-with-securing-activity-7394754918689169408-5I5Y?utm_source=awesome-ai-market-maps)
 
 #### DefenseTech
 - [Emerging Defense - Defense Tech Market Map - November 2025](https://emergingdefense.xyz/market-map-v2?utm_source=awesome-ai-market-maps?utm_source=awesome-ai-market-maps)
@@ -61,6 +62,9 @@ OR
 #### AI Hardware
 - [Quartr - The Semiconductor Value Chain - November 2025](https://x.com/Quartr_App/status/1986162811098017952)
 - [SemiAnalysis - ClusterMAX™ 2.0: The Industry Standard GPU Cloud Rating System - November 2025](https://newsletter.semianalysis.com/p/clustermax-20-the-industry-standard?utm_source=awesome-ai-market-maps)
+
+#### AI Search
+- [Jason Cui & Steph Zhang & Jennifer Li & Sarah Wang — a16z - Search Wars: Episode 2 - November 2025](https://a16z.substack.com/p/search-wars-episode-2v?utm_source=awesome-ai-market-maps)
 
 #### Top AI
 - [Accel - The Accel Globalscape 2025: The Race for Compute featuring multiple AI Market Maps - November 2025](https://www.slideshare.net/slideshow/the-accel-2025-globalscape-race-for-compute/284115583?utm_source=awesome-ai-market-maps)
