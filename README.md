@@ -67,6 +67,7 @@ OR
 - [Jenny Xiao & Jay Zhao & and Liang Wu — Leonis Capital - The Leonis AI 100 - November 2025](https://www.leoniscap.com/research/the-leonis-ai-100?utm_source=awesome-ai-market-maps)
 
 #### AI Everything Else
+- [Artificial Analytis - Q3 2025 State of AI - November 2025](https://artificialanalysis.ai/orgs?utm_source=awesome-ai-market-maps)
 - [SET Ventures - Market Map - AI-powered Industrial Process Efficiency Startups - November 2025](https://www.linkedin.com/posts/setventures_setventures-energytech-industrialai-activity-7393920604262785025-0w-8?utm_source=awesome-ai-market-maps)
 - [Legal Tech Verband Deutschland - German AI Legal Tech Market Map - November 2025](https://www.linkedin.com/posts/legal-tech-verband-deutschland_legaltech-innovation-digitalisierung-activity-7393960357532438529-jffm?utm_source=awesome-ai-market-maps)
 
