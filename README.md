@@ -63,6 +63,7 @@ OR
 - [SemiAnalysis - ClusterMAX™ 2.0: The Industry Standard GPU Cloud Rating System - November 2025](https://newsletter.semianalysis.com/p/clustermax-20-the-industry-standard?utm_source=awesome-ai-market-maps)
 
 #### Top AI
+- [Accel - The Accel Globalscape 2025: The Race for Compute featuring multiple AI Market Maps - November 2025](https://www.slideshare.net/slideshow/the-accel-2025-globalscape-race-for-compute/284115583?utm_source=awesome-ai-market-maps)
 - [Jenny Xiao & Jay Zhao & and Liang Wu — Leonis Capital - The Leonis AI 100 - November 2025](https://www.leoniscap.com/research/the-leonis-ai-100?utm_source=awesome-ai-market-maps)
 
 #### AI Everything Else
