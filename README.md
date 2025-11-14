@@ -66,6 +66,9 @@ OR
 #### AI Search
 - [Jason Cui & Steph Zhang & Jennifer Li & Sarah Wang — a16z - Search Wars: Episode 2 - November 2025](https://a16z.substack.com/p/search-wars-episode-2v?utm_source=awesome-ai-market-maps)
 
+#### AI Survey
+- [Theory Ventures - AI in Practice Survey 2025 - November 2025](https://theoryvc.com/ai-in-practice-survey-2025?utm_source=awesome-ai-market-maps)
+
 #### Top AI
 - [Accel - The Accel Globalscape 2025: The Race for Compute featuring multiple AI Market Maps - November 2025](https://www.slideshare.net/slideshow/the-accel-2025-globalscape-race-for-compute/284115583?utm_source=awesome-ai-market-maps)
 - [Jenny Xiao & Jay Zhao & and Liang Wu — Leonis Capital - The Leonis AI 100 - November 2025](https://www.leoniscap.com/research/the-leonis-ai-100?utm_source=awesome-ai-market-maps)
