@@ -49,6 +49,7 @@ OR
 
 #### AI Agents
 - [CB Insights - The AI agent market map - November 2025](https://www.cbinsights.com/research/ai-agent-market-map-2025/?utm_source=awesome-ai-market-maps)
+- [CB Insights - The agentic commerce market map - November 2025](https://www.cbinsights.com/research/report/agentic-commerce-market-map/?utm_source=awesome-ai-market-maps)
 - [Reliable Agents - State of Agentic Browser/Computer Use 🤖 Q4 2025 - November 2025](https://reliableagents.ai/2025-Q4?utm_source=awesome-ai-market-maps?utm_source=awesome-ai-market-maps)
 - [Strategy of Security - AI Agent Identity Market Landscape - November 2025](https://www.linkedin.com/posts/colegrolmus_two-of-the-hardest-problems-with-securing-activity-7394754918689169408-5I5Y?utm_source=awesome-ai-market-maps)
 
@@ -66,8 +67,15 @@ OR
 #### AI Models
 - [Gartner - 2025 Gartner® Innovation Guide for Generative AI Model Providers - November 2025](https://www.linkedin.com/posts/openai_openai-is-recognized-as-an-emerging-leader-activity-7396246002619383808-Vgtl?utm_source=awesome-ai-market-maps)
 
+#### AI Rollups
+- [Shawn Dimantha — Hydra Ventures - The AI Rollups Market Map: how AI Rollups are winning where vertical AI startups stumble - November 2025](https://www.linkedin.com/posts/shawndimantha_ai-rollups-market-map-activity-7396220923034513408-vIW9?utm_source=awesome-ai-market-maps)
+
 #### AI Search
 - [Jason Cui & Steph Zhang & Jennifer Li & Sarah Wang — a16z - Search Wars: Episode 2 - November 2025](https://a16z.substack.com/p/search-wars-episode-2v?utm_source=awesome-ai-market-maps)
+
+#### AI Security
+- [Techoperators Venture Capital - Cybersecurity + AI Startup Landscape - November 2025](https://www.techoperators.com/landscape?utm_source=awesome-ai-market-maps)
+- [Kalaari Capital - AI in Cybersecurity - November 2025](https://www.linkedin.com/posts/kalaari-capital_ai-technology-cybersecurity-activity-7396139320069386240-6csu?utm_source=awesome-ai-market-maps)
 
 #### AI Survey
 - [Theory Ventures - AI in Practice Survey 2025 - November 2025](https://theoryvc.com/ai-in-practice-survey-2025?utm_source=awesome-ai-market-maps)
@@ -75,6 +83,9 @@ OR
 #### Top AI
 - [Accel - The Accel Globalscape 2025: The Race for Compute featuring multiple AI Market Maps - November 2025](https://www.slideshare.net/slideshow/the-accel-2025-globalscape-race-for-compute/284115583?utm_source=awesome-ai-market-maps)
 - [Jenny Xiao & Jay Zhao & and Liang Wu — Leonis Capital - The Leonis AI 100 - November 2025](https://www.leoniscap.com/research/the-leonis-ai-100?utm_source=awesome-ai-market-maps)
+
+#### AI Video
+- [Justine Moore — a16z - Market map on video generation models - November 2025](https://x.com/venturetwins/status/1990169320614453600?utm_source=awesome-ai-market-maps)
 
 #### AI Everything Else
 - [Artificial Analytis - Q3 2025 State of AI - November 2025](https://artificialanalysis.ai/orgs?utm_source=awesome-ai-market-maps)
