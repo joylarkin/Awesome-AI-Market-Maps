@@ -63,6 +63,9 @@ OR
 - [Quartr - The Semiconductor Value Chain - November 2025](https://x.com/Quartr_App/status/1986162811098017952)
 - [SemiAnalysis - ClusterMAX™ 2.0: The Industry Standard GPU Cloud Rating System - November 2025](https://newsletter.semianalysis.com/p/clustermax-20-the-industry-standard?utm_source=awesome-ai-market-maps)
 
+#### AI Models
+- [Gartner - 2025 Gartner® Innovation Guide for Generative AI Model Providers - November 2025](https://www.linkedin.com/posts/openai_openai-is-recognized-as-an-emerging-leader-activity-7396246002619383808-Vgtl?utm_source=awesome-ai-market-maps)
+
 #### AI Search
 - [Jason Cui & Steph Zhang & Jennifer Li & Sarah Wang — a16z - Search Wars: Episode 2 - November 2025](https://a16z.substack.com/p/search-wars-episode-2v?utm_source=awesome-ai-market-maps)
 
