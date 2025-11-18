@@ -53,8 +53,14 @@ OR
 - [Reliable Agents - State of Agentic Browser/Computer Use 🤖 Q4 2025 - November 2025](https://reliableagents.ai/2025-Q4?utm_source=awesome-ai-market-maps?utm_source=awesome-ai-market-maps)
 - [Strategy of Security - AI Agent Identity Market Landscape - November 2025](https://www.linkedin.com/posts/colegrolmus_two-of-the-hardest-problems-with-securing-activity-7394754918689169408-5I5Y?utm_source=awesome-ai-market-maps)
 
+#### AI Data
+- [It's Pronounced Data - 2025 Data, Research & Information Services Landscape - November 2025](https://drive.google.com/file/d/17GXF42UvzG53x1scEDHQKUudvdWO5IJ8/view?_bhlid=fec226ca06b4d303f24578932134df715b3e9eeb?utm_source=awesome-ai-market-maps)
+
 #### DefenseTech
 - [Emerging Defense - Defense Tech Market Map - November 2025](https://emergingdefense.xyz/market-map-v2?utm_source=awesome-ai-market-maps?utm_source=awesome-ai-market-maps)
+
+#### Energy AI
+- [Dimitri Kremp & Paul Parenty — Axeleo Capital - AI & Energy - November 2025](https://www.axc.vc/blog-posts/energy-ai?utm_source=awesome-ai-market-maps)
 
 #### Fintech AI
 - [mostly metrics - AI's impact on finance report - November 2025](https://mostlymetrics.typeform.com/to/gvDh9ocY?typeform-source=github.com/joylarkin/Awesome-AI-Market-Maps)
