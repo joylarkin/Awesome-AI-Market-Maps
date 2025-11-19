@@ -56,6 +56,9 @@ OR
 #### AI Data
 - [It's Pronounced Data - 2025 Data, Research & Information Services Landscape - November 2025](https://drive.google.com/file/d/17GXF42UvzG53x1scEDHQKUudvdWO5IJ8/view?_bhlid=fec226ca06b4d303f24578932134df715b3e9eeb?utm_source=awesome-ai-market-maps)
 
+#### AI Data Center
+- [NosTerra Venture Capital - The Power Grid - November 2025](https://www.linkedin.com/posts/nostera-venture-capital_nosterra-venture-capital-market-map-the-activity-7396940394997133312-4m_T?utm_source=awesome-ai-market-maps)
+
 #### DefenseTech
 - [Emerging Defense - Defense Tech Market Map - November 2025](https://emergingdefense.xyz/market-map-v2?utm_source=awesome-ai-market-maps?utm_source=awesome-ai-market-maps)
 
