@@ -84,6 +84,7 @@ OR
 - [Jason Cui & Steph Zhang & Jennifer Li & Sarah Wang — a16z - Search Wars: Episode 2 - November 2025](https://a16z.substack.com/p/search-wars-episode-2v?utm_source=awesome-ai-market-maps)
 
 #### AI Security
+- [Venky Ganesan & Rama Sekhar & Sam Borja — Menlo Ventures - Rethinking Security for the Age of Autonomy - November 2025](https://menlovc.com/perspective/agents-for-security-and-the-opportunity-to-disrupt-securitys-giants/?utm_source=awesome-ai-market-maps)
 - [Techoperators Venture Capital - Cybersecurity + AI Startup Landscape - November 2025](https://www.techoperators.com/landscape?utm_source=awesome-ai-market-maps)
 - [Kalaari Capital - AI in Cybersecurity - November 2025](https://www.linkedin.com/posts/kalaari-capital_ai-technology-cybersecurity-activity-7396139320069386240-6csu?utm_source=awesome-ai-market-maps)
 
