@@ -52,6 +52,7 @@ OR
 - [CB Insights - The agentic commerce market map - November 2025](https://www.cbinsights.com/research/report/agentic-commerce-market-map/?utm_source=awesome-ai-market-maps)
 - [Reliable Agents - State of Agentic Browser/Computer Use 🤖 Q4 2025 - November 2025](https://reliableagents.ai/2025-Q4?utm_source=awesome-ai-market-maps?utm_source=awesome-ai-market-maps)
 - [Strategy of Security - AI Agent Identity Market Landscape - November 2025](https://www.linkedin.com/posts/colegrolmus_two-of-the-hardest-problems-with-securing-activity-7394754918689169408-5I5Y?utm_source=awesome-ai-market-maps)
+- [Advika Jalan & Sevi Uras & Nitish Malhotra — MMC - Agentic Enablers: Treating AI’s amnesia and other disorders - November 2025](https://mmc.vc/research/agentic-enablers-treating-ais-amnesia-and-other-disorders/?utm_source=awesome-ai-market-maps)
 
 #### AI Data
 - [It's Pronounced Data - 2025 Data, Research & Information Services Landscape - November 2025](https://drive.google.com/file/d/17GXF42UvzG53x1scEDHQKUudvdWO5IJ8/view?_bhlid=fec226ca06b4d303f24578932134df715b3e9eeb?utm_source=awesome-ai-market-maps)
