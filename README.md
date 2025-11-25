@@ -75,8 +75,14 @@ OR
 - [Quartr - The Semiconductor Value Chain - November 2025](https://x.com/Quartr_App/status/1986162811098017952)
 - [SemiAnalysis - ClusterMAX™ 2.0: The Industry Standard GPU Cloud Rating System - November 2025](https://newsletter.semianalysis.com/p/clustermax-20-the-industry-standard?utm_source=awesome-ai-market-maps)
 
+#### Legaltech AI
+- [The LegalTech Fund - The RegTech Market Map (Fall 2025) - November 2025](https://www.legaltech.com/post/regtech-market-map?utm_source=awesome-ai-market-maps)
+
 #### AI Models
 - [Gartner - 2025 Gartner® Innovation Guide for Generative AI Model Providers - November 2025](https://www.linkedin.com/posts/openai_openai-is-recognized-as-an-emerging-leader-activity-7396246002619383808-Vgtl?utm_source=awesome-ai-market-maps)
+
+#### Robotics
+- [Tuo Liu - Humanoid Robotics Companies - November 2025](https://www.linkedin.com/posts/tuoliu_humanoid-robotics-is-more-than-just-hardware-activity-7399098846636716033-qtym?utm_source=awesome-ai-market-maps)
 
 #### AI Rollups
 - [Shawn Dimantha — Hydra Ventures - The AI Rollups Market Map: how AI Rollups are winning where vertical AI startups stumble - November 2025](https://www.linkedin.com/posts/shawndimantha_ai-rollups-market-map-activity-7396220923034513408-vIW9?utm_source=awesome-ai-market-maps)
@@ -88,7 +94,8 @@ OR
 - [Venky Ganesan & Rama Sekhar & Sam Borja — Menlo Ventures - Rethinking Security for the Age of Autonomy - November 2025](https://menlovc.com/perspective/agents-for-security-and-the-opportunity-to-disrupt-securitys-giants/?utm_source=awesome-ai-market-maps)
 - [Techoperators Venture Capital - Cybersecurity + AI Startup Landscape - November 2025](https://www.techoperators.com/landscape?utm_source=awesome-ai-market-maps)
 - [Kalaari Capital - AI in Cybersecurity - November 2025](https://www.linkedin.com/posts/kalaari-capital_ai-technology-cybersecurity-activity-7396139320069386240-6csu?utm_source=awesome-ai-market-maps)
-
+- [Aleix Pérez and Criteria Venture Tech - Auto-Remediation market map: The Next Frontier in AppSec - November 2025](https://cyberflow.substack.com/p/auto-remediation-market-map-the-next?utm_source=awesome-ai-market-maps)
+  
 #### AI Survey
 - [Theory Ventures - AI in Practice Survey 2025 - November 2025](https://theoryvc.com/ai-in-practice-survey-2025?utm_source=awesome-ai-market-maps)
 
