@@ -107,9 +107,10 @@ OR
 - [Justine Moore — a16z - Market map on video generation models - November 2025](https://x.com/venturetwins/status/1990169320614453600?utm_source=awesome-ai-market-maps)
 
 #### AI Everything Else
-- [Artificial Analytis - Q3 2025 State of AI - November 2025](https://artificialanalysis.ai/orgs?utm_source=awesome-ai-market-maps)
+- [Artificial Analysis - Q3 2025 State of AI - November 2025](https://artificialanalysis.ai/orgs?utm_source=awesome-ai-market-maps)
 - [SET Ventures - Market Map - AI-powered Industrial Process Efficiency Startups - November 2025](https://www.linkedin.com/posts/setventures_setventures-energytech-industrialai-activity-7393920604262785025-0w-8?utm_source=awesome-ai-market-maps)
 - [Legal Tech Verband Deutschland - German AI Legal Tech Market Map - November 2025](https://www.linkedin.com/posts/legal-tech-verband-deutschland_legaltech-innovation-digitalisierung-activity-7393960357532438529-jffm?utm_source=awesome-ai-market-maps)
+- [Remagine Ventures - The Israeli Gaming Landscape - Q4 2025 - November 2025](https://remagineventures.com/contenthub?utm_source=awesome-ai-market-maps)
 
 
 ***
@@ -381,6 +382,9 @@ OR
 - [Jenny Xiao & Liang Wu & Jay Zhao - Leonis Capital - MCPs: Value Creation, Capture, and Destruction—Lessons from the API Era - June 2025](https://leonisnewsletter.substack.com/p/mcps-value-creation-capture-and-destructionlesso?utm_source=awesome-ai-market-maps)
 - [Javier Redondo — Scale Venture Partners - MCP is the new WWW - June 2025](https://www.scalevp.com/insights/mcp-is-the-new-www/?utm_source=awesome-ai-market-maps)
 - [AI Insider - Exploring AI Insider’s Market Map: Model Development & Deployment - June 2025](https://theaiinsider.tech/2025/06/04/exploring-ai-insiders-market-map-model-development-deployment/?utm_source=awesome-ai-market-maps)
+
+#### Government AI
+- [Commonweal Ventures - The Modern Government Tech Stack - June 2025](https://www.linkedin.com/posts/nate-loewentheil_amtech-vc-govtech-activity-7341084459401728000-5j0H?utm_source=awesome-ai-market-maps)
 
 #### Healthcare AI 
 - [Charge - The Healthcare AI Governance Market Map - June 2025](https://www.linkedin.com/posts/charge-health-ai_ai-is-transforming-healthcare-but-it-also-activity-7336019128035475456-ZHcs?utm_source=awesome-ai-market-maps)
