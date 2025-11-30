@@ -68,6 +68,7 @@ OR
 - [Dimitri Kremp & Paul Parenty — Axeleo Capital - AI & Energy - November 2025](https://www.axc.vc/blog-posts/energy-ai?utm_source=awesome-ai-market-maps)
 
 #### Fintech AI
+- [Rajeev Dham & Aditya Reddy & Jasmine Yang — Sapphire Ventures - From Spreadsheet Analysts to AI Agents: Reinventing the Modern Finance Stack - November 2025](https://sapphireventures.com/blog/from-spreadsheet-analysts-to-ai-agents-reinventing-the-modern-finance-stack/?utm_source=awesome-ai-market-maps)
 - [mostly metrics - AI's impact on finance report - November 2025](https://mostlymetrics.typeform.com/to/gvDh9ocY?typeform-source=github.com/joylarkin/Awesome-AI-Market-Maps)
 - [Josipa Majic Predin - AI-Powered Financial Planning And The Rise Of Personalized Financial Independence Tools - November 2025](https://www.forbes.com/sites/josipamajic/2025/11/06/ai-powered-financial-planning-and-the-rise-of-personalized-financial-independence-tools/?utm_source=awesome-ai-market-maps)
 
