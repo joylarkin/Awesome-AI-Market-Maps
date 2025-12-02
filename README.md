@@ -45,6 +45,16 @@ OR
 
 ## AI Market Maps - Q4 2025  
 
+### December 2025
+
+#### Energy AI
+- [BGV - The State of the Energy Management Market - December 2025](https://benhamouglobalventures.com/energy-management-market/?utm_source=awesome-ai-market-maps)
+
+#### AI Everything Else
+- [Mike Overell — New Literacies - A Year of Tracking AI Products for Kids - December 2025](https://newliteracies.ai/market-map/?utm_source=awesome-ai-market-maps)
+
+
+***
 ### November 2025
 
 #### AI Agents
