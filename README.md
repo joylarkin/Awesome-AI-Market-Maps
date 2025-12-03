@@ -50,6 +50,9 @@ OR
 #### Energy AI
 - [BGV - The State of the Energy Management Market - December 2025](https://benhamouglobalventures.com/energy-management-market/?utm_source=awesome-ai-market-maps)
 
+#### Fintech AI
+- [Inovia Capital - The AI-Powered Finance Automation Stack - December 2025](https://finance-automation.inovia.vc/?utm_source=awesome-ai-market-maps)
+
 #### AI Everything Else
 - [Mike Overell — New Literacies - A Year of Tracking AI Products for Kids - December 2025](https://newliteracies.ai/market-map/?utm_source=awesome-ai-market-maps)
 
