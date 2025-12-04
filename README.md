@@ -121,6 +121,7 @@ OR
 - [Justine Moore — a16z - Market map on video generation models - November 2025](https://x.com/venturetwins/status/1990169320614453600?utm_source=awesome-ai-market-maps)
 
 #### AI Everything Else
+- [Laura McGinnis  Balderton Capital - Gen Z Guide: Redefining Demand for the Next Decade - November 2025](https://ejphpcw98jt.exactdn.com/wp-content/uploads/2025/11/Balderton_State-of-GenZ.pdf?utm_source=awesome-ai-market-maps)
 - [Artificial Analysis - Q3 2025 State of AI - November 2025](https://artificialanalysis.ai/orgs?utm_source=awesome-ai-market-maps)
 - [SET Ventures - Market Map - AI-powered Industrial Process Efficiency Startups - November 2025](https://www.linkedin.com/posts/setventures_setventures-energytech-industrialai-activity-7393920604262785025-0w-8?utm_source=awesome-ai-market-maps)
 - [Legal Tech Verband Deutschland - German AI Legal Tech Market Map - November 2025](https://www.linkedin.com/posts/legal-tech-verband-deutschland_legaltech-innovation-digitalisierung-activity-7393960357532438529-jffm?utm_source=awesome-ai-market-maps)
