@@ -54,6 +54,7 @@ OR
 - [Inovia Capital - The AI-Powered Finance Automation Stack - December 2025](https://finance-automation.inovia.vc/?utm_source=awesome-ai-market-maps)
 
 #### AI Everything Else
+- [Malika Aubakirova & Alex Atallah & Chris Clark & Justin Summerville & Anjney Midha — a16z & OpenRouter - State of AI An Empirical 100 Trillion Token Study with OpenRouter - December 2025](https://openrouter.ai/state-of-ai?utm_source=awesome-ai-market-maps)
 - [Mike Overell — New Literacies - A Year of Tracking AI Products for Kids - December 2025](https://newliteracies.ai/market-map/?utm_source=awesome-ai-market-maps)
 
 
