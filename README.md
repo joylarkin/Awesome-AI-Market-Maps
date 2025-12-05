@@ -117,13 +117,14 @@ OR
 #### Top AI
 - [Accel - The Accel Globalscape 2025: The Race for Compute featuring multiple AI Market Maps - November 2025](https://www.slideshare.net/slideshow/the-accel-2025-globalscape-race-for-compute/284115583?utm_source=awesome-ai-market-maps)
 - [Jenny Xiao & Jay Zhao & and Liang Wu — Leonis Capital - The Leonis AI 100 - November 2025](https://www.leoniscap.com/research/the-leonis-ai-100?utm_source=awesome-ai-market-maps)
+- [Artificial Analysis - Q3 2025 State of AI - November 2025](https://artificialanalysis.ai/orgs?utm_source=awesome-ai-market-maps)
 
 #### AI Video
 - [Justine Moore — a16z - Market map on video generation models - November 2025](https://x.com/venturetwins/status/1990169320614453600?utm_source=awesome-ai-market-maps)
 
 #### AI Everything Else
 - [Laura McGinnis  Balderton Capital - Gen Z Guide: Redefining Demand for the Next Decade - November 2025](https://ejphpcw98jt.exactdn.com/wp-content/uploads/2025/11/Balderton_State-of-GenZ.pdf?utm_source=awesome-ai-market-maps)
-- [Artificial Analysis - Q3 2025 State of AI - November 2025](https://artificialanalysis.ai/orgs?utm_source=awesome-ai-market-maps)
+- [Matt Gatto & Jessie Sheff — Insight Partners - Building a moat in the age of AI - November 2025](https://www.insightpartners.com/ideas/building-a-moat-in-the-age-of-ai/?utm_source=awesome-ai-market-maps)
 - [SET Ventures - Market Map - AI-powered Industrial Process Efficiency Startups - November 2025](https://www.linkedin.com/posts/setventures_setventures-energytech-industrialai-activity-7393920604262785025-0w-8?utm_source=awesome-ai-market-maps)
 - [Legal Tech Verband Deutschland - German AI Legal Tech Market Map - November 2025](https://www.linkedin.com/posts/legal-tech-verband-deutschland_legaltech-innovation-digitalisierung-activity-7393960357532438529-jffm?utm_source=awesome-ai-market-maps)
 - [Remagine Ventures - The Israeli Gaming Landscape - Q4 2025 - November 2025](https://remagineventures.com/contenthub?utm_source=awesome-ai-market-maps)
