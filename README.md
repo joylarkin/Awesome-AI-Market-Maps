@@ -47,6 +47,9 @@ OR
 
 ### December 2025
 
+#### Enterprise AI 
+- [Tim Tully & Joff Redfern & Deedy Das & Derek Xiao — Menlo Ventures - 2025: The State of Generative AI in the Enterprise featuring Departmental AI, Vertical AI, Modern AI Stack Market Maps - December 2025](https://menlovc.com/perspective/2025-the-state-of-generative-ai-in-the-enterprise/?utm_source=awesome-ai-market-maps)
+
 #### AI Data Center 
 - [CB Insights - The data center value chain market map - December 2025](https://www.cbinsights.com/research/report/data-center-value-chain-market-map/?utm_source=awesome-ai-market-maps)
 
