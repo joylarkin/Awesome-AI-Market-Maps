@@ -58,6 +58,7 @@ OR
 
 #### Fintech AI
 - [Inovia Capital - The AI-Powered Finance Automation Stack - December 2025](https://finance-automation.inovia.vc/?utm_source=awesome-ai-market-maps)
+- [Elan Arnowitz & Alessandro Luciano — Insight Partners AI in financial services is here: How firms are adopting and where they’re stuck - December 2025](https://www.insightpartners.com/ideas/ai-in-financial-services/?utm_source=awesome-ai-market-maps)
 
 #### Robotics
 - [Tuo Liu - Humanoid Robotics Companies in Europe - December 2025](https://x.com/Robo_Tuo/status/1996972828575649833?utm_source=awesome-ai-market-maps)
