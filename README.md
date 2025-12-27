@@ -67,6 +67,7 @@ OR
 - [Adam Coccari — Hubspot Ventures - Vertical Voice Agents - December 2025](https://www.linkedin.com/pulse/vertical-voice-agents-adam-coccari-tsamc/?utm_source=awesome-ai-market-maps)
 
 #### AI Everything Else
+- [CB Insights - Our top AI market maps of 2025 - December 2025](https://www.cbinsights.com/research/top-ai-market-maps-2025/?utm_source=awesome-ai-market-maps)
 - [Malika Aubakirova & Alex Atallah & Chris Clark & Justin Summerville & Anjney Midha — a16z & OpenRouter - State of AI An Empirical 100 Trillion Token Study with OpenRouter - December 2025](https://openrouter.ai/state-of-ai?utm_source=awesome-ai-market-maps)
 - [Mike Overell — New Literacies - A Year of Tracking AI Products for Kids - December 2025](https://newliteracies.ai/market-map/?utm_source=awesome-ai-market-maps)
 
