@@ -1,13 +1,13 @@
 # Awesome AI Market Maps  [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)  [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/joylarkin/Awesome-AI-Market-Maps)  ![Last Commit](https://img.shields.io/github/last-commit/joylarkin/Awesome-AI-Market-Maps.svg)   
 
-An Awesome List of Artificial Intelligence Startup Market Maps from 2025 and 2024.  
+An Awesome List of Artificial Intelligence Startup Market Maps from 2026, 2025 and 2024.  
 
-***Now featuring over 300 AI Market Maps by top VCs, industry analysts, and AI practitioners.***   
+***Now featuring over 375 AI Market Maps by top VCs, industry analysts, and AI practitioners.***   
 
 As these things go, this awesome list was inspired out of an ongoing personal frustration — I have been searching for a frequently updated and well-resourced list of recent AI market maps, as I believe there is alpha in following the public conversation. Since I couldn't find a comprehensive resource which met my needs, I decided to build something substantial for the greater AI community.  
 
 METHODOLOGY  
-The list is currently organized by quarter, to illustrate hot AI topics as they are discussed and how fast the industry is evolving, with a specific focus on market maps from 2025 and 2024. The current data collection workflow includes [ChatGPT](https://chatgpt.com/), [Google Gemini](https://gemini.google.com/app), [Exa Websets](https://websets.exa.ai/), [Liner](https://getliner.com/), human-in-the-loop curation for "taste," and some other unlisted methods. 
+The list is currently organized by quarter, to illustrate hot AI topics as they are discussed and how fast the industry is evolving, with a specific focus on recent market maps from 2026 and 2025. The current data collection workflow includes [Google Gemini](https://gemini.google.com/app), [ChatGPT](https://chatgpt.com/), [Exa Websets](https://websets.exa.ai/), human-in-the-loop curation for "taste," and some other unlisted methods. 
 
 NOTES  
 The README.md file is regularly updated with new market maps, the CSV file is updated bimonthly.    
@@ -42,7 +42,12 @@ OR
 
 ## ▦ MARKET MAPS ▦  
 
+## AI Market Maps - Q1 2026
 
+### January 2026
+
+
+---
 ## AI Market Maps - Q4 2025  
 
 ### December 2025
