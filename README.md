@@ -47,6 +47,14 @@ OR
 ### January 2026
 
 
+#### AI Search
+- [Massive - LLM Search Stack Q1 2026 - January 2026](https://www.linkedin.com/posts/jasongrad_llm-search-stack-q1-2026-it-would-be-an-activity-7415028815984357376-9Hb6?utm_source=awesome-ai-market-maps)
+
+#### Everything Else 
+- [Alexandre Dewez — 20VC - French AI Ecosystem Market Map (Draft) - January 2026](https://www.linkedin.com/posts/alexandre-dewez_insight-625-%F0%9D%97%99%F0%9D%97%BF%F0%9D%97%B2%F0%9D%97%BB%F0%9D%97%B0%F0%9D%97%B5-%F0%9D%97%94%F0%9D%97%9C-%F0%9D%97%98%F0%9D%97%B0%F0%9D%97%BC%F0%9D%98%80%F0%9D%98%86%F0%9D%98%80%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%BA-activity-7416873876443525120-oQsw?utm_source=awesome-ai-market-maps)
+- [Omar K - India Hospital AI Revenue Stack 2025 - January 2026](https://www.linkedin.com/posts/omarxgrowth_india-is-running-thousands-of-hospital-ai-activity-7410896465549746176-miB6?utm_source=awesome-ai-market-maps)
+
+
 ---
 ## AI Market Maps - Q4 2025  
 
@@ -65,6 +73,9 @@ OR
 - [Inovia Capital - The AI-Powered Finance Automation Stack - December 2025](https://finance-automation.inovia.vc/?utm_source=awesome-ai-market-maps)
 - [Elan Arnowitz & Alessandro Luciano — Insight Partners - AI in financial services is here: How firms are adopting and where they’re stuck - December 2025](https://www.insightpartners.com/ideas/ai-in-financial-services/?utm_source=awesome-ai-market-maps)
 
+#### Legaltech AI
+- [The LegalTech Fund - LTH GenAI Legal Tech Map: December 2025 - December 2025](https://www.legaltechnologyhub.com/contents/lth-genai-legal-tech-map-december-2025/?utm_source=awesome-ai-market-maps)
+
 #### Robotics
 - [Tuo Liu - Humanoid Robotics Companies in Europe - December 2025](https://x.com/Robo_Tuo/status/1996972828575649833?utm_source=awesome-ai-market-maps)
 
@@ -75,6 +86,7 @@ OR
 - [CB Insights - Our top AI market maps of 2025 - December 2025](https://www.cbinsights.com/research/top-ai-market-maps-2025/?utm_source=awesome-ai-market-maps)
 - [Malika Aubakirova & Alex Atallah & Chris Clark & Justin Summerville & Anjney Midha — a16z & OpenRouter - State of AI An Empirical 100 Trillion Token Study with OpenRouter - December 2025](https://openrouter.ai/state-of-ai?utm_source=awesome-ai-market-maps)
 - [Mike Overell — New Literacies - A Year of Tracking AI Products for Kids - December 2025](https://newliteracies.ai/market-map/?utm_source=awesome-ai-market-maps)
+- [Planet A Ventures - Nailing Manufacturing Software GTM The Founder Guide - December 2025](https://planet-a.medium.com/nailing-manufacturing-software-gtm-the-founder-guide-344666fd8e91?utm_source=awesome-ai-market-maps)
 
 
 ***
