@@ -47,6 +47,9 @@ OR
 ### January 2026
 
 
+#### AI Infrastructure
+- [Jono Vickery — Activant Capital - AI Infrastructure: Compute (1/4) Sizing the market for AI Compute - January 2026](https://activantcapital.com/research/ai-infra-compute?utm_source=awesome-ai-market-maps)
+
 #### AI Search
 - [Massive - LLM Search Stack Q1 2026 - January 2026](https://www.linkedin.com/posts/jasongrad_llm-search-stack-q1-2026-it-would-be-an-activity-7415028815984357376-9Hb6?utm_source=awesome-ai-market-maps)
 
