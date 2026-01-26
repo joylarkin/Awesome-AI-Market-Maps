@@ -48,6 +48,7 @@ OR
 
 
 #### AI Agents 
+- [Denise Teng — Gradient - Environments for LM agents: from agentic RL to context optimization - January 2026](https://www.gradient.com/blog/posts/environment-for-lm-agents/?utm_source=awesome-ai-market-maps)
 - [Helena Barman — Antler - Agentic commerce: Unleashing the autonomous economy - January 2026](https://www.antler.co/blog/agentic-commerce-unleashing-the-autonomous-economy?utm_source=awesome-ai-market-maps)
 
 #### AI Data Center
