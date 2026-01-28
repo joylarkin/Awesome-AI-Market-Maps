@@ -58,6 +58,9 @@ OR
 - [Janelle Teng Wade & Christopher Wan & Jason Scheller & David Cowan — Bessemer Venture Partners - Defense tech roadmap: Five frontiers for 2026 - January 2026](https://www.bvp.com/atlas/defense-tech-roadmap-five-frontiers-for-2026?utm_source=awesome-ai-market-maps)
 - [Josh Ogden — AVSS and NORRG - Canadian Defence Tech Market Map - January 2026](https://www.linkedin.com/posts/josh-ogden-4a5a5532_canadian-defence-tech-market-map-by-avss-activity-7421323414558208000-Lzwx/?utm_source=awesome-ai-market-maps)
 
+#### AI DevTools
+- [ICONIQ CAPITAL - State of AI: Bi-Annual Snapshot The Execution Era of AI - January 2026](https://www.iconiqcapital.com/growth/reports/2026-state-of-ai-bi-annual-snapshot?utm_source=awesome-ai-market-maps)
+
 #### Healthcare AI
 - [Omar K. - San Francisco AI Stack Beyond Clinical Hype - January 2026](https://www.linkedin.com/posts/omarxgrowth_healthtech-digitalhealth-healthcareai-activity-7417936523540520960-u6eq?utm_source=awesome-ai-market-maps)
 
