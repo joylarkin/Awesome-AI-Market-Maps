@@ -54,11 +54,16 @@ OR
 #### AI Data Center
 - [NosTerra Venture Capital - Efficient Compute - January 2026](https://www.linkedin.com/posts/nostera-venture-capital_nosterra-venture-capital-market-map-efficient-activity-7419778310211158016-g9sb?utm_source=awesome-ai-market-maps)
 
+#### DefenseTech
+- [Janelle Teng Wade & Christopher Wan & Jason Scheller & David Cowan — Bessemer Venture Partners - Defense tech roadmap: Five frontiers for 2026 - January 2026](https://www.bvp.com/atlas/defense-tech-roadmap-five-frontiers-for-2026?utm_source=awesome-ai-market-maps)
+- [Josh Ogden — AVSS and NORRG - Canadian Defence Tech Market Map - January 2026](https://www.linkedin.com/posts/josh-ogden-4a5a5532_canadian-defence-tech-market-map-by-avss-activity-7421323414558208000-Lzwx/?utm_source=awesome-ai-market-maps)
+
 #### Healthcare AI
 - [Omar K. - San Francisco AI Stack Beyond Clinical Hype - January 2026](https://www.linkedin.com/posts/omarxgrowth_healthtech-digitalhealth-healthcareai-activity-7417936523540520960-u6eq?utm_source=awesome-ai-market-maps)
 
 #### AI Infrastructure
 - [Jono Vickery — Activant Capital - AI Infrastructure: Compute (1/4) Sizing the market for AI Compute - January 2026](https://activantcapital.com/research/ai-infra-compute?utm_source=awesome-ai-market-maps)
+- [Michel Kurek - AI Inference Hardware Market Map 2026 - January 2026](https://www.linkedin.com/posts/michelkurek_aihardware-machinelearning-inference-activity-7422242759073337345-SpVa?utm_source=awesome-ai-market-maps)
 
 #### Physical AI
 - [CB Insights - The physical AI models market map: Behind the arms race to control robot intelligence - January 2026](https://www.cbinsights.com/research/the-physical-ai-models-market-map/?utm_source=awesome-ai-market-maps)
@@ -66,8 +71,11 @@ OR
 #### AI Search
 - [Massive - LLM Search Stack Q1 2026 - January 2026](https://www.linkedin.com/posts/jasongrad_llm-search-stack-q1-2026-it-would-be-an-activity-7415028815984357376-9Hb6?utm_source=awesome-ai-market-maps)
 
+#### AI Security
+- [Aqsa Taylor & Francis Odum — Software Analyst Cyber Research - AISOC for MDR: The Structural Evolution of Managed Detection and Response - January 2026](https://softwareanalyst.substack.com/p/aisoc-for-mdr-the-structural-evolution?utm_source=awesome-ai-market-maps)
+
 #### Everything Else 
-- [Alexandre Dewez — 20VC - French AI Ecosystem Market Map (Draft) - January 2026](https://www.linkedin.com/posts/alexandre-dewez_insight-625-%F0%9D%97%99%F0%9D%97%BF%F0%9D%97%B2%F0%9D%97%BB%F0%9D%97%B0%F0%9D%97%B5-%F0%9D%97%94%F0%9D%97%9C-%F0%9D%97%98%F0%9D%97%B0%F0%9D%97%BC%F0%9D%98%80%F0%9D%98%86%F0%9D%98%80%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%BA-activity-7416873876443525120-oQsw?utm_source=awesome-ai-market-maps)
+- [Alexandre Dewez — 20VC - French AI Ecosystem Market Map (Draft) - January 2026](https://www.linkedin.com/posts/alexandre-dewez_insight-625-%F0%9D%97%99%F0%9D%97%BF%F0%9D%97%B2%F0%9D%97%BB%F0%9D%97%B0%F0%9D%97%B5-%F0%9D%97%94%F0%9D%97%9C-%F0%9D%97%98%F0%9D%97%B0%F0%9D%97%BC%F0%9D%98%80%F0%9D%98%86%F0%9D%98%80%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%BA-activity-7416873876443525120-oQsw/?utm_source=awesome-ai-market-maps)
 - [Omar K - India Hospital AI Revenue Stack 2025 - January 2026](https://www.linkedin.com/posts/omarxgrowth_india-is-running-thousands-of-hospital-ai-activity-7410896465549746176-miB6?utm_source=awesome-ai-market-maps)
 - [eaidb - The Responsible AI Ecosystem FY 2025 Market Map* - January 2026](https://eaidb.org/map?utm_source=awesome-ai-market-maps)
 
