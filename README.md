@@ -44,7 +44,7 @@ OR
 
 ## AI Market Maps - Q1 2026
 
-### February 2025
+### February 2026
 
 #### AI Ecosystem
 - [MapCo - AI Ecosystem Intelligence - February 2026](https://www.mapco.ai/directory.html?instance=aiagents?utm_source=awesome-ai-market-maps)
