@@ -44,8 +44,14 @@ OR
 
 ## AI Market Maps - Q1 2026
 
-### January 2026
+### February 2025
 
+#### AI Ecosystem
+- [MapCo - AI Ecosystem Intelligence - February 2026](https://www.mapco.ai/directory.html?instance=aiagents?utm_source=awesome-ai-market-maps)
+
+
+***
+### January 2026
 
 #### AI Agents 
 - [Denise Teng — Gradient - Environments for LM agents: from agentic RL to context optimization - January 2026](https://www.gradient.com/blog/posts/environment-for-lm-agents/?utm_source=awesome-ai-market-maps)
