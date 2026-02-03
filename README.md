@@ -49,6 +49,13 @@ OR
 #### AI Ecosystem
 - [MapCo - AI Ecosystem Intelligence - February 2026](https://www.mapco.ai/directory.html?instance=aiagents?utm_source=awesome-ai-market-maps)
 
+#### Mining
+- [Atlas Strategic Minerals - The Critical Technology Landscape - February 2026](https://www.linkedin.com/posts/khanyi-n-b4a1b25a_criticalminerals-miningtech-deeptech-activity-7422958628036333568-fZ8P?utm_source=awesome-ai-market-maps)
+- [Jonathan Healy — Cathay Innovation - Redefining the Mining Value Chain - February 2026](https://medium.com/cathay-innovation/redefining-the-mining-value-chain-3d029e5906db?utm_source=awesome-ai-market-maps)
+
+#### AI Simulation
+- [Contrarian Ventures - Market Map Along Stack Depth And Physics Domain  - February 2026](https://www.linkedin.com/posts/climatetechvc_simulation-software-market-map-activity-7424061261677629440-JnnV?utm_source=awesome-ai-market-maps)
+
 
 ***
 ### January 2026
@@ -87,6 +94,7 @@ OR
 - [Alexandre Dewez — 20VC - French AI Ecosystem Market Map (Draft) - January 2026](https://www.linkedin.com/posts/alexandre-dewez_insight-625-%F0%9D%97%99%F0%9D%97%BF%F0%9D%97%B2%F0%9D%97%BB%F0%9D%97%B0%F0%9D%97%B5-%F0%9D%97%94%F0%9D%97%9C-%F0%9D%97%98%F0%9D%97%B0%F0%9D%97%BC%F0%9D%98%80%F0%9D%98%86%F0%9D%98%80%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%BA-activity-7416873876443525120-oQsw/?utm_source=awesome-ai-market-maps)
 - [Omar K - India Hospital AI Revenue Stack 2025 - January 2026](https://www.linkedin.com/posts/omarxgrowth_india-is-running-thousands-of-hospital-ai-activity-7410896465549746176-miB6?utm_source=awesome-ai-market-maps)
 - [eaidb - The Responsible AI Ecosystem FY 2025 Market Map* - January 2026](https://eaidb.org/map?utm_source=awesome-ai-market-maps)
+- [Solve Partners - AI landscape for UK wealth management - January 2026](https://www.linkedin.com/posts/solve-partners_solvepartners-wealthmanagement-ai-activity-7422973123106537472-9Kq7?utm_source=awesome-ai-market-maps) 
 
 
 ---
