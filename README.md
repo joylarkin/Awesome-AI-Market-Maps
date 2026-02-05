@@ -53,6 +53,9 @@ OR
 - [Atlas Strategic Minerals - The Critical Technology Landscape - February 2026](https://www.linkedin.com/posts/khanyi-n-b4a1b25a_criticalminerals-miningtech-deeptech-activity-7422958628036333568-fZ8P?utm_source=awesome-ai-market-maps)
 - [Jonathan Healy — Cathay Innovation - Redefining the Mining Value Chain - February 2026](https://medium.com/cathay-innovation/redefining-the-mining-value-chain-3d029e5906db?utm_source=awesome-ai-market-maps)
 
+#### AI Shopping 
+- [Gennaro Cuofano - The AI Shopping Market Map - February 2026](https://businessengineer.ai/p/the-ai-shopping-market-map-2026?r=5r7d1f&utm_medium=ios&shareImageVariant=overlay&triedRedirect=true?utm_source=awesome-ai-market-maps)
+
 #### AI Simulation
 - [Contrarian Ventures - Market Map Along Stack Depth And Physics Domain  - February 2026](https://www.linkedin.com/posts/climatetechvc_simulation-software-market-map-activity-7424061261677629440-JnnV?utm_source=awesome-ai-market-maps)
 
