@@ -49,6 +49,10 @@ OR
 #### AI Ecosystem
 - [MapCo - AI Ecosystem Intelligence - February 2026](https://www.mapco.ai/directory.html?instance=aiagents?utm_source=awesome-ai-market-maps)
 
+#### AI Infrastructure 
+- [TLV Ventures - Mapping Israel’s AI infrastructure opportunity - February 2026](https://www.calcalistech.com/ctechnews/article/b1qdiprv11l?utm_source=awesome-ai-market-maps)
+
+
 #### Mining
 - [Atlas Strategic Minerals - The Critical Technology Landscape - February 2026](https://www.linkedin.com/posts/khanyi-n-b4a1b25a_criticalminerals-miningtech-deeptech-activity-7422958628036333568-fZ8P?utm_source=awesome-ai-market-maps)
 - [Jonathan Healy — Cathay Innovation - Redefining the Mining Value Chain - February 2026](https://medium.com/cathay-innovation/redefining-the-mining-value-chain-3d029e5906db?utm_source=awesome-ai-market-maps)
@@ -64,8 +68,10 @@ OR
 ### January 2026
 
 #### AI Agents 
+- [Kenn So — Generational - AI Agent App & Infrastructure Market Map - January 2026](https://datawrapper.dwcdn.net/s94df/4/?utm_source=awesome-ai-market-maps)
 - [Denise Teng — Gradient - Environments for LM agents: from agentic RL to context optimization - January 2026](https://www.gradient.com/blog/posts/environment-for-lm-agents/?utm_source=awesome-ai-market-maps)
 - [Helena Barman — Antler - Agentic commerce: Unleashing the autonomous economy - January 2026](https://www.antler.co/blog/agentic-commerce-unleashing-the-autonomous-economy?utm_source=awesome-ai-market-maps)
+- [Cem Dilmegani — AI Multiple - The 7 Layers of Agentic AI Stack in 2026 - January 2026](https://aimultiple.com/agentic-ai-stack?utm_source=awesome-ai-market-maps)
 
 #### AI Data Center
 - [NosTerra Venture Capital - Efficient Compute - January 2026](https://www.linkedin.com/posts/nostera-venture-capital_nosterra-venture-capital-market-map-efficient-activity-7419778310211158016-g9sb?utm_source=awesome-ai-market-maps)
