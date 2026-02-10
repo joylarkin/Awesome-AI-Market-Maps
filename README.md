@@ -46,12 +46,14 @@ OR
 
 ### February 2026
 
+#### AI Drug Discovery 
+- [VC Beat - China AI Drug Discovery Ecosystem - February 2026](https://x.com/biogerontology/status/2019732759686860980?utm_source=awesome-ai-market-maps)
+
 #### AI Ecosystem
 - [MapCo - AI Ecosystem Intelligence - February 2026](https://www.mapco.ai/directory.html?instance=aiagents?utm_source=awesome-ai-market-maps)
 
 #### AI Infrastructure 
 - [TLV Ventures - Mapping Israel’s AI infrastructure opportunity - February 2026](https://www.calcalistech.com/ctechnews/article/b1qdiprv11l?utm_source=awesome-ai-market-maps)
-
 
 #### Mining
 - [Atlas Strategic Minerals - The Critical Technology Landscape - February 2026](https://www.linkedin.com/posts/khanyi-n-b4a1b25a_criticalminerals-miningtech-deeptech-activity-7422958628036333568-fZ8P?utm_source=awesome-ai-market-maps)
