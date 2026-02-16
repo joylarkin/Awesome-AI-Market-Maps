@@ -63,7 +63,11 @@ OR
 - [Gennaro Cuofano - The AI Shopping Market Map - February 2026](https://businessengineer.ai/p/the-ai-shopping-market-map-2026?r=5r7d1f&utm_medium=ios&shareImageVariant=overlay&triedRedirect=true?utm_source=awesome-ai-market-maps)
 
 #### AI Simulation
+- [Lightwheel - 3D Asset & Simulation Market Landscape - February 2026](https://3dmarketmap-mtqssu8l.manus.space/?utm_source=awesome-ai-market-maps)
 - [Contrarian Ventures - Market Map Along Stack Depth And Physics Domain  - February 2026](https://www.linkedin.com/posts/climatetechvc_simulation-software-market-map-activity-7424061261677629440-JnnV?utm_source=awesome-ai-market-maps)
+
+#### AI Everything Else 
+- [Murph Capital - 2026 VC Predictions Market Map - February 2026](https://murphcapital.substack.com/p/2026-vc-predictions-market-map?utm_source=awesome-ai-market-maps)
 
 
 ***
