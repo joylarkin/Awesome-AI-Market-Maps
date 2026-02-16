@@ -60,6 +60,7 @@ OR
 - [Jonathan Healy — Cathay Innovation - Redefining the Mining Value Chain - February 2026](https://medium.com/cathay-innovation/redefining-the-mining-value-chain-3d029e5906db?utm_source=awesome-ai-market-maps)
 
 #### AI Shopping 
+- [AdaptOrDie.io - AI Commerce Analysis & Digital Transformation - February 2026](https://adaptordie.io?utm_source=awesome-ai-market-maps)
 - [Gennaro Cuofano - The AI Shopping Market Map - February 2026](https://businessengineer.ai/p/the-ai-shopping-market-map-2026?r=5r7d1f&utm_medium=ios&shareImageVariant=overlay&triedRedirect=true?utm_source=awesome-ai-market-maps)
 
 #### AI Simulation
