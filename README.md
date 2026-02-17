@@ -52,8 +52,14 @@ OR
 #### AI Ecosystem
 - [MapCo - AI Ecosystem Intelligence - February 2026](https://www.mapco.ai/directory.html?instance=aiagents?utm_source=awesome-ai-market-maps)
 
+#### Enterprise AI
+- [Jan Lynn-Matern — Emerge VC - Enterprise AI adoption: a market map for founders - February 2026](https://medium.com/emerge-edtech-insights/enterprise-ai-adoption-a-market-map-for-founders-aac6dbaa2bc7?utm_source=awesome-ai-market-maps)
+
 #### AI Infrastructure 
 - [TLV Ventures - Mapping Israel’s AI infrastructure opportunity - February 2026](https://www.calcalistech.com/ctechnews/article/b1qdiprv11l?utm_source=awesome-ai-market-maps)
+
+#### Insurance AI
+- [Amanda Paolino — SemperVirens VC - Is Insurance Having it's AI Moment? - February 2026](https://www.linkedin.com/pulse/insurance-having-its-ai-moment-amanda-paolino-3sthc/?utm_source=awesome-ai-market-maps)
 
 #### Mining
 - [Atlas Strategic Minerals - The Critical Technology Landscape - February 2026](https://www.linkedin.com/posts/khanyi-n-b4a1b25a_criticalminerals-miningtech-deeptech-activity-7422958628036333568-fZ8P?utm_source=awesome-ai-market-maps)
@@ -65,6 +71,9 @@ OR
 #### AI Simulation
 - [Lightwheel - 3D Asset & Simulation Market Landscape - February 2026](https://3dmarketmap-mtqssu8l.manus.space/?utm_source=awesome-ai-market-maps)
 - [Contrarian Ventures - Market Map Along Stack Depth And Physics Domain  - February 2026](https://www.linkedin.com/posts/climatetechvc_simulation-software-market-map-activity-7424061261677629440-JnnV?utm_source=awesome-ai-market-maps)
+
+#### Workplace AI
+- [Cathy Gao & Kevin Burke & Marina Beveridge & Chloe Lin & Aditya Reddy — Sapphire Ventures - AI and the End of the Productivity Bundle - February 2026](https://sapphireventures.com/blog/ai-and-the-end-of-the-productivity-bundle/?utm_source=awesome-ai-market-maps)
 
 #### AI Everything Else 
 - [Murph Capital - 2026 VC Predictions Market Map - February 2026](https://murphcapital.substack.com/p/2026-vc-predictions-market-map?utm_source=awesome-ai-market-maps)
