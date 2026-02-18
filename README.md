@@ -52,6 +52,9 @@ OR
 #### AI Ecosystem
 - [MapCo - AI Ecosystem Intelligence - February 2026](https://www.mapco.ai/directory.html?instance=aiagents?utm_source=awesome-ai-market-maps)
 
+#### EdTech
+- [Sarah Morin & Ben Kornell & Alex Sarlin & Jen Lapaz — EdTech Insiders - Out Now: The Updated Edtech Insiders K-12 Generative AI Market Maps - February 2026](https://edtechinsiders.substack.com/p/out-now-the-updated-edtech-insiders?utm_source=awesome-ai-market-maps)
+
 #### Enterprise AI
 - [Jan Lynn-Matern — Emerge VC - Enterprise AI adoption: a market map for founders - February 2026](https://medium.com/emerge-edtech-insights/enterprise-ai-adoption-a-market-map-for-founders-aac6dbaa2bc7?utm_source=awesome-ai-market-maps)
 
@@ -64,6 +67,9 @@ OR
 #### Mining
 - [Atlas Strategic Minerals - The Critical Technology Landscape - February 2026](https://www.linkedin.com/posts/khanyi-n-b4a1b25a_criticalminerals-miningtech-deeptech-activity-7422958628036333568-fZ8P?utm_source=awesome-ai-market-maps)
 - [Jonathan Healy — Cathay Innovation - Redefining the Mining Value Chain - February 2026](https://medium.com/cathay-innovation/redefining-the-mining-value-chain-3d029e5906db?utm_source=awesome-ai-market-maps)
+
+#### AI Neolabs
+- [TBPN - AI Neolabs - February 2026](https://x.com/tbpn/status/2024213382539464750/photo/1?utm_source=awesome-ai-market-maps)
 
 #### AI Shopping 
 - [Gennaro Cuofano - The AI Shopping Market Map - February 2026](https://businessengineer.ai/p/the-ai-shopping-market-map-2026?r=5r7d1f&utm_medium=ios&shareImageVariant=overlay&triedRedirect=true?utm_source=awesome-ai-market-maps)
