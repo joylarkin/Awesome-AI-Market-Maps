@@ -24,7 +24,7 @@ OR
 
 
 🙌 Spread the word.  
-🌟 GitHub stars are appreciated.   
+🌟 GitHub stars are appreciated.    
 
 
 🔍 [Search the CSV file](https://github.com/joylarkin/Awesome-AI-Market-Maps/blob/main/ai_market_maps.csv)  
