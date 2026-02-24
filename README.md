@@ -83,6 +83,7 @@ OR
 
 #### AI Everything Else 
 - [Murph Capital - 2026 VC Predictions Market Map - February 2026](https://murphcapital.substack.com/p/2026-vc-predictions-market-map?utm_source=awesome-ai-market-maps)
+- [Fivos Aresti - The GTM Map of Europe - February 2026](https://www.linkedin.com/posts/fivosaresti_europe-is-quietly-building-world-class-gtm-activity-7430567093198057472-EBNK?utm_source=awesome-ai-market-maps)
 
 
 ***
