@@ -46,6 +46,9 @@ OR
 
 ### February 2026
 
+#### AEC AI
+- [Jonas Ciplickas — Scale Venture Partners - VLMs are finally giving AEC its 'AI will change everything' moment - February 2026](https://www.scalevp.com/blog/vlms-are-finally-giving-aec-its-ai-will-change-everything-moment?utm_source=awesome-ai-market-maps)
+
 #### AI Drug Discovery 
 - [VC Beat - China AI Drug Discovery Ecosystem - February 2026](https://x.com/biogerontology/status/2019732759686860980?utm_source=awesome-ai-market-maps)
 
