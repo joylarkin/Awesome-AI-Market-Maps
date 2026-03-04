@@ -1,8 +1,10 @@
 # Awesome AI Market Maps  [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)  [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/joylarkin/Awesome-AI-Market-Maps)  ![Last Commit](https://img.shields.io/github/last-commit/joylarkin/Awesome-AI-Market-Maps.svg)   
 
-An Awesome List of Artificial Intelligence Startup Market Maps from 2026, 2025 and 2024.  
+An Awesome List of Artificial Intelligence Startup Market Maps from 2026, 2025 and 2024. 
 
 ***Now featuring over 400 AI Market Maps by top VCs, industry analysts, and AI practitioners.***   
+
+> Editor's insight → 1Q 2026 AI market map creation appears to have slowed compared to the pace we tracked in 2024-2025 especially for Tier 1 VCs, and the market maps being created are niche and/or geographically-focused. It seems as if AI investor sentiment is evolving in real time.
 
 As these things go, this awesome list was inspired out of an ongoing personal frustration — I have been searching for a frequently updated and well-resourced list of recent AI market maps, as I believe there is alpha in following the public conversation. Since I couldn't find a comprehensive resource which met my needs, I decided to build something substantial for the greater AI community.  
 
@@ -44,6 +46,16 @@ OR
 
 ## AI Market Maps - Q1 2026
 
+### March 2026
+
+#### AI Agents
+- [Artemis - Agentic Commerce Market Map - March 2026](https://agenticpayments.artemisanalytics.com/?utm_source=awesome-ai-market-maps)
+
+#### InsurTech
+- [Houlihan Lokey - InsurTech Market Update - March 2026](https://cdn.hl.com/pdf/2026/insurtech-market-update-feb-2026.pdf#page=24?utm_source=awesome-ai-market-maps)
+
+
+***
 ### February 2026
 
 #### AEC AI
@@ -60,6 +72,9 @@ OR
 
 #### Enterprise AI
 - [Jan Lynn-Matern — Emerge VC - Enterprise AI adoption: a market map for founders - February 2026](https://medium.com/emerge-edtech-insights/enterprise-ai-adoption-a-market-map-for-founders-aac6dbaa2bc7?utm_source=awesome-ai-market-maps)
+
+#### Healthcare AI
+- [CB Insights - Healthcare & life sciences AI agent market map - February 2026](https://www.linkedin.com/posts/healthcare-life-sciences-ai-agent-market-share-7432790649382318080-mq71?utm_source=awesome-ai-market-maps)
 
 #### AI Infrastructure 
 - [TLV Ventures - Mapping Israel’s AI infrastructure opportunity - February 2026](https://www.calcalistech.com/ctechnews/article/b1qdiprv11l?utm_source=awesome-ai-market-maps)
