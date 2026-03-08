@@ -55,6 +55,9 @@ OR
 #### InsurTech
 - [Houlihan Lokey - InsurTech Market Update - March 2026](https://cdn.hl.com/pdf/2026/insurtech-market-update-feb-2026.pdf#page=24?utm_source=awesome-ai-market-maps)
 
+#### Robotics 
+- [Jan Olsson — Extantia - European Robotics Market Map - March 2026](https://x.com/_jan_olsson_/status/2029484759408070696?utm_source=awesome-ai-market-maps)
+
 
 ***
 ### February 2026
@@ -123,6 +126,9 @@ OR
 
 #### AI DevTools
 - [ICONIQ Capital - State of AI: Bi-Annual Snapshot The Execution Era of AI - January 2026](https://www.iconiqcapital.com/growth/reports/2026-state-of-ai-bi-annual-snapshot?utm_source=awesome-ai-market-maps)
+
+#### Fintech AI
+- [The Wealth Mosaic - The AI WealthTech Market Map, February 2026 - February 2026](https://www.thewealthmosaic.com/vendors/the-wealth-mosaic/news/the-ai-wealthtech-market-map-february-2026/?utm_source=awesome-ai-market-maps)
 
 #### Healthcare AI
 - [Omar K. - San Francisco AI Stack Beyond Clinical Hype - January 2026](https://www.linkedin.com/posts/omarxgrowth_healthtech-digitalhealth-healthcareai-activity-7417936523540520960-u6eq?utm_source=awesome-ai-market-maps)
