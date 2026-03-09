@@ -52,6 +52,9 @@ OR
 - [Artemis - Agentic Commerce Market Map - March 2026](https://agenticpayments.artemisanalytics.com/?utm_source=awesome-ai-market-maps)
 - [Thomas Krane & William Blackwell — Insight Partners - Identity and Access Management (IAM) in the age of AI Agents - March 2026](https://www.insightpartners.com/ideas/iam-ai-agents/?utm_source=awesome-ai-market-maps)
 
+#### Consumer AI
+- [Olivia Moore — a16z - The Top 100 Gen AI Consumer Apps 6th Edition - March 2026](https://a16z.com/100-gen-ai-apps-6/?utm_source=awesome-ai-market-maps)
+
 #### InsurTech
 - [Houlihan Lokey - InsurTech Market Update - March 2026](https://cdn.hl.com/pdf/2026/insurtech-market-update-feb-2026.pdf#page=24?utm_source=awesome-ai-market-maps)
 
