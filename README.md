@@ -59,7 +59,7 @@ OR
 - [Jan Olsson — Extantia - European Robotics Market Map - March 2026](https://x.com/_jan_olsson_/status/2029484759408070696?utm_source=awesome-ai-market-maps)
 
 #### Scientific Discovery AI
-- [Topology.vc - Scientific AI Map - March 2026](https://app.topology.vc/scientific-ai-map?utm_source=awesome-ai-market-maps))
+- [Topology.vc - Scientific AI Map - March 2026](https://app.topology.vc/scientific-ai-map?utm_source=awesome-ai-market-maps)
 
 
 ***
