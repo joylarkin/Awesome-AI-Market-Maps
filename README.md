@@ -51,6 +51,10 @@ OR
 #### AI Agents
 - [Artemis - Agentic Commerce Market Map - March 2026](https://agenticpayments.artemisanalytics.com/?utm_source=awesome-ai-market-maps)
 - [Thomas Krane & William Blackwell — Insight Partners - Identity and Access Management (IAM) in the age of AI Agents - March 2026](https://www.insightpartners.com/ideas/iam-ai-agents/?utm_source=awesome-ai-market-maps)
+- [Jason Cui and Jennifer Li — a16z - Your Data Agents Need Context - March 2026](https://www.a16z.news/p/your-data-agents-need-context?utm_source=awesome-ai-market-maps)
+
+#### AI Compute
+- [Remarkable Ventures Climate - Efficient & Edge AI Compute Market Map - March 2026](https://www.linkedin.com/posts/remarkable-ventures-climate_for-the-past-several-years-ai-infrastructure-activity-7436849324581621760-qN4h?utm_source=awesome-ai-market-maps)
 
 #### Consumer AI
 - [Olivia Moore — a16z - The Top 100 Gen AI Consumer Apps 6th Edition - March 2026](https://a16z.com/100-gen-ai-apps-6/?utm_source=awesome-ai-market-maps)
