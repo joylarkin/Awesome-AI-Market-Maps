@@ -54,7 +54,9 @@ OR
 - [Jason Cui and Jennifer Li — a16z - Your Data Agents Need Context - March 2026](https://www.a16z.news/p/your-data-agents-need-context?utm_source=awesome-ai-market-maps)
 
 #### AI Compute
+- [Aurelia Han & Siddharth Ramakrishnan — Scale Venture Partners - The Big Data Center Squeeze: Getting More Compute From Existing Infrastructure - March 2026](https://www.scalevp.com/blog/the-big-data-center-squeeze-getting-more-compute-from-existing-infrastructure?utm_source=awesome-ai-market-maps)
 - [Remarkable Ventures Climate - Efficient & Edge AI Compute Market Map - March 2026](https://www.linkedin.com/posts/remarkable-ventures-climate_for-the-past-several-years-ai-infrastructure-activity-7436849324581621760-qN4h?utm_source=awesome-ai-market-maps)
+- [McRock Capital - Data Center Software and Digital Solutions Market Map - March 2026](https://www.linkedin.com/pulse/hidden-layer-ai-boom-mcrock-capital-amxmc/?utm_source=awesome-ai-market-maps)
 
 #### Consumer AI
 - [Olivia Moore — a16z - The Top 100 Gen AI Consumer Apps 6th Edition - March 2026](https://a16z.com/100-gen-ai-apps-6/?utm_source=awesome-ai-market-maps)
@@ -67,6 +69,9 @@ OR
 
 #### Scientific Discovery AI
 - [Topology.vc - Scientific AI Map - March 2026](https://app.topology.vc/scientific-ai-map?utm_source=awesome-ai-market-maps)
+
+### AI Everything Else
+- [Cherie Hu — Water & Music - Music tech ownership ouroboros, 2026 edition - March 2026](https://www.linkedin.com/pulse/music-tech-ownership-ouroboros-2026-edition-cherie-hu-djrnc/?utm_source=awesome-ai-market-maps)
 
 
 ***
@@ -156,7 +161,7 @@ OR
 #### AI Security
 - [Aqsa Taylor & Francis Odum — Software Analyst Cyber Research - AISOC for MDR: The Structural Evolution of Managed Detection and Response - January 2026](https://softwareanalyst.substack.com/p/aisoc-for-mdr-the-structural-evolution?utm_source=awesome-ai-market-maps)
 
-#### Everything Else 
+#### AI Everything Else 
 - [Alexandre Dewez — 20VC - French AI Ecosystem Market Map (Draft) - January 2026](https://www.linkedin.com/posts/alexandre-dewez_insight-625-%F0%9D%97%99%F0%9D%97%BF%F0%9D%97%B2%F0%9D%97%BB%F0%9D%97%B0%F0%9D%97%B5-%F0%9D%97%94%F0%9D%97%9C-%F0%9D%97%98%F0%9D%97%B0%F0%9D%97%BC%F0%9D%98%80%F0%9D%98%86%F0%9D%98%80%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%BA-activity-7416873876443525120-oQsw/?utm_source=awesome-ai-market-maps)
 - [Omar K - India Hospital AI Revenue Stack 2025 - January 2026](https://www.linkedin.com/posts/omarxgrowth_india-is-running-thousands-of-hospital-ai-activity-7410896465549746176-miB6?utm_source=awesome-ai-market-maps)
 - [eaidb - The Responsible AI Ecosystem FY 2025 Market Map* - January 2026](https://eaidb.org/map?utm_source=awesome-ai-market-maps)
