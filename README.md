@@ -59,10 +59,17 @@ OR
 - [McRock Capital - Data Center Software and Digital Solutions Market Map - March 2026](https://www.linkedin.com/pulse/hidden-layer-ai-boom-mcrock-capital-amxmc/?utm_source=awesome-ai-market-maps)
 
 #### Consumer AI
+- [Mathilde Valin, Jeroen Arts, Sameer Singh — Speedinvest - Europe's Consumer Renaissance: A market map of early-stage European Consumer AI companies - March 2026](https://www.speedinvest.com/knowledge/europes-consumer-renaissance-a-market-map-of-early-stage-european-consumer-ai-companies?utm_source=awesome-ai-market-maps)
 - [Olivia Moore — a16z - The Top 100 Gen AI Consumer Apps 6th Edition - March 2026](https://a16z.com/100-gen-ai-apps-6/?utm_source=awesome-ai-market-maps)
+
+#### Industrial AI 
+- [Anastasia Lukach Venture Protocol - Industrial AI: The $154B Venture Map - March 2026](https://www.linkedin.com/posts/anastasialukach_one-of-the-most-underestimated-opportunities-share-7438576857668784129-i6zK?utm_source=awesome-ai-market-maps)
 
 #### InsurTech
 - [Houlihan Lokey - InsurTech Market Update - March 2026](https://cdn.hl.com/pdf/2026/insurtech-market-update-feb-2026.pdf#page=24?utm_source=awesome-ai-market-maps)
+
+#### Legal AI
+- [Legaltechhub - LTH AI Agents in Legal Map: March 2026 - March 2026](https://www.legaltechnologyhub.com/contents/lth-ai-agents-in-legal-map-march-2026/?utm_source=awesome-ai-market-maps)
 
 #### Robotics 
 - [Jan Olsson — Extantia - European Robotics Market Map - March 2026](https://x.com/_jan_olsson_/status/2029484759408070696?utm_source=awesome-ai-market-maps)
@@ -70,12 +77,18 @@ OR
 #### Scientific Discovery AI
 - [Topology.vc - Scientific AI Map - March 2026](https://app.topology.vc/scientific-ai-map?utm_source=awesome-ai-market-maps)
 
+#### AI Security 
+- [Kalaari Capital - Cybersecurity in AI - March 2026](https://www.linkedin.com/posts/cybersecurity-ai-data-share-7439276517429301248-lP2W?utm_source=awesome-ai-market-maps)
+
 ### AI Everything Else
 - [Cherie Hu — Water & Music - Music tech ownership ouroboros, 2026 edition - March 2026](https://www.linkedin.com/pulse/music-tech-ownership-ouroboros-2026-edition-cherie-hu-djrnc/?utm_source=awesome-ai-market-maps)
 
 
 ***
 ### February 2026
+
+#### AI Agents
+- [QED Investors - A biblical history of agentic payments - February 2026](https://qedinvestors.substack.com/p/a-biblical-history-of-agentic-payments?utm_source=awesome-ai-market-maps)
 
 #### AEC AI
 - [Jonas Ciplickas — Scale Venture Partners - VLMs are finally giving AEC its 'AI will change everything' moment - February 2026](https://www.scalevp.com/blog/vlms-are-finally-giving-aec-its-ai-will-change-everything-moment?utm_source=awesome-ai-market-maps)
