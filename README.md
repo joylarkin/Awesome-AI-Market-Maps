@@ -59,7 +59,7 @@ OR
 - [McRock Capital - Data Center Software and Digital Solutions Market Map - March 2026](https://www.linkedin.com/pulse/hidden-layer-ai-boom-mcrock-capital-amxmc/?utm_source=awesome-ai-market-maps)
 
 #### Consumer AI
-- [Matt Brown — Maslow's Hierarchy of Consumer AI - March 2026](https://headline.com/blog-latest/article-latest/maslows-hierarchy?utm_source=awesome-ai-market-maps)
+- [Matt Brown — Headline VC - Maslow's Hierarchy of Consumer AI - March 2026](https://headline.com/blog-latest/article-latest/maslows-hierarchy?utm_source=awesome-ai-market-maps)
 - [Mathilde Valin & Jeroen Arts & Sameer Singh — Speedinvest - Europe's Consumer Renaissance: A market map of early-stage European Consumer AI companies - March 2026](https://www.speedinvest.com/knowledge/europes-consumer-renaissance-a-market-map-of-early-stage-european-consumer-ai-companies?utm_source=awesome-ai-market-maps)
 - [Olivia Moore — a16z - The Top 100 Gen AI Consumer Apps 6th Edition - March 2026](https://a16z.com/100-gen-ai-apps-6/?utm_source=awesome-ai-market-maps)
 
