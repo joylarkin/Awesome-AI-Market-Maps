@@ -85,6 +85,7 @@ OR
 - [Topology.vc - Scientific AI Map - March 2026](https://app.topology.vc/scientific-ai-map?utm_source=awesome-ai-market-maps)
 
 #### AI Security 
+- [Venky Ganesan & Rama Sekhar & Sam Borja & Sabrina Lu — Menlo Ventures - Agents for Security: The Tipping Point for Offensive AI - March 2026](https://menlovc.com/perspective/agents-for-security-the-tipping-point-for-offensive-ai/?utm_source=awesome-ai-market-maps)
 - [Kalaari Capital - Cybersecurity in AI - March 2026](https://www.linkedin.com/posts/cybersecurity-ai-data-share-7439276517429301248-lP2W?utm_source=awesome-ai-market-maps)
 
 ### AI Everything Else
