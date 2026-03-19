@@ -67,7 +67,7 @@ OR
 - [i5invest - Enterprise AI Market Map - March 2026](https://www.linkedin.com/posts/wagnermarkus_growth-tech-startups-share-7440035652542435328-NShb?utm_source=awesome-ai-market-maps)
 
 #### Industrial AI 
-- [Anastasia Lukach Venture Protocol - Industrial AI: The $154B Venture Map - March 2026](https://www.linkedin.com/posts/anastasialukach_one-of-the-most-underestimated-opportunities-share-7438576857668784129-i6zK?utm_source=awesome-ai-market-maps)
+- [Anastasia Lukach — Venture Protocol - Industrial AI: The $154B Venture Map - March 2026](https://www.linkedin.com/posts/anastasialukach_one-of-the-most-underestimated-opportunities-share-7438576857668784129-i6zK?utm_source=awesome-ai-market-maps)
 
 #### InsurTech
 - [Houlihan Lokey - InsurTech Market Update - March 2026](https://cdn.hl.com/pdf/2026/insurtech-market-update-feb-2026.pdf#page=24?utm_source=awesome-ai-market-maps)
