@@ -59,8 +59,12 @@ OR
 - [McRock Capital - Data Center Software and Digital Solutions Market Map - March 2026](https://www.linkedin.com/pulse/hidden-layer-ai-boom-mcrock-capital-amxmc/?utm_source=awesome-ai-market-maps)
 
 #### Consumer AI
-- [Mathilde Valin, Jeroen Arts, Sameer Singh — Speedinvest - Europe's Consumer Renaissance: A market map of early-stage European Consumer AI companies - March 2026](https://www.speedinvest.com/knowledge/europes-consumer-renaissance-a-market-map-of-early-stage-european-consumer-ai-companies?utm_source=awesome-ai-market-maps)
+- [Matt Brown — Maslow's Hierarchy of Consumer AI - March 2026](https://headline.com/blog-latest/article-latest/maslows-hierarchy?utm_source=awesome-ai-market-maps)
+- [Mathilde Valin & Jeroen Arts & Sameer Singh — Speedinvest - Europe's Consumer Renaissance: A market map of early-stage European Consumer AI companies - March 2026](https://www.speedinvest.com/knowledge/europes-consumer-renaissance-a-market-map-of-early-stage-european-consumer-ai-companies?utm_source=awesome-ai-market-maps)
 - [Olivia Moore — a16z - The Top 100 Gen AI Consumer Apps 6th Edition - March 2026](https://a16z.com/100-gen-ai-apps-6/?utm_source=awesome-ai-market-maps)
+
+#### Enterprise AI
+- [i5invest - Enterprise AI Market Map - March 2026](https://www.linkedin.com/posts/wagnermarkus_growth-tech-startups-share-7440035652542435328-NShb?utm_source=awesome-ai-market-maps)
 
 #### Industrial AI 
 - [Anastasia Lukach Venture Protocol - Industrial AI: The $154B Venture Map - March 2026](https://www.linkedin.com/posts/anastasialukach_one-of-the-most-underestimated-opportunities-share-7438576857668784129-i6zK?utm_source=awesome-ai-market-maps)
@@ -70,6 +74,9 @@ OR
 
 #### Legal AI
 - [Legaltechhub - LTH AI Agents in Legal Map: March 2026 - March 2026](https://www.legaltechnologyhub.com/contents/lth-ai-agents-in-legal-map-march-2026/?utm_source=awesome-ai-market-maps)
+
+#### Physical AI 
+- [Jeremy Levine & Alex Ferrara & Talia Goldberg & David Cowan & Alexandra Sukin & Bhavik Nagda & Jason Scheller — Bessemer Venture Partners - 50 startups transforming industries with physical AI - March 2026](https://www.bvp.com/atlas/50-startups-transforming-industries-with-physical-ai?utm_source=awesome-ai-market-maps)
 
 #### Robotics 
 - [Jan Olsson — Extantia - European Robotics Market Map - March 2026](https://x.com/_jan_olsson_/status/2029484759408070696?utm_source=awesome-ai-market-maps)
