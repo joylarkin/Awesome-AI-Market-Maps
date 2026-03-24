@@ -66,6 +66,12 @@ OR
 #### Enterprise AI
 - [i5invest - Enterprise AI Market Map - March 2026](https://www.linkedin.com/posts/wagnermarkus_growth-tech-startups-share-7440035652542435328-NShb?utm_source=awesome-ai-market-maps)
 
+#### European AI
+- [Dealroom.co - The European Deep Tech Report 2026 - March 2026](https://dealroom.co/reports/the-european-deep-tech-report-2026/?utm_source=awesome-ai-market-maps)
+
+#### Healthcare AI
+- [Effie GUO - 11 Market Maps to help you navigate China Healthcare AI - March 2026](https://www.linkedin.com/posts/effie-yifei-guo_11-market-maps-to-help-you-navigate-china-ugcPost-7441815957553147904-Fi3M?utm_source=awesome-ai-market-maps)
+
 #### Industrial AI 
 - [Anastasia Lukach — Venture Protocol - Industrial AI: The $154B Venture Map - March 2026](https://www.linkedin.com/posts/anastasialukach_one-of-the-most-underestimated-opportunities-share-7438576857668784129-i6zK?utm_source=awesome-ai-market-maps)
 
@@ -74,6 +80,7 @@ OR
 
 #### Legal AI
 - [Legaltechhub - LTH AI Agents in Legal Map: March 2026 - March 2026](https://www.legaltechnologyhub.com/contents/lth-ai-agents-in-legal-map-march-2026/?utm_source=awesome-ai-market-maps)
+- [The LegalTech Fund - Early Stage Transactional Market Map - March 2026](https://www.legaltech.com/transactional-market-map)
 
 #### Physical AI 
 - [Jeremy Levine & Alex Ferrara & Talia Goldberg & David Cowan & Alexandra Sukin & Bhavik Nagda & Jason Scheller — Bessemer Venture Partners - 50 startups transforming industries with physical AI - March 2026](https://www.bvp.com/atlas/50-startups-transforming-industries-with-physical-ai?utm_source=awesome-ai-market-maps)
@@ -85,8 +92,12 @@ OR
 - [Topology.vc - Scientific AI Map - March 2026](https://app.topology.vc/scientific-ai-map?utm_source=awesome-ai-market-maps)
 
 #### AI Security 
+- [OWASP GenAI Security Project - AI Security Solutions Landscape for LLM and GenAI Apps Q2 2026 - March 2026](https://www.linkedin.com/posts/owasp-genai-aisecurity-share-7442212118046756864-Ov0Z?utm_source=awesome-ai-market-maps)
 - [Venky Ganesan & Rama Sekhar & Sam Borja & Sabrina Lu — Menlo Ventures - Agents for Security: The Tipping Point for Offensive AI - March 2026](https://menlovc.com/perspective/agents-for-security-the-tipping-point-for-offensive-ai/?utm_source=awesome-ai-market-maps)
 - [Kalaari Capital - Cybersecurity in AI - March 2026](https://www.linkedin.com/posts/cybersecurity-ai-data-share-7439276517429301248-lP2W?utm_source=awesome-ai-market-maps)
+
+#### AI Wealth Management
+- [Elan Arnowitz & Alessandro Luciano & Adam Vartabedian — Insight Partners - Supercharging financial advisors: How AI is reshaping wealth management - March 2026](https://www.insightpartners.com/ideas/ai-wealth-management/?utm_source=awesome-ai-market-maps)
 
 ### AI Everything Else
 - [Cherie Hu — Water & Music - Music tech ownership ouroboros, 2026 edition - March 2026](https://www.linkedin.com/pulse/music-tech-ownership-ouroboros-2026-edition-cherie-hu-djrnc/?utm_source=awesome-ai-market-maps)
