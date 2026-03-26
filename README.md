@@ -52,6 +52,7 @@ OR
 - [Artemis - Agentic Commerce Market Map - March 2026](https://agenticpayments.artemisanalytics.com/?utm_source=awesome-ai-market-maps)
 - [Thomas Krane & William Blackwell — Insight Partners - Identity and Access Management (IAM) in the age of AI Agents - March 2026](https://www.insightpartners.com/ideas/iam-ai-agents/?utm_source=awesome-ai-market-maps)
 - [Jason Cui and Jennifer Li — a16z - Your Data Agents Need Context - March 2026](https://www.a16z.news/p/your-data-agents-need-context?utm_source=awesome-ai-market-maps)
+[Prefactor - AI agent runtime control plane - March 2026](https://prefactor.tech/) - Provides runtime visibility, governance, and real-time observability for AI agents in production, with integrations for LangChain, CrewAI, Claude, OpenAI, and more.
 
 #### AI Compute
 - [Aurelia Han & Siddharth Ramakrishnan — Scale Venture Partners - The Big Data Center Squeeze: Getting More Compute From Existing Infrastructure - March 2026](https://www.scalevp.com/blog/the-big-data-center-squeeze-getting-more-compute-from-existing-infrastructure?utm_source=awesome-ai-market-maps)
