@@ -91,6 +91,9 @@ OR
 #### Scientific Discovery AI
 - [Topology.vc - Scientific AI Map - March 2026](https://app.topology.vc/scientific-ai-map?utm_source=awesome-ai-market-maps)
 
+#### AI Services 
+- [Emergence Capital - AI-Native Services market map - March 2026](https://www.linkedin.com/posts/jakesaper_77-companies-8-sectors-the-first-market-share-7442564767904362496-RA9T?utm_source=awesome-ai-market-maps)
+
 #### AI Security 
 - [OWASP GenAI Security Project - AI Security Solutions Landscape for LLM and GenAI Apps Q2 2026 - March 2026](https://www.linkedin.com/posts/owasp-genai-aisecurity-share-7442212118046756864-Ov0Z?utm_source=awesome-ai-market-maps)
 - [Venky Ganesan & Rama Sekhar & Sam Borja & Sabrina Lu — Menlo Ventures - Agents for Security: The Tipping Point for Offensive AI - March 2026](https://menlovc.com/perspective/agents-for-security-the-tipping-point-for-offensive-ai/?utm_source=awesome-ai-market-maps)
@@ -101,6 +104,7 @@ OR
 
 ### AI Everything Else
 - [Cherie Hu — Water & Music - Music tech ownership ouroboros, 2026 edition - March 2026](https://www.linkedin.com/pulse/music-tech-ownership-ouroboros-2026-edition-cherie-hu-djrnc/?utm_source=awesome-ai-market-maps)
+- [Vlad Oleksiienko - GTM Market Map of Europe - March 2026](https://www.linkedin.com/posts/voleksiienko_europe-is-quietly-building-one-of-the-strongest-share-7441890533192433664-11E8?utm_source=awesome-ai-market-maps)
 
 
 ***
