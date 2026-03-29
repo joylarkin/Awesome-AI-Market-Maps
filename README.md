@@ -67,6 +67,7 @@ OR
 - [i5invest - Enterprise AI Market Map - March 2026](https://www.linkedin.com/posts/wagnermarkus_growth-tech-startups-share-7440035652542435328-NShb?utm_source=awesome-ai-market-maps)
 
 #### European AI
+- [Prosus & Dealroom.co - Report: The State Of AI In Europe - March 2026](https://www.prosus.com/state-of-ai-europe?utm_source=awesome-ai-market-maps)
 - [Dealroom.co - The European Deep Tech Report 2026 - March 2026](https://dealroom.co/reports/the-european-deep-tech-report-2026/?utm_source=awesome-ai-market-maps)
 
 #### Healthcare AI
@@ -103,6 +104,7 @@ OR
 - [Elan Arnowitz & Alessandro Luciano & Adam Vartabedian — Insight Partners - Supercharging financial advisors: How AI is reshaping wealth management - March 2026](https://www.insightpartners.com/ideas/ai-wealth-management/?utm_source=awesome-ai-market-maps)
 
 ### AI Everything Else
+- [Pitchbook - AI market map: 500 leading VC-backed AI companies - March 2026](https://pitchbook.com/news/articles/artificial-intelligence-market-map-startups-venture-capital?utm_source=awesome-ai-market-maps)
 - [Cherie Hu — Water & Music - Music tech ownership ouroboros, 2026 edition - March 2026](https://www.linkedin.com/pulse/music-tech-ownership-ouroboros-2026-edition-cherie-hu-djrnc/?utm_source=awesome-ai-market-maps)
 - [Vlad Oleksiienko - GTM Market Map of Europe - March 2026](https://www.linkedin.com/posts/voleksiienko_europe-is-quietly-building-one-of-the-strongest-share-7441890533192433664-11E8?utm_source=awesome-ai-market-maps)
 
