@@ -83,6 +83,9 @@ OR
 - [Legaltechhub - LTH AI Agents in Legal Map: March 2026 - March 2026](https://www.legaltechnologyhub.com/contents/lth-ai-agents-in-legal-map-march-2026/?utm_source=awesome-ai-market-maps)
 - [The LegalTech Fund - Early Stage Transactional Market Map - March 2026](https://www.legaltech.com/transactional-market-map)
 
+#### AI Market
+- [Logan Bartlett & Adil Bhatia & Lydia Day — Redpoint Ventures - Reflections on the State of the Software and AI Market - March 2026](https://www.redpoint.com/reports/2026-market-update/)
+
 #### Physical AI 
 - [Jeremy Levine & Alex Ferrara & Talia Goldberg & David Cowan & Alexandra Sukin & Bhavik Nagda & Jason Scheller — Bessemer Venture Partners - 50 startups transforming industries with physical AI - March 2026](https://www.bvp.com/atlas/50-startups-transforming-industries-with-physical-ai?utm_source=awesome-ai-market-maps)
 
