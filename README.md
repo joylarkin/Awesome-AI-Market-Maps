@@ -77,7 +77,7 @@ OR
 - [Anastasia Lukach — Venture Protocol - Industrial AI: The $154B Venture Map - March 2026](https://www.linkedin.com/posts/anastasialukach_one-of-the-most-underestimated-opportunities-share-7438576857668784129-i6zK?utm_source=awesome-ai-market-maps)
 
 #### AI Infrastructure
-- [@KairosPraxis Twitter - AI Memory Optimization Landscape (2024 2026) - March 2026](https://x.com/KairosPraxis/status/2038684163029553502/photo/1?utm_source=awesome-ai-market-maps)
+- [via @KairosPraxis Twitter - AI Memory Optimization Landscape (2024-2026) - March 2026](https://x.com/KairosPraxis/status/2038684163029553502?utm_source=awesome-ai-market-maps)
 - [Janelle Teng Wade & Lance Co Ting Keh & Talia Goldberg & David Cowan & Grace Ma & Bhavik Nagda & Brandon Nydick & Bar Weiner — Bessemer Venture Partners - AI Infrastructure Roadmap: Five frontiers for 2026 - March 2026](https://www.bvp.com/atlas/ai-infrastructure-roadmap-five-frontiers-for-2026?utm_source=awesome-ai-market-maps)
 
 #### InsurTech
