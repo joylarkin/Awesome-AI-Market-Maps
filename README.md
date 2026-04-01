@@ -44,6 +44,22 @@ OR
 
 ## ▦ MARKET MAPS ▦  
 
+
+## AI Market Maps - Q2 2026
+
+### April 2026
+
+#### AI Agents
+- [Jordan Leites & Nikhil Goel  Norwest Venture Partners - From Click to Command: The Shift to Agentic Payments - April 2026](https://www.norwest.com/blog/agentic-payments/?utm_source=awesome-ai-market-maps)
+
+#### Fintech AI
+- [i5invest - Office of CFO Tech Landscape - April 2026](https://www.linkedin.com/posts/herwigspringer_strategy-startups-growth-share-7445093478201499649-3ZxY/?utm_source=awesome-ai-market-maps)
+
+#### Legal AI
+- [Legaltech Hub - LTH GenAI Legal Tech Map: March 2026 - April 2026](https://www.legaltechnologyhub.com/contents/lth-genai-legal-tech-map-march-2026/?utm_source=awesome-ai-market-maps)
+
+
+---
 ## AI Market Maps - Q1 2026
 
 ### March 2026
@@ -84,7 +100,7 @@ OR
 - [Houlihan Lokey - InsurTech Market Update - March 2026](https://cdn.hl.com/pdf/2026/insurtech-market-update-feb-2026.pdf#page=24?utm_source=awesome-ai-market-maps)
 
 #### Legal AI
-- [Legaltechhub - LTH AI Agents in Legal Map: March 2026 - March 2026](https://www.legaltechnologyhub.com/contents/lth-ai-agents-in-legal-map-march-2026/?utm_source=awesome-ai-market-maps)
+- [Legaltech Hub - LTH AI Agents in Legal Map: March 2026 - March 2026](https://www.legaltechnologyhub.com/contents/lth-ai-agents-in-legal-map-march-2026/?utm_source=awesome-ai-market-maps)
 - [The LegalTech Fund - Early Stage Transactional Market Map - March 2026](https://www.legaltech.com/transactional-market-map)
 
 #### AI Market
