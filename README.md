@@ -52,6 +52,9 @@ OR
 #### AI Agents
 - [Jordan Leites & Nikhil Goel — Norwest Venture Partners - From Click to Command: The Shift to Agentic Payments - April 2026](https://www.norwest.com/blog/agentic-payments/?utm_source=awesome-ai-market-maps)
 
+#### AI Compute
+- [Grove Ventures - Data Center Infrastructure: Israeli Startup Ecosystem Map - April 2026](https://www.grovevc.com/israeli-startup-ecosystem-map/)
+
 #### Fintech AI
 - [i5invest - Office of CFO Tech Landscape - April 2026](https://www.linkedin.com/posts/herwigspringer_strategy-startups-growth-share-7445093478201499649-3ZxY/?utm_source=awesome-ai-market-maps)
 
