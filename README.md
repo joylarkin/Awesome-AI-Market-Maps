@@ -50,13 +50,16 @@ OR
 ### April 2026
 
 #### AI Agents
-- [Jordan Leites & Nikhil Goel  Norwest Venture Partners - From Click to Command: The Shift to Agentic Payments - April 2026](https://www.norwest.com/blog/agentic-payments/?utm_source=awesome-ai-market-maps)
+- [Jordan Leites & Nikhil Goel — Norwest Venture Partners - From Click to Command: The Shift to Agentic Payments - April 2026](https://www.norwest.com/blog/agentic-payments/?utm_source=awesome-ai-market-maps)
 
 #### Fintech AI
 - [i5invest - Office of CFO Tech Landscape - April 2026](https://www.linkedin.com/posts/herwigspringer_strategy-startups-growth-share-7445093478201499649-3ZxY/?utm_source=awesome-ai-market-maps)
 
 #### Legal AI
 - [Legaltech Hub - LTH GenAI Legal Tech Map: March 2026 - April 2026](https://www.legaltechnologyhub.com/contents/lth-genai-legal-tech-map-march-2026/?utm_source=awesome-ai-market-maps)
+
+#### Vertical AI 
+- [JP Sanday & Croom Beatty & Sam Borja & Sabrina Lu — Menlo Ventures - Software Finally Gets to Work: The Opportunity in Vertical AI - April 2026](https://menlovc.com/perspective/software-finally-gets-to-work-the-opportunity-in-vertical-ai/)
 
 
 ---
