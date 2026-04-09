@@ -61,8 +61,12 @@ OR
 #### Legal AI
 - [Legaltech Hub - LTH GenAI Legal Tech Map: March 2026 - April 2026](https://www.legaltechnologyhub.com/contents/lth-genai-legal-tech-map-march-2026/?utm_source=awesome-ai-market-maps)
 
+#### Robotics 
+- [Greater Zurich Area - Robotics & intelligent systems in the Greater Zurich Area - April 2026](https://www.greaterzuricharea.com/en/robotics-intelligent-systems)
+
 #### Vertical AI 
 - [JP Sanday & Croom Beatty & Sam Borja & Sabrina Lu — Menlo Ventures - Software Finally Gets to Work: The Opportunity in Vertical AI - April 2026](https://menlovc.com/perspective/software-finally-gets-to-work-the-opportunity-in-vertical-ai/)
+  
 
 
 ---
