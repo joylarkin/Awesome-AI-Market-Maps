@@ -53,7 +53,7 @@ OR
 - [Jordan Leites & Nikhil Goel — Norwest Venture Partners - From Click to Command: The Shift to Agentic Payments - April 2026](https://www.norwest.com/blog/agentic-payments/?utm_source=awesome-ai-market-maps)
 
 #### AI Compute
-- [Grove Ventures - Data Center Infrastructure: Israeli Startup Ecosystem Map - April 2026](https://www.grovevc.com/israeli-startup-ecosystem-map/)
+- [Grove Ventures - Data Center Infrastructure: Israeli Startup Ecosystem Map - April 2026](https://www.grovevc.com/israeli-startup-ecosystem-map/?utm_source=awesome-ai-market-maps)
 
 #### Fintech AI
 - [i5invest - Office of CFO Tech Landscape - April 2026](https://www.linkedin.com/posts/herwigspringer_strategy-startups-growth-share-7445093478201499649-3ZxY/?utm_source=awesome-ai-market-maps)
@@ -62,12 +62,11 @@ OR
 - [Legaltech Hub - LTH GenAI Legal Tech Map: March 2026 - April 2026](https://www.legaltechnologyhub.com/contents/lth-genai-legal-tech-map-march-2026/?utm_source=awesome-ai-market-maps)
 
 #### Robotics 
-- [Greater Zurich Area - Robotics & intelligent systems in the Greater Zurich Area - April 2026](https://www.greaterzuricharea.com/en/robotics-intelligent-systems)
+- [Greater Zurich Area - Robotics & intelligent systems in the Greater Zurich Area - April 2026](https://www.greaterzuricharea.com/en/robotics-intelligent-systems?utm_source=awesome-ai-market-maps)
 
 #### Vertical AI 
-- [JP Sanday & Croom Beatty & Sam Borja & Sabrina Lu — Menlo Ventures - Software Finally Gets to Work: The Opportunity in Vertical AI - April 2026](https://menlovc.com/perspective/software-finally-gets-to-work-the-opportunity-in-vertical-ai/)
+- [JP Sanday & Croom Beatty & Sam Borja & Sabrina Lu — Menlo Ventures - Software Finally Gets to Work: The Opportunity in Vertical AI - April 2026](https://menlovc.com/perspective/software-finally-gets-to-work-the-opportunity-in-vertical-ai/?utm_source=awesome-ai-market-maps)
   
-
 
 ---
 ## AI Market Maps - Q1 2026
