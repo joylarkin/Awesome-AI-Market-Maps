@@ -62,11 +62,23 @@ OR
 - [Legaltech Hub - LTH GenAI Legal Tech Map: March 2026 - April 2026](https://www.legaltechnologyhub.com/contents/lth-genai-legal-tech-map-march-2026/?utm_source=awesome-ai-market-maps)
 
 #### Robotics 
+- [Hafeez Jimoh - Robotics Unicorn Companies 2026 - April 2026](https://www.linkedin.com/posts/jimohafeezco_the-robotics-market-geographic-split-is-more-share-7448390123349733377-NnH_/?utm_source=awesome-ai-market-maps)
+- [IEEE RAS - Global Robotics Industry Funding Report Download Request - April 2026](https://docs.google.com/forms/d/e/1FAIpQLSc7oEObF8A-4yllX3T0tn0lDzrhBYxmIsYbiF7QXbawxmTIfw/viewform)
 - [Greater Zurich Area - Robotics & intelligent systems in the Greater Zurich Area - April 2026](https://www.greaterzuricharea.com/en/robotics-intelligent-systems?utm_source=awesome-ai-market-maps)
+
+#### Scientific Discovery AI
+- [XAnge - Bio-Foundation Models: A Shift in AI for Biology - April 2026](https://www.xange.vc/knowledge-hub/bio-foundation-models-market-map?utm_source=awesome-ai-market-maps)
+- [Extantia - Advanced Materials Development - April 2026](https://www.linkedin.com/posts/extantia_advancedmaterials-deeptech-materialsscience-activity-7444639664730398720-7oR0/?utm_source=awesome-ai-market-maps)
+
+#### Venture AI  
+- [Cory Bolotsky - AI Tools for Venture Capital - April 2026](https://vctools.bolots.ky?utm_source=awesome-ai-market-maps)
 
 #### Vertical AI 
 - [JP Sanday & Croom Beatty & Sam Borja & Sabrina Lu — Menlo Ventures - Software Finally Gets to Work: The Opportunity in Vertical AI - April 2026](https://menlovc.com/perspective/software-finally-gets-to-work-the-opportunity-in-vertical-ai/?utm_source=awesome-ai-market-maps)
-  
+
+#### AI Everything Else
+- [Anirudh Sathya - Private Equity Firms by Competitive Advantages - April 2026](https://www.linkedin.com/posts/anirudh-sathya_privateequity-pe-dealmaking-share-7447427134647730176-QAjh?utm_source=awesome-ai-market-maps)
+
 
 ---
 ## AI Market Maps - Q1 2026
