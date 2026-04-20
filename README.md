@@ -50,6 +50,7 @@ OR
 ### April 2026
 
 #### AI Agents
+- [Kevin Burke — Sapphire Ventures - Market Memo "Agents: Towards an Autonomous Future" - April 2026](https://www.linkedin.com/posts/kevinburkeutmba_agents-towards-an-autonomous-future-ugcPost-7452068558055948288-u87x?utm_source=awesome-ai-market-maps)
 - [Jordan Leites & Nikhil Goel — Norwest Venture Partners - From Click to Command: The Shift to Agentic Payments - April 2026](https://www.norwest.com/blog/agentic-payments/?utm_source=awesome-ai-market-maps)
 
 #### AI Compute
