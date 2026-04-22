@@ -59,17 +59,28 @@ OR
 #### Fintech AI
 - [i5invest - Office of CFO Tech Landscape - April 2026](https://www.linkedin.com/posts/herwigspringer_strategy-startups-growth-share-7445093478201499649-3ZxY/?utm_source=awesome-ai-market-maps)
 
+#### Healthcare AI 
+- [Second Opinion x Confido Market Map - Agentic Market Map Ambulatory Provider Categories - April 2026](https://secondopinion.media/p/market-map-meet-the-companies-deploying-ai-agents-in-the-outpatient-setting?utm_source=awesome-ai-market-maps)
+
+#### AI Infra
+- [Malika Aubakirova and Matt Bornstein — a16z - Why We Need Continual Learning - April 2026](https://www.a16z.news/p/why-we-need-continual-learning?utm_source=awesome-ai-market-maps)
+
 #### Legal AI
 - [Legaltech Hub - LTH GenAI Legal Tech Map: March 2026 - April 2026](https://www.legaltechnologyhub.com/contents/lth-genai-legal-tech-map-march-2026/?utm_source=awesome-ai-market-maps)
 
 #### Robotics 
 - [Hafeez Jimoh - Robotics Unicorn Companies 2026 - April 2026](https://www.linkedin.com/posts/jimohafeezco_the-robotics-market-geographic-split-is-more-share-7448390123349733377-NnH_/?utm_source=awesome-ai-market-maps)
-- [IEEE RAS - Global Robotics Industry Funding Report Download Request - April 2026](https://docs.google.com/forms/d/e/1FAIpQLSc7oEObF8A-4yllX3T0tn0lDzrhBYxmIsYbiF7QXbawxmTIfw/viewform)
+- [IEEE RAS - Global Robotics Industry Funding Report Download Request - April 2026](https://docs.google.com/forms/d/e/1FAIpQLSc7oEObF8A-4yllX3T0tn0lDzrhBYxmIsYbiF7QXbawxmTIfw/viewform?utm_source=awesome-ai-market-maps)
 - [Greater Zurich Area - Robotics & intelligent systems in the Greater Zurich Area - April 2026](https://www.greaterzuricharea.com/en/robotics-intelligent-systems?utm_source=awesome-ai-market-maps)
 
 #### Scientific Discovery AI
+- [Andrew Hedin & Marla Jalbut, M.D. & Grace Dai — Bessemer Venture Partners - Building biology-native data infrastructure for the AI era - April 2026](https://www.bvp.com/atlas/building-biology-native-data-infrastructure-for-the-ai-era)
 - [XAnge - Bio-Foundation Models: A Shift in AI for Biology - April 2026](https://www.xange.vc/knowledge-hub/bio-foundation-models-market-map?utm_source=awesome-ai-market-maps)
 - [Extantia - Advanced Materials Development - April 2026](https://www.linkedin.com/posts/extantia_advancedmaterials-deeptech-materialsscience-activity-7444639664730398720-7oR0/?utm_source=awesome-ai-market-maps)
+
+#### AI Security
+- [Aleix Pérez — Criteria Venture Partners - Offensive Security Market Map: The Rise of Autonomous Hacking - April 2026](https://cyberflow.substack.com/p/offensive-security-market-map-the?utm_source=awesome-ai-market-maps)
+- [Ena Uffelmann — G+D Ventures - AI Security Market Map - April 2026](https://www.linkedin.com/posts/ena-uffelmann_gd-ventures-ai-security-market-map-ugcPost-7452295325026807809-4_TB?utm_source=awesome-ai-market-maps)
 
 #### Venture AI  
 - [Cory Bolotsky - AI Tools for Venture Capital - April 2026](https://vctools.bolots.ky?utm_source=awesome-ai-market-maps)
@@ -77,7 +88,11 @@ OR
 #### Vertical AI 
 - [JP Sanday & Croom Beatty & Sam Borja & Sabrina Lu — Menlo Ventures - Software Finally Gets to Work: The Opportunity in Vertical AI - April 2026](https://menlovc.com/perspective/software-finally-gets-to-work-the-opportunity-in-vertical-ai/?utm_source=awesome-ai-market-maps)
 
+#### Voice AI
+- [Dawn Capital - Beyond the uncanny: moving to lifelike Voice AI - April 2026](https://www.linkedin.com/posts/ai-voiceai-enterprisesoftware-ugcPost-7452351039883739136-896R?utm_source=awesome-ai-market-maps)
+
 #### AI Everything Else
+- [Silicon Valley Bank - The AI Market Map for VC Backed Companies - April 2026](https://www.linkedin.com/posts/fun-news-tropic-was-recently-highlighted-share-7450011189922758656-V8EL?utm_source=awesome-ai-market-maps)
 - [Anirudh Sathya - Private Equity Firms by Competitive Advantages - April 2026](https://www.linkedin.com/posts/anirudh-sathya_privateequity-pe-dealmaking-share-7447427134647730176-QAjh?utm_source=awesome-ai-market-maps)
 
 
