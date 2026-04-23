@@ -52,6 +52,7 @@ OR
 #### AI Agents
 - [Kevin Burke — Sapphire Ventures - Market Memo "Agents: Towards an Autonomous Future" - April 2026](https://www.linkedin.com/posts/kevinburkeutmba_agents-towards-an-autonomous-future-ugcPost-7452068558055948288-u87x?utm_source=awesome-ai-market-maps)
 - [Jordan Leites & Nikhil Goel — Norwest Venture Partners - From Click to Command: The Shift to Agentic Payments - April 2026](https://www.norwest.com/blog/agentic-payments/?utm_source=awesome-ai-market-maps)
+- [Chang Xu - Investing in the Open Source Agent Stack (part 2 of 2) - April 2026](https://www.basisset.com/insights/investing-in-the-open-source-agent-stack-part-2-of-2/?utm_source=awesome-ai-market-maps)
 
 #### AI Compute
 - [Grove Ventures - Data Center Infrastructure: Israeli Startup Ecosystem Map - April 2026](https://www.grovevc.com/israeli-startup-ecosystem-map/?utm_source=awesome-ai-market-maps)
