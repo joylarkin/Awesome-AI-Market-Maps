@@ -47,6 +47,16 @@ OR
 
 ## AI Market Maps - Q2 2026
 
+### May 2026
+
+#### Industrial AI
+- [Fay Goldstein - Israeli Industrial AI Market - May 2026](https://www.linkedin.com/posts/faygoldstein_over-the-past-two-weeks-ive-had-multiple-share-7456994844524109825-J_hy?utm_source=awesome-ai-market-maps)
+
+#### Robotics 
+- [Horizon AI - Global Cleaning Robots Market & Supply Chain Map (2026) - May 2026](https://www.linkedin.com/posts/global-cleaning-robots-market-supply-chain-share-7456207537722380289-8172?utm_source=awesome-ai-market-maps)
+
+
+***
 ### April 2026
 
 #### AI Agents
@@ -56,6 +66,12 @@ OR
 
 #### AI Compute
 - [Grove Ventures - Data Center Infrastructure: Israeli Startup Ecosystem Map - April 2026](https://www.grovevc.com/israeli-startup-ecosystem-map/?utm_source=awesome-ai-market-maps)
+
+#### Conversational AI
+- [Hemingway - Conversational AI in Mental Health Market Map - April 2026](https://www.linkedin.com/posts/stephenduke1_whos-building-conversational-ai-for-mental-share-7455257225775955968-LLGO?utm_source=awesome-ai-market-maps)
+
+#### AI Data
+- [Adam Liu & Jai Das & Adrian Kania — Sapphire Ventures - Reinforcement Learning: Learning by Doing - April 2026](https://sapphireventures.com/blog/reinforcement-learning-environments-ai-agents/?utm_source=awesome-ai-market-maps)
 
 #### Fintech AI
 - [i5invest - Office of CFO Tech Landscape - April 2026](https://www.linkedin.com/posts/herwigspringer_strategy-startups-growth-share-7445093478201499649-3ZxY/?utm_source=awesome-ai-market-maps)
@@ -68,6 +84,9 @@ OR
 
 #### Legal AI
 - [Legaltech Hub - LTH GenAI Legal Tech Map: March 2026 - April 2026](https://www.legaltechnologyhub.com/contents/lth-genai-legal-tech-map-march-2026/?utm_source=awesome-ai-market-maps)
+
+#### AI Native 
+- [Felix Frenzel — Kandan Capital - AI Native Services Market Map - April 2026](https://www.linkedin.com/posts/felixfrenzel_whos-going-to-win-the-incumbent-law-firm-share-7454687261637455872-8jzi?utm_source=awesome-ai-market-maps)
 
 #### Robotics 
 - [Hafeez Jimoh - Robotics Unicorn Companies 2026 - April 2026](https://www.linkedin.com/posts/jimohafeezco_the-robotics-market-geographic-split-is-more-share-7448390123349733377-NnH_/?utm_source=awesome-ai-market-maps)
