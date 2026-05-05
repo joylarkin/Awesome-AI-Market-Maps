@@ -49,6 +49,9 @@ OR
 
 ### May 2026
 
+#### AI Automation
+- [Shawn Carolan & Ryan Hand — Menlo Ventures - LLM-Enhanced Messaging: The Rise of Agentic Inboxes - May 2026](https://menlovc.com/perspective/llm-enhanced-messaging-the-rise-of-agentic-inboxes/?utm_source=awesome-ai-market-maps)
+
 #### Industrial AI
 - [Fay Goldstein - Israeli Industrial AI Market - May 2026](https://www.linkedin.com/posts/faygoldstein_over-the-past-two-weeks-ive-had-multiple-share-7456994844524109825-J_hy?utm_source=awesome-ai-market-maps)
 
