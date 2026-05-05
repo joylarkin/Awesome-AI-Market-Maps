@@ -92,6 +92,7 @@ OR
 - [Hafeez Jimoh - Robotics Unicorn Companies 2026 - April 2026](https://www.linkedin.com/posts/jimohafeezco_the-robotics-market-geographic-split-is-more-share-7448390123349733377-NnH_/?utm_source=awesome-ai-market-maps)
 - [IEEE RAS - Global Robotics Industry Funding Report Download Request - April 2026](https://docs.google.com/forms/d/e/1FAIpQLSc7oEObF8A-4yllX3T0tn0lDzrhBYxmIsYbiF7QXbawxmTIfw/viewform?utm_source=awesome-ai-market-maps)
 - [Greater Zurich Area - Robotics & intelligent systems in the Greater Zurich Area - April 2026](https://www.greaterzuricharea.com/en/robotics-intelligent-systems?utm_source=awesome-ai-market-maps)
+- [Jeremy Levine & Talia Goldberg & Janelle Teng Wade & Alexandra Sukin & Bhavik Nagda & Jason Scheller — Bessemer Venture Partners - Bessemer Predicts: Robotics and physical AI - April 2026](https://www.bvp.com/atlas/bessemer-predicts-robotics-and-physical-ai?utm_source=awesome-ai-market-maps)
 
 #### Scientific Discovery AI
 - [Andrew Hedin & Marla Jalbut, M.D. & Grace Dai — Bessemer Venture Partners - Building biology-native data infrastructure for the AI era - April 2026](https://www.bvp.com/atlas/building-biology-native-data-infrastructure-for-the-ai-era)
@@ -114,6 +115,7 @@ OR
 #### AI Everything Else
 - [Silicon Valley Bank - The AI Market Map for VC Backed Companies - April 2026](https://www.linkedin.com/posts/fun-news-tropic-was-recently-highlighted-share-7450011189922758656-V8EL?utm_source=awesome-ai-market-maps)
 - [Anirudh Sathya - Private Equity Firms by Competitive Advantages - April 2026](https://www.linkedin.com/posts/anirudh-sathya_privateequity-pe-dealmaking-share-7447427134647730176-QAjh?utm_source=awesome-ai-market-maps)
+- [Negar Rajabi - AI Investment Map 2026: Where Should You Build? - April 2026](https://medium.com/@negarra/ai-investment-map-2026-where-should-you-build-f8c055383d6d)
 
 
 ---
@@ -135,6 +137,9 @@ OR
 - [Matt Brown — Headline VC - Maslow's Hierarchy of Consumer AI - March 2026](https://headline.com/blog-latest/article-latest/maslows-hierarchy?utm_source=awesome-ai-market-maps)
 - [Mathilde Valin & Jeroen Arts & Sameer Singh — Speedinvest - Europe's Consumer Renaissance: A market map of early-stage European Consumer AI companies - March 2026](https://www.speedinvest.com/knowledge/europes-consumer-renaissance-a-market-map-of-early-stage-european-consumer-ai-companies?utm_source=awesome-ai-market-maps)
 - [Olivia Moore — a16z - The Top 100 Gen AI Consumer Apps 6th Edition - March 2026](https://a16z.com/100-gen-ai-apps-6/?utm_source=awesome-ai-market-maps)
+
+#### AI DevTools
+- [Yoko Li — a16z - A Deep Dive Into MCP and the Future of AI Tooling - March 2026](https://a16z.com/a-deep-dive-into-mcp-and-the-future-of-ai-tooling/?utm_source=awesome-ai-market-maps)
 
 #### Enterprise AI
 - [i5invest - Enterprise AI Market Map - March 2026](https://www.linkedin.com/posts/wagnermarkus_growth-tech-startups-share-7440035652542435328-NShb?utm_source=awesome-ai-market-maps)
@@ -168,6 +173,7 @@ OR
 
 #### Robotics 
 - [Jan Olsson — Extantia - European Robotics Market Map - March 2026](https://x.com/_jan_olsson_/status/2029484759408070696?utm_source=awesome-ai-market-maps)
+- [Petri Rajahalme & Sointu Karjalainen & Dave Haynes & David Ripert — FOV Ventures - FOV Robotics Market Map 2026: A Guide to the European Landscape - March 2026](https://viewpoints.fov.ventures/p/fov-robotics-market-map-2026?utm_source=awesome-ai-market-maps)
 
 #### Scientific Discovery AI
 - [Topology.vc - Scientific AI Map - March 2026](https://app.topology.vc/scientific-ai-map?utm_source=awesome-ai-market-maps)
