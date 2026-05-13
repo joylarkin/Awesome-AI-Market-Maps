@@ -61,6 +61,9 @@ OR
 #### Robotics 
 - [Horizon AI - Global Cleaning Robots Market & Supply Chain Map (2026) - May 2026](https://www.linkedin.com/posts/global-cleaning-robots-market-supply-chain-share-7456207537722380289-8172?utm_source=awesome-ai-market-maps)
 
+#### AI Security
+- [Notable Capital - The 30 Most Promising Private Cybersecurity Startups - May 2026](https://risingincyber.com)
+
 #### Top AI 
 - [CB Insights - AI 100: The most promising artificial intelligence startups of 2026 - May 2026](https://www.cbinsights.com/research/report/artificial-intelligence-top-startups-2026/?utm_source=awesome-ai-market-maps)
 
