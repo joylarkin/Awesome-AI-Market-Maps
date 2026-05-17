@@ -4,7 +4,7 @@ An Awesome List of Artificial Intelligence Startup Market Maps from 2026, 2025 a
 
 ***Now featuring over 400 AI Market Maps by top VCs, industry analysts, and AI practitioners.***   
 
-> Editor's insight → 1Q 2026 AI market map creation appears to have slowed compared to the pace we tracked in 2024-2025 especially for Tier 1 VCs, and the market maps being created are niche and/or geographically-focused. It seems as if AI investor sentiment is evolving in real time.
+> Editor's insight → 1H 2026 AI market map creation has slowed compared to the pace we tracked in 2024-2025 especially for Tier 1 VCs, and the market maps being created are niche and/or geographically-focused. We're witnessing AI investor sentiment evolving in real time.  
 
 As these things go, this awesome list was inspired out of an ongoing personal frustration — I have been searching for a frequently updated and well-resourced list of recent AI market maps, as I believe there is alpha in following the public conversation. Since I couldn't find a comprehensive resource which met my needs, I decided to build something substantial for the greater AI community.  
 
