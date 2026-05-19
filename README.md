@@ -49,11 +49,14 @@ OR
 
 ### May 2026
 
+#### AI Agents 
+- [Chuk Okpalugo - Agentic Finance Is More Than AI That Can Pay - May 2026](https://www.linkedin.com/pulse/agentic-finance-more-than-ai-can-pay-chuk-okpalugo-bo6bc/?utm_source=awesome-ai-market-maps)
+
 #### AI Automation
 - [Shawn Carolan & Ryan Hand — Menlo Ventures - LLM-Enhanced Messaging: The Rise of Agentic Inboxes - May 2026](https://menlovc.com/perspective/llm-enhanced-messaging-the-rise-of-agentic-inboxes/?utm_source=awesome-ai-market-maps)
 
 #### European AI
-- [RankMyAI - Zuid Holland, Amsterdam, Groningen, Dutch AI, Danish AI, Norwegian AI Market Maps - May 2026](https://www.rankmyai.com/maps)
+- [RankMyAI - Zuid Holland, Amsterdam, Groningen, Dutch AI, Danish AI, Norwegian AI Market Maps - May 2026](https://www.rankmyai.com/maps?utm_source=awesome-ai-market-maps)
 
 #### Industrial AI
 - [Fay Goldstein - Israeli Industrial AI Market - May 2026](https://www.linkedin.com/posts/faygoldstein_over-the-past-two-weeks-ive-had-multiple-share-7456994844524109825-J_hy?utm_source=awesome-ai-market-maps)
@@ -62,7 +65,10 @@ OR
 - [Horizon AI - Global Cleaning Robots Market & Supply Chain Map (2026) - May 2026](https://www.linkedin.com/posts/global-cleaning-robots-market-supply-chain-share-7456207537722380289-8172?utm_source=awesome-ai-market-maps)
 
 #### AI Security
-- [Notable Capital - The 30 Most Promising Private Cybersecurity Startups - May 2026](https://risingincyber.com)
+- [Notable Capital - The 30 Most Promising Private Cybersecurity Startups - May 2026](https://risingincyber.com?utm_source=awesome-ai-market-maps)
+
+#### AI Workforce
+- [Michael Slepikas - AI Native Workforce & Learning Intelligence Landscape - May 2026](https://www.linkedin.com/posts/slepikas_workforcedevelopment-futureofwork-learninganddevelopment-share-7462507765014556673-Jnw2?utm_source=awesome-ai-market-maps)
 
 #### Top AI 
 - [CB Insights - AI 100: The most promising artificial intelligence startups of 2026 - May 2026](https://www.cbinsights.com/research/report/artificial-intelligence-top-startups-2026/?utm_source=awesome-ai-market-maps)
