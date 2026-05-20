@@ -55,6 +55,9 @@ OR
 #### AI Automation
 - [Shawn Carolan & Ryan Hand — Menlo Ventures - LLM-Enhanced Messaging: The Rise of Agentic Inboxes - May 2026](https://menlovc.com/perspective/llm-enhanced-messaging-the-rise-of-agentic-inboxes/?utm_source=awesome-ai-market-maps)
 
+#### AI Compute
+- [Lindsey Li & Brielee Lu & Josh Hechtman & David Cowan  Bessemer Venture Partners - Roadmap: The AI data center stack - May 2026](https://www.bvp.com/atlas/roadmap-the-ai-data-center-stack)
+
 #### European AI
 - [RankMyAI - Zuid Holland, Amsterdam, Groningen, Dutch AI, Danish AI, Norwegian AI Market Maps - May 2026](https://www.rankmyai.com/maps?utm_source=awesome-ai-market-maps)
 
