@@ -9,7 +9,7 @@ An Awesome List of Artificial Intelligence Startup Market Maps from 2026, 2025 a
 As these things go, this awesome list was inspired out of an ongoing personal frustration — I have been searching for a frequently updated and well-resourced list of recent AI market maps, as I believe there is alpha in following the public conversation. Since I couldn't find a comprehensive resource which met my needs, I decided to build something substantial for the greater AI community.  
 
 METHODOLOGY  
-The list is currently organized by quarter, to illustrate hot AI topics as they are discussed and how fast the industry is evolving, with a specific focus on recent market maps from 2026 and 2025. The current data collection workflow includes [Google Gemini](https://gemini.google.com/app), [ChatGPT](https://chatgpt.com/), [Exa Websets](https://websets.exa.ai/), human-in-the-loop curation for "taste," and some other unlisted methods. 
+The list is currently organized by quarter, to illustrate hot AI topics as they are discussed and how fast the industry is evolving, with a specific focus on recent market maps from 2026 and 2025. The current data collection workflow includes [Claude](https://claude.ai), [Exa Websets](https://websets.exa.ai/), human-in-the-loop curation for "taste," and some other unlisted methods. 
 
 NOTES  
 The README.md file is regularly updated with new market maps, the CSV file is updated bimonthly.    
