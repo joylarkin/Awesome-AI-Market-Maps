@@ -66,6 +66,9 @@ OR
 #### Industrial AI
 - [Fay Goldstein - Israeli Industrial AI Market - May 2026](https://www.linkedin.com/posts/faygoldstein_over-the-past-two-weeks-ive-had-multiple-share-7456994844524109825-J_hy?utm_source=awesome-ai-market-maps)
 
+#### AI Infra 
+- [Redpoint - The InfraRed Report 2026 - May 2026](https://www.redpoint.com/reports/the-infrared-report-2026/?utm_source=awesome-ai-market-maps)
+
 #### Robotics 
 - [Horizon AI - Global Cleaning Robots Market & Supply Chain Map (2026) - May 2026](https://www.linkedin.com/posts/global-cleaning-robots-market-supply-chain-share-7456207537722380289-8172?utm_source=awesome-ai-market-maps)
 
