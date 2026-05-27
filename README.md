@@ -50,6 +50,7 @@ OR
 ### May 2026
 
 #### AI Agents 
+- [Maha Malik & Mira Amin & Kent Bennett & Charles Birnbaum — Bessemer Venture Partners - Agentic commerce: The rise of the delegated buyer - May 2026](https://www.bvp.com/atlas/agentic-commerce-the-rise-of-the-delegated-buyer?utm_source=awesome-ai-market-maps)  
 - [Chuk Okpalugo - Agentic Finance Is More Than AI That Can Pay - May 2026](https://www.linkedin.com/pulse/agentic-finance-more-than-ai-can-pay-chuk-okpalugo-bo6bc/?utm_source=awesome-ai-market-maps)
 
 #### AI Automation
@@ -59,6 +60,7 @@ OR
 - [Lindsey Li & Brielee Lu & Josh Hechtman & David Cowan — Bessemer Venture Partners - Roadmap: The AI data center stack - May 2026](https://www.bvp.com/atlas/roadmap-the-ai-data-center-stack?utm_source=awesome-ai-market-maps)
 
 #### European AI
+- [RAISE Ventures - Which startups are worth watching right now? (European early-stage map) - May 2026](https://www.linkedin.com/posts/raise-groupe_market-mapping-the-future-in-focus-2026-activity-7465391785037606912-6rhu?utm_source=awesome-ai-market-maps)
 - [RankMyAI - Zuid Holland, Amsterdam, Groningen, Dutch AI, Danish AI, Norwegian AI Market Maps - May 2026](https://www.rankmyai.com/maps?utm_source=awesome-ai-market-maps)
 
 #### Industrial AI
@@ -75,6 +77,9 @@ OR
 
 #### Top AI 
 - [CB Insights - AI 100: The most promising artificial intelligence startups of 2026 - May 2026](https://www.cbinsights.com/research/report/artificial-intelligence-top-startups-2026/?utm_source=awesome-ai-market-maps)
+
+#### AI Everything Else 
+- [Sean Jacobsohn & Nikhil Goel & David Somers & Kevin Schultz — Norwest Venture Partners & Storm Ventures - Mapping the Future of HR Tech - May 2026](https://www.norwest.com/blog/mapping-the-future-of-hr-tech/?utm_source=awesome-ai-market-maps)
 
 
 ***
