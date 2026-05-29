@@ -70,6 +70,9 @@ OR
 #### AI Infra 
 - [Redpoint - The InfraRed Report 2026 - May 2026](https://www.redpoint.com/reports/the-infrared-report-2026/?utm_source=awesome-ai-market-maps)
 
+#### Insurance AI
+- [Sruthi Ramaswami & Carolyn Wu & Brooke Chang — ICONIQ - Which Insurance AI Companies Will Matter in Ten Years? - May 2026](https://www.iconiq.com/growth/insights/which-insurance-ai-companies-will-matter-in-ten-years?utm_source=awesome-ai-market-maps)
+
 #### Robotics 
 - [Horizon AI - Global Cleaning Robots Market & Supply Chain Map (2026) - May 2026](https://www.linkedin.com/posts/global-cleaning-robots-market-supply-chain-share-7456207537722380289-8172?utm_source=awesome-ai-market-maps)
 
