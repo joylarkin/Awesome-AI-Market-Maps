@@ -58,6 +58,7 @@ OR
 
 #### AI Compute
 - [Lindsey Li & Brielee Lu & Josh Hechtman & David Cowan — Bessemer Venture Partners - Roadmap: The AI data center stack - May 2026](https://www.bvp.com/atlas/roadmap-the-ai-data-center-stack?utm_source=awesome-ai-market-maps)
+- [Rishi Maheshwari — Dallas VC - The Inference Market Map - May 2026](https://rishimaheshwari.substack.com/p/the-inference-market-map?utm_source=awesome-ai-market-maps)
 
 #### European AI
 - [RAISE Ventures - Which startups are worth watching right now? (European early-stage map) - May 2026](https://www.linkedin.com/posts/raise-groupe_market-mapping-the-future-in-focus-2026-activity-7465391785037606912-6rhu?utm_source=awesome-ai-market-maps)
@@ -82,6 +83,7 @@ OR
 - [CB Insights - AI 100: The most promising artificial intelligence startups of 2026 - May 2026](https://www.cbinsights.com/research/report/artificial-intelligence-top-startups-2026/?utm_source=awesome-ai-market-maps)
 
 #### AI Everything Else 
+- [Dealroom.co - Tech Ecosystem Index 2026 - May 2026](https://app.dealroom.co/tech-ecosystem-index?utm_source=awesome-ai-market-maps)
 - [Sean Jacobsohn & Nikhil Goel & David Somers & Kevin Schultz — Norwest Venture Partners & Storm Ventures - Mapping the Future of HR Tech - May 2026](https://www.norwest.com/blog/mapping-the-future-of-hr-tech/?utm_source=awesome-ai-market-maps)
 
 
@@ -122,6 +124,9 @@ OR
 - [IEEE RAS - Global Robotics Industry Funding Report Download Request - April 2026](https://docs.google.com/forms/d/e/1FAIpQLSc7oEObF8A-4yllX3T0tn0lDzrhBYxmIsYbiF7QXbawxmTIfw/viewform?utm_source=awesome-ai-market-maps)
 - [Greater Zurich Area - Robotics & intelligent systems in the Greater Zurich Area - April 2026](https://www.greaterzuricharea.com/en/robotics-intelligent-systems?utm_source=awesome-ai-market-maps)
 - [Jeremy Levine & Talia Goldberg & Janelle Teng Wade & Alexandra Sukin & Bhavik Nagda & Jason Scheller — Bessemer Venture Partners - Bessemer Predicts: Robotics and physical AI - April 2026](https://www.bvp.com/atlas/bessemer-predicts-robotics-and-physical-ai?utm_source=awesome-ai-market-maps)
+
+#### AI Services
+- [Kadan Capital - AI Native Services Market Map - April 2026](https://www.linkedin.com/posts/felixfrenzel_whos-going-to-win-the-incumbent-law-firm-activity-7454726086354944000-IdMh?utm_source=awesome-ai-market-maps)
 
 #### Scientific Discovery AI
 - [Andrew Hedin & Marla Jalbut, M.D. & Grace Dai — Bessemer Venture Partners - Building biology-native data infrastructure for the AI era - April 2026](https://www.bvp.com/atlas/building-biology-native-data-infrastructure-for-the-ai-era)
