@@ -86,6 +86,7 @@ OR
 - [CB Insights - AI 100: The most promising artificial intelligence startups of 2026 - May 2026](https://www.cbinsights.com/research/report/artificial-intelligence-top-startups-2026/?utm_source=awesome-ai-market-maps)
 
 #### AI Everything Else 
+- [Ally Bell - Blue Bottle x VC SF - May 2026](https://bottle.blue/?utm_source=awesome-ai-market-maps)
 - [Dealroom.co - Tech Ecosystem Index 2026 - May 2026](https://app.dealroom.co/tech-ecosystem-index?utm_source=awesome-ai-market-maps)
 - [Sean Jacobsohn & Nikhil Goel & David Somers & Kevin Schultz — Norwest Venture Partners & Storm Ventures - Mapping the Future of HR Tech - May 2026](https://www.norwest.com/blog/mapping-the-future-of-hr-tech/?utm_source=awesome-ai-market-maps)
 
