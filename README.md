@@ -47,6 +47,13 @@ OR
 
 ## AI Market Maps - Q2 2026
 
+### June 2026
+
+#### AI DevTools
+- [Yoko Li — a16z - The Next Frontier of Visual AI Is Code - June 2026](https://x.com/stuffyokodraws/status/2061824755813306779?utm_source=awesome-ai-market-maps) 
+
+
+***
 ### May 2026
 
 #### AI Agents 
