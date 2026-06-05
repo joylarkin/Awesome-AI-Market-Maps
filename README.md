@@ -50,7 +50,16 @@ OR
 ### June 2026
 
 #### AI DevTools
-- [Yoko Li — a16z - The Next Frontier of Visual AI Is Code - June 2026](https://x.com/stuffyokodraws/status/2061824755813306779?utm_source=awesome-ai-market-maps) 
+- [Yoko Li — a16z - The Next Frontier of Visual AI Is Code - June 2026](https://x.com/stuffyokodraws/status/2061824755813306779?utm_source=awesome-ai-market-maps)
+
+#### Fintech AI 
+- [CB Insights - The fraud prevention market map: 200+ companies building fraud & trust infrastructure for the AI era - June 2026](https://www.cbinsights.com/research/report/the-fraud-prevention-market-map-for-the-ai-era/?utm_source=awesome-ai-market-maps)
+
+#### AI Security
+- [Cloud Security Alliance - Agentic AI Security Innovator Market Map - June 2026](https://cloudsecurityalliance.org/artifacts/csa-innovator-market-map?utm_source=awesome-ai-market-maps)
+
+#### AI Everything Else 
+- [Drone Industry Insights - Drone Market Map 2026: 1,413 Drone Industry Companies in One Infographic - June 2026](https://droneii.com/drone-market-map-2026?utm_source=awesome-ai-market-maps)
 
 
 ***
@@ -59,6 +68,7 @@ OR
 #### AI Agents 
 - [Maha Malik & Mira Amin & Kent Bennett & Charles Birnbaum — Bessemer Venture Partners - Agentic commerce: The rise of the delegated buyer - May 2026](https://www.bvp.com/atlas/agentic-commerce-the-rise-of-the-delegated-buyer?utm_source=awesome-ai-market-maps)  
 - [Chuk Okpalugo - Agentic Finance Is More Than AI That Can Pay - May 2026](https://www.linkedin.com/pulse/agentic-finance-more-than-ai-can-pay-chuk-okpalugo-bo6bc/?utm_source=awesome-ai-market-maps)
+- [Riccardo Arvizzigno - Agentic Commerce in 2026 - May 2026](https://onworkingmodels.substack.com/p/agentic-commerce-in-2026?utm_source=awesome-ai-market-maps)
 
 #### AI Automation
 - [Shawn Carolan & Ryan Hand — Menlo Ventures - LLM-Enhanced Messaging: The Rise of Agentic Inboxes - May 2026](https://menlovc.com/perspective/llm-enhanced-messaging-the-rise-of-agentic-inboxes/?utm_source=awesome-ai-market-maps)
@@ -96,6 +106,7 @@ OR
 - [Ally Bell - Blue Bottle x VC SF - May 2026](https://bottle.blue/?utm_source=awesome-ai-market-maps)
 - [Dealroom.co - Tech Ecosystem Index 2026 - May 2026](https://app.dealroom.co/tech-ecosystem-index?utm_source=awesome-ai-market-maps)
 - [Sean Jacobsohn & Nikhil Goel & David Somers & Kevin Schultz — Norwest Venture Partners & Storm Ventures - Mapping the Future of HR Tech - May 2026](https://www.norwest.com/blog/mapping-the-future-of-hr-tech/?utm_source=awesome-ai-market-maps)
+- [Machine Cinema - AI Creative Market Map - The Tools of the New Craft - May 2026](https://text.machinecinema.ai/p/ai-creative-market-map-the-tools?utm_source=awesome-ai-market-maps)
 
 
 ***
