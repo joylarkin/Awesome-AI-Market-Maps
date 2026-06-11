@@ -49,11 +49,22 @@ OR
 
 ### June 2026
 
+#### AI Agents 
+- [CB Insights - The agentic commerce market map - June 2026](https://www.cbinsights.com/learn/agentic-commerce-market-map?utm_source=awesome-ai-market-maps)
+- [Rishi Maheshwari — Dallas VC - Who Owns Memory? The Market Map for AI Agents' Missing State Layer - June 2026](https://rishimaheshwari.substack.com/p/who-owns-memory-the-market-map-for?r=28d067?utm_source=awesome-ai-market-maps)
+- [Cala - The AI Context Layer Market Map - June 2026](https://docs.google.com/presentation/d/1VD2yMLKKv3NJfvJOdjQ8EEJoezxLQJbO_Ki6JWHJMso/edit?slide=id.p1#slide=id.p1?utm_source=awesome-ai-market-maps)
+
 #### AI DevTools
 - [Yoko Li — a16z - The Next Frontier of Visual AI Is Code - June 2026](https://x.com/stuffyokodraws/status/2061824755813306779?utm_source=awesome-ai-market-maps)
 
+#### AI Drug Discovery
+- [Advika Jalan & Charlotte Barttelot — MMC Ventures - AI x TechBio: Featuring the future of drug discovery - June 2026](https://mmc.vc/research/ai-x-techbio-featuring-the-future-of-drug-discovery/?utm_source=awesome-ai-market-maps)
+
 #### Fintech AI 
 - [CB Insights - The fraud prevention market map: 200+ companies building fraud & trust infrastructure for the AI era - June 2026](https://www.cbinsights.com/research/report/the-fraud-prevention-market-map-for-the-ai-era/?utm_source=awesome-ai-market-maps)
+
+#### AI Native 
+- [Andrei Rebrov - The AI Native E-Commerce Services Market Map - June 2026](https://www.linkedin.com/posts/andrebrov_ecommerce-dtc-shopify-share-7469728481367625728-AVJt/?utm_source=awesome-ai-market-maps)
 
 #### AI Security
 - [Cloud Security Alliance - Agentic AI Security Innovator Market Map - June 2026](https://cloudsecurityalliance.org/artifacts/csa-innovator-market-map?utm_source=awesome-ai-market-maps)
