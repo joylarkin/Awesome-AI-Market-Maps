@@ -68,6 +68,9 @@ OR
 #### AI Native 
 - [Andrei Rebrov - The AI Native E-Commerce Services Market Map - June 2026](https://www.linkedin.com/posts/andrebrov_ecommerce-dtc-shopify-share-7469728481367625728-AVJt/?utm_source=awesome-ai-market-maps)
 
+#### AI Neolabs
+- [Rich Kotite & Aaron Rosenberg — Radical Ventures - The Rise of NeoLabs - June 2026](https://radical.vc/the-rise-of-the-neolab/?utm_source=awesome-ai-market-maps)
+
 #### AI Security
 - [Cloud Security Alliance - Agentic AI Security Innovator Market Map - June 2026](https://cloudsecurityalliance.org/artifacts/csa-innovator-market-map?utm_source=awesome-ai-market-maps)
 
