@@ -70,6 +70,7 @@ OR
 
 #### AI Neolabs
 - [Rich Kotite & Aaron Rosenberg — Radical Ventures - The Rise of NeoLabs - June 2026](https://radical.vc/the-rise-of-the-neolab/?utm_source=awesome-ai-market-maps)
+- [Nick Grossman — USV - The Rebel Alliance - June 2026](https://x.com/nickgrossman/status/2070181707613937866?utm_source=awesome-ai-market-maps)
 
 #### AI Security
 - [Cloud Security Alliance - Agentic AI Security Innovator Market Map - June 2026](https://cloudsecurityalliance.org/artifacts/csa-innovator-market-map?utm_source=awesome-ai-market-maps)
