@@ -65,6 +65,12 @@ OR
 #### Fintech AI 
 - [CB Insights - The fraud prevention market map: 200+ companies building fraud & trust infrastructure for the AI era - June 2026](https://www.cbinsights.com/research/report/the-fraud-prevention-market-map-for-the-ai-era/?utm_source=awesome-ai-market-maps)
 
+#### Healthcare AI
+- [Next Kin Partner - Healthcare voice AI isn't one market: a map of who the AI talks to - June 2026](https://nkpartner.com/insights/healthcare-voice-ai-market-map?utm_source=awesome-ai-market-maps)
+
+#### AI Infrastructure
+- [Team8 - AI Infrastructure's Big Opportunity: The Reliability Layer - June 2026](https://team8.vc/ai-infrastructure/?utm_source=awesome-ai-market-maps)
+
 #### AI Native 
 - [Andrei Rebrov - The AI Native E-Commerce Services Market Map - June 2026](https://www.linkedin.com/posts/andrebrov_ecommerce-dtc-shopify-share-7469728481367625728-AVJt/?utm_source=awesome-ai-market-maps)
 
@@ -245,6 +251,7 @@ OR
 - [Jeremy Levine & Alex Ferrara & Talia Goldberg & David Cowan & Alexandra Sukin & Bhavik Nagda & Jason Scheller — Bessemer Venture Partners - 50 startups transforming industries with physical AI - March 2026](https://www.bvp.com/atlas/50-startups-transforming-industries-with-physical-ai?utm_source=awesome-ai-market-maps)
 
 #### Robotics 
+- [Jeremy Levine & Alex Ferrara & Talia Goldberg & David Cowan & Alexandra Sukin & Bhavik Nagda & Jason Scheller — Bessemer Venture Partners - 50 startups transforming industries with physical AI - March 2026](https://www.bvp.com/atlas/50-startups-transforming-industries-with-physical-ai?utm_source=awesome-ai-market-maps)
 - [Jan Olsson — Extantia - European Robotics Market Map - March 2026](https://x.com/_jan_olsson_/status/2029484759408070696?utm_source=awesome-ai-market-maps)
 - [Petri Rajahalme & Sointu Karjalainen & Dave Haynes & David Ripert — FOV Ventures - FOV Robotics Market Map 2026: A Guide to the European Landscape - March 2026](https://viewpoints.fov.ventures/p/fov-robotics-market-map-2026?utm_source=awesome-ai-market-maps)
 
