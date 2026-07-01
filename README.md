@@ -45,6 +45,21 @@ OR
 ## ▦ MARKET MAPS ▦  
 
 
+---
+## AI Market Maps - Q3 2026
+
+### July 2026
+
+#### AI Compute 
+- [Air Street Press - State of AI Report Compute Index 2026 - July 2026](https://press.airstreet.com/p/state-of-ai-compute-index-june-2026?utm_source=awesome-ai-market-maps)
+- [Space Insider - Orbital Data Center Market Map - July 2026](https://www.linkedin.com/posts/orbital-data-center-segment-market-map-ugcPost-7478030072696889344-0TkZ/?utm_source=awesome-ai-market-maps)
+
+#### Enterprise AI 
+- [i5 invest - Enterprise AI Market Map - July 2026](https://www.linkedin.com/posts/henrymorley_growth-tech-startups-share-7478104696231120897-oKXI/?utm_source=awesome-ai-market-maps)
+- [Hitachi Ventures - The Emerging Enterprise Agentic AI Stack - July 2026](https://medium.com/@HitachiVentures/the-emerging-enterprise-agentic-ai-stack-bbce1d451d2d?utm_source=awesome-ai-market-maps)
+
+
+---
 ## AI Market Maps - Q2 2026
 
 ### June 2026
