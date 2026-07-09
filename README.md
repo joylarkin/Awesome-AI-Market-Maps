@@ -53,6 +53,7 @@ OR
 #### AI Compute 
 - [Air Street Press - State of AI Report Compute Index 2026 - July 2026](https://press.airstreet.com/p/state-of-ai-compute-index-june-2026?utm_source=awesome-ai-market-maps)
 - [Space Insider - Orbital Data Center Market Map - July 2026](https://www.linkedin.com/posts/orbital-data-center-segment-market-map-ugcPost-7478030072696889344-0TkZ/?utm_source=awesome-ai-market-maps)
+- [Ivana Delevska - AI Hardware Value Chain - July 2026](https://www.linkedin.com/posts/ivana-delevska-503a341b3_semiconductors-aiinvesting-artificialintelligence-share-7479928339416190976-Z62w/?utm_source=awesome-ai-market-maps)
 
 #### AI Devtools 
 - [Rishi Maheshwari — Dallas VC - Stop Prompting. Start Looping. - July 2026](https://rishimaheshwari.substack.com/p/stop-prompting-start-looping?utm_source=awesome-ai-market-maps)
@@ -61,8 +62,17 @@ OR
 - [i5 invest - Enterprise AI Market Map - July 2026](https://www.linkedin.com/posts/henrymorley_growth-tech-startups-share-7478104696231120897-oKXI/?utm_source=awesome-ai-market-maps)
 - [Hitachi Ventures - The Emerging Enterprise Agentic AI Stack - July 2026](https://medium.com/@HitachiVentures/the-emerging-enterprise-agentic-ai-stack-bbce1d451d2d?utm_source=awesome-ai-market-maps)
 
+#### AI Finance 
+- [Open Future Forum - The CFO AI Market Map - July 2026](https://openfutureforum.com/research/cfo-ai-market-map?utm_source=awesome-ai-market-maps)
+
 #### Physical AI
 - [Jens Peder Kristensen - Physical AI Software Landscape - July 2026](https://www.linkedin.com/posts/jens-peder-kristensen_stop-looking-at-the-robot-bodies-the-share-7478405784897269761-BBnN/?utm_source=awesome-ai-market-maps)
+
+#### AI Security
+- [Richard Stiennon - Guardians of the Machine Age - July 2026](https://guardiansofthemachineage.com/?utm_source=awesome-ai-market-maps)
+
+#### AI Everything Else
+- [Arcadia Capital - Mapping the AI Economy - July 2026](https://www.linkedin.com/posts/119-pages-3-market-maps-33-sub-segments-ugcPost-7480698068246376448-3UZS/?utm_source=awesome-ai-market-maps)
 
 
 ---
@@ -77,6 +87,7 @@ OR
 - [Justine Moore  a16z - AI Assistants in iMessage Market Map - June 2026](https://www.linkedin.com/posts/justinemoore94_new-market-map-bringing-ai-assistants-to-share-7470683444050583552-u9c0/?utm_source=awesome-ai-market-maps)
 
 #### AI DevTools
+- [Advika Jalan & Simon Menashy & Prakriti Roy — MMC Ventures - AI Tokenomics: How to tokenmin while ROImaxxing - June 2026](https://mmc.vc/research/ai-tokenomics-how-to-tokenmin-while-roimaxxing/?utm_source=awesome-ai-market-maps)
 - [Yoko Li — a16z - The Next Frontier of Visual AI Is Code - June 2026](https://x.com/stuffyokodraws/status/2061824755813306779?utm_source=awesome-ai-market-maps)
 
 #### AI Drug Discovery
