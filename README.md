@@ -71,6 +71,9 @@ OR
 #### AI Security
 - [Richard Stiennon - Guardians of the Machine Age - July 2026](https://guardiansofthemachineage.com/?utm_source=awesome-ai-market-maps)
 
+#### Top AI 
+- [Jonathan Userovici & Astrid Moullé-Berteaux & Cyprien Benoist — Headline VC - AI Europe 100 · 2026 - July 2026](https://headline.com/blog-latest/article-latest/ai-europe-100-2026?utm_source=awesome-ai-market-maps)
+
 #### AI Everything Else
 - [Arcadia Capital - Mapping the AI Economy - July 2026](https://www.linkedin.com/posts/119-pages-3-market-maps-33-sub-segments-ugcPost-7480698068246376448-3UZS/?utm_source=awesome-ai-market-maps)
 
