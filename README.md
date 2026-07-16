@@ -56,6 +56,7 @@ OR
 - [Ivana Delevska - AI Hardware Value Chain - July 2026](https://www.linkedin.com/posts/ivana-delevska-503a341b3_semiconductors-aiinvesting-artificialintelligence-share-7479928339416190976-Z62w/?utm_source=awesome-ai-market-maps)
 
 #### AI Devtools 
+- [Denise Teng — Gradient - Coding Agents 2.0: Interface, Inference, and Verification - July 2026](https://www.gradient.com/blog/posts/coding-agents-2/?utm_source=awesome-ai-market-maps)
 - [Rishi Maheshwari — Dallas VC - Stop Prompting. Start Looping. - July 2026](https://rishimaheshwari.substack.com/p/stop-prompting-start-looping?utm_source=awesome-ai-market-maps)
 
 #### Enterprise AI 
@@ -65,8 +66,15 @@ OR
 #### AI Finance 
 - [Open Future Forum - The CFO AI Market Map - July 2026](https://openfutureforum.com/research/cfo-ai-market-map?utm_source=awesome-ai-market-maps)
 
+#### Healthcare AI
+- [Dentaiware - Dental AI & Software Market Map - July 2026](https://dentaiware.com/market-map?utm_source=awesome-ai-market-maps)
+
+#### Insurance AI
+- [Milennia Capital - AI in Insurance and Financial Market Map - July 2026](https://www.linkedin.com/posts/andreww-grayy_ai-insurance-insurtech-share-7483537286115287041-kOpk/?utm_source=awesome-ai-market-maps)
+
 #### Physical AI
 - [Jens Peder Kristensen - Physical AI Software Landscape - July 2026](https://www.linkedin.com/posts/jens-peder-kristensen_stop-looking-at-the-robot-bodies-the-share-7478405784897269761-BBnN/?utm_source=awesome-ai-market-maps)
+- [Ashish Kakran — Seligman Ventures - Physical AI Market Map - July 2026](https://www.linkedin.com/posts/kakran_physicalai-robotics-worldmodels-share-7483596265830653955-tT4W/?utm_source=awesome-ai-market-maps)
 
 #### AI Security
 - [Richard Stiennon - Guardians of the Machine Age - July 2026](https://guardiansofthemachineage.com/?utm_source=awesome-ai-market-maps)
