@@ -75,6 +75,7 @@ OR
 #### Physical AI
 - [Jens Peder Kristensen - Physical AI Software Landscape - July 2026](https://www.linkedin.com/posts/jens-peder-kristensen_stop-looking-at-the-robot-bodies-the-share-7478405784897269761-BBnN/?utm_source=awesome-ai-market-maps)
 - [Ashish Kakran — Seligman Ventures - Physical AI Market Map - July 2026](https://www.linkedin.com/posts/kakran_physicalai-robotics-worldmodels-share-7483596265830653955-tT4W/?utm_source=awesome-ai-market-maps)
+- [10D - Israeli Physical AI Map - July 2026](https://www.10d.vc/2026/07/15/israeli-physical-ai-map/?utm_source=awesome-ai-market-maps)
 
 #### AI Security
 - [Richard Stiennon - Guardians of the Machine Age - July 2026](https://guardiansofthemachineage.com/?utm_source=awesome-ai-market-maps)
