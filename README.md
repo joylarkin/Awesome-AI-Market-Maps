@@ -48,12 +48,34 @@ OR
 ---
 ## AI Market Maps - Q3 2026
 
+### August 2026
+
+#### AI Agents
+- [Regents - The Agentic AI Market Map: 243 Companies Building the Stack Around Models - August 2026](https://x.com/regents_sh/article/2087642721653841997?utm_source=awesome-ai-market-maps)
+
+#### AI Finance 
+- [Solve - AI vendors in Wealth Management - August 2026](https://solvetogether.co.uk/our-services/ai-map/?utm_source=awesome-ai-market-maps)
+
+#### AI Hardware Tools
+- [Jonathan Beri - AI Hardware Tools Startups - August 2026](https://lnkd.in/p/gQPGx3Ki?utm_source=awesome-ai-market-maps)
+
+#### AI Healthcare
+- [Confido Health & Healthcare AI Guy - The Outpatient Provider Agentic AI Market Map - August 2026](https://lnkd.in/p/gSQAyHvu?utm_source=awesome-ai-market-maps)
+
+#### Industrial AI 
+- [Michael Finocchiaro - The Case for Adaptive: The Money Has Already Voted - August 2026](https://www.linkedin.com/pulse/case-adaptive-money-has-already-voted-michael-finocchiaro-mbage/?utm_source=awesome-ai-market-maps)
+
+
+***
 ### July 2026
 
 #### AI Compute 
 - [Air Street Press - State of AI Report Compute Index 2026 - July 2026](https://press.airstreet.com/p/state-of-ai-compute-index-june-2026?utm_source=awesome-ai-market-maps)
 - [Space Insider - Orbital Data Center Market Map - July 2026](https://www.linkedin.com/posts/orbital-data-center-segment-market-map-ugcPost-7478030072696889344-0TkZ/?utm_source=awesome-ai-market-maps)
 - [Ivana Delevska - AI Hardware Value Chain - July 2026](https://www.linkedin.com/posts/ivana-delevska-503a341b3_semiconductors-aiinvesting-artificialintelligence-share-7479928339416190976-Z62w/?utm_source=awesome-ai-market-maps)
+
+#### DefenseTech
+- [Steve Leightell & Ben Wilde & Simon Chong — Georgian - AI Landscape Series: AI in Defense - July 2026](https://georgian.io/posts/ai-landscape-series-defense-ai?utm_source=awesome-ai-market-maps)
 
 #### AI Devtools 
 - [Denise Teng — Gradient - Coding Agents 2.0: Interface, Inference, and Verification - July 2026](https://www.gradient.com/blog/posts/coding-agents-2/?utm_source=awesome-ai-market-maps)
@@ -76,6 +98,7 @@ OR
 - [Jens Peder Kristensen - Physical AI Software Landscape - July 2026](https://www.linkedin.com/posts/jens-peder-kristensen_stop-looking-at-the-robot-bodies-the-share-7478405784897269761-BBnN/?utm_source=awesome-ai-market-maps)
 - [Ashish Kakran — Seligman Ventures - Physical AI Market Map - July 2026](https://www.linkedin.com/posts/kakran_physicalai-robotics-worldmodels-share-7483596265830653955-tT4W/?utm_source=awesome-ai-market-maps)
 - [10D - Israeli Physical AI Map - July 2026](https://www.10d.vc/2026/07/15/israeli-physical-ai-map/?utm_source=awesome-ai-market-maps)
+- [Daniel Lee — The Deal Machine - The Anatomy of Physical AI - July 2026](https://www.linkedin.com/pulse/anatomy-physical-ai-daniel-lee-sebie/?utm_source=awesome-ai-market-maps)
 
 #### AI Security
 - [Richard Stiennon - Guardians of the Machine Age - July 2026](https://guardiansofthemachineage.com/?utm_source=awesome-ai-market-maps)
