@@ -53,6 +53,9 @@ OR
 #### AI Agents
 - [Regents - The Agentic AI Market Map: 243 Companies Building the Stack Around Models - August 2026](https://x.com/regents_sh/article/2087642721653841997?utm_source=awesome-ai-market-maps)
 
+#### European AI 
+- [Awi Lifshitz — Headline VC - 27 Startups Shaping Europe's Future - August 2026](https://www.linkedin.com/posts/awilifshitz_europe-now-has-its-own-ai-category-leaders-activity-7490407539289939968-XDUI?utm_source=awesome-ai-market-maps)
+
 #### AI Finance 
 - [Solve - AI vendors in Wealth Management - August 2026](https://solvetogether.co.uk/our-services/ai-map/?utm_source=awesome-ai-market-maps)
 
@@ -64,6 +67,12 @@ OR
 
 #### Industrial AI 
 - [Michael Finocchiaro - The Case for Adaptive: The Money Has Already Voted - August 2026](https://www.linkedin.com/pulse/case-adaptive-money-has-already-voted-michael-finocchiaro-mbage/?utm_source=awesome-ai-market-maps)
+
+#### AI Services 
+- [Itay Inbar & Jason Cohen — Greenfield Growth - As AI takes over services, who keeps the gain? - August 2026](https://www.greenfield-growth.com/knowledge/ai-in-services/?utm_source=awesome-ai-market-maps)
+
+#### Quantum 
+- [Ines Goetschel — Balderton - Market Map of European Quantum Companies - August 2026](https://www.linkedin.com/posts/activity-7488608450999095296-Usrg?utm_source=awesome-ai-market-maps)
 
 
 ***
