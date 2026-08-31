@@ -72,7 +72,7 @@ OR
 - [Michael Finocchiaro - The Case for Adaptive: The Money Has Already Voted - August 2026](https://www.linkedin.com/pulse/case-adaptive-money-has-already-voted-michael-finocchiaro-mbage/?utm_source=awesome-ai-market-maps)
 
 #### Physical AI
-[Adam Liu & Adrian Kania & Lou Segall & Jake Randall — Sapphire Ventures - Physical AI: The Countdown to Robotics’ ChatGPT Moment - August 2026](https://sapphireventures.com/blog/physical-ai-chatgpt-moment/?utm_source=awesome-ai-market-maps)
+- [Adam Liu & Adrian Kania & Lou Segall & Jake Randall — Sapphire Ventures - Physical AI: The Countdown to Robotics’ ChatGPT Moment - August 2026](https://sapphireventures.com/blog/physical-ai-chatgpt-moment/?utm_source=awesome-ai-market-maps)
 
 #### AI Services 
 - [Itay Inbar & Jason Cohen — Greenfield Growth - As AI takes over services, who keeps the gain? - August 2026](https://www.greenfield-growth.com/knowledge/ai-in-services/?utm_source=awesome-ai-market-maps)
