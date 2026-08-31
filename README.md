@@ -53,6 +53,9 @@ OR
 #### AI Agents
 - [Regents - The Agentic AI Market Map: 243 Companies Building the Stack Around Models - August 2026](https://x.com/regents_sh/article/2087642721653841997?utm_source=awesome-ai-market-maps)
 
+#### Applied AI
+- [Matt McIlwain & Rolanda Fu — Madrona Ventures - Introducing the 2026 Intelligent Applications 40 - August 2026](https://www.madrona.com/ia40-intelligent-applications-40-2026/?utm_source=awesome-ai-market-maps)
+
 #### European AI 
 - [Awi Lifshitz — Headline VC - 27 Startups Shaping Europe's Future - August 2026](https://www.linkedin.com/posts/awilifshitz_europe-now-has-its-own-ai-category-leaders-activity-7490407539289939968-XDUI?utm_source=awesome-ai-market-maps)
 
@@ -67,6 +70,9 @@ OR
 
 #### Industrial AI 
 - [Michael Finocchiaro - The Case for Adaptive: The Money Has Already Voted - August 2026](https://www.linkedin.com/pulse/case-adaptive-money-has-already-voted-michael-finocchiaro-mbage/?utm_source=awesome-ai-market-maps)
+
+#### Physical AI
+[Adam Liu & Adrian Kania & Lou Segall & Jake Randall — Sapphire Ventures - Physical AI: The Countdown to Robotics’ ChatGPT Moment - August 2026](https://sapphireventures.com/blog/physical-ai-chatgpt-moment/?utm_source=awesome-ai-market-maps)
 
 #### AI Services 
 - [Itay Inbar & Jason Cohen — Greenfield Growth - As AI takes over services, who keeps the gain? - August 2026](https://www.greenfield-growth.com/knowledge/ai-in-services/?utm_source=awesome-ai-market-maps)
