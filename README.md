@@ -134,6 +134,7 @@ OR
 
 #### AI Everything Else
 - [Arcadia Capital - Mapping the AI Economy - July 2026](https://www.linkedin.com/posts/119-pages-3-market-maps-33-sub-segments-ugcPost-7480698068246376448-3UZS/?utm_source=awesome-ai-market-maps)
+- [Andre Retterath — Earlybird Venture Capital - Data-Driven VC Landscape 2026 - July 2026](https://datadrivenvc.io/ddvc-landscape-2026?utm_source=awesome-ai-market-maps)
 
 
 ---
@@ -154,6 +155,7 @@ OR
 #### AI Drug Discovery
 - [Advika Jalan & Charlotte Barttelot — MMC Ventures - AI x TechBio: Featuring the future of drug discovery - June 2026](https://mmc.vc/research/ai-x-techbio-featuring-the-future-of-drug-discovery/?utm_source=awesome-ai-market-maps)
 - [Synaptic - AI in Drug Development Market Map - June 2026](https://x.com/synaptic_data/status/2065080899952378258?utm_source=awesome-ai-market-maps)
+- [Cathy Gao & Aditya Reddy & Jasmine Yang & Misty Liao — Sapphire Ventures - How AI is Rewiring the Drug Development Stack - June 2026](https://sapphireventures.com/blog/how-ai-is-rewiring-the-drug-development-stack/?utm_source=awesome-ai-market-maps)
 
 #### Fintech AI 
 - [CB Insights - The fraud prevention market map: 200+ companies building fraud & trust infrastructure for the AI era - June 2026](https://www.cbinsights.com/research/report/the-fraud-prevention-market-map-for-the-ai-era/?utm_source=awesome-ai-market-maps)
