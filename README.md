@@ -146,7 +146,7 @@ OR
 - [CB Insights - The agentic commerce market map - June 2026](https://www.cbinsights.com/learn/agentic-commerce-market-map?utm_source=awesome-ai-market-maps)
 - [Rishi Maheshwari — Dallas VC - Who Owns Memory? The Market Map for AI Agents' Missing State Layer - June 2026](https://rishimaheshwari.substack.com/p/who-owns-memory-the-market-map-for?r=28d067?utm_source=awesome-ai-market-maps)
 - [Cala - The AI Context Layer Market Map - June 2026](https://docs.google.com/presentation/d/1VD2yMLKKv3NJfvJOdjQ8EEJoezxLQJbO_Ki6JWHJMso/edit?slide=id.p1#slide=id.p1?utm_source=awesome-ai-market-maps)
-- [Justine Moore  a16z - AI Assistants in iMessage Market Map - June 2026](https://www.linkedin.com/posts/justinemoore94_new-market-map-bringing-ai-assistants-to-share-7470683444050583552-u9c0/?utm_source=awesome-ai-market-maps)
+- [Justine Moore — a16z - AI Assistants in iMessage Market Map - June 2026](https://www.linkedin.com/posts/justinemoore94_new-market-map-bringing-ai-assistants-to-share-7470683444050583552-u9c0/?utm_source=awesome-ai-market-maps)
 
 #### AI DevTools
 - [Advika Jalan & Simon Menashy & Prakriti Roy — MMC Ventures - AI Tokenomics: How to tokenmin while ROImaxxing - June 2026](https://mmc.vc/research/ai-tokenomics-how-to-tokenmin-while-roimaxxing/?utm_source=awesome-ai-market-maps)
