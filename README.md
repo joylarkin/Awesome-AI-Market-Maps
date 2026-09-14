@@ -788,7 +788,6 @@ OR
 - [Remarkable Ventures Climate - Our AI x Energy Market Map - July 2025](https://www.linkedin.com/posts/remarkable-ventures-climate_climate-climateai-aienergy-activity-7351259697485627392-vLCv?utm_source=awesome-ai-market-maps)
 
 #### Enterprise AI
-- [George Mathew & Hunter Korn & Ash Tutika & William Blackwell - Insight Partners - The race to secure enterprise AI - July 2025](https://www.insightpartners.com/ideas/securing-ai/?utm_source=awesome-ai-market-maps)
 
 #### Fintech AI
 - [Noah Gross — Scale Venture Partners - Where’s my AI banker? Why financial services is lagging on AI adoption - July 2025](https://www.scalevp.com/insights/wheres-my-ai-banker-why-financial-services-is-lagging-on-ai-adoption/?utm_source=awesome-ai-market-maps)
@@ -813,7 +812,7 @@ OR
 - [Pi Labs - Real AI for Real Assets - July 2025](https://www.linkedin.com/posts/pi-labs-ltd-_sneak-peek-of-the-paper-activity-7349020184923283458-Fu0r?utm_source=awesome-ai-market-maps)
 
 #### AI Security
-- [Insight Ventures - The race to secure enterprise AI - July 2025](https://www.insightpartners.com/ideas/securing-ai/?utm_source=awesome-ai-market-maps)
+- [George Mathew & Hunter Korn & Ash Tutika & William Blackwell — Insight Partners - The race to secure enterprise AI - July 2025](https://www.insightpartners.com/ideas/securing-ai/?utm_source=awesome-ai-market-maps)
 
 #### Voice AI
 - [Inside/VC - Voice AI Market Map - July 2025](https://www.linkedin.com/posts/insidevc_voice-infrastructure-middleware-activity-7354086305967865858-1M1z?utm_source=awesome-ai-market-maps)
@@ -901,7 +900,6 @@ OR
 - [CB Insights - The AI in drug R&D market map - May 2025](https://www.cbinsights.com/research/ai-drug-research-development-market-map/?utm_source=awesome-ai-market-maps)
 
 #### Enterprise AI 
-- [Lightspeed - AI Enterprise Market Map: Cutting through the hype - May 2025](https://lsvp.com/stories/ai-enterprise-market-map-cutting-through-the-hype/?utm_source=awesome-ai-market-maps)
 
 #### AI Hardware and Inference
 - [AI Insider - Market Map: AI Hardware and Datacenter enablers - May 2025](https://www.linkedin.com/posts/ai-insider-intel_ai-chips-gpus-activity-7329150192421703683-k4uw?utm_source=awesome-ai-market-maps)
@@ -1263,7 +1261,7 @@ OR
 ### August 2024
 
 #### Enterprise AI
-- [Lightspeed - AI Enterprise Market Map: Cutting Throught The Hype - August 2024](https://lsvp.com/stories/ai-enterprise-market-map-cutting-through-the-hype/?utm_source=awesome-ai-market-maps)
+- [Lisa Han & Nnamdi Iregbulem — Lightspeed - AI Enterprise Market Map: Cutting through the hype - August 2024](https://lsvp.com/stories/ai-enterprise-market-map-cutting-through-the-hype/?utm_source=awesome-ai-market-maps)
 
 #### Open Source AI
 - [Synaptic - Open Source AI: A Fast Forward - August 2024](https://synaptic.com/resources/open-source-ai-2024?utm_source=awesome-ai-market-maps)
