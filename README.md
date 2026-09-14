@@ -313,7 +313,6 @@ OR
 - [Olivia Moore — a16z - The Top 100 Gen AI Consumer Apps 6th Edition - March 2026](https://a16z.com/100-gen-ai-apps-6/?utm_source=awesome-ai-market-maps)
 
 #### AI DevTools
-- [Yoko Li — a16z - A Deep Dive Into MCP and the Future of AI Tooling - March 2026](https://a16z.com/a-deep-dive-into-mcp-and-the-future-of-ai-tooling/?utm_source=awesome-ai-market-maps)
 
 #### Enterprise AI
 - [i5invest - Enterprise AI Market Map - March 2026](https://www.linkedin.com/posts/wagnermarkus_growth-tech-startups-share-7440035652542435328-NShb?utm_source=awesome-ai-market-maps)
@@ -863,7 +862,7 @@ OR
 #### AI Security
 - [Wickey Wang — SafenAI.org  - The AI Cybersecurity Frontier: 100 Emerging Startups to Watch (2021–2024) - June 2025](https://wickey.substack.com/p/the-ai-cybersecurity-frontier-100?utm_source=awesome-ai-market-maps)
 - [Malika Aubakirova — a16z - Next-Gen Pentesting: AI Empowers the Good Guys - June 2025](https://a16z.com/next-gen-pentesting-ai-empowers-the-good-guys/?utm_source=awesome-ai-market-maps)
-- [James Berthoty — Latio - 2025 Latio AI Security Report - June 2025](https://applied-gai-in-security.ghost.io/agentic-security-marketmap/?utm_source=awesome-ai-market-maps)
+- [James Berthoty — Latio - 2025 Latio AI Security Report - June 2025](https://pulse.latio.tech/p/2025-latio-ai-security-report?utm_source=awesome-ai-market-maps)
 
 #### AI Software QA/Testing
 - [Jacob Conger & Ram Raval — Headline - AI Can Write Code. Who Makes Sure It Works? - June 2025](https://headline.com/blog-latest/article-latest/ai-can-write-code-who-makes-sure-it-works?utm_source=awesome-ai-market-maps)
@@ -1022,7 +1021,7 @@ OR
 - [Activant Capital - AI's Undervalued Asset - Data's pivotal role in the next era of Gen AI deployment - March 2025](https://activantcapital.com/research/ai-s-undervalued-asset?utm_source=awesome-ai-market-maps)
 
 #### AI DevTools and Integrations
-- [a16z - MCP Market Map - March 2025](https://a16z.com/a-deep-dive-into-mcp-and-the-future-of-ai-tooling/?utm_source=awesome-ai-market-maps)
+- [Yoko Li — a16z - A Deep Dive Into MCP and the Future of AI Tooling - March 2025](https://a16z.com/a-deep-dive-into-mcp-and-the-future-of-ai-tooling/?utm_source=awesome-ai-market-maps)
 - [Auchenberg - AI Tools and Integrations Market Map - March 2025](https://github.com/auchenberg/ai-tools-integrations-market-map?utm_source=awesome-ai-market-maps)
 - [Thomvest Ventures - Market Map: 130+ companies transforming the AI Software Development market - March 2025](https://blog.thomvest.com/market-map-130-companies-transforming-the-ai-software-development-market-1e8ef2179439?utm_source=awesome-ai-market-maps)
 - [Yujian Tang - LLM Stack Market Map - March 2025](https://www.linkedin.com/posts/yujiantang_seattlestartupsummit-activity-7310753598353592321-qYZY?utm_source=awesome-ai-market-maps)
