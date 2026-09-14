@@ -134,6 +134,7 @@ OR
 
 #### AI Everything Else
 - [Arcadia Capital - Mapping the AI Economy - July 2026](https://www.linkedin.com/posts/119-pages-3-market-maps-33-sub-segments-ugcPost-7480698068246376448-3UZS/?utm_source=awesome-ai-market-maps)
+- [Andre Retterath — Earlybird Venture Capital - Data-Driven VC Landscape 2026 - July 2026](https://datadrivenvc.io/ddvc-landscape-2026?utm_source=awesome-ai-market-maps)
 
 
 ---
@@ -145,7 +146,7 @@ OR
 - [CB Insights - The agentic commerce market map - June 2026](https://www.cbinsights.com/learn/agentic-commerce-market-map?utm_source=awesome-ai-market-maps)
 - [Rishi Maheshwari — Dallas VC - Who Owns Memory? The Market Map for AI Agents' Missing State Layer - June 2026](https://rishimaheshwari.substack.com/p/who-owns-memory-the-market-map-for?r=28d067?utm_source=awesome-ai-market-maps)
 - [Cala - The AI Context Layer Market Map - June 2026](https://docs.google.com/presentation/d/1VD2yMLKKv3NJfvJOdjQ8EEJoezxLQJbO_Ki6JWHJMso/edit?slide=id.p1#slide=id.p1?utm_source=awesome-ai-market-maps)
-- [Justine Moore  a16z - AI Assistants in iMessage Market Map - June 2026](https://www.linkedin.com/posts/justinemoore94_new-market-map-bringing-ai-assistants-to-share-7470683444050583552-u9c0/?utm_source=awesome-ai-market-maps)
+- [Justine Moore — a16z - AI Assistants in iMessage Market Map - June 2026](https://www.linkedin.com/posts/justinemoore94_new-market-map-bringing-ai-assistants-to-share-7470683444050583552-u9c0/?utm_source=awesome-ai-market-maps)
 
 #### AI DevTools
 - [Advika Jalan & Simon Menashy & Prakriti Roy — MMC Ventures - AI Tokenomics: How to tokenmin while ROImaxxing - June 2026](https://mmc.vc/research/ai-tokenomics-how-to-tokenmin-while-roimaxxing/?utm_source=awesome-ai-market-maps)
@@ -154,6 +155,7 @@ OR
 #### AI Drug Discovery
 - [Advika Jalan & Charlotte Barttelot — MMC Ventures - AI x TechBio: Featuring the future of drug discovery - June 2026](https://mmc.vc/research/ai-x-techbio-featuring-the-future-of-drug-discovery/?utm_source=awesome-ai-market-maps)
 - [Synaptic - AI in Drug Development Market Map - June 2026](https://x.com/synaptic_data/status/2065080899952378258?utm_source=awesome-ai-market-maps)
+- [Cathy Gao & Aditya Reddy & Jasmine Yang & Misty Liao — Sapphire Ventures - How AI is Rewiring the Drug Development Stack - June 2026](https://sapphireventures.com/blog/how-ai-is-rewiring-the-drug-development-stack/?utm_source=awesome-ai-market-maps)
 
 #### Fintech AI 
 - [CB Insights - The fraud prevention market map: 200+ companies building fraud & trust infrastructure for the AI era - June 2026](https://www.cbinsights.com/research/report/the-fraud-prevention-market-map-for-the-ai-era/?utm_source=awesome-ai-market-maps)
@@ -311,7 +313,6 @@ OR
 - [Olivia Moore — a16z - The Top 100 Gen AI Consumer Apps 6th Edition - March 2026](https://a16z.com/100-gen-ai-apps-6/?utm_source=awesome-ai-market-maps)
 
 #### AI DevTools
-- [Yoko Li — a16z - A Deep Dive Into MCP and the Future of AI Tooling - March 2026](https://a16z.com/a-deep-dive-into-mcp-and-the-future-of-ai-tooling/?utm_source=awesome-ai-market-maps)
 
 #### Enterprise AI
 - [i5invest - Enterprise AI Market Map - March 2026](https://www.linkedin.com/posts/wagnermarkus_growth-tech-startups-share-7440035652542435328-NShb?utm_source=awesome-ai-market-maps)
@@ -786,7 +787,6 @@ OR
 - [Remarkable Ventures Climate - Our AI x Energy Market Map - July 2025](https://www.linkedin.com/posts/remarkable-ventures-climate_climate-climateai-aienergy-activity-7351259697485627392-vLCv?utm_source=awesome-ai-market-maps)
 
 #### Enterprise AI
-- [George Mathew & Hunter Korn & Ash Tutika & William Blackwell - Insight Partners - The race to secure enterprise AI - July 2025](https://www.insightpartners.com/ideas/securing-ai/?utm_source=awesome-ai-market-maps)
 
 #### Fintech AI
 - [Noah Gross — Scale Venture Partners - Where’s my AI banker? Why financial services is lagging on AI adoption - July 2025](https://www.scalevp.com/insights/wheres-my-ai-banker-why-financial-services-is-lagging-on-ai-adoption/?utm_source=awesome-ai-market-maps)
@@ -811,7 +811,7 @@ OR
 - [Pi Labs - Real AI for Real Assets - July 2025](https://www.linkedin.com/posts/pi-labs-ltd-_sneak-peek-of-the-paper-activity-7349020184923283458-Fu0r?utm_source=awesome-ai-market-maps)
 
 #### AI Security
-- [Insight Ventures - The race to secure enterprise AI - July 2025](https://www.insightpartners.com/ideas/securing-ai/?utm_source=awesome-ai-market-maps)
+- [George Mathew & Hunter Korn & Ash Tutika & William Blackwell — Insight Partners - The race to secure enterprise AI - July 2025](https://www.insightpartners.com/ideas/securing-ai/?utm_source=awesome-ai-market-maps)
 
 #### Voice AI
 - [Inside/VC - Voice AI Market Map - July 2025](https://www.linkedin.com/posts/insidevc_voice-infrastructure-middleware-activity-7354086305967865858-1M1z?utm_source=awesome-ai-market-maps)
@@ -862,7 +862,7 @@ OR
 #### AI Security
 - [Wickey Wang — SafenAI.org  - The AI Cybersecurity Frontier: 100 Emerging Startups to Watch (2021–2024) - June 2025](https://wickey.substack.com/p/the-ai-cybersecurity-frontier-100?utm_source=awesome-ai-market-maps)
 - [Malika Aubakirova — a16z - Next-Gen Pentesting: AI Empowers the Good Guys - June 2025](https://a16z.com/next-gen-pentesting-ai-empowers-the-good-guys/?utm_source=awesome-ai-market-maps)
-- [James Berthoty — Latio - 2025 Latio AI Security Report - June 2025](https://applied-gai-in-security.ghost.io/agentic-security-marketmap/?utm_source=awesome-ai-market-maps)
+- [James Berthoty — Latio - 2025 Latio AI Security Report - June 2025](https://pulse.latio.tech/p/2025-latio-ai-security-report?utm_source=awesome-ai-market-maps)
 
 #### AI Software QA/Testing
 - [Jacob Conger & Ram Raval — Headline - AI Can Write Code. Who Makes Sure It Works? - June 2025](https://headline.com/blog-latest/article-latest/ai-can-write-code-who-makes-sure-it-works?utm_source=awesome-ai-market-maps)
@@ -899,7 +899,6 @@ OR
 - [CB Insights - The AI in drug R&D market map - May 2025](https://www.cbinsights.com/research/ai-drug-research-development-market-map/?utm_source=awesome-ai-market-maps)
 
 #### Enterprise AI 
-- [Lightspeed - AI Enterprise Market Map: Cutting through the hype - May 2025](https://lsvp.com/stories/ai-enterprise-market-map-cutting-through-the-hype/?utm_source=awesome-ai-market-maps)
 
 #### AI Hardware and Inference
 - [AI Insider - Market Map: AI Hardware and Datacenter enablers - May 2025](https://www.linkedin.com/posts/ai-insider-intel_ai-chips-gpus-activity-7329150192421703683-k4uw?utm_source=awesome-ai-market-maps)
@@ -1022,7 +1021,7 @@ OR
 - [Activant Capital - AI's Undervalued Asset - Data's pivotal role in the next era of Gen AI deployment - March 2025](https://activantcapital.com/research/ai-s-undervalued-asset?utm_source=awesome-ai-market-maps)
 
 #### AI DevTools and Integrations
-- [a16z - MCP Market Map - March 2025](https://a16z.com/a-deep-dive-into-mcp-and-the-future-of-ai-tooling/?utm_source=awesome-ai-market-maps)
+- [Yoko Li — a16z - A Deep Dive Into MCP and the Future of AI Tooling - March 2025](https://a16z.com/a-deep-dive-into-mcp-and-the-future-of-ai-tooling/?utm_source=awesome-ai-market-maps)
 - [Auchenberg - AI Tools and Integrations Market Map - March 2025](https://github.com/auchenberg/ai-tools-integrations-market-map?utm_source=awesome-ai-market-maps)
 - [Thomvest Ventures - Market Map: 130+ companies transforming the AI Software Development market - March 2025](https://blog.thomvest.com/market-map-130-companies-transforming-the-ai-software-development-market-1e8ef2179439?utm_source=awesome-ai-market-maps)
 - [Yujian Tang - LLM Stack Market Map - March 2025](https://www.linkedin.com/posts/yujiantang_seattlestartupsummit-activity-7310753598353592321-qYZY?utm_source=awesome-ai-market-maps)
@@ -1261,7 +1260,7 @@ OR
 ### August 2024
 
 #### Enterprise AI
-- [Lightspeed - AI Enterprise Market Map: Cutting Throught The Hype - August 2024](https://lsvp.com/stories/ai-enterprise-market-map-cutting-through-the-hype/?utm_source=awesome-ai-market-maps)
+- [Lisa Han & Nnamdi Iregbulem — Lightspeed - AI Enterprise Market Map: Cutting through the hype - August 2024](https://lsvp.com/stories/ai-enterprise-market-map-cutting-through-the-hype/?utm_source=awesome-ai-market-maps)
 
 #### Open Source AI
 - [Synaptic - Open Source AI: A Fast Forward - August 2024](https://synaptic.com/resources/open-source-ai-2024?utm_source=awesome-ai-market-maps)
