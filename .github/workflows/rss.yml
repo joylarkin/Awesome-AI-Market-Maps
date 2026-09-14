@@ -2,6 +2,7 @@ name: Re-build RSS
 
 on:
   push:
+    branches: [ main ]                                  # feed is published from the default branch
     paths: [ "README.md", "scripts/generate_rss.py" ]   # run when list changes
   schedule:
     - cron:  '0 6 * * *'    # 06:00 UTC daily as a safety net
