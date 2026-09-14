@@ -48,6 +48,17 @@ OR
 ---
 ## AI Market Maps - Q3 2026
 
+### September 2026
+
+#### Physical AI
+- [Medha Agarwal & Noah Lin — defy.vc - From Models to Machines: The Physical AI Market Map - September 2026](https://makecents.substack.com/p/from-models-to-machines-the-physical?utm_source=awesome-ai-market-maps)
+- [AI Circle - Human data for physical AI - September 2026](https://www.ai-circle.org/physical-ai-human-data-map?utm_source=awesome-ai-market-maps)
+
+#### Voice AI
+- [Global AI Forum - The Voice AI agents landscape - September 2026](https://gaiforum.com/research/landscape/voice-ai-agents?utm_source=awesome-ai-market-maps)
+
+
+***
 ### August 2026
 
 #### AI Agents
