@@ -50,9 +50,24 @@ OR
 
 ### September 2026
 
+#### AI Agents
+- [David Pawlan - Assistant Benchmark - September 2026](https://assistantbenchmark.com/?utm_source=awesome-ai-market-maps)
+
+#### Consumer AI
+- [Shawn Carolan & Amy Wu Martin & Sam Borja  Menlo Ventures - 2026: The State of Consumer AI - September 2026](https://menlovc.com/perspective/2026-the-state-of-consumer-ai/?utm_source=awesome-ai-market-maps)
+
+#### Enterprise AI
+- [Arion Research - The Arion Enterprise AI Atlas - September 2026](https://www.enterpriseaiatlas.ai/?utm_source=awesome-ai-market-maps) 
+
 #### Physical AI
 - [Medha Agarwal & Noah Lin — defy.vc - From Models to Machines: The Physical AI Market Map - September 2026](https://makecents.substack.com/p/from-models-to-machines-the-physical?utm_source=awesome-ai-market-maps)
 - [AI Circle - Human data for physical AI - September 2026](https://www.ai-circle.org/physical-ai-human-data-map?utm_source=awesome-ai-market-maps)
+
+#### AI Security
+- [Alstin Capital - Cybersecurity follows AI adoption - September 2026](https://www.linkedin.com/pulse/cybersecurity-follows-ai-adoption-alstincapital-nvppe/p?utm_source=awesome-ai-market-maps)
+
+#### AI Services
+- [Kadan Capital - AI Native Services Market Map Version 2.0 - September 2026](https://kadan.vc/ai-native-services?utm_source=awesome-ai-market-maps)
 
 #### Voice AI
 - [Global AI Forum - The Voice AI agents landscape - September 2026](https://gaiforum.com/research/landscape/voice-ai-agents?utm_source=awesome-ai-market-maps)
