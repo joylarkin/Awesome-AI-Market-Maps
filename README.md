@@ -74,6 +74,7 @@ OR
 
 #### Everything Else
 - [Harmonic - Harmonic Hot 25 Startups(TM) - September 2026](https://harmonic.ai/hot-25-startups/q4-2026?utm_source=awesome-ai-market-maps)
+- [FalcoScan - Where there is still room to build in AI - September 2026](https://falcoscan.com/articles/where-theres-still-room-to-build-in-ai?utm_source=awesome-ai-market-maps)
 
 
 ***
