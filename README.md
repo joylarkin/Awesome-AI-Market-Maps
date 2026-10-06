@@ -46,12 +46,22 @@ OR
 
 
 ---
+## AI Market Maps - Q4 2026
+
+### October 2026
+
+#### Vertical AI
+- [Hustle Fund - Vertical AI market map: 8 industries for investors - October 2026](https://www.hustlefund.vc/post/vertical-ai-market-map?utm_source=awesome-ai-market-maps)
+
+
+---
 ## AI Market Maps - Q3 2026
 
 ### September 2026
 
 #### AI Agents
 - [David Pawlan - Assistant Benchmark - September 2026](https://assistantbenchmark.com/?utm_source=awesome-ai-market-maps)
+- [Hustle Fund - AI agents market map: 6 layers for startup investors - September 2026](https://www.hustlefund.vc/post/ai-agents-market-map?utm_source=awesome-ai-market-maps)
 
 #### Consumer AI
 - [Shawn Carolan & Amy Wu Martin & Sam Borja  Menlo Ventures - 2026: The State of Consumer AI - September 2026](https://menlovc.com/perspective/2026-the-state-of-consumer-ai/?utm_source=awesome-ai-market-maps)
@@ -74,6 +84,7 @@ OR
 
 #### Everything Else
 - [Harmonic - Harmonic Hot 25 Startups(TM) - September 2026](https://harmonic.ai/hot-25-startups/q4-2026?utm_source=awesome-ai-market-maps)
+- [Hustle Fund - AI Market Map 2026: Startup Stack for Investors - September 2026](https://www.hustlefund.vc/post/ai-market-map?utm_source=awesome-ai-market-maps)
 
 
 ***
