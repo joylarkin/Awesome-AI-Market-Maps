@@ -53,6 +53,12 @@ OR
 #### Vertical AI
 - [Hustle Fund - Vertical AI market map: 8 industries for investors - October 2026](https://www.hustlefund.vc/post/vertical-ai-market-map?utm_source=awesome-ai-market-maps)
 
+#### Physical AI
+- [Altis - Physical AI Models (VLA, World Model) - October 2026](https://www.altis.vc/research/sector/physical-ai-models-vla-world-model?utm_source=awesome-ai-market-maps)
+
+#### Everything Else
+- [Cledara - The Real-Time AI Market Map: Tools & Startups - October 2026](https://data.cledara.com/ai-market-map?utm_source=awesome-ai-market-maps)
+
 
 ---
 ## AI Market Maps - Q3 2026
