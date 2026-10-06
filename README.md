@@ -1,4 +1,4 @@
-# Awesome AI Market Maps  [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)  [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/joylarkin/Awesome-AI-Market-Maps)  ![Last Commit](https://img.shields.io/github/last-commit/joylarkin/Awesome-AI-Market-Maps.svg)   
+# Awesome AI Market Maps  [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)  [![Ask DeepWiki](https://img.shields.io/badge/Ask-DeepWiki-blue)](https://deepwiki.com/joylarkin/Awesome-AI-Market-Maps)  ![Last Commit](https://img.shields.io/github/last-commit/joylarkin/Awesome-AI-Market-Maps.svg)   
 
 An Awesome List of Artificial Intelligence Startup Market Maps from 2026, 2025 and 2024. 
 
@@ -46,12 +46,28 @@ OR
 
 
 ---
+## AI Market Maps - Q4 2026
+
+### October 2026
+
+#### Vertical AI
+- [Hustle Fund - Vertical AI market map: 8 industries for investors - October 2026](https://www.hustlefund.vc/post/vertical-ai-market-map?utm_source=awesome-ai-market-maps)
+
+#### Physical AI
+- [Altis - Physical AI Models (VLA, World Model) - October 2026](https://www.altis.vc/research/sector/physical-ai-models-vla-world-model?utm_source=awesome-ai-market-maps)
+
+#### Everything Else
+- [Cledara - The Real-Time AI Market Map: Tools & Startups - October 2026](https://data.cledara.com/ai-market-map?utm_source=awesome-ai-market-maps)
+
+
+---
 ## AI Market Maps - Q3 2026
 
 ### September 2026
 
 #### AI Agents
 - [David Pawlan - Assistant Benchmark - September 2026](https://assistantbenchmark.com/?utm_source=awesome-ai-market-maps)
+- [Hustle Fund - AI agents market map: 6 layers for startup investors - September 2026](https://www.hustlefund.vc/post/ai-agents-market-map?utm_source=awesome-ai-market-maps)
 
 #### Consumer AI
 - [Shawn Carolan & Amy Wu Martin & Sam Borja  Menlo Ventures - 2026: The State of Consumer AI - September 2026](https://menlovc.com/perspective/2026-the-state-of-consumer-ai/?utm_source=awesome-ai-market-maps)
@@ -74,6 +90,7 @@ OR
 
 #### Everything Else
 - [Harmonic - Harmonic Hot 25 Startups(TM) - September 2026](https://harmonic.ai/hot-25-startups/q4-2026?utm_source=awesome-ai-market-maps)
+- [Hustle Fund - AI Market Map 2026: Startup Stack for Investors - September 2026](https://www.hustlefund.vc/post/ai-market-map?utm_source=awesome-ai-market-maps)
 
 
 ***
