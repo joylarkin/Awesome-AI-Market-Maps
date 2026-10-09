@@ -53,6 +53,9 @@ OR
 #### AI Agents
 - [Supplify - The Agentic AI Supply Chain Tech Map 2026 - October 2026](https://getsupplify.com/supply-chain-map/?utm_source=awesome-ai-market-maps)
 
+#### Japanese AI
+- [Seranova - AI in Japan: Market Map - October 2026](https://map.seranova.jp/?utm_source=awesome-ai-market-maps)
+
 #### Vertical AI
 - [Hustle Fund - Vertical AI market map: 8 industries for investors - October 2026](https://www.hustlefund.vc/post/vertical-ai-market-map?utm_source=awesome-ai-market-maps)
 
