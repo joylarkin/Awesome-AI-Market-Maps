@@ -33,7 +33,7 @@ OR
 ️‍🔥 [Use the MCP server](https://gitmcp.io/joylarkin/Awesome-AI-Market-Maps)  
 📖 [Read the blog post](https://cleverhack.com/ai-market-maps-curated-intelligence-from-leading-vcs-analysts-practitioners)  
 🤗 [Explore the Hugging Face dataset](https://huggingface.co/datasets/joylarkin/2025AIMarketMaps)   
-[![RSS](https://github.com/joylarkin/cleverhack/blob/main/rss18.png)](https://raw.githubusercontent.com/joylarkin/Awesome-AI-Market-Maps/main/feeds/AIMarketMaps.xml) [Subscribe to real-time RSS updates](https://raw.githubusercontent.com/joylarkin/Awesome-AI-Market-Maps/main/feeds/AIMarketMaps.xml)    
+[![RSS](https://github.com/joylarkin/cleverhack/blob/main/rss18.png)](https://raw.githubusercontent.com/joylarkin/Awesome-AI-Market-Maps/main/feeds/AIMarketMaps.xml) [Subscribe to real-time RSS updates](https://raw.githubusercontent.com/joylarkin/Awesome-AI-Market-Maps/main/feeds/AIMarketMaps.xml) · [View the feed in your browser](https://joylarkin.github.io/Awesome-AI-Market-Maps/feeds/AIMarketMaps.xml)    
 
 
 🔖 [A quick guide for market map creators](https://www.linkedin.com/posts/joylarkin_github-joylarkinawesome-ai-market-maps-activity-7381415014181584896-g5f-)  
