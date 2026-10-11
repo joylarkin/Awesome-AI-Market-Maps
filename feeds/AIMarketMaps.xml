@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://raw.githubusercontent.com/joylarkin/Awesome-AI-Market-Maps/main/feeds/rss.xsl"?>
+<?xml-stylesheet type="text/xsl" href="rss.xsl"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Awesome AI Market Maps Update Feed •• github.com/joylarkin/Awesome-AI-Market-Maps</title>

@@ -217,5 +217,5 @@ out.mkdir(exist_ok=True)
 # Write with explicit XML declaration and stylesheet
 with open(out / "AIMarketMaps.xml", 'w', encoding='utf-8') as f:
     f.write('<?xml version="1.0" encoding="UTF-8"?>\n')
-    f.write('<?xml-stylesheet type="text/xsl" href="https://raw.githubusercontent.com/joylarkin/Awesome-AI-Market-Maps/main/feeds/rss.xsl"?>\n')
+    f.write('<?xml-stylesheet type="text/xsl" href="rss.xsl"?>\n')
     f.write(write_xml_element(rss)) 
