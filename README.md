@@ -60,6 +60,9 @@ OR
 #### AI Safety
 - [CB Insights - Anthropic's IPO filing maps the AI safety startup market - October 2026](https://www.cbinsights.com/research/newsletter-october-1-2026/?utm_source=awesome-ai-market-maps)
 
+#### AI Security
+- [TechOperators - The Cyber × AI Map - October 2026](https://www.techoperators.com/landscape?utm_source=awesome-ai-market-maps)
+
 #### Consumer AI
 - [Olivia Moore — a16z - The Top 100 Gen AI Consumer Apps 7th Edition - October 2026](https://a16z.com/100-gen-ai-apps-7/?utm_source=awesome-ai-market-maps)
 
@@ -76,6 +79,7 @@ OR
 - [Nathan Benaich — Air Street Capital - STATE OF AI REPORT - October 2026](https://www.stateof.ai/State-of-AI-Report-2026.pdf?utm_source=awesome-ai-market-maps)
 - [Cledara - The Real-Time AI Market Map: Tools & Startups - October 2026](https://data.cledara.com/ai-market-map?utm_source=awesome-ai-market-maps)
 - [Will Francis - Is there an AI bubble? The AI circular economy, mapped - October 2026](https://ai-circular-economy.com/?utm_source=awesome-ai-market-maps)
+- [Clement Vouillon — Axomap - Landscape Directory - October 2026](https://axomap.com/maps?utm_source=awesome-ai-market-maps)
 
 
 ---
