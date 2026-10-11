@@ -92,7 +92,7 @@ OR
 - [Hustle Fund - AI agents market map: 6 layers for startup investors - September 2026](https://www.hustlefund.vc/post/ai-agents-market-map?utm_source=awesome-ai-market-maps)
 
 #### Consumer AI
-- [Shawn Carolan & Amy Wu Martin & Sam Borja  Menlo Ventures - 2026: The State of Consumer AI - September 2026](https://menlovc.com/perspective/2026-the-state-of-consumer-ai/?utm_source=awesome-ai-market-maps)
+- [Shawn Carolan & Amy Wu Martin & Sam Borja — Menlo Ventures - 2026: The State of Consumer AI - September 2026](https://menlovc.com/perspective/2026-the-state-of-consumer-ai/?utm_source=awesome-ai-market-maps)
 
 #### Enterprise AI
 - [Arion Research - The Arion Enterprise AI Atlas - September 2026](https://www.enterpriseaiatlas.ai/?utm_source=awesome-ai-market-maps) 
@@ -341,7 +341,7 @@ OR
 - [Kadan Capital - AI Native Services Market Map - April 2026](https://www.linkedin.com/posts/felixfrenzel_whos-going-to-win-the-incumbent-law-firm-activity-7454726086354944000-IdMh?utm_source=awesome-ai-market-maps)
 
 #### Scientific Discovery AI
-- [Andrew Hedin & Marla Jalbut, M.D. & Grace Dai — Bessemer Venture Partners - Building biology-native data infrastructure for the AI era - April 2026](https://www.bvp.com/atlas/building-biology-native-data-infrastructure-for-the-ai-era)
+- [Andrew Hedin & Marla Jalbut, M.D. & Grace Dai — Bessemer Venture Partners - Building biology-native data infrastructure for the AI era - April 2026](https://www.bvp.com/atlas/building-biology-native-data-infrastructure-for-the-ai-era?utm_source=awesome-ai-market-maps)
 - [XAnge - Bio-Foundation Models: A Shift in AI for Biology - April 2026](https://www.xange.vc/knowledge-hub/bio-foundation-models-market-map?utm_source=awesome-ai-market-maps)
 - [Extantia - Advanced Materials Development - April 2026](https://www.linkedin.com/posts/extantia_advancedmaterials-deeptech-materialsscience-activity-7444639664730398720-7oR0/?utm_source=awesome-ai-market-maps)
 
@@ -361,7 +361,7 @@ OR
 #### AI Everything Else
 - [Silicon Valley Bank - The AI Market Map for VC Backed Companies - April 2026](https://www.linkedin.com/posts/fun-news-tropic-was-recently-highlighted-share-7450011189922758656-V8EL?utm_source=awesome-ai-market-maps)
 - [Anirudh Sathya - Private Equity Firms by Competitive Advantages - April 2026](https://www.linkedin.com/posts/anirudh-sathya_privateequity-pe-dealmaking-share-7447427134647730176-QAjh?utm_source=awesome-ai-market-maps)
-- [Negar Rajabi - AI Investment Map 2026: Where Should You Build? - April 2026](https://medium.com/@negarra/ai-investment-map-2026-where-should-you-build-f8c055383d6d)
+- [Negar Rajabi - AI Investment Map 2026: Where Should You Build? - April 2026](https://medium.com/@negarra/ai-investment-map-2026-where-should-you-build-f8c055383d6d?utm_source=awesome-ai-market-maps)
 
 
 ---
