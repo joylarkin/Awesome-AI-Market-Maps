@@ -52,6 +52,16 @@ OR
 
 #### AI Agents
 - [Supplify - The Agentic AI Supply Chain Tech Map 2026 - October 2026](https://getsupplify.com/supply-chain-map/?utm_source=awesome-ai-market-maps)
+- [MightyBot - AI Agents Market Map 2026: Every Category Mapped - October 2026](https://mightybot.ai/blog/ai-automation-agents-market-maps-gone-wild/?utm_source=awesome-ai-market-maps)
+
+#### AI Infrastructure
+- [AI-Driven Playbooks - I Mapped 103 Companies Across the Entire AI Supply Chain. Here Is Where the Money Still Has to Flow Through 2028. - October 2026](https://aidriventrading.substack.com/p/i-mapped-103-companies-across-the?utm_source=awesome-ai-market-maps)
+
+#### AI Safety
+- [CB Insights - Anthropic's IPO filing maps the AI safety startup market - October 2026](https://www.cbinsights.com/research/newsletter-october-1-2026/?utm_source=awesome-ai-market-maps)
+
+#### Consumer AI
+- [Olivia Moore — a16z - The Top 100 Gen AI Consumer Apps 7th Edition - October 2026](https://a16z.com/100-gen-ai-apps-7/?utm_source=awesome-ai-market-maps)
 
 #### Japanese AI
 - [Seranova - AI in Japan: Market Map - October 2026](https://map.seranova.jp/?utm_source=awesome-ai-market-maps)
@@ -65,6 +75,7 @@ OR
 #### Everything Else
 - [Nathan Benaich — Air Street Capital - STATE OF AI REPORT - October 2026](https://www.stateof.ai/State-of-AI-Report-2026.pdf?utm_source=awesome-ai-market-maps)
 - [Cledara - The Real-Time AI Market Map: Tools & Startups - October 2026](https://data.cledara.com/ai-market-map?utm_source=awesome-ai-market-maps)
+- [Will Francis - Is there an AI bubble? The AI circular economy, mapped - October 2026](https://ai-circular-economy.com/?utm_source=awesome-ai-market-maps)
 
 
 ---
@@ -88,9 +99,20 @@ OR
 
 #### AI Security
 - [Alstin Capital - Cybersecurity follows AI adoption - September 2026](https://www.linkedin.com/pulse/cybersecurity-follows-ai-adoption-alstincapital-nvppe/p?utm_source=awesome-ai-market-maps)
+- [Rachel Monroe — Security Ops Wire - The AI Agent Security Market Map: 40+ Companies Building the New Security Stack - September 2026](https://securityopswire.com/ai-agent-security-companies-market-map/?utm_source=awesome-ai-market-maps)
 
 #### AI Services
 - [Kadan Capital - AI Native Services Market Map Version 2.0 - September 2026](https://kadan.vc/ai-native-services?utm_source=awesome-ai-market-maps)
+
+#### Fintech AI
+- [Madeline Renbarger — Newcomer - MARKET MAP: 89 VC-Backed Startups Changing Finance, Audits, Banking & Compliance - September 2026](https://www.newcomer.co/p/market-map-89-vc-backed-startups?utm_source=awesome-ai-market-maps)
+
+#### Insurance AI
+- [Ali Afridi - AI Startups Transforming P&C Insurance — Market Maps - September 2026](https://maps.afridi.io/insurance-x-ai?utm_source=awesome-ai-market-maps)
+- [CB Insights - Insurtech 50: The most promising insurtech startups of 2026 - September 2026](https://www.cbinsights.com/research/report/top-insurtech-startups-2026/?utm_source=awesome-ai-market-maps)
+
+#### Robotics
+- [Hustle Fund - Robotics market map: 4 layers angel investors should know - September 2026](https://www.hustlefund.vc/post/robotics-market-map?utm_source=awesome-ai-market-maps)
 
 #### Voice AI
 - [Global AI Forum - The Voice AI agents landscape - September 2026](https://gaiforum.com/research/landscape/voice-ai-agents?utm_source=awesome-ai-market-maps)
@@ -98,6 +120,7 @@ OR
 #### Everything Else
 - [Harmonic - Harmonic Hot 25 Startups(TM) - September 2026](https://harmonic.ai/hot-25-startups/q4-2026?utm_source=awesome-ai-market-maps)
 - [Hustle Fund - AI Market Map 2026: Startup Stack for Investors - September 2026](https://www.hustlefund.vc/post/ai-market-map?utm_source=awesome-ai-market-maps)
+- [Leslie Busick - The AI Stack, Mapped - September 2026](https://ai-stack-mapped.vercel.app/?utm_source=awesome-ai-market-maps)
 
 
 ***
@@ -129,6 +152,9 @@ OR
 
 #### AI Services 
 - [Itay Inbar & Jason Cohen — Greenfield Growth - As AI takes over services, who keeps the gain? - August 2026](https://www.greenfield-growth.com/knowledge/ai-in-services/?utm_source=awesome-ai-market-maps)
+
+#### AI Rollups
+- [Christian Ulstrup — Caritas Venture Co. - AI rollups and AI-native private equity: the 2026 market map - August 2026](https://caritas.ventures/ai-rollup-market-map/?utm_source=awesome-ai-market-maps)
 
 #### Quantum 
 - [Ines Goetschel — Balderton - Market Map of European Quantum Companies - August 2026](https://www.linkedin.com/posts/activity-7488608450999095296-Usrg?utm_source=awesome-ai-market-maps)
