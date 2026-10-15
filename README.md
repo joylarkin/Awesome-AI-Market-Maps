@@ -53,8 +53,10 @@ OR
 #### AI Agents
 - [Supplify - The Agentic AI Supply Chain Tech Map 2026 - October 2026](https://getsupplify.com/supply-chain-map/?utm_source=awesome-ai-market-maps)
 - [MightyBot - AI Agents Market Map 2026: Every Category Mapped - October 2026](https://mightybot.ai/blog/ai-automation-agents-market-maps-gone-wild/?utm_source=awesome-ai-market-maps)
+- [Zentor / Personal Agent Bench - Personal AI agents list: products and evidence - October 2026](https://personalagentbench.com/landscape/?utm_source=awesome-ai-market-maps)
 
-- [Zentor / Personal Agent Bench - Personal AI agents list: products and evidence - October 2026](https://personalagentbench.com/landscape/)
+#### European AI 
+- [N47 & Sifted - Celebrating the top 100 European AI startups in 2026 - October 2026](https://www.n47.com/insights/celebrating-the-top-100-european-ai-startups-in-2026?utm_source=awesome-ai-market-maps)
 
 #### AI Infrastructure
 - [AI-Driven Playbooks - I Mapped 103 Companies Across the Entire AI Supply Chain. Here Is Where the Money Still Has to Flow Through 2028. - October 2026](https://aidriventrading.substack.com/p/i-mapped-103-companies-across-the?utm_source=awesome-ai-market-maps)
