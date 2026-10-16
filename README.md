@@ -79,6 +79,9 @@ OR
 #### Physical AI
 - [Altis - Physical AI Models (VLA, World Model) - October 2026](https://www.altis.vc/research/sector/physical-ai-models-vla-world-model?utm_source=awesome-ai-market-maps)
 
+#### AI Software QA/Testing
+- [PRISM - PRISM Q4 2026 Leaderboard: Quarterly Benchmark for AI Testing Agents - October 2026](https://prism-bench.org/quarters/2026-Q4?utm_source=awesome-ai-market-maps)
+
 #### Everything Else
 - [Nathan Benaich — Air Street Capital - STATE OF AI REPORT - October 2026](https://www.stateof.ai/State-of-AI-Report-2026.pdf?utm_source=awesome-ai-market-maps)
 - [Cledara - The Real-Time AI Market Map: Tools & Startups - October 2026](https://data.cledara.com/ai-market-map?utm_source=awesome-ai-market-maps)
@@ -124,6 +127,9 @@ OR
 
 #### Voice AI
 - [Global AI Forum - The Voice AI agents landscape - September 2026](https://gaiforum.com/research/landscape/voice-ai-agents?utm_source=awesome-ai-market-maps)
+
+#### AI Software QA/Testing
+- [Gartner - 2026 Gartner® Magic Quadrant™ for Agentic Software Quality Assurance Platforms - September 2026](https://www.testmuai.com/gartner-magic-quadrant-agentic-software-quality-assurance-platforms/?utm_source=awesome-ai-market-maps)
 
 #### Everything Else
 - [Harmonic - Harmonic Hot 25 Startups(TM) - September 2026](https://harmonic.ai/hot-25-startups/q4-2026?utm_source=awesome-ai-market-maps)
