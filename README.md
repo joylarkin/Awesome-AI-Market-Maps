@@ -51,6 +51,7 @@ OR
 ### October 2026
 
 #### AI Agents
+- [Jay Zhao & LJW & Jenny Xiao — Leonis Capital - The Agent Land Grab - October 2026](https://leonisnewsletter.substack.com/p/the-agent-land-grab?utm_source=awesome-ai-market-maps)
 - [Supplify - The Agentic AI Supply Chain Tech Map 2026 - October 2026](https://getsupplify.com/supply-chain-map/?utm_source=awesome-ai-market-maps)
 - [MightyBot - AI Agents Market Map 2026: Every Category Mapped - October 2026](https://mightybot.ai/blog/ai-automation-agents-market-maps-gone-wild/?utm_source=awesome-ai-market-maps)
 - [Zentor / Personal Agent Bench - Personal AI agents list: products and evidence - October 2026](https://personalagentbench.com/landscape/?utm_source=awesome-ai-market-maps)
