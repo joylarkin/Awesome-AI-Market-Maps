@@ -91,6 +91,7 @@ OR
 - [Will Francis - Is there an AI bubble? The AI circular economy, mapped - October 2026](https://ai-circular-economy.com/?utm_source=awesome-ai-market-maps)
 - [Clement Vouillon — Axomap - Landscape Directory - October 2026](https://axomap.com/maps?utm_source=awesome-ai-market-maps)
 - [The Collective - AI for Fitness Operators - October 2026](https://www.wearethecollective.world/ai-map-fitness-operators?utm_source=awesome-ai-market-maps)
+- [Devtoolwatch Board - AI Developer Tools Ranked by GitHub Stars and npm/PyPI Download Growth - October 2026](https://index.devtoolwatch.com/?utm_source=awesome-ai-market-maps)
 
 
 ---
