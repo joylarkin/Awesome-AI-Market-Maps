@@ -84,9 +84,12 @@ OR
 
 #### Physical AI
 - [Altis - Physical AI Models (VLA, World Model) - October 2026](https://www.altis.vc/research/sector/physical-ai-models-vla-world-model?utm_source=awesome-ai-market-maps)
+- [Pauly Market - I Mapped Nearly 4,500 Robotics & Physical AI Companies. Here’s What I Found. - October 2026](https://paulymarket.substack.com/p/robotics-physical-ai-atlas?utm_source=awesome-ai-market-maps)
+- [Humanoid.guide - Humanoid Robotics: The Consolidation Map - October 2026](https://humanoid.guide/humanoid-robotics-consolidation-map/?utm_source=awesome-ai-market-maps)
 
 #### Everything Else
 - [Nathan Benaich — Air Street Capital - STATE OF AI REPORT - October 2026](https://www.stateof.ai/State-of-AI-Report-2026.pdf?utm_source=awesome-ai-market-maps)
+- [Air Street Capital & Dealroom.co - State of AI Report 2026: the funding data - October 2026](https://dealroom.co/airstreet/2026/?utm_source=awesome-ai-market-maps)
 - [Parvez Siddiqui - AI ROI, Measured - October 2026](https://lnkd.in/p/gcvHHpNX?utm_source=awesome-ai-market-maps)
 - [Various - The Trustworthy AI Map - October 2026](https://trustworthyaimap.org/map=awesome-ai-market-maps)
 - [Cledara - The Real-Time AI Market Map: Tools & Startups - October 2026](https://data.cledara.com/ai-market-map?utm_source=awesome-ai-market-maps)
