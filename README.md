@@ -71,6 +71,7 @@ OR
 #### AI Security
 - [Lightspeed & Fortune - Cyber60 CISO Survey - October 2026](https://lsvp.com/cyber60-2026-2027/?utm_source=awesome-ai-market-maps)
 - [TechOperators - The Cyber × AI Map - October 2026](https://www.techoperators.com/landscape?utm_source=awesome-ai-market-maps)
+- [CB Insights - 40+ startups calling BS on AI fakes - October 2026](https://www.cbinsights.com/research/newsletter-october-15-2026/?utm_source=awesome-ai-market-maps)
 
 #### Consumer AI
 - [Olivia Moore — a16z - The Top 100 Gen AI Consumer Apps 7th Edition - October 2026](https://a16z.com/100-gen-ai-apps-7/?utm_source=awesome-ai-market-maps)
@@ -83,9 +84,12 @@ OR
 
 #### Physical AI
 - [Altis - Physical AI Models (VLA, World Model) - October 2026](https://www.altis.vc/research/sector/physical-ai-models-vla-world-model?utm_source=awesome-ai-market-maps)
+- [Pauly Market - I Mapped Nearly 4,500 Robotics & Physical AI Companies. Here’s What I Found. - October 2026](https://paulymarket.substack.com/p/robotics-physical-ai-atlas?utm_source=awesome-ai-market-maps)
+- [Humanoid.guide - Humanoid Robotics: The Consolidation Map - October 2026](https://humanoid.guide/humanoid-robotics-consolidation-map/?utm_source=awesome-ai-market-maps)
 
 #### Everything Else
 - [Nathan Benaich — Air Street Capital - STATE OF AI REPORT - October 2026](https://www.stateof.ai/State-of-AI-Report-2026.pdf?utm_source=awesome-ai-market-maps)
+- [Air Street Capital & Dealroom.co - State of AI Report 2026: the funding data - October 2026](https://dealroom.co/airstreet/2026/?utm_source=awesome-ai-market-maps)
 - [Parvez Siddiqui - AI ROI, Measured - October 2026](https://lnkd.in/p/gcvHHpNX?utm_source=awesome-ai-market-maps)
 - [Various - The Trustworthy AI Map - October 2026](https://trustworthyaimap.org/map=awesome-ai-market-maps)
 - [Cledara - The Real-Time AI Market Map: Tools & Startups - October 2026](https://data.cledara.com/ai-market-map?utm_source=awesome-ai-market-maps)
@@ -133,6 +137,7 @@ OR
 
 #### Voice AI
 - [Global AI Forum - The Voice AI agents landscape - September 2026](https://gaiforum.com/research/landscape/voice-ai-agents?utm_source=awesome-ai-market-maps)
+- [Hustle Fund - Voice AI market map: 51 companies across six layers - September 2026](https://www.hustlefund.vc/post/voice-ai-market-map?utm_source=awesome-ai-market-maps)
 
 #### Everything Else
 - [Harmonic - Harmonic Hot 25 Startups(TM) - September 2026](https://harmonic.ai/hot-25-startups/q4-2026?utm_source=awesome-ai-market-maps)
