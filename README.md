@@ -48,6 +48,13 @@ OR
 ---
 ## AI Market Maps - Q4 2026
 
+### November 2026
+
+#### AI Finance 
+- [The Private Markets Forum - AI in Private Markets Map - November 2026](https://lnkd.in/p/g26qddZW?utm_source=awesome-ai-market-maps)
+
+
+***
 ### October 2026
 
 #### AI Agents
