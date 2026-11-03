@@ -50,6 +50,10 @@ OR
 
 ### November 2026
 
+
+#### Enterprise AI 
+- [Tim Tully & Joff Redfern & Deedy Das & Derek Xiao — Menlo Ventures - State of Enterprise AI - November 2026](https://menlovc.com/perspective/2026-the-state-of-enterprise-ai/?utm_source=awesome-ai-market-maps)
+
 #### AI Finance 
 - [The Private Markets Forum - AI in Private Markets Map - November 2026](https://lnkd.in/p/g26qddZW?utm_source=awesome-ai-market-maps)
 
