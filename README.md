@@ -50,6 +50,11 @@ OR
 
 ### November 2026
 
+#### Applied AI 
+- [Petar Petrov — Eilla - AI Deployment Firms - November 2026](https://aideploymentfirms.com?utm_source=awesome-ai-market-maps)
+
+#### Biopharma AI
+- [Elicit - AI for Pharma - November 2026](https://elicit.com/ai-for-pharma?utm_source=awesome-ai-market-maps)
 
 #### AI Data
 - [AI Circle - AI Circle Human Data Landscape - November 2026](https://www.ai-circle.org/ai-circle-human-data-landscape?utm_source=awesome-ai-market-maps)
@@ -59,6 +64,12 @@ OR
 
 #### AI Finance 
 - [The Private Markets Forum - AI in Private Markets Map - November 2026](https://lnkd.in/p/g26qddZW?utm_source=awesome-ai-market-maps)
+
+#### Legal AI
+- [Harshith Viswanath - Mapping the AI-Native Law Firm - November 2026](https://harshithviswanath.substack.com/p/mapping-the-ai-native-law-firm?utm_source=awesome-ai-market-maps)
+
+#### Physical AI
+[Will Howard Davies - The 2026 Physical AI Market Map - November 2026](https://lnkd.in/p/gnJpnz5m?utm_source=awesome-ai-market-maps)
 
 #### Everything Else
 - [CB Insights - The Emerging AI 50 in NYC - November 2026](https://www.cbinsights.com/research/the-emerging-ai-50-in-nyc/?utm_source=awesome-ai-market-maps)
