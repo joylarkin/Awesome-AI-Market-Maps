@@ -69,7 +69,7 @@ OR
 - [Harshith Viswanath - Mapping the AI-Native Law Firm - November 2026](https://harshithviswanath.substack.com/p/mapping-the-ai-native-law-firm?utm_source=awesome-ai-market-maps)
 
 #### Physical AI
-[Will Howard Davies - The 2026 Physical AI Market Map - November 2026](https://lnkd.in/p/gnJpnz5m?utm_source=awesome-ai-market-maps)
+- [Will Howard Davies - The 2026 Physical AI Market Map - November 2026](https://lnkd.in/p/gnJpnz5m?utm_source=awesome-ai-market-maps)
 
 #### Everything Else
 - [CB Insights - The Emerging AI 50 in NYC - November 2026](https://www.cbinsights.com/research/the-emerging-ai-50-in-nyc/?utm_source=awesome-ai-market-maps)
@@ -85,10 +85,16 @@ OR
 - [Zentor / Personal Agent Bench - Personal AI agents list: products and evidence - October 2026](https://personalagentbench.com/landscape/?utm_source=awesome-ai-market-maps)
 
 #### AI Chips
-- [Dealroom.co - AI-Native EDA Startups: who owns how much of the chip design stack - October 2026](https://dealroom.co/api/marketmap-render?slug=ai-native-eda-startups&theme=light?utm_source=awesome-ai-market-maps)
+- [Dealroom.co - AI-Native EDA Startups: who owns how much of the chip design stack - October 2026](https://dealroom.co/api/marketmap-render?slug=ai-native-eda-startups&theme=light&utm_source=awesome-ai-market-maps)
 
 #### European AI 
 - [N47 & Sifted - Celebrating the top 100 European AI startups in 2026 - October 2026](https://www.n47.com/insights/celebrating-the-top-100-european-ai-startups-in-2026?utm_source=awesome-ai-market-maps)
+
+#### Enterprise AI
+- [Murray Newlands — Open Future Forum - The AI Leaders Market Map - October 2026](https://openfutureforum.com/research/ai-leaders-market-map?utm_source=awesome-ai-market-maps)
+
+#### AI Data
+- [Cunyan Ma — Brown University CNTR - Mapping the Hidden Global Labor Powering AI - October 2026](https://www.ai-materiality-map.org/data-workers/?utm_source=awesome-ai-market-maps)
 
 #### AI Infrastructure
 - [AI-Driven Playbooks - I Mapped 103 Companies Across the Entire AI Supply Chain. Here Is Where the Money Still Has to Flow Through 2028. - October 2026](https://aidriventrading.substack.com/p/i-mapped-103-companies-across-the?utm_source=awesome-ai-market-maps)
@@ -119,7 +125,7 @@ OR
 - [Nathan Benaich — Air Street Capital - STATE OF AI REPORT - October 2026](https://www.stateof.ai/State-of-AI-Report-2026.pdf?utm_source=awesome-ai-market-maps)
 - [Air Street Capital & Dealroom.co - State of AI Report 2026: the funding data - October 2026](https://dealroom.co/airstreet/2026/?utm_source=awesome-ai-market-maps)
 - [Parvez Siddiqui - AI ROI, Measured - October 2026](https://lnkd.in/p/gcvHHpNX?utm_source=awesome-ai-market-maps)
-- [Various - The Trustworthy AI Map - October 2026](https://trustworthyaimap.org/map=awesome-ai-market-maps)
+- [Various - The Trustworthy AI Map - October 2026](https://trustworthyaimap.org/?utm_source=awesome-ai-market-maps)
 - [Cledara - The Real-Time AI Market Map: Tools & Startups - October 2026](https://data.cledara.com/ai-market-map?utm_source=awesome-ai-market-maps)
 - [Will Francis - Is there an AI bubble? The AI circular economy, mapped - October 2026](https://ai-circular-economy.com/?utm_source=awesome-ai-market-maps)
 - [Clement Vouillon — Axomap - Landscape Directory - October 2026](https://axomap.com/maps?utm_source=awesome-ai-market-maps)
