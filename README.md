@@ -51,11 +51,17 @@ OR
 ### November 2026
 
 
+#### AI Data
+- [AI Circle - AI Circle Human Data Landscape - November 2026](https://www.ai-circle.org/ai-circle-human-data-landscape?utm_source=awesome-ai-market-maps)
+
 #### Enterprise AI 
 - [Tim Tully & Joff Redfern & Deedy Das & Derek Xiao — Menlo Ventures - State of Enterprise AI - November 2026](https://menlovc.com/perspective/2026-the-state-of-enterprise-ai/?utm_source=awesome-ai-market-maps)
 
 #### AI Finance 
 - [The Private Markets Forum - AI in Private Markets Map - November 2026](https://lnkd.in/p/g26qddZW?utm_source=awesome-ai-market-maps)
+
+#### Everything Else
+- [CB Insights - The Emerging AI 50 in NYC - November 2026](https://www.cbinsights.com/research/the-emerging-ai-50-in-nyc/?utm_source=awesome-ai-market-maps)
 
 
 ***
