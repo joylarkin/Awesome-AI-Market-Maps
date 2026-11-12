@@ -72,6 +72,7 @@ OR
 - [Will Howard Davies - The 2026 Physical AI Market Map - November 2026](https://lnkd.in/p/gnJpnz5m?utm_source=awesome-ai-market-maps)
 
 #### Top AI 
+- [Bessemer Venture Partners + Newcomer - The AI 100 - November 2026](https://ai100.newcomer.co/?utm_source=awesome-ai-market-maps)
 - [Leonis Capital - The 2026 Leonis AI 100 - November 2026](https://www.leoniscap.com/research/the-2026-leonis-ai-100?utm_source=awesome-ai-market-maps)
 
 #### Everything Else
