@@ -56,6 +56,9 @@ OR
 #### Biopharma AI
 - [Elicit - AI for Pharma - November 2026](https://elicit.com/ai-for-pharma?utm_source=awesome-ai-market-maps)
 
+#### AI Compute
+- [Siddharth Ramakrishnan & Jonas Ciplickas — Scale Venture Partners - Inference providers have their heads in the clouds - November 2026](https://www.scalevp.com/blog/inference-providers-have-their-head-in-the-clouds?utm_source=awesome-ai-market-maps)
+
 #### AI Data
 - [AI Circle - AI Circle Human Data Landscape - November 2026](https://www.ai-circle.org/ai-circle-human-data-landscape?utm_source=awesome-ai-market-maps)
 
