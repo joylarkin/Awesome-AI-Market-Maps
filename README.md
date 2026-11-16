@@ -68,6 +68,9 @@ OR
 #### AI Finance 
 - [The Private Markets Forum - AI in Private Markets Map - November 2026](https://lnkd.in/p/g26qddZW?utm_source=awesome-ai-market-maps)
 
+#### Healthcare AI
+- [Greg Yap & JP Sanday & Croom Beatty & Johnny Hu & Derek Xiao & Sabrina Lu — Menlo Ventures - 2026: The State of AI in Healthcare - November 2026](https://menlovc.com/perspective/2026-the-state-of-ai-in-healthcare/?utm_source=awesome-ai-market-maps)
+
 #### Legal AI
 - [Harshith Viswanath - Mapping the AI-Native Law Firm - November 2026](https://harshithviswanath.substack.com/p/mapping-the-ai-native-law-firm?utm_source=awesome-ai-market-maps)
 
