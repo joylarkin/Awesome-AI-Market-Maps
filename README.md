@@ -132,6 +132,9 @@ OR
 - [Pauly Market - I Mapped Nearly 4,500 Robotics & Physical AI Companies. Here’s What I Found. - October 2026](https://paulymarket.substack.com/p/robotics-physical-ai-atlas?utm_source=awesome-ai-market-maps)
 - [Humanoid.guide - Humanoid Robotics: The Consolidation Map - October 2026](https://humanoid.guide/humanoid-robotics-consolidation-map/?utm_source=awesome-ai-market-maps)
 
+#### AI Software QA/Testing
+- [PRISM - PRISM Q4 2026 Leaderboard: Quarterly Benchmark for AI Testing Agents - October 2026](https://prism-bench.org/quarters/2026-Q4?utm_source=awesome-ai-market-maps)
+
 #### Everything Else
 - [Nathan Benaich — Air Street Capital - STATE OF AI REPORT - October 2026](https://www.stateof.ai/State-of-AI-Report-2026.pdf?utm_source=awesome-ai-market-maps)
 - [Air Street Capital & Dealroom.co - State of AI Report 2026: the funding data - October 2026](https://dealroom.co/airstreet/2026/?utm_source=awesome-ai-market-maps)
@@ -183,6 +186,9 @@ OR
 #### Voice AI
 - [Global AI Forum - The Voice AI agents landscape - September 2026](https://gaiforum.com/research/landscape/voice-ai-agents?utm_source=awesome-ai-market-maps)
 - [Hustle Fund - Voice AI market map: 51 companies across six layers - September 2026](https://www.hustlefund.vc/post/voice-ai-market-map?utm_source=awesome-ai-market-maps)
+
+#### AI Software QA/Testing
+- [Gartner - 2026 Gartner® Magic Quadrant™ for Agentic Software Quality Assurance Platforms - September 2026](https://www.testmuai.com/gartner-magic-quadrant-agentic-software-quality-assurance-platforms/?utm_source=awesome-ai-market-maps)
 
 #### Everything Else
 - [Harmonic - Harmonic Hot 25 Startups(TM) - September 2026](https://harmonic.ai/hot-25-startups/q4-2026?utm_source=awesome-ai-market-maps)
