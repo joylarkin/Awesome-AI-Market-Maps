@@ -83,6 +83,7 @@ OR
 
 #### Everything Else
 - [CB Insights - The Emerging AI 50 in NYC - November 2026](https://www.cbinsights.com/research/the-emerging-ai-50-in-nyc/?utm_source=awesome-ai-market-maps)
+- [Twistavo - AI Tool Pricing: Plans and Free Plans of 51 AI Creative Tools in 10 Categories - November 2026](https://twistavo.com/ai-tool-pricing?utm_source=awesome-ai-market-maps)
 
 
 ***
